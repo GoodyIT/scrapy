@@ -14,7 +14,7 @@ BOT_NAME = 'chainxy'
 SPIDER_MODULES = ['chainxy.spiders']
 NEWSPIDER_MODULE = 'chainxy.spiders'
 
-DOWNLOAD_DELAY = 0.5
+# DOWNLOAD_DELAY = 0.5
 
 # Feed export
 FEED_FORMAT = 'csv' # exports to csv

@@ -7,6 +7,8 @@ from scrapy.http import Request
 from scrapy.selector import HtmlXPathSelector
 from chainxy.items import ChainItem
 
+import pdb
+
 class Sonnysbbq(scrapy.Spider):
     name = "sonnysbbq"
 
@@ -29,14 +31,9 @@ class Sonnysbbq(scrapy.Spider):
         address = response.xpath('//div[@id="location-store-info"]/div[1]/div[2]/p/a/text()').extract()
         item['address'] = address[0]
         item['address2'] = ''
-        if len(address[1].split(' ')) == 4:
-            item['city'] = address[1].split(' ')[0].replace('\n', '') + " " + address[1].split(' ')[1]
-            item['zip_code'] = address[1].split(' ')[3]
-            item['state'] = address[1].split(' ')[2]
-        else:
-            item['city'] = address[1].split(' ')[0].replace('\n', '')
-            item['zip_code'] = address[1].split(' ')[2]
-            item['state'] = address[1].split(' ')[1]
+        item['zip_code'] = address[1].split(' ')[-1]
+        item['state'] = address[1].split(' ')[-2]
+        item['city'] = "".join(address[1].split(' ')[-3]).replace('\n', '').strip()
         item['country'] = 'United States'
         item['phone_number'] = response.xpath('//span[@class="hide-on-mobile location-phone"]/text()').extract_first()
 
@@ -51,17 +48,12 @@ class Sonnysbbq(scrapy.Spider):
         #item['store_type'] = info_json["@type"]
         item['other_fields'] = ""
         item['coming_soon'] = "0"
-        
 
         yield item
             
 
-    def validate(self, xpath_obj):
-        
-        try:
-            return xpath_obj.extract_first().strip()
-        except:
-            return ""
+    def validate(self, value):
+        return value.replace('\n', '')
 
         
 

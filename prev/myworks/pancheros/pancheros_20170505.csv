@@ -1,0 +1,171 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+"St. Joseph, MO",67,3702 Frederick Avenue,,St Joseph,MO,64506,United States,(816) 671-0311,39.776951,-94.803177,"Every Day
+
+	10:30am-11pm",,0
+"Columbia, MO",62,421 N. Stadium Blvd,,Columbia,Mo,65203,United States,(573) 445-3096,38.960884,-92.371277,"Sun-Th 10:30am - 10pm<br />
+	Fri-Sat 10:30am - 11pm",,0
+"Columbia, MO",82,1101 Grindstone Pkwy Ste 101,,Columbia,MO,65201,United States,573-445-5633,38.911552,-92.322678,"Sun - Thur 10:30am-10pm<br />
+	Fri - Sat 10:30am-11pm",,0
+"Columbia, MO",76,2900 Trimble Rd Suite 109,,Columbia,MO,65201,United States,(573) 447-2900,38.947945,-92.295242,"Sun - Thur 10:30-10pm
+
+	Fri - Sat 10:30am-11pm",,0
+West Des Moines,11,165 S Jordan Creek Pkwy,,West Des,Moines,,United States,(515) 223-4471,41.567154,-93.810600,"Every Day
+
+	10:30am - 10pm",,0
+Des Moines,81,2708 Ingersoll Avenue,,Des Moines,,50312,United States,515-777-2898,41.585297,-93.653427,"sun-wed 10:30am-12am<br />
+	thu-sat 10:30am-2:30am",,0
+Urbandale,24,3265 100TH St.,,Urbandale,IA,50322,United States,(515) 252-0900,41.625275,-93.755730,SUN-SAT 10:30am-10pm,,0
+Johnston,14,8759 Northpark Drive,,Johnston,IA,50131,United States,(515) 270-9100,41.655739,-93.738205,"MON-SAT 10:30am-10pm
+
+	SUN 10:30am-9pm",,0
+"Grimes, IA",91,2250 East 1st St Suite 400,,Grimes,IA,50111,United States,515-986-4433,41.688370,-93.775848,"Sun - Th 10:30am-11pm
+
+	Fri - Sat 10:30am-12am",,0
+"Altoona, IA",66,3580 8th St. SW,,Altoona,IA,50009,United States,(515) 967-3833,41.643524,-93.505730,"SUN-TH 10:30am - 11pm
+
+	FRI-SAT 10:30am - 12am",,0
+Ankeny,27,2310 SE Delaware Ave.,,Ankeny,IA,50021,United States,(515) 289-4173,41.707195,-93.581902,"SUN-TH 10:30am-11pm
+
+	FRI-SAT 10:30am-12am",,0
+Ames,4,1310 S. Duff Ave. Ste. 103,,Ames,IA,50010,United States,(515) 233-4600,42.010849,-93.609695,"SUN-WED 10:30am-12am
+
+	TH-SAT 10:30am-2am",,0
+"Burlington, IA",58,1035 Lawrence Dr. Ste 100,,Burlington,IA,52601,United States,(319) 752-7660,40.797878,-91.140236,"SUN-TH 10:30am - 11pm<br />
+	FRI-SAT 10:30am - 12am",,0
+"Fort Dodge, IA",69,3024 5th Ave S,,Fort Dodge,IA,50501,United States,(515) 576-0043,42.501675,-94.154114,"SUN-TH 10:30am - 11pm
+
+	FRI-SAT 10:30am - 12am",,0
+"Sioux City, IA",55,2400 Hamilton Blvd,,Sioux City,IA,,United States, (712) 226-8226,42.515316,-96.416733,"EVERYDAY
+
+	10:30AM-10PM",,0
+Coralville,28,901 25th Avenue,,Coralville,IA,52241,United States,(319) 248-3256,41.685848,-91.603622,"SUN-WED 10:30am-12am
+
+	TH-SAT 10:30am-2am",,0
+Iowa City - Riverside,22,965 S. Riverside Dr.,,Iowa City,IA,52246,United States,(319) 887-2600,41.649250,-91.540161,"SUN-WED 10:30am-12am
+
+	TH-SAT 10:30am-2am",,0
+Iowa City - Downtown,1,32 S. Clinton St,,Iowa City,IA,52240,United States,(319) 338-6311,41.660290,-91.534256,"SUN-WED 10:30am-2am
+
+	TH-SAT 10:30am-3am",,0
+North Liberty,7,650 Community dr,,North Liberty,IA,52317,United States,(319) 459-1008,41.751507,-91.608292,"SUN-TH 10:30am-11pm
+
+	FRI-SAT 10:30am-12am",,0
+Cedar Rapids - Edgewood,19,2315 Edgewood Rd SW,Ste 210,Cedar Rapids,IA,52404,United States,(319) 396-7900,41.955578,-91.715050,"SUN-TH 10:30am-12am
+
+	FRI-SAT 10:30am-2am",,0
+Cedar Rapids Kirkwood,74,5350 Kirkwood Blvd,,Cedar Rapids,IA,52404,United States,319.363.1893,41.926796,-91.656792,"SUN - THU 10:30am-11pm
+
+	FRI - SAT 10:30am-12am",,0
+Cedar Rapids - North East,6,5300 Edgewood Rd NE,Suite 100,Cedar Rapids,IA,52411,United States,(319) 393-4170,42.032463,-91.700470,"SUN-WED 10:30am-10pm
+
+	TH-SAT 10:30am-12am",,0
+Cedar Rapids - Lindale,23,4701 1st Ave SE Ste 1,,Cedar Rapids,IA,52403,United States,(319) 373-8407,42.024864,-91.622551,"SUN-TH 10:30am-12am
+
+	FRI-SAT 10:30am-2:30am",,0
+Cedar Falls,29,6421 University Ave Ste B,,Cedar Falls,IA,50613,United States,(319) 277-1054,42.512379,-92.435669,"SUN-WED 10:30am-12am
+
+	TH-SAT 10:30am-2am",,0
+Waterloo,53,2845 Crossroads Blvd,,Waterloo,IA,50701,United States,(319) 232-5081,42.464584,-92.324013,"SUN-WED 10:30AM-12AM
+
+	TH-SAT 10:30AM-2AM",,0
+Davenport,12,4888 Utica Ridge Rd.,,Davenport,IA,52807,United States,(563) 359-3744,41.570572,-90.515617,SUN-SAT 10:30AM-10:00PM,,0
+"Mason City, IA",68,2261 4th St. SW,,Mason City,IA,50401,United States,(641) 424-8070,43.147476,-93.235039,"SUN - TH 10:30am-11pm
+
+	FRI - SAT 10:30am - 12am",,0
+"Sioux Falls, SD",88,4824 S. Louise Ave,,Sioux Falls,SD,,United States,605-271-2544,43.501766,-96.770943,"Sun-Th 10:30am-10pm
+
+	Fri-Sat 10:30am-11pm",,0
+Dubuque,13,4840 Asbury Road,,Dubuque,IA,52002,United States,(563) 582-4999,42.515697,-90.743362,SUN-SAT 10:30AM-10:00PM,,0
+Rochester,92,4107 Highway 52,,Rochester,MN,55901,United States,507-281-3478,44.065899,-92.498222,,,0
+"Champaign, IL",80,2009 S. Neil Street,,Champaign,IL,61821,United States,(217) 607-5982,40.092072,-88.245567,"Sun-Thu 10:30am - 11pm
+
+	Fri-Sat 10:30am - 12am",,0
+Urbana,8,102 E University Suite B,,Urbana,IL,61801,United States,(217) 367-4000,40.116753,-88.207375,"SUN-TH 10:30am-11pm
+
+	FRI-SAT 10:30am-12am",,0
+"Paducah, KY",73,5194 Hinkleville Rd.,,Paducah,KY,42001,United States,270.408.1262,37.073101,-88.698448,Every Day 10:30am - 9pm,,0
+Rockford,49,3015 N. Perryville Road,,Rockford,IL,61114,United States,(815) 708-8570,42.304806,-88.979202,EVERYDAY 10:30am-10pm,,0
+Fitchburg,37,6309 McKee Rd Ste 100,,Fitchburg,WI,53719,United States,(608) 298-9800,43.015095,-89.482773,"MON-SAT 10:30AM-10:00PM
+
+	SUN 10:30AM-9:00PM",,0
+Madison - West Towne,2,402 S Gammon Rd,,Madison,WI,53719,United States,(608) 829-2222,43.057587,-89.502487,"M-S10:30am-11pm
+
+	SUN10:30am-9pm",,0
+Madison - Shorewood,3,3256 University Ave,,Madison,WI,53705,United States,(608) 238-3899,43.075348,-89.443298,"Everyday
+
+	10:30am-10:00pm",,0
+Bloomington,41,5200 West 84th Street,,Bloomington,MN,55437,United States,(952) 767-6844,44.852440,-93.346825,"Everyday
+
+	10:30am-9pm",,0
+Golden Valley,9,7746 Olsen Memorial Hwy,,Golden Valley,MN,55427,United States,(763) 544-3474,44.984264,-93.378326,SUN-SAT 10:30AM-9PM,,0
+"Fridley, MN",87,284 57th Ave. NE,,Fridley,MN,55432,United States,763-208-6681,45.071541,-93.264290,"Sun-Th 10:30am - 10:00pm<br />
+	Fri-Sat 10:30am - 11:00pm",,0
+Portage,30,6160 S. Westnedge Ave.,,Portage,MI,49002,United States,(269) 323-0070,42.227818,-85.589462,"SUN-WED 10:30AM-11PM
+
+	TH-SAT 10:30AM-12AM",,0
+Moorhead,32,803 Belsly Blvd,,Moorhead,MN,56560,United States,(218) 477-1990,46.839790,-96.767311,"MON-SAT 10:30AM-9PM
+
+	SUN 11AM-8PM",,0
+Fargo,33,4761 13th Ave South,Unit C,Fargo,ND,58103,United States,(701) 478-8090,46.862171,-96.866417,"MON-WED 10:30am-9pm
+
+	TH-SAT 10:30am-11pm
+
+	SUN 11AM-8PM",,0
+Rapid City,15,1221 W. Omaha St.,,Rapid City,SD,57701,United States,(605) 718-2251,44.084164,-103.238243,SUN-SAT 10:30am-9:00pm,,0
+Lansing,26,2725 Preyde Blvd.,,Lansing,MI,48912,United States,(517) 316-1000,42.762371,-84.513245,"SUN-WED 10:30AM-11PM
+
+	TH-SAT 10:30AM-12:30AM",,0
+Okemos,25,3552 Meridian Crossing,,Okemos,MI,48864,United States,(517) 347-7999,42.686718,-84.363602,SUN-SAT 10:30AM-11PM,,0
+Bismarck,40,1225 W Century Ave,,Bismarck,ND,58503,United States,(701) 751-2021,46.832565,-100.811928,"MON-SAT 10:30am-10pm
+
+	SUN 11AM-8PM",,0
+Pittsfield Township,79,3155 Ann Arbor Saline Road,,Pittsfield Township,MI,48104,United States,(734) 332-4640,42.242500,-83.767036,Every day 10:30am-11pm,,0
+Ann Arbor Campus,21,1208 S. University,,Ann Arbor,MI,48104,United States,(734) 996-9580,42.274960,-83.734222,"SUN-WED 10:30AM-3AM
+
+	TH-SAT 10:30AM-4AM",,0
+Livonia,18,17390 Haggerty Rd.,,Livonia,MI,48152,United States,(734) 432-7910,42.414394,-83.432571,"SUN-TH 10:30AM-11PM
+
+	FRI-SAT 10:30AM-12AM",,0
+"Madison Heights, MI",70,32203 John R. Road,,Madison Heights,MI,48071,United States,(248) 585-1600,42.527325,-83.106758,Everyday 10:30am-10pm,,0
+Tempe,35,555 N. Scottsdale Rd.,Suite 105,Tempe,AZ,85281,United States,(480) 921-5432,33.433689,-111.925781,Every day 11am-9pm,,0
+Moosic,5,2011 Shoppes Blvd,Building 2000,Moosic,PA,18507,United States,(570) 348-9300,41.362667,-75.677666,SUN-SAT 10:30AM-10:00PM,,0
+Glassboro,84,1058 N. Delsea Dr,,Glassboro,NJ,08028,United States,(856) 956-3467,39.724056,-75.115822,"SUN-TH: 10:30AM - 10PM<br />
+	FRI-SAT: 10:30AM - 11PM",,0
+Voorhees,34,910 Haddonfield Berlin,,Voorhees,NJ,08043,United States,(856) 784-7701,39.851135,-74.979538,"Mon-TH 10:30AM-10:00PM
+
+	FRI-SAT 10:30AM-11:00PM
+
+	SUN 10:30am-9pm",,0
+Marlton,44,Evesboro Plaza,221 Greentree Rd Suite E,Marlton,NJ,08053,United States,(856) 267-5357,39.914005,-74.922791,"MON-SAT 10:30AM-9:00PM
+
+	SUN 10:30AM-8:00PM",,0
+West Berlin,83,115 N Route 73,,West Berlin,NJ,08091,United States,(856) 335-4193,39.802414,-74.930679,"mon-sat 10:30am-10pm
+
+	Sunday 10:30am-9pm",,0
+Mt. Laurel,39,4325 Dearborn Circle,Village at Cambridge Crossings,Mt. Laurel,NJ,08054,United States,(856) 787-1006,39.969421,-74.901962,"MON-SAT 10:30AM-10:00PM
+
+	SUN 10:30AM-9:00PM",,0
+Flemington,51,Shoppes at Flemington,US 202/31 &amp; Reaville Ave,Flemington,NJ,08822,United States,(908) 284-0026,40.500107,-74.855080,"MON-SAT 10:30AM-10:00PM
+
+	SUN 10:30AM-9:00PM",,0
+Bedminster,45,The Hills Village Center,402 Route 206 North,Bedminster,NJ,07921,United States,(908) 719-3100,40.649307,-74.642693,"MON-SAT 10:30AM-9:00PM
+
+	SUN 11:30AM-8:00PM",,0
+Hamilton,46,691 Route 130 N Suite F,,Hamilton,NJ,08691,United States,(609) 981-7200,40.192097,-74.647476,SUN-SAT 10:30AM-10:00PM,,0
+"Bridgewater, NJ",71,715 Promenade Blvd,,Bridgewater,NJ,08807,United States,732.560.5500,40.567165,-74.559540,"Mon-Sat 10:30am - 10pm
+
+	Sun 10:30am - 9pm",,0
+"Watchung, NJ",60,1680 Route 22 E,,Watchung,NJ,07069,United States,(908) 561-0546,40.647839,-74.407982,Everyday 11am - 9:30pm,,0
+Paramus Park,47,700 Paramus Park,Suite 1470,Paramus,NJ,07652,United States,(201) 261-4646,40.957436,-74.069122,MON-SAT 10:30AM-10:00PM,,0
+Shelton,42,The Center at Split Rock,,704 Bridgeport,Ave,,United States,(203) 925-5800,41.275623,-73.123619,"MON-SAT 10:30am-10pm
+
+	SUN 10:30am-9pm",,0
+"Wallingford, CT",90,893 N Colony Road,,Wallingford,CT,06492,United States,(203) 265-7778,41.482281,-72.810226,"Mon - Sat 10:30am-10pm<br />
+	Sun 11am-9pm",,0
+"Manchester, CT",75,350 Buckland Street,,Manchester,CT,06042,United States,860.644.4447,41.807167,-72.555702,"Every Day
+
+	10:30am-10pm",,0
+"Jupiter, FL",72,5440 Military Trail,,Jupiter,FL,33458,United States,(561) 469-7601,26.884401,-80.107048,"SUN - TH 10:30am-10pm
+
+	FRI - SAT 10:30am-11pm",,0
+Walnut Creek,89,2317 Oak Grove Rd,,Walnut Creek,CA,94598,United States,(925) 934-1225,37.929352,-122.016495,Every day 10:30am-11pm,,0
