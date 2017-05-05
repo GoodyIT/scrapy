@@ -1,0 +1,71 @@
+import scrapy
+import json
+import csv
+from scrapy.spiders import Spider
+from scrapy.http import FormRequest
+from scrapy.http import Request
+from scrapy.selector import HtmlXPathSelector
+from chainxy.items import ChainItem
+import pdb
+from geopy.geocoders import ArcGIS
+
+class Haagendazsshoppecompany(scrapy.Spider):
+	name = "haagendazsshoppecompany"
+	uid_list = []
+	domain = "http://www.haagendazsshoppecompany.com/"
+
+	def __init__(self):
+		place_file = open('states.json', 'rb')
+		self.place_reader = json.load(place_file)
+		self.geolocator = ArcGIS()
+
+	def start_requests(self):
+		for state in self.place_reader:
+			request_url = "http://www.haagendazsshoppecompany.com/shop-locator"
+			formdata = {'AJAXREQUEST':'_viewRoot',
+						'j_id0:SiteTemplateLocator:locator_form':'j_id0:SiteTemplateLocator:locator_form',
+						'j_id0:SiteTemplateLocator:locator_form:radius':'10',
+						'com.salesforce.visualforce.ViewState':'i:AAAAWXsidCI6IjAwRDMwMDAwMDAwMGFnMSIsInYiOiIwMDAwMDAwMDAwMDAwMDAiLCJhIjoidmZlbmNyeXB0aW9ua2V5IiwidSI6IjAwNTYwMDAwMDAxRjlFOCJ9vbKSYAbASQYTe+p/HXxcYftw+jZMf3rIKOK4sgAAAVu8OVAc5XWr7OH8f3a3zf+/Ju1S20PLquWN06lz7zMK2bM8Fr6VaurW0Gd4zWK30jP3a+xZ1foxnI4XMp6xfnJmJ792vAv7Ih7i8dwWApQ5V3TDbbkMuo0ftgsbeLXhQxSh5kadyDxiXY7dApB46B9FG6x9QSRco79famKXuH18O8LnYLHuz736mtq9dUseOUpQFSoBKXhz2g+BQnPE3n87vdGnJggtgTbXkEiElPHdzTe5mwVaKsocPRfT5sHo9+dFeo5kEQmFKreJS5y5aq620IeQr0Et21EnTikUEzymISlSOwol5Qmrl6dURRcLpfRP7N7j/DPiOCNJ+XXXsRKRCjErCzmZI2mBiSnFAxr8Ml4OsnmHv0JLG6n8QRy4GFhm1DFfzriaY2CcHdFw+GRTw7niqxgIj/QuTmi6jfCT203ylLS2OpYk3kUBiXmgTX4BW8MSyBeufjuqhIl1S5i74HSLXriycbY9WTDIWLynWUMJlh6iZ1m46SUGfnreGv4+EEBEoLGN/hyc7UVGsHDFefvfMhkcg0HRMR0ULOhOXGYgeW/WLkeEV2vyiq8uvf76wBDQbCZqXZYGKm0dY7Str6m50jtH3NmkMPvHSWGmqUOGXDL4KUZFvLpJ4s4IERErYMNIPG8yXBUAypzfDg/UbgxpKy195YRJEAwvFtw4E2FUU9MFk71v2X+e8lAUx4wIZpNO5aKeTqFMVmW7ZA1I4Wh/9w+d/wBOZLhL0nuUKkp5kWXp+G2wjE7LpnYFCK3DoswDn96ilwRxJqhWZzzHtj/2bbc+/Nn60tJ2R6IK48nhqc+PKyjJfESOZe1NK05L3uJKtW314kVoRzGwmh+wUr2eXVfO/n0pt/40wIUte58wiqd+gORbWEhzBRfCfBMbrUYv4kjqpj2B9ocE+BJSXv0Mkdggpo2HF+P3g/GPxiRTuDeYjsrSvW940W3cdRxiohz50Smx5QuH1xmN07RLexBPKhjXtVxRDU6JIKer9x6Vzui2SFOTCh+0ihdBrgVbtrtjmq0l2TnoLGdw8UscbL2dzTzPiuptJ41xGUjoebZU1RK4P83eY89lAVAHr8J89bHAVDp5P2FCKAjB1XZGJCCz7BSUdB7JHVYT1ULeNfvmZhDeePCNp7rnjZkArHqaIL9ukrpgPmXH6nGrVC6PRcTYXOYi/ar8D2W3fIIh1Kwmt16NNAMzjXvnKNnmkiHNiudUMnC+884YCe3NJ1qpmZm8yRel74NEaMb9PEZMrbnuBC8fYKiHJJmE4KCaANhilXVZ3/f9EanNUGBI14+LPDQlr0TgitkizUAdeZ75vn9kVsVXcKcaqJyQhfGmbDuXy80VKWGLcEmSYUv59vtPPzN+/SpecYyW4XkzLZirvZwIMvciINIOcOoBRqji94en+We957waO8VH+a2MWcbJrqIIKYSN/2QogqL0b0UrjyWXFpm35rqJGmaNsQXOiZNemtSviMgHSOsHC110M5+FuyVnmjmDFf2Uw+wCNfwfnM89epMM+/We+M8flxMc3H3pChzOAE+NFV2ZhR8sGdKgH4Pt3RRPdZj/cKcQwwV5mjwNP9JJDVA1Parxw3vn9dwI8CVmUgbaCuCRE7Cq6OHZAWv/afM7VTzBw3cEqxp+BBUk903f41psZtToFvPADmQ6eQd8y/StQ4SSzv1wm66j78FpbR9zc/HdR0G3PCjB+IBgTN4WOjKkrV0+vCjgtcfxNtZz7CyVQazGDz8Hmh59lGmZ/ykwPww9KnjU99YU8pjG6CEgkm0XafY0ItE5yBnJvLocmRBPobC9Toediv4Z4nbT1pBmxA0dm9fe7s8vndV+5baSNO4/KVGHXgObvZN9ZnPeBdwF/yhACKNtCLvKnfeEJp3GggeXcQ7xD3DG/ujXdMIcQr2OhQCvMBQlLn+o/4mD5juHQ2KPcx6nhVKGUbk/OF1tyZqtkv7IlzGQxZWkB0/DERo5A3+5uXgC0XaQzWkhrNjAH/KyfCj09L5JIpglpDzkSSTbiTixaypujWEKZ7G73iNGFV8sCPml4mp4e6Ja35s/+FNBy968dGY9n7JaAI7dS+PUVWCQMN93i9Y97q7fIdhtlxr05XRv9A0OH/5TDyC9nfXCEtwDS7jOSH59nlW+C5hDPMPH2iX9VBbXe6lUXZy4YNLAlv6prEf7ZvtPqZyAZF7vgWgrNABHeoIhO/rHgIWf3aYEmDSCqT071RaXJqG2UilcbGtlaEuCSbLahoDeuMH/n8XfePLS267YIrG1prDO0lu/3VFMsDGZ6BqavFGD4w6fPenwIZ/viZ9ba+hZXdinCQUnhJ/Ne8ZezmQxau4ujgFMxUwnSpEdOAnI9+fD1JCupsusEK9Yn5ZnBznYyUSZ8A+qpyDZ/R0XkWb2pPgSOE+quH/9NambY/3D0vklqUjpSLZnzW8jbCi8zjeqnH0QbZx4N2CaAyU4qbJ3nCnv1hLqH3g3GQ9uMpqsaA/Kke+mY5w+cKnRDVr1f6DOZ+cClo/apEsEkwzcj4OvcjYfFBKIQpS8C7nesNKBNMizYQka9KkOnrRtYfwmVTo1qNnOT27l/5YXhhQ0jIq2ny2UBgCqSMUa0bYq9m3wfGlFnVrEMMkGTIqry1WaJeG6VkBBBQ9mijZgMNoVFsyo0lsqYJ0a37Geysb+BcfFQR4f1zNrdNnNDHIdg7IX3mtz8xjovbCmhFFWnCbyYRcP8gbIY9uhJniGKSdIwpJjnbWXATrd1ElT/fHmUPFatlqkHCIp3JfGlclHCdbM6rpfINCyhSjLtw96uAjzt2Ed6MthLkm5gsSZSi8H4NK6FUYDngJrlk9+qP01iOxnFV5tt6ElL67Qxq1v959+8v43fCIZjjGoQayKNMreT1uHeakLaHsKrzJr7Gr+Ygy5yG9Aub8syoevXLO+ayyFBfdfBkDpynGnh6gsqw8d7T1YyiGzTs9NpTVmlEzU6cp7EIzJDwZ74opS0O+/sj4Q2z/K4WsCW8aJrfag/m5y3L9AacazJuIN3GtkjOSjMdGhky/GExzD+e5j72q/e32lqzcc97SpwN8oDetZJwBjIyhocKIR2Wwe7NGNJIxk/wCPahLvsSqVDMpK9sRhG5CW/b3LxKkFU9JXqyV1EtG/MM9BXCmhNh5870Ivxsz0dLNINTHIgS4j6QguvepyvZ6r+urari7qEu1gPmzYZTfef5V448p7I/sdTtse+A5SfyHIsA2z1Bsf3Z6p9Nfi4hsi3x0YHONyM3Nt47xJfgfXn0SGLZlauUclGWv5VPfkm74nH+c4NhzmRTddnENl8/8nTFI6ODBzOjwDmPipnsN+uSuFaS0HtvdToDie8WlcORacA0yfHyQdkEdeBUxPAy56FsQlf8R0EJ35lhgF+Pf7J86DvhgbQw1Cuu06ACcfsQYnOtlT1o/+o21icW/a3r44JhGxI+ZdzXi/0JGMPoUxKP3cNnYNcm05GoO2XKGZyZi9/F8ZzWxo+1T8IkE467qXQxArc5KchNGtqkSYo8fLBKfcp03G9mLR6x+NxQRwdfpYcCVFFMEik4nXIkJY5XANWjdVrUBaywA2t01roRs/EqUlAFRP+OxsiEhbzighge8U8mNtYe3g2c2gVwkYoXL0JnGdJJGYhfaDGKBKd3wP+6DIolLE204c0LxxAfOVxTppz1VWor3CDvky/vNO5xlQ1SLnY2cApUZFvh7SV7Y2yXhlgcn8SFWh/v2RB57yJd/Z3a0qYu+q/Lex5M1l72pbgIapNyuKQ77pmMtkc1sTVus8axMTRHEI2NJOwybMfSUFm9BclqlOB37LjonzsWAddl+qLnKtfTvDhHbk95bH7FabXIMx9TDCL/f09zbVv2ztrK2DdYoF4TS+Ns2RAWhM00hNDlMpoBbQ9tNTlkaviRAcxUYokTW8YyVNgQIJDWgau+wQDoH0Qi/JgcRGvTaBHSuKNxFlDFqNtGVzy6TzaXzFaS1G/uJM7zyc/c9TZxFLfkZlWPWU4Hclst63HzUX6bDGktc36cJkHE6q/BbETB5zUVpq/cfYm3WR6WNYPO5bd968RUA9RHnCeiiIwGLf7OY1gQL8mzIX692ELHA5lXyFG2wIgBed04XSmaibZLRumgLQXsldiNJlMRv+hHGRlicGqXpWnh8tSLuYgzrFDQ93mnillXo9Kv27QhLQZihMTm+1XHYXzo5ILLLdK/VeLMYYZORjueWPQ0GW9LaVERrj3a1WbIYmy8wPosGy1Ud0Gs03jLo9HE40wUJssHA51Bg2qrlb3wm1/pvSYNYHfkuml8Ei9uS4xdyY8jsOf8qfFDKQr97GO2jZvmXhFOfcE3n4aBOHh1WlKdbSJ6zRUIate6OtHgBRO6zmgcHXzQgfdLmNt5Ez49xGc6Jm3ualqjyC2rJkA9+vyTbIVWtxic3xbmvuS6GO3quN1nOA3+aoKhp/CpkpmiBkdIs3HIQnRF9HZo1vQwFs9jVT0OmW1hJ4o4fs41x7etz9mA8Jg3VxYsV7wL9PHldGZzjLI967w/XiAhupUzZLnSvTJvWnGutOJXLL4Ax2C+NyIgC3tNcufy37hh+j6VD6uiTNPt2D/7zKCoyeN/4VRQJbGHfHDYwiIMUYEjtSwpsPD/o1obqZ1zpgvuzUTo9W8xc/7qnn8/oULG0fD4/Ob80dnygs6mjDpFuyRsd727zhB+UIbxsQx48IQD7cAPnU3ZGXwyROWhRi8vSHzJ1F5bKl8GlxXw6xx8bFb7/lGJCx5UFO8mQe2PmT8ucWjW+oV7BflknNY/p86lAIjArVp1J4S20bEmQsgct/AOuhcp4Vuq1ocf4iCjJAmS5mte8NtLNEZpRHZJbCxTunHZTZRcmhIJyVQz7lu5HoVwuZeN3XAruaN5Sq4hYMPdNRrWaj+JUVk3hIwnfkV0M8oqKdirC2Jk/kZiYdxWdjnW9Mex5q33v0JP1Y2hk0yAU9IXgNOB6kQ4vk+2YP9P5ajaLeOvSOAPalIocqftgnWU1U6Mlbv6FU6U96h5PDykL+lwMQKWA2R41ZhPCMUfplOhX5y31n0D87IVZALtLwAK4qD3h6/ep8mSMb5SuN93icl4s5Uqg9lIEySw3cIRNn3iVZ5g5OQN4k0P2riKF1qBElrG6BK5Wp3x5BizsLCLhrPMJlo3Vxwu/nv7tUeHjMUqpbK/4i2So7Fj4VUMehXp7CH32D7V1y4ktYjN7Uhed2KDCIt5sScsfzv1Jt8AS9jNrDEba8ORkct4oY4qPbavQJodBEqYzwvrIBsbnRsSDFoPWRIKml4d6Gv2vio1GibXGIylV/qMhU58Dnw4IW8jf+rTAE6scTeCIXx6zA6ANXKcVQLtNYckyLiqCE9Zab+r2E75aNRqrWYBVLTOxQtniagQ8hEfQlWHuQ5ZOBwWZKYEP5B5pZDFSO19r2AX5oh8reyaxoyAsaiZ0B9XCB8ej9ZI1cBSR11HVZ56LMYfi7IbqIznv413VDptlpDfG5yAV1ybl4QbSoI1yOqbLn/uoqcR9ob9FI35/5BquQHYvZEFu6dfKIO4BWEAotO+jcnJA7lxEc9P0WyITJnscDw0YbDGdklKMMvadchBRFcL9qDWZH6npt7iG5h4/L1qIJtEnf/ydHIV3EfRHC8me0AGPQSeGoK0fulhNReuvpcTUsdPgoT2eYOYuttdjt7/3KM73/1aKk26DonepOH4ebmnCf3bhEzYeY5YGKHXe6euMxCwKIgnI+zagtCEa1VYX18PVFe8GvvOb0adgoukpgMeocsSL3NKvyM6eGBXhX7dhFd6rP8nd3/LWqIk4+QgI3jGp1WkgG1Z21CGVDl4PCdUtJSX0t+fe0fFUUdyy9bHWdOGuw+ENm6fC40UkI/QmrBzNB1/iuRPFFELsZr8ViVlJv4pCwPNy+NFkLSB+9lGyexmLkfBHAsIZ+Fbsybq1/d4y0PiyWHtxPzSm9VVzQQz6Q5J5zaymxtIiKmbfcoCEgvZq1iN/nu85mlUOdBCwzLmXPxBFBEnL6337O6VQ3SEfMmnbIwHcfdHatczrQrvNneskWay5kcOwtSzhaNGYpLnLB+aRC+CpGA45LOTlySNMW/Ks1Hk70BsbBsXuFIUGPWk4OeS2Nh2v1ckVu1ZdURtq9NxpJMRAfXvuSK4VnQP7Ot+ImH3m2Y26Ckt5UxL7PHdV5B12zaSwKbKXQSrMOyIuFi9z7HIWX1t7YIODnp/LBEK67wkkoBGofPbKUr2MTTlYaK818oNYVePVSd+WeCjNDtah1IaTnorECxwD8tZJnh6ZficyibFF5IivL0C8QP41FkDrbAuHw9oaEpPE0K5aPsGurTNr08NWQACTtwpO/M1s1oPCfiQdb6jh2pURHolcNaUZ/c0RsRAyui5wfm4C+JihfCxIk/5pzM9yv9IZrOWZ5ud/SRE8YVGzzpznKjDEGYcHK5j6vAu2dTJfOpvXxN5gr+pr7nsAPZ1ppc0QfIo76MOXlJR9rEZoLQ76WeqcuiwHMwoHIqnSdnWuFQdrgaQdlh8BtR2b0C81Omw0EYKlBSCjqaIU3NY1QiqrbDgWa8+4hyJvPlKeRvjPKcLNc7onb1VNFUg50/i79WfwNY8nFzYA0U8OEBxEVWIhGai4ai6gE6VWLP19xquitUYR3+yMO6cCJhqCIqjhWqEv/B0ZB4dzDO+hnmY7m67PB5+PNTUO0P6MzY3NXMRhQ8sriBIwO6utxd0GQey9bjGyeew5/t/V5WIR8jvtwWahZ90xXhF8aBbFpF4w81rtglDWZyc8zyfcAKwzBGPrMxgQxhk9cE0qcXYLV29sNPY/x4xHv39M756gsYHnkbSJrbHRDa4UYuCqFfArFp4pwkBmUwrEZ50E=',
+						'com.salesforce.visualforce.ViewStateVersion':'201704281924310944',
+						'com.salesforce.visualforce.ViewStateMAC':'AGV5SnViMjVqWlNJNklrODFhVVkwUjJOeFJFa3ROSFJhVUZWc1owVXRUVTlYU1RRd1ZuSjNaVk0yVkZSbVpYUmllRXBSY0dkY2RUQXdNMlFpTENKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUlzSW10cFpDSTZJbnRjSW5SY0lqcGNJakF3UkRNd01EQXdNREF3TUdGbk1Wd2lMRndpZGx3aU9sd2lNREF3TURBd01EQXdNREF3TURBd1hDSXNYQ0poWENJNlhDSjJabk5wWjI1cGJtZHJaWGxjSWl4Y0luVmNJanBjSWpBd05UWXdNREF3TURBeFJqbEZPRndpZlNJc0ltTnlhWFFpT2xzaWFXRjBJbDBzSW1saGRDSTZNVFE1TXpVeE1UVXlORE00TVN3aVpYaHdJam93ZlE9PS4ueHl0cDV3dFFlT1ZGYkhmT1hBYVZXMW4tc0Z5ZUdhZEVYY21LcVdYMmZrbz0=',
+						'userLng':str(state['longitude']),
+						'j_id0:SiteTemplateLocator:locator_form:j_id6':'j_id0:SiteTemplateLocator:locator_form:j_id6',
+						'Dist':'10',
+						'userLat':str(state['latitude'])
+						}
+			request = FormRequest(url=request_url,formdata=formdata,headers={'Accept':'*/*', 'Accept-Language':'en-US,en;q=0.8', 'Content-Type':'application/x-www-form-urlencoded'},callback=self.parse_store)
+			request.meta['state'] = state['name']
+			request.meta['lat'] = state['latitude']
+			request.meta['lng'] = state['longitude']
+
+			yield request
+
+	def parse_store(self, response):
+		pdb.set_trace()
+		stores = response.xpath('//table[@id="ajaxSearchResultsTable"]/tr/td[2]/div')
+		for store in stores:
+			item = ChainItem()
+			item['store_name'] = store.xpath('.//strong[1]/text()').extract_first()
+			if item['store_name'] == None:
+				continue
+
+			item['store_number'] = ''
+			item['address'] = store.xpath(".//strong[2]/text()").extract_first()
+			code_list = store.xpath(".//strong[2]/text()").extract_first()
+			item['phone_number'] = ''
+
+			item['address2'] = ""
+			item['city'] = ''
+			item['state'] = response.meta['state']
+			item['country'] = "United States"
+			item['latitude'] = response.meta['lat']
+			item['longitude'] = response.meta['lng']
+			item['other_fields'] = ""
+
+			hours = store.xpath(".//p[2]/text()").extract()
+			item['store_hours'] = ";".join(hours)
+			item['coming_soon'] = 0
+ 
+			yield item
+
+	
