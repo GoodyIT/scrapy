@@ -1,0 +1,890 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us">
+<head><title>
+	LA Fitness | Club Info - BUFORD - 3420 BUFORD DRIVE NE, BUFORD, GA 30519
+</title><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><link type="text/css" rel="stylesheet" href="/Content/bootstrap.css" /><link type="text/css" rel="stylesheet" href="/Pages/Styles/jquery-ui.css" /><link type="text/css" rel="stylesheet" href="/Pages/Styles/LAF/ResponsiveStyleSheet.css?v=1.7" /><link type="text/css" rel="stylesheet" href="/Pages/Styles/LAF/ResponsiveGlobalThemeStyle.css?v=2.1" />
+
+    <script type="text/javascript" src="/javaScripts/jquery-2.1.4.js"></script>
+    <script type="text/javascript" src="/javaScripts/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap.js"></script>
+    <script type="text/javascript" src="/javaScripts/jquery-migrate-1.2.1.js"></script>
+
+    <script type="text/javascript" src="/javaScripts/laf/g2Validate.js"></script>
+    <script type="text/javascript" src="/javaScripts/laf/g2ModalDialog.js"></script>
+    <script type="text/javascript" src="/javaScripts/laf/g2ModalBox.js"></script>
+    <script type="text/javascript" src="/javaScripts/jquery.maskedinput-1.4.1.laf.min.js"></script>
+
+    <!--[if lt IE 8]>
+    <script src="/javaScripts/modernizr.min.js" type="text/javascript"></script>
+    <script src="/javaScripts/polyfills/PIE.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            Modernizr.load({
+                test: Modernizr.borderradius && Modernizr.boxshadow,
+                nope: 'PIE.js'//polyfill
+            });
+        </script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+	    <script src="/javaScripts/respond.min.js"></script>
+        <script src="/javaScripts/html5.js"></script>   
+    <![endif]-->
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-5416061-1");
+        pageTracker._trackPageview();
+    </script>
+
+    <script type="text/javascript">
+        var path = window.location.pathname;
+        var PageName = path.substring(path.lastIndexOf('/') + 1);
+        if (PageName == 'MyFitness.aspx') {
+            $(function () {
+                if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)) {
+                    var viewportmeta = document.querySelector('meta[name="viewport"]');
+                    if (viewportmeta) {
+                        viewportmeta.content = 'width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0';
+                        document.body.addEventListener('gesturestart', function () {
+                            viewportmeta.content = 'width=device-width, minimum-scale=0.25, maximum-scale=1.6';
+                        }, false);
+                    }
+                }
+            });
+        }
+     </script>
+    <script type="text/javascript" charset="utf-8">
+        function css_browser_selector(u) {
+            var ua = u.toLowerCase();
+            is = function (t) {
+                return ua.indexOf(t) > -1
+            }
+            g = 'gecko';
+            w = 'webkit';
+            s = 'safari';
+            o = 'opera';
+            m = 'mobile';
+            h = document.documentElement;
+            b = [(!(/opera|webtv/i.test(ua)) && /msie\s(\d)/.test(ua)) ? ('ie ie' + RegExp.$1) : is('firefox/2') ? g + ' ff2' : is('firefox/3.5') ? g + ' ff3 ff3_5' : is('firefox/3.6') ? g + ' ff3 ff3_6' : is('firefox/3') ? g + ' ff3' : is('gecko/') ? g : is('opera') ? o + (/version\/(\d+)/.test(ua) ? ' ' + o + RegExp.$1 : (/opera(\s|\/)(\d+)/.test(ua) ? ' ' + o + RegExp.$2 : '')) : is('konqueror') ? 'konqueror' : is('blackberry') ? m + ' blackberry' : is('android') ? m + ' android' : is('chrome') ? w + ' chrome' : is('iron') ? w + ' iron' : is('applewebkit/') ? w + ' ' + s + (/version\/(\d+)/.test(ua) ? ' ' + s + RegExp.$1 : '') : is('mozilla/') ? g : '', is('j2me') ? m + ' j2me' : is('iphone') ? m + ' iphone' : is('ipod') ? m + ' ipod' : is('ipad') ? m + ' ipad' : is('mac') ? 'mac' : is('darwin') ? 'mac' : is('webtv') ? 'webtv' : is('win') ? 'win' + (is('windows nt 6.0') ? ' vista' : '') : is('freebsd') ? 'freebsd' : (is('x11') || is('linux')) ? 'linux' : '', 'js'];
+            c = b.join(' ');
+            if (is('trident') && is('msie 7.0')) {
+                c = c + ' ie9compatibility';
+            }
+            h.className += ' ' + c;
+            return c;
+        };
+        css_browser_selector(navigator.userAgent);
+    </script>
+
+    <link href="/Pages/Styles/LAF/Responsive_Menu.css" rel="stylesheet" type="text/css" />
+    <script src="/javaScripts/Responsive_Menu_Nav.js?v=1.2" type="text/javascript"></script>
+    <script src="/javaScripts/MenuKeyAccess.js?v=1.1" type="text/javascript"></script>
+    <link href="/Pages/Styles/SideMenu.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .ModalSmall {
+            width: 300px !important;
+            text-align: center !important;
+        }
+        .modalboxContent {
+            display: none !important;
+         }
+        .modal-body .trainerContainer .bioContainer {
+            min-height: 170px;
+        }
+        .modal-footer.nopadding {
+            clear: both;
+        }
+        .nav_links{
+            width:65%;
+            float:right;
+            text-align:right;
+        }
+        .lah4{padding-top:5px;}
+        .map_container{
+            background-color:#ccc;
+            padding:3px;
+            width:256px;
+            height:306px;
+        }
+        .virtual_link{
+            font-size:20px;
+            font-weight:bold;
+        }
+        .virtual_link_box{
+            background:#eee;
+            border:1px solid #ccc;
+            padding:2px;
+            font-weight:bold;
+            font-size:18px;
+            max-width:300px;
+            text-align:center;
+        }
+    </style>
+    <script type="text/javascript">
+        function AddCookie(value) {
+            var days = 365;
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+            document.cookie = 'PreferredClub= ' + value + expires + "; path=/";
+            return true;
+        }
+        function EraseCookie() {
+            document.cookie = 'PreferredClub = -1; expires = -1; path=/';
+            return true;
+        }
+        $(document).ready(function () {
+            if ($("#divAmenityHourPanel").text() == "") {
+                $(".glyphicon-time").hide();
+            }
+            var clubClusure = $('.clubClosure span').text();
+            if (clubClusure != "") {                
+                $('.clubClosure').css("padding-bottom", "10px");
+            }
+            $("a[id='lnkClubHours']").click(function () {
+                ShowModalDialog($('#spanClubHour').html(), "", "ModalSmall");
+            });
+            $("a[id='lnkClubKidHours']").click(function () {
+                ShowModalDialog($('#spanKidKlubHour').html(), "", "ModalSmall");
+            });
+            $("a[id='lnkClubAmenityHours']").click(function () {
+                ShowModalDialog($('#spanAmenityHour').html(), "", "ModalSmall");
+            });  
+            $("a[id='lnkClubSpecialHours']").click(function () {
+                ShowModalDialog($('#spanSpecialHour').html(), "", "ModalSmall");
+            });
+            $(".bootstrapModal").click(function () {
+                 ShowModalDialog($(this).parent().find('.modalboxContent').html(),'','');
+            });
+            $(".lnkTrainerName").click(function () {
+               ShowModalDialog($(this).closest('table').find('.modalboxContent').html(), '', '');
+            });
+        });
+        function toTitleCase(str) {
+            return str.replace(/\w+/g, function (txt) { return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(); });
+        }
+        function openclassschedule() {
+            var city = "Buford";
+            var state = "Georgia";
+            var js = window.open("ClassSchedulePrintVersion.aspx?clubid=" + 393 + "&" + city + '-' + state);
+            return false;
+        } 
+    </script>
+</head>
+<body id="ctl00_MasterPageHtmlBodyTag">
+    <form method="post" action="./clubhome.aspx?clubid=393&amp;Buford-Georgia+GYM" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__CSRFTOKEN" id="__CSRFTOKEN" value="/wEFJGE5OTJkMTc2LWMxNDUtNDNmZi1iYzdkLTM1YTFkYjhkNWEzMA==" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="zVQiOiRTPjD+wTwl/EjfKtR8z97TfELpWAegQ8E4WqWGqfGnE1u2opHs0/L6iQUi1zIynK7rnyTQ5Wg1aAlm2zRnBn84ZD61HmtPcw8r7ZoLELtKhv5TmMbfGAXQC8nRDNK8XrnyOTkWfnW7zvwGGlmZ9rxcYyGR7AKEYamM1reGc2MDZTxlnyNSgS2MazF7+BXgbJBhRQpMrHMBu8up+czNTtnCJlqWxr6nobjlVr6sbZqoU/SKyu9rW8FQrVIEizG0JIIFAi+iJoNSCzXXtVE5GUVYpw0kiQ8oJPpdXw5VmeaRpPAdk+Hi+9ZitPS2jmBw46NcvEFF/BKudqjrjUXYRWL12HCo0bauJ67u67J0kXXnkvBOA3hI8FXHBffIN0pz7uyapx5tBO17L1Fo9u3/IQ9oPtWa9Oj1WUeCNMpwmN1Au3Afae6Bs7uPTa5z7fb77mH3+hpj2BOnvxjENN/KKIWF0JGfkIpFK7rrHxCAbH64c5V0a+XWVXGAY/1SWPjWyl433TsXjrmk2RbDUzd9SGjeld4oNQJP4cPT9Jo1jFqBVvEkJzyc67+V7VEuL06yw4+NqvyEBLGyE3UmTX+UpohrXHnGz9n8xb5n/obi0d79DUZDJlecM8Ydy7ctqJAKbVT889Pkmv3Dlnt8UYcHxl/N90KNaLvzcNqW8AoTfNo3YP/dboBwHh60f2xOU2i2EucEnzI0BdZmO9erINdBszaP1UvyA5TYE1gdLI6KgSzfgr38ZKOYSNTXezOz7EZlUTrSzbnmme7fJVN8kCwhPDhYRFEYYVB5VWfYS3QaNW0j80F1w3B6ZWgd/wf/s4teiw4LgzXewOyJi6eowChWFvmzK9XTORYD937bJaW8etu/u8TX/sst3E6B3qsqttJLb7Jel5sTU2nC/Ac1MuPeCXpTHqIh86seJISRnQP3m8yQ/ZrTzbhxzxy/w54L7eoUPIhq7RDafwY7WVLQTQz1RjMaTv6urskA5e0ZA74otlhlodFN7ZVNWx/4XSzsRCUP4q92l2X4m4gQHvAruB7vBcMHj51Aa25NlYD3RFVzUhbTxXonzJhKxib15pJOd3EXmnWs0LWGmho5rFrAkBbSP2RXJSKC9NZ9X1uDOR15IMz4FY9xkFBQ3fFqtY8NIgSDKFsBKmd4RwokNIcoDIapMeGmc1OEnkDPt52v+ZpwrAJV5OswWuwL1iNWBO6iBof8BRnlHWEoMcWn+6aZI3044eYj5RdGNVabCMZ2ysuROOAIUA/tza/b3B4pSnM2NyXNpZtQA6qulI9gXcrh2eRU6dTsTMDfoC5fhg4CIzigwSl33NRyY4ceM17qHcpzxgA/mV6ZmmGa+eaIurCuwsNjhFprcmcTJpyFzbvmd8JdMsV7jFJXQPCXw7i72e5g4q5uPn1V6FZRsShnZZWcFE0OAs7Pl4mtlz2QOtR91r5f1GqOlSHptpTYx+ipg8hgiw5GLTYZTFWb9s0nFyXfGr96m++8igweZ5KC4A/r2evuKLtkTxAGA+q8QdGnPz4EG82wblXpY7z9/LdtSGgP38uEo2Q74P2sBsLMrzAhkXFPBOQECzzS1CXVlpujlBEJNzN2V6EHazmFfO5KnLhmLjOsCpYSQLnPudEdYV0fqqfjBItIkBeaMKtCK4qTqqd6KLL/q3ZRIqoeFXA/AWRCZ69yjcepwFfKenvuNcIz8wmgfhl6iQVyEZW0OrnCmqRDjsiTvz8o3BVtSqZq63asNKP6vXHXjZ8F94FuILtQJGW3Z3k+DVuXstNcU3/IN32P4EJQQXJBENXhxvjjlTlVIQnW5myHcD2attyWwLWuhORvdUUgYyULd3q0PxKm4IJd/qHh6b1ISD6HCBMaa1B/Bv+diSIBy94U/t9ek63E6EU0QxVbXIn2mQ+fpHcHKmK5J4mMR5NkdVp7SU9CEpam1mE+iU5Ntm4+0MWC6wGLfolG72JH1Z+C/m4h2WB2RIf85uEl0xBCibJPVgDFIjgSjnHFOzlHb/BDw920eBC+qRlZA4uA2yb1UC7l2pas9aGeOIjMMdZOSox1PgeSZwEz8z/1wnXB054YOnqwGuZu1vrAV46fcYGiVAgzVqBk//WFv7DBWPzfQ3shegxpZ73D638FfEKTAxFrSKTkD7lZTcZQNBdL7pYUoK6138D8BHvrZUEcGHvzTfXn7OYd8BDmE7mMUFOI4Zb9bpsrcuVnBIQSUJ1TH+GVmQ7aZwx3mx5ZGwzZMuTKWmHW3uZ2MCes/mt+ybmOSTJD7GKW7Tu8OwS1+bePMaeFIMSwPpJdz5bgLEB1hzEfp3qZ8ETFdiYhWsE+SqVeTvvaUIUeH1raMbKy9uC4iC0b4cVLGV5ikjdZtoFMudFcfD9wzU58m/gIRFsR8RZQWnrmeh2XysJS0bEX4k7joFz/Ae1EAvuNKW+OdNJ25Hnciq4LwCQJ2mgFVLso09JASPjoMQTtbdqZYD/Cid2swEnxrlGCrpB9UvjsPgGK8cWaY103HHOU4feLtdWrOZnmxunXeLGzmxZROY2WS+AIEMqU1d5A0qu56MeGZVRvJk1cgvLMLFswu/W/NMwzgzEGIvOUxhCI3ftAeOA9Ho9b9zPzEl7KshUqPkbr3mMFw0z1UCpWkcQeW+2j5LsxRWGXjpNF7D5/PflmOaZV6K6/UbFrfc8yB/grAd7KBVxAF2AVXuZZQnEFpOAyvEuZ6yZ3HHpU7JE5sjlr1DbDbJSl++0CzYPnVp8QXdR3A8qDo+YHBIQCAzqGE6BomEpHrDIPslDigV+j/phaQO6dUjlxx9q+sH6NpPCL+HnEpMgy70gknqxlV6OUSxydOfvz8RpsMAdM7m8xwomrcvIjGrZ67isANlFpKonsgdIj0+msw822PsEocpIGoF5GE1md93RzeYEVTVWito0kAAmDPwwketLCe+uVt2HYx4dlG/sKE4gZ4HsrizKDDEp+z+0wox1tiBJgpNaJc5idbul1YdH7yy19lF36rjumGFhXpE9cU+S2u20Ohjv6ZGoQecBGHxkr5++JHwqeINWTeRHkjpOJsbqYHB8WZ+OLXR9EDFzCE299bmyf8JB54fR6c8eNTs+gh/KJwrwCuyWB3OaLCvQA144Z6xql6zaisIFnGBUTnOc0XZwQt1ZBx0aH7lLgiWZ46KLTxKBr3+A4Pe4QF56F+lxgzvpOlgev8CfXe9mAOBCvoaVpMh7RXP9Xla1gtLFHG74UcPYtaUNYKSYlAHum78acNncUJM8TrwQMDYjW/RwQyHuKqyqkbSr1Vf+dcMOSxSdCz+sAInFkrPEA7o3/1z84UTyTJcDzxUvg7JY7xXlSM6JwhmarOKMB93WmQ2ya6siu2VSsYLa+3UNHgMUILvLcpiRp+4qExk161WwONpALUiOa33amkFXjKmkmaqgiCpLcyM4k/koMkMILtu2X9U+pnM4hSw7mBol/xPEvzuQLpYeyxyjITyAprl5QPbPTymDvUkHhMLcvHdMWVrFMHY8NhSN2Sz7F1VftzZ63p1yQgcxZxAGf6noxV+eDVyA9KCD3jYY7gfpOC8pRczWae67jQ2bUXp5oxdMNEWqlt15wb5jDMlEI9Z5vw0keibyq157PBz1RsNd+yEhchlpN5YjELkSDW6RF5XK0/PM25qHme4Gpor9/S5C+P787/Bf+wr+1PljI0Dt8jDMMrKXhWmOxbkXFQ9z9in/KKOhHbvt5MkCxSbEoL9GTp4CvSyfy4gyFB28EcljNbKGXowj7WKWzQdRjcDqpOP8+Ih3nCTB0DNv9crRZ+VMCL9KtDpJ1OJuRjo6YMi8CdRSrEf5EY+k+GTwiPO2m6P/LxcsNSiOWLkXf2J+WP588DWiNPY3Pa9xoaDnCBMq9Jg3OKZ4Yj4KzmUFVGh4uG8WT0pXH3/ELZgOPzJwPx13lsyIn2u859gK1k3mzpFDonJNEXs4gYBO8XOFj/oA6Ljby3TsDiSIRfyBgSWTV0G6Isy3/3ryumxFZvz7riR5DeojTSEXEJqyAHJ0kPGpBnBza+YKGfkzfzKubbSD0HGP3/R77oGH/dJDFNx/CtaQv54gic3jOYLqkKZGGPK7xqZXLluUONj8M7wdmlhMVQ9PgQSYQqenLiwq5KU904Kg56idgbZy3Ux9x+E8/LdK+uO0XrE3EK3e0FoF3X4r7J9vPLJpNL22IfTpwwQcap7ffizKhuyP2zC1LzjgvdtwvAOqq7s6++I3fYl/K+vLcHMvVxFO84SGJGs1kAOR+Cs+0hokbdz2LZRbqsm+V4xGExNFmhrY7l194KHGzwpo8Pv+ewdsBDsrBQJeBCXqSyWX3pdGUcdyXvIWN8HRnI0R890TftjIy8qp20dzXK6kc1WEWidZX5Bbt14pMr0eDGXNoWs+jPJQlMWCOBYoxOGu3k5cnFdec7P0RaYwmvjxsV6Duh8WHtWHLldRazsgHI9RXUqRSmw/9DTJFeDM+z/1noTPc8zhY9MWSqzMhhDZYth5kMh9B7xOAkroCxXVifuRJZkLDQptS5h8akZ7cqTedYb60+Zxu+nIhOK2oooKwlP+mO47yUh6Nre/xl7wAQ/fEEv2+H0zM8zU/Mnhat8ahDZTAWUDEcO/9lJHgR1wcwbcJyhzekoqo8fKmyxYhuMYDv5zJ2SlSK8piPClS8w97Oot8Qc9KdO4o0s0TA0m96J1z/oZbk4PSu0GWZxBNjE0eKkMtAD1bZN2BMeVh6Lhz6qMx3H++BcJpnW/LrjfxJUUxdyjkq1XAGJ7XNHPEcsen0uvxj5tw4bq9KrrUzEmzskFm17QXqV5E3wMOE660aZ2qXto2kzBGNpQt9JCV4/5mHqo9uEHvtd7B7qHbbAvBmJx6VWLoLQxeWcN55S5l7hQp31yfdvQujF4ONfNMw8mhkMU+/puL8KMdbh0MpfqQJIZfL3QKVp7k+yyYLU6LLwhMhduW7bg8tTvt0jhVopnTs2Hn6oukqZoCNNAVZNfr4AtA1EyD3eXorsb7+670ebaTTiScUOTltC/Pzddrjh0ix/VJyRZPHW2RXY1LjL1wVK9Mm/9dFKQL1UKmRWnuVyKjoQAapUfcGvV35OgnC5WvcaY283KjJDJIapjKK1PRfs5AD22F7SLgh1pDi2Md18A/ReCnEIHjsL1H0Kmnnfr9iya8X3KqTwF3LKQ2B4mI8qP6X9r2Y0pB3M29jiMplidd18y8LukGCQdbnJh3Fe1hFgczng+N0wucwDrc1QBeuSB+9WGd0MW3Td4+5spMk7qV15/IfDQmgjTVaFi3P7YNtbg33FsSVsdbrCzjQHO4thDpOg+1cC2KSlGMqulEe/hvy/5ZJ8xE12CQV2n5qK+EK7HPeLmrDFwCMGYwa/wgk0HshoKi+rjM48X5l5LZpM0rfTCbinGgMoiZ84uzivafcbbREeZ23X864lmdjRUGJkG0yUiN0xhdHNC/4ehnhWrOBArst3sDbeFtnsILVHHPpD12hAElb3V0nvCJX2ZNsk1+LnHLv2PfG9DwdNtZlZlGyvfEzLHJy/G8fBnQ8hVUKgGBwf6LPYpOVM/IDJ8UxlL3G9aFnIgI50Lw4iNGo982YcH39miiY2lWsMJaMr8pXoJj4QDqhGw+gGqREcECYT2y49L17EwSpMufR/nw+gocRaOK5ArY0+GgTetnFyRxdUxW2X6PNEkvawL5XQl3YWxTvBGB4326OCmgvZimAXhjQdsITAEnRU+1WzRjdweuQ3DLrSfeqDdLz/XGIqeH37Ke3kZNNKWWNLhcx1Cz08rg0ypeId+5G15QzD6rKfGwPJGki4Yy5PupyGq26F41ms6b5oQ28dZgR0Iyt0oZt0Nlu2QTN8gfgqPagVkGulrd05L9HE47B2JCt0BVE7fOQ7RLMR2UekH20aZo9oO9z5rBnEx5tOfRqKefvKIH7YhLsVJdYns/IcsM2zI6VL53ij3fj6QdFLsBXkcnSBFlGfa5XwhLi0gBCvkyaak3Kr+kueJlnz/dQQqAQZwuwV1+n3ftHRpjhXRT6TqLH83guvkIpVnBpjo8TeRVlpShjqz4g/Fl/8TBIpOHhVNaRlDqhHruz06iYANSFDJ1KyGPHshz+8I3zroypptGuF30UNOP3We1D0gzc13c6m+X9yBkAEz08A3Z0OcplhEFo05ZBPiMxgUmv5nNffPKZ4hj8/bLWQ8Fqj0Vmf9w/AOu1ApMwaRKA8zmpcP++fiddOEGOyLB9H3MeyIzOE27p01LYWjgGMAMoa4i9+Yc1hLbRyOaOELERsog72GG/xYX0j2Rqxp++VWUnAuIc0+i/DlgeEXvg3AeP6JZSvj3M/E2P1ldMPrlsfwhQsY7VjlSyk+nZPCYv+YgMRLJ+4r1SHwt4xuJpUQkqkESAQhGbT7uVFqI5HVzSmOvPh5j4Tx8Io+YCZE0W1qEq2jQkRRu41+5jCD8PaxCiLg+Atak2u8wknx6KdrTrpT4CDGS6x2s0bskvEG/OfPFAwba3V3O/harNDMkGwcOOeeHYnjNlzjyHFEZAW9N8Bc6UZxhPzAUwI/gCFrPePj7kwGM/jX/1o3usRIJVtwcw5OIzviWOQ18KVhgg8ZFWFD5yJ/CNiNgumjzpoza93LDHAO6PuKrzbE+9mqtcKKwpYo+9NhYfrfi9XkpkgsXgCl/UGyftlwtr148NjbthfsOeduOc6sBBq8GnhUMfFQOueJ2w5MCXQwG0T6yVkQg6uZsqegkw71IHN3jdCWfDHer1RzsXrAaOzNjunOkukMAKGOV1AXI2TmNf2o+HXHTj4bPp73O/q5Bti1HJR6bevMn4JXCt7LgoY8cbwB9EWR4f4IMxu6CaXsnuzlG04LZhYWK5GgzYvaR1c0VjlpBVNJI2AJBD8EmSW/O7farFwypj+aNKGViB8J4f+xw8ej0RhJCgFW4+BD68cXxZ64IUTYxsSumohLcM8cCrtvL1N+8y1/BwYcZ7i62dGh1oHTOITjYgetiU6RMiaZeFysSMdf1B+VuKIQycnYw/0gR/Qurl514ImSipFCMs9C0Glq5DsU+MrQYiDk8Woe9XzRiOtRZyNkUJy5+RbNEkcTgnnY7Bzsaa0o3T+a2azRSqciZ0RccRHypHHtaVx9CYJheDVdUjAk8dUem1wi0DIofdmcqIHKgQQjvEGJ5v0iJTJPVh9kBWtGoffN9QviVC5MPtG9CmFHyrrguyX+jx74D6yLCdT8bwKWQbkTh3AncbPsF5ghxjIHkxBsFKnAEOAvOxA5xhgdahn+LQWBbZFlTRXW+m+Z5C3sw5l03d986Y8W5x3uUIGH7g4OlAtD7+cKGPKDP9PkQWCVhjdoaiTXRwl05fA0lNu4cLHoni49QsD7LNpw6sQuXTG03Xa0leEWSfjY2/RAWtZ83J6zMqXsQuf+5tSO/MFnHo7cJDtJMGC6wNt0NUundpUn44L/+S+0XScO93+xBKrICMBCr1yHKKwiqWQRY3gFK7sIbFiVaC78QyP1z2OD+N54UORQNdG43jadJd0iM39NRFLzLc2euwKV/7FmURz0M0X/f8dEy8qJLD0tICKuNNjzHtJog4cjkGJRcI9uFAN7P/bbr/yE1TzhabqzYUxNq++qJw/dmPgdQviWMGl/RY4CQiHngqpsNicPbJahH39kBHEqDPWdlOPXGfy4BkDRAi+BZvcCQF3U3c5wSPqEYuMKhmoKlXpU1tZP5kKg0RCeddnvJpaLRwFu0ehXniEW1R6SUssReX2N7eku4U9JWm/RnLoJg+ZGEiKZ9zrlCiOEj5BdHy3hrH3Jzw/t0PDlAAHKTtoBcS495pfUrG9FIz6Blgt1VLTrm358TbJ856lTjK6u1+EG731hwsJ8bcO6zqv5rqexRxbHHjTMy+p466S451QNm1MzR6qnSsKIppJYFtpStCpta6rP9hQnZMbliLI0x67yR9UQN7FHd3zFzE+PvVfczi0Ek8VtA0PMliv2iuIBs2mLVt/w4VCH1ETWaITmofTAMm168H2Aa11VtaOFl/+vdtG0lPUD9tmQwMn5MJXUuR4xcyQbXBMB5DIaiuZa3+ztZhuDpKNmr/4mZna8tkbji5x8DykEn1JJ3h0Ik/lVGaw/aFBAYmAzJVvemKVlnFTmaZ5J4wPhzYXu7PS7Oie1QW5JIkS9j8QrXYmkVBBc0AC3sfsjHaPzcldsBvvfF9HGCLk0jrswv/9k7H87zVmIw1WgICO7W0z3ICiUKgvUNP2xjmHh3gXICJct7V1nt/HmR9WMFBcM56NwdJ+PDhvE9iIX4YFxXbyx55gvS1l0XBLDcTnoSjPA6Zu9aN91HGulcQa90VSronO0qo8Yn2BtvU2HYp5gIubK8FidHegGHjPcfwXT5X4iyQHubeXNw8Rxw8kKGe8lESMtjrLXtAwYl6Mw8Sc9R+TAdo92/JKs7XHxwvWaST220QNaYYZkwK1L+HvSvdysUB7BFeJoifOy7DyUF7YCkTSfeP/LhBOZukn4sQ26oVcAm6iEvj8Ctwr/1cCAdyKOlt46xBVQ/VALF/64NOxNJvfrXYw/5knFYZsXnHYJ9B1FG2NEgp6Hrv1vp593F7TFdGbmWPwu08kfyCYMmE8bTlN9ZUnTrGFSGAVPlV8/0Bt+xcDKLyvm1IBYujkD20Lb7XOCOOoE7WOIQpSkIEDuqgi4t+i18GUa7lo9+Jgiia+XCH0EzwNVhJemEJYAs0rotK4dzeeQvgD+yV+mYmjj53vmnLL+ZhjK+fUsprIxyfMKdRZdEl3CHmicK26iO8wREvF66P/u9uYMTA9bKkpJBSPKt9nCxLafi/3+GJCQ1TBU6Qs9zr14Dpf5iIJPNXAZEUg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMXjJ0oJ2OLE9wgH5RJJy6qX5FcdV9fR3_EuBe0tWZAWsGgUlQ2&amp;t=636125406551626262" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=nv7asgRUU0tRmHNR2D6t1NhRQyibrFQNjeFjl47U2JoXLNt8AqTavmbSqC5wXoZNkswMllx9HWzjcpTRU7DFlXz9S2UDGBhokcm2o0bH6KZpqBA27C2KLOvG4kTS7aDxrAtBBQ2&amp;t=ffffffffc15d9d80" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvtWo1PZVbKLa2KrQo3g53yRcx4jG_M8tqGJN_yGc3GmN-zgdCMkIzfq9Z4y-1DDYVFPVKQ8ZjJNwTMrzHSYm6FFXB_zl1V6mGyZdC6k6-bmUp6r7P5-DgEutuwj1ii6dx_Zm05U1&amp;t=4794f07b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OED9xG4PVrLj8nK5dUBDq3sQeQgYZQSMyBNqhmJcH-xkFRqQms78WYQxoBHDNMRokf0BqPyws9jB0683Ls5y3X3VgAVJEh7SbS2bDfNPqxYdlL9-a6f24GK0GTza8qnW-HkMS941&amp;t=4794f07b" type="text/javascript"></script>
+<script src="../javaScripts/webkit.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LkSbRRtTbnpvh0g927IxkNG_6t3Q03qRMMrGgepOU6P_EbZNXo4kQpBAiPGVTNy-FDLgi0qtIas4UMS8hTTwTsmWtlrkzVAbWVzpMMEAzzPs_wstr2AzJKyDSJdkzvZK-3qjhg2&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=8CjII1v0OLoMNKf5zGXmegr8UJpLXKAHQjNciagnNcpepvsx2dRfmgPE2xLS_kf2IoW0yXjhXY6fM3zeVdkO6FsFfXH9wioxi-7QbgFcU0RAtLiHDy7d_FedomwcvBKl0G1FOGeslfOpYpcIm7n8_ODpq641&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=gd3EU2v5uZlrWj9T-S4RgrlewW7VXsXco77jLq_IZ_HF9bKEPNhJjZL90EmqbVNV4nbv7CP-hqhwEtzS11eN95sjkjzzzeomnItQtHdk7ErgvrtQfZktaPw8o1Th2_0lTJaWoP74lRLfvsoVXIoxBNLWXlc1&amp;t=ffffffff9b7d03cf" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+null;if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="86F58AD3" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="gzFycrRp8VZdgavoBFXOqh0QtslxryrwDdAC1I8PshgAMowjKTIuxJZOK03HfxVjg3cSb1hv9colckZpPb2dt+Q6TFjkzv33B01YV2SJ3G2wdd27AkJhCn7pbydsKevMuMnFqQoLo5GIOmLte5EINBqu7IqnabBavsL+EwKR4+lOXLIDMEc9qBuwO4/b1LT1GIV+w69wC8AvzjmI2KzBCclEpaZnbMZKcafHSlfl+4OHjS6AVmbM/oVRluXqewmCWfijDA==" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', ['tctl00$MainContent$UpdatePanelTrainer',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+        <div class="container">
+             <div class="header" id="globalHeader">
+                  
+<div id="skip-nav" class="skipnav">
+    <ul>
+        <li><a href="#PageContent">Skip to main content</a></li>
+        <li><a href="#globalFooter">Skip to footer site map</a></li>
+    </ul>
+</div>
+
+<div id="headContent" class="headContent" style="margin-top: 18px !important;">
+    <div class="logoContainer">
+        <div class="mainLogo">
+            <a href="/Pages/default.aspx" id="ctl00_GlobalHeader_LAFlogo" class="lafContent">
+                <img src="/Pages/Images/LAF_logo_2C_H.gif" alt="LA FITNESS" title="LA FITNESS" width="231" height="30" /></a>
+            
+        </div>
+        <div id="searchwrapper" class="searchwrapper">
+            <input name="ctl00$GlobalHeader$txtZip" type="text" id="ctl00_GlobalHeader_txtZip" class="searchbox" title="Type to search club by Zip" />
+            <input type="image" name="ctl00$GlobalHeader$btnSearchClubByZip" id="ctl00_GlobalHeader_btnSearchClubByZip" class="searchbox_submit" alt="Click to Search" src="Images/SearchCustomSubmit.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$GlobalHeader$btnSearchClubByZip&quot;, &quot;&quot;, true, &quot;FindClubSearch&quot;, &quot;&quot;, false, false))" style="border-width:0px;" /><br />
+            <span id="ctl00_GlobalHeader_vtxtZip" class="searchError" style="color:Red;visibility:hidden;">Required!</span>
+            <span id="ctl00_GlobalHeader_vvtxtZip" class="searchError" style="color:Red;visibility:hidden;">Invalid!</span>
+            <input type="hidden" name="ctl00$GlobalHeader$txtWaterMark_ClientState" id="ctl00_GlobalHeader_txtWaterMark_ClientState" />
+        </div>
+        <div id="login" class="logintxt">
+            <a href="/Pages/GiftCards.aspx">GIFT CARDS</a>
+            <a id="ctl00_GlobalHeader_lnkLogin" href="login.aspx">MEMBER LOGIN</a>
+        </div>
+    </div>
+    <div id="ctl00_GlobalHeader_LAFmenuList" class="lafContent" role="navigation" aria-label="Main menu">
+        <ul class="menu no-print hidden-sm hidden-xs">
+            <li><a href="javascript:void(0);">ABOUT LA FITNESS</a>
+                <ul>
+                    <li><a href="/Pages/whyJoin.aspx" class="documents">Why Join</a></li>
+                    <li><a href="/Pages/about.aspx" class="messages">History</a></li>
+                    <li><a href="/Pages/Employment.aspx" class="signout">Career Opportunities</a></li>
+                    <li><a href="/Pages/NewsAndAnnouncements.aspx" class="signout">Events/News</a></li>
+                    <li><a href="/Pages/PressRelease.aspx" class="signout">Media Relations</a></li>
+                    <li><a href="/Pages/Leagues.aspx" class="signout">Leagues</a></li>
+                    <li><a href="/Pages/ContactUs.aspx" class="signout">Contact Us </a></li>
+                    <li><a href="/Pages/PrivacyPolicy.aspx" class="signout">Privacy Policy </a></li>
+                    <li><a href="/Pages/CorporateSignup.aspx" class="signout">Corporate Programs</a></li>
+                </ul>
+            </li>
+            <li><a href="/Pages/AerobicClasses.aspx" class="signout">GROUP FITNESS</a></li>
+            <li><a href="/Pages/PersonalTrainingGeneral.aspx" class="signout">PERSONAL TRAINING</a></li>
+            <li><a href="javascript:void(0);">MEMBER TOOLS</a>
+                <ul>
+                    <li id="liLAFCreateAccountLAF">
+                        <a href="/Pages/RegisterMember.aspx" class="document">Create Online Account</a>
+                    </li>
+                    <li><a href="/Pages/memberServices.aspx?task=CustomerManagement" class="documents">My LAFitness </a></li>
+                    <li><a href="http://myzone.lafitness.com" id="ctl00_GlobalHeader_lnkMyZone" class="documents" target="_blank">MYZONE<sup>&reg;</sup></a></li>
+                    <li><a href="/Pages/SendToClubHome.aspx" class="documents">My Club</a></li>
+                    <li><a href="/Pages/ScheduleFitnessAssessment.aspx" class="documents">My Personal Training</a></li>
+                    
+                    <li><a href="/Pages/myviplist.aspx" class="documents">Add a VIP Guest</a></li>
+                    <li><a href="/Pages/OnlineMembershipFamilyAddOn.aspx" class="documents">Add a Family Member</a></li>
+                    <li><a href="/Pages/memberServices.aspx?task=BillingManagement" class="documents">Billing Information</a></li>
+                    <li><a href="/Pages/MembershipQuestions.aspx" class="documents">Membership Questions</a></li>
+                    <li><a href="/Pages/MobileHome.aspx" class="">Mobile App</a></li>
+                </ul>
+            </li>
+            <li><a href="javascript:void(0);">SOCIAL MEDIA</a>
+                <ul>
+                    <li><a href="/Pages/SocialMedia.aspx?Source=7" class="documents">Overview</a></li>
+                    <li><a href="http://blog.lafitness.com/" target="_blank" class="documents">Living Healthy Blog</a></li>
+                    <li><a href="https://www.facebook.com/LAFitness" target="_blank" class="documents">Facebook</a></li>
+                    <li><a href="https://twitter.com/lafitness" target="_blank" class="documents">Twitter</a></li>
+                    <li><a href="http://www.youtube.com/lafitness" target="_blank" class="documents">YouTube</a></li>
+                    <li><a href="http://plus.google.com/+lafitness/posts" target="_blank" class="documents">Google +</a></li>
+                    <li><a href="http://instagram.com/lafitness" target="_blank" class="documents">Instagram</a></li>
+                </ul>
+            </li>
+            <li><a href="http://shoplafitness.com/" target="_blank" class="documents">SHOP</a></li>
+            <li><a href="/Pages/findclub.aspx">FIND CLUB</a></li>
+            <li><a href="/Pages/LocateClassNearYou.aspx" class="documents">FIND CLASS</a></li>
+        </ul>
+        <div id="ctl00_GlobalHeader_menucontainerLAF" class="menucontainer">
+            <div class="row slide hidden-lg hidden-md hidden-sm" role="navigation" aria-label="Main menu">
+                <div class="col-xs-10">
+                    <a href="/Pages/default.aspx" class="mobLogo">
+                        <img title="LA FITNESS" alt="LA FITNESS" src="/pages/Images/LAF_logo_2C_H.gif" width="231" height="30" />
+                    </a> 
+                </div>
+                <div class="col-xs-2 text-right"> 
+                    <ul role="menubar">
+                       <li role="menuitem"> 
+                            <a href="#" class="toggleMenu" style=" height: 20px !important; width: 20px !important;">
+                                <img class="toggler" title="Click to view submenu" alt="Click to view submenu" src="/Pages/Images/toggle-icon.png" width="20" height="20">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="nav-wrap" role="navigation" aria-label="Main menu">
+                <ul class="nav" style="display: none;">
+                    <li class="twoMenu" style="width: 250px !important;border-bottom:none;"><a tabindex="-1" href="/Pages/default.aspx" class="parent logo">
+                        <img title="LA FITNESS" alt="LA FITNESS" src="/pages/Images/long-laf-logo.png" width="180" height="29" />
+                    </a></li>
+                    <li class="twoMenu"><a class="parent" href="#">ABOUT LA FITNESS</a>
+                        <ul>
+                            <li><a class="documents" href="/Pages/whyJoin.aspx">Why Join</a> </li>
+                            <li><a class="messages" href="/Pages/about.aspx">History</a> </li>
+                            <li><a class="signout" href="/Pages/Employment.aspx">Career Opportunities</a> </li>
+                            <li><a class="signout" href="/Pages/NewsAndAnnouncements.aspx">Events/News</a> </li>
+                            <li><a href="/Pages/PressRelease.aspx" class="signout">Media Relations</a></li>
+                            <li><a href="/Pages/Leagues.aspx" class="signout">Leagues</a></li>
+                            <li><a href="/Pages/ContactUs.aspx" class="signout">Contact Us </a></li>
+                            <li><a href="/Pages/PrivacyPolicy.aspx" class="signout">Privacy Policy </a></li>
+                            <li><a href="/Pages/CorporateSignup.aspx" class="signout">Corporate Programs</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/Pages/AerobicClasses.aspx" class="signout">GROUP FITNESS</a></li>
+                    <li><a href="/Pages/PersonalTrainingGeneral.aspx" class="signout">PERSONAL TRAINING</a></li>
+                    <li class="twoMenu"><a class="parent" href="/Pages/login.aspx">MEMBER TOOLS</a>
+                        <ul class="mobileMenu">
+                            <li id="liLAFCreateAccountLAF1">
+                               <a href="/Pages/RegisterMember.aspx" class="documents">Create Online Account</a>
+                            </li>
+                            <li>
+                                <a href="/Pages/memberServices.aspx?task=CustomerManagement" class="">My LAFitness</a>
+                            </li>
+                            <li><a href="http://myzone.lafitness.com" id="ctl00_GlobalHeader_A1" class="documents" target="_blank">MYZONE<sup>&reg;</sup></a></li>
+                            <li><a href="/Pages/SendToClubHome.aspx" class="">My Club</a></li>
+                            <li><a href="/Pages/ScheduleFitnessAssessment.aspx" class="">My Personal Training</a></li>
+                            
+                            <li><a href="/Pages/myviplist.aspx" class="">Add a VIP Guest</a></li>
+                            <li><a href="/Pages/OnlineMembershipFamilyAddOn.aspx" class="">Add a Family Member</a></li>
+                            <li><a href="/Pages/memberServices.aspx?task=BillingManagement" class="">Billing Information</a></li>
+                            <li><a href="/Pages/MembershipQuestions.aspx" class="documents">Membership Questions</a></li>
+                            <li><a href="/Pages/MobileHome.aspx" class="">Mobile App</a></li>
+                        </ul>
+                    </li>
+                    <li class="mobSocial"><a class="parent" href="/Pages/SocialMedia.aspx?Source=7">SOCIAL MEDIA</a>
+                        <ul>
+                            <li><a href="/Pages/SocialMedia.aspx?Source=7" class="">Overview</a></li>
+                            <li><a href="http://blog.lafitness.com/" class="">Living Healthy Blog</a></li>
+                            <li><a href="https://www.facebook.com/LAFitness" target="_blank" class="">Facebook</a></li>
+                            <li><a href="https://twitter.com/lafitness" target="_blank" class="">Twitter</a></li>
+                            <li><a href="http://www.youtube.com/lafitness" target="_blank" class="">YouTube</a></li>
+                            <li><a href="http://plus.google.com/+lafitness/posts" target="_blank" class="">Google +</a></li>
+                            <li><a href="http://instagram.com/lafitness" target="_blank" class="">Instagram</a></li>
+                        </ul>
+                    </li>
+                    <li class="mobMenu"><a href="/Pages/GiftCards.aspx">GIFT CARDS</a></li>
+                    <li><a href="http://shoplafitness.com/" target="_blank" class="">SHOP</a></li>
+                    <li class="mobMenu"><a id="lnkLoginMobileLAF" href="login.aspx">MEMBER LOGIN</a></li>
+                    <li class="findClub"><a href="/Pages/findclub.aspx" class="parent">FIND CLUB</a>
+                        <ul>
+                            <li><a href="/Pages/LocateClassNearYou.aspx" class="documents">Find Class Near You</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <a href="#" class="tagg">
+                    <img alt="Click to view" src="/Pages/Images/toggle-icon.png" width="20" height="20" />
+                </a>
+            </div>
+            <ul id="list2" class="mobileMenu">
+            </ul>
+            <div class="twinMenu">
+                <div class="left">
+                    <a href="/Pages/findclub.aspx">Find Club</a>
+                </div>
+                <div class="right">
+                    <a href="/Pages/LocateClassNearYou.aspx">Find Class</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+            </div>
+            <div id="PageContent" class="content" role="main">
+                
+    <div id="mainContent">
+        <h1 class="MainTitle">
+             <span id="ctl00_MainContent_lblClubDescription">BUFORD</span>
+        </h1>
+        <div class="clubClosure" style="display: inline-block; font-weight: bold;">
+            <span id="ctl00_MainContent_lblClubClosure" style="color:Red;"></span>
+        </div>
+       <div class="container nopadding">
+            <div class="row">
+                <div class="col-md-4 col-sm-4">
+                    <img id="ctl00_MainContent_ClubImage1_Image1" title="Club exterior" src="Images/ClubExterior/393.jpg" alt="Club exterior" style="height:195px;width:300px;border-width:0px;" />
+                    
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="lah4 nopadding">
+                        <span id="ctl00_MainContent_lblUserName"></span>
+                    </div>
+                    <p class="lah4">
+                        <span id="ctl00_MainContent_lblClubAddress">3420 BUFORD DRIVE NE</span><br />
+                        <span id="ctl00_MainContent_lblClubCity">BUFORD</span>,&nbsp;
+                        <span id="ctl00_MainContent_lblClubState">GA</span>&nbsp;
+                        <span id="ctl00_MainContent_lblZipCode">30519</span><br />
+                        <span id="ctl00_MainContent_lblClubPhone">(678) 714-5075</span>
+                    </p>
+                    <div>
+                        <table id="rateTableContent" style="width: 296px;" data-cols="2" class="boxMain" role="presentation"> <tr style="border: 1px solid;"> <td colspan="2" class="tableDataHeaderCenter"><span>ONLINE MEMBERSHIP</span><span style="float: right; margin-right: 5px;"><span OnClick="javascript: pageTracker._trackEvent('Button - Online Signup','Join This Club CMS');return;" class="yellowButton"><a class="yellowLink DecordNone" href="MembershipSignUpRate.aspx?id=8dP%2fWQtd6S%2f63OX7k9O5lA%3d%3d">Join Now</a></span></span></td> </tr> <tr style="background-color: rgb(253,184,19); border: solid 1px;"> <td style="vertical-align: top;border-left: 0;border-right: 1px solid;"> <table style="width: 100%;" class="innerTable"> <tr style="background-color: rgb(253, 184, 19);"> <td class="rate" style="padding-top: 5px;"> <span style="display: block; line-height: 24px;">$99.00</span> <span class="rateText" style="display: block;">initiation fee </span> </td> </tr> <tr> <td class="rate PaddingTopBottom"> <span style="display: block; line-height: 24px;">$29.99 </span> <span class="rateText" style="display: block;">per month </span> </td> </tr> <tr> <td style="padding-bottom: 4px;" class="rate"> <span style="display: inline-block; line-height: 14px;" class="rateText min40">Multi Club<br/> Online - Easy Start - Single State  </span> </td> </tr> </table> </td> <td style="vertical-align: top; display: inline-block; width: 100%; border-bottom-style: none; background-color: rgb(253,184,19);"> <table style="width: 100%;" class="innerTable"> <tr style="background-color: rgb(253, 184, 19);"> <td class="rate" style="padding-top: 5px;"> <span style="display: block; line-height: 24px;">$99.00</span> <span class="rateText" style="display: block;">initiation fee </span> </td> </tr> <tr> <td class="rate PaddingTopBottom"> <span style="display: block; line-height: 24px;">$25.99 </span> <span class="rateText" style="display: block;">per month </span> </td> </tr> <tr> <td style="padding-bottom: 4px;" class="rate"> <span style="display: inline-block; line-height: 14px;" class="rateText min40">Single Club<br/> Online - Easy Start </span> </td> </tr> </table> </td> </tr> </table>
+<style type="text/css">
+    .rateTable {
+        border: 1px solid;
+        background-color: rgb(253, 184, 19);
+        font-size:25px !important;
+        height: 75px;
+        font-weight: bold;
+        border-color: rgb(51, 51, 51);
+    }
+    .rate {
+        width: 120px;
+        text-align: center;
+    }
+    .rateText {
+        font-size : 14px !important; 
+        height: 8px;
+        position: relative;
+    }
+    .termText {
+        font-size : 22px !important; 
+        text-align: center;
+    }
+    .innerTable {
+        top: 5px;
+        background-color: rgb(253, 184, 19);
+        border: 0;
+        font-size: 1.923em;
+        font-weight: bold;
+        width: 100%;
+    }
+    .DecordNone {
+        text-decoration: none  !important; 
+    }
+    #rateTableContent tr, #rateTableContent tr td {
+        border-color:#797979 !important; 
+    }
+    #rateTableContent[data-cols="1"] table.innerTable tr:nth-child(-n+2) {
+        float: left;
+    }
+    #rateTableContent[data-cols="1"] table.innerTable tr:nth-child(2) td {
+        padding-top: 5px;
+        padding-left: 65px;
+    } 
+    @media (max-width: 350px) {
+        #rateTableContent {
+             width:280px !important; 
+        }
+    } 
+</style>
+<input name="ctl00$MainContent$clubRates$hClubId" type="hidden" id="ctl00_MainContent_clubRates_hClubId" value="8dP%2fWQtd6S%2f63OX7k9O5lA%3d%3d" />
+
+                    </div>
+                    <p class="laHRlineText" style="max-width:280px;">Club Managers</p>
+                    <div>
+                        <ul class="mainList">
+                            <li id="ctl00_MainContent_liOperations">Member Service<br />
+                                <span id="ctl00_MainContent_lblOperations">Zulayka G.</span>
+                            </li>
+                            <li id="ctl00_MainContent_liSales">Fitness Sales<br />
+                                <span id="ctl00_MainContent_lblSales">Jason B.</span>
+                            </li>
+                            <li id="ctl00_MainContent_liTraining">Personal Training<br />
+                                <span id="ctl00_MainContent_lblTraining">Kenny T.</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4  col-sm-4">
+                    <div class="nav_links">
+                        <div class="sidebarLinks">
+                            <a onclick="javascript: pageTracker._trackEvent(&#39;Button - Online Signup&#39;,&#39;Join Now! CLUB&#39;); return;" id="ctl00_MainContent_lnkJoinNow" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnkJoinNow&#39;,&#39;&#39;)">Join Now</a>
+                        </div>
+                        <div class="sidebarLinks">
+                            
+<script type="text/javascript">
+    function openClubSurvey() {
+        PopupCenter('ClubSurveyNew.aspx', 'ClubSurvey', 740, 500);
+    }
+    function PopupCenter(url, title, w, h) {
+        var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+        var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+
+        var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+        var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+        var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+        var top = ((height / 2) - (h / 2)) + dualScreenTop;
+        var newWindow = window.open(url, title, 'scrollbars=yes, resizable=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+
+        if (window.focus) {
+            newWindow.focus();
+        }
+    }
+</script>
+<a onclick="openClubSurvey();return false;" id="ctl00_MainContent_MemberSurveySelection1_lnkPTSurvey" title="Let Us Know" href="javascript:__doPostBack(&#39;ctl00$MainContent$MemberSurveySelection1$lnkPTSurvey&#39;,&#39;&#39;)">Let Us Know</a>
+                        </div>
+                        <div class="sidebarLinks">
+                            <a id="ctl00_MainContent_lnkSchedule" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnkSchedule&#39;,&#39;&#39;)">Schedule a Tour</a>
+                        </div>
+                        <div class="sidebarLinks">
+                            <a href="freepass.aspx?clubID=393">Get Guest Pass</a>
+                             
+                        </div>
+                        <div class="sidebarLinks">
+                                <a id="lnkClassSchedules" href="javascript:return false" onclick="openclassschedule();" style="cursor: pointer">Get Class Schedules</a>
+                            </div>
+                            <div class="sidebarLinks">
+                                <a id="lnkClubHours" href="javascript:return false">View Club Hours</a>
+                                <span id="spanClubHour" style="display: none">
+                                    <div id="divClubHourPanel"><table class="boxMain" role="presentation" style='margin: auto;'><tr><td colspan="3" class="DetailHeader">CLUB HOURS</td></tr><tr><td style='text-align: left;vertical-align:top;' rowspan='1'><img src='Images/bullet.gif' width='12' height='11' alt='Club hour' class='hrsbullet'/></td><td class='thRowHeader' style='text-align: left;vertical-align:top;' rowspan='1'><b>Mon - Thu</b></td><td>5:00am - 11:00pm</td></tr><tr><td style='text-align: left;vertical-align:top;' rowspan='1'><img src='Images/bullet.gif' width='12' height='11' alt='Club hour' class='hrsbullet'/></td><td class='thRowHeader' style='text-align: left;vertical-align:top;' rowspan='1'><b>Fri</b></td><td>5:00am - 10:00pm</td></tr><tr><td style='text-align: left;vertical-align:top;' rowspan='1'><img src='Images/bullet.gif' width='12' height='11' alt='Club hour' class='hrsbullet'/></td><td class='thRowHeader' style='text-align: left;vertical-align:top;' rowspan='1'><b>Sat - Sun</b></td><td>8:00am - 8:00pm</td></tr></table></div>
+<div style="text-align:center">*Holiday hours may vary.</div>
+                                </span>
+                            </div>
+                            <div class="sidebarLinks">
+                                <a id="lnkClubKidHours" href="javascript:return false;">View Kids Klub Hours </a>
+                                <span id="spanKidKlubHour" style="display: none">
+                                    <div id="divKidHourPanel"><table class="boxMain" style='margin: auto;'><tr><th colspan="3" class="DetailHeader">KIDS KLUB HOURS</th></tr><tr><td style='text-align: left;vertical-align:top;' rowspan='2'><img src='Images/bullet.gif' width='12' height='11' alt='Club hour' class='hrsbullet'/></td><td class='thRowHeader' style='text-align: left;vertical-align:top;' rowspan='2'><b>Mon - Fri</b></td><td>8:00am - 1:00pm</td></tr><tr><td>4:00pm - 8:00pm</td></tr><tr><td style='text-align: left;vertical-align:top;' rowspan='1'><img src='Images/bullet.gif' width='12' height='11' alt='Club hour' class='hrsbullet'/></td><td class='thRowHeader' style='text-align: left;vertical-align:top;' rowspan='1'><b>Sat</b></td><td>8:00am - Noon</td></tr><tr><td style='text-align: left;vertical-align:top;' rowspan='1'><img src='Images/bullet.gif' width='12' height='11' alt='Club hour' class='hrsbullet'/></td><td class='thRowHeader' style='text-align: left;vertical-align:top;' rowspan='1'><b>Sun</b></td><td>Closed</td></tr></table></div>
+
+                                </span>
+                            </div>
+                            
+                            <div class="sidebarLinks">
+                                
+                            </div>
+                            <div class="sidebarLinks">
+                                <a id="ctl00_MainContent_lnkViewTrainers" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnkViewTrainers&#39;,&#39;&#39;)">View Trainers for this Club</a>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="row">
+                    
+                    <div id="ctl00_MainContent_UpdatePanelTrainer">
+	
+                        <div style="overflow: auto;">
+                            
+                            <br />
+                        </div>
+                    
+</div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-sm-8">
+                        
+<div id="amenities" class="amenitesWraperFull">
+    <h4>Club Amenities / Features <a id="lnkClubAmenityHours" href="javascript:void(0)" title="Click for Amenity Hours" class="hideInSignUpSearch"><span class="glyphicon glyphicon-time" title="Click for Amenity Hours">(Amenity Hours)</span></a>
+    </h4>
+    <div class="laHRline">&nbsp;</div>
+    <ul id="luClubAmenities" class="clubAmenity ">
+        
+                <li  title="Take advantage of our full indoor basketball court with cushioned hardwood sports floor.  Come join the fun, burn calories, and enjoy a friendly pick-up game or structured competitive league play.  It’s a great way to change up your workout.  This court also transforms into a regulation size volleyball court.">Basketball </li>
+            
+                <li  title="Whether you’re dancing or pumping iron, you can burn calories, tone, firm, increase flexibility, and gain motivation from this group setting.  Featuring cushioned hardwood flooring, customized music, plus all the accessories needed for our wide variety of classes for both men and women.  Some clubs may also have a separate room just for cycling.">Group Fitness Classes </li>
+            
+                <li  title="Indoor Cycling">Indoor Cycling </li>
+            
+                <li  title="From professional athletes to seniors, swimming has proven to be a great total body workout. Work every major muscle group while being gentle on your joints.  In our heated indoor lap pool you can swim, walk, or jump your way to an invigorating water workout or just take a refreshing dip.">Indoor Pool </li>
+            
+                <li  title="While your kids are having fun in this safe place to play with our qualified staff, you can relax and enjoy your time to work out.">Kids Klub </li>
+            
+                <li  title="Personal Training">Personal Training </li>
+            
+                <li  title="Come play solo, with a friend, or start a pick up a game.  On our courts, you’ll find competitors at all levels, so finding someone to challenge you isn’t difficult.  This sport reduces stress, improves aerobic conditioning, burns calories, and improves your hand/eye coordination.">Racquetball </li>
+            
+                <li  title="The heat of our dry sauna will help you shed excess water weight, improve your skin tone, and increase your metabolic rate.  Come enjoy all of the benefits this amenity provides.">Sauna </li>
+            
+                <li  title="Wi-Fi">Wi-Fi </li>
+            
+                <li  title="Come get away, relax, and recover in the calming waters of the spa.  The heated water and stimulating jets will soothe aching muscles and help nourish them for a faster recovery.  It’s the perfect ending to workout.">whirlpool Spa </li>
+            
+    </ul>
+</div>
+<div id="divLicensedAmenites2" class="amenitesWraperFull">
+    <h4>Other Services </h4>
+    <div class="laHRline">&nbsp;</div>
+    <ul class="clubOtherAmenity">
+        
+                <li>Juice Bar - Body By Juice </li>
+            
+    </ul>
+    <ul class="clubOtherAmenity" style="margin-top:0px !important">
+        
+    </ul>
+</div>
+
+                            <span id="spanAmenityHour" style="display: none">
+                                <div id="divAmenityHourPanel"></div>
+
+                            </span>
+               </div>
+                <div class="col-sm-4 ">
+                   <a id="aClubmap" title="Club map" href="http://www.bing.com/maps/default.aspx?where1=LA%20Fitness&amp;cp=34.07611111~-83.98638889&amp;lvl=16" target="_blank" style="text-decoration: none;"><img id="clubMap" title="BUFORD" class="map_container img-responsive" src="https://www.lafitness.com:443/pages/AerobicClassImage.aspx?maptype=club&amp;id=393&amp;size=250,300" alt="BUFORD" style="border-width:0px;" /></a>
+                </div>
+                <div class="col-sm-12">
+                    
+                </div>
+            </div>
+        </div>
+        
+<script type="text/javascript">
+    /*
+        To set the width or height of this pop up modal: 
+        -create a custom css class in main page and pass it in.
+    */
+
+    var CurrentSize = "";
+    function ShowModalDialog(strData, strTitle, strsize) {
+        AddModalSize(strsize); //if any
+        if (strTitle != '') {
+            $('#iTitle').html(strTitle); // or Modaltitle
+        } else {
+            $('#iTitle').html("");
+        }
+        $('#Modalbody').html(strData);
+        // $("#iPopUpModal").click();
+        $('#PopUpModal').modal('show');
+    }
+
+    $(document).ready(function () {
+        //when window close remove custom class to set back default size from bootstrap
+        $('#PopUpModal').on('hidden.bs.modal', function () {
+            if (CurrentSize != '') {
+                $('#modaldialog').removeClass(CurrentSize);
+            }
+        });
+    });
+
+    function AddModalSize(size) {
+        if (size != '') {
+            CurrentSize = size;
+            $('#modaldialog').addClass(size);
+        }
+    }
+       
+   </script>
+ <div id="PopUpModal" class="modal fade" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+          <div class="modal-content">
+            <div id="Modalheader" class="modal-header" style="height:40px !important">
+               <a  class="close" data-dismiss="modal" style="margin-top: -7px;">
+                    <img alt="close" src="Images/MyZone/Modal/close-window-icon.png" />
+                </a>
+                <h4 id="Modaltitle" class="modal-title"> <b><span id="iTitle">Information</span></b></h4>
+            </div>
+            <div id="Modalbody" class="modal-body"></div>
+            <div id="Modalfooter" class="modal-footer nopadding text-center"  >
+                <button type="button" class="btn btn-default" data-dismiss="modal" >Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <div id="video-tour-modal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header" style="height: 50px">
+                    <div class="inlineDisplay totalh2" id="modal_hdr_txt"></div>
+                    <a data-toggle="modal" class="close" data-dismiss="modal">
+                        <img src="Images/MyZone/Modal/close-window-icon.png" alt="Close Window"  width="auto" height="auto"/>
+                    </a>
+                </div>
+                <div class="modal-body">
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Gdf-dxNKKOU" id="iframe_video" title="Learn more about this position"></iframe>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //-- shut down YouTube after video's dialog is closed
+            $("body").on('hidden.bs.modal', function (e) {
+                var $iframes = $(e.target).find("iframe");
+                $iframes.each(function (index, iframe) {
+                    $(iframe).attr("src", $(iframe).attr("src"));
+                });
+            });
+        });
+    </script>
+
+                <!-- below is added for preventing error in old pages-->
+                
+            </div>
+             <div class="footer" id="globalFooter">
+                
+<div class="row">
+    <div class="col-xs-12">
+        <div class="noborder alignCenter">
+            
+            <div id="ctl00_GlobalFooter_pnlFootNavLong">
+	
+                
+                <div class="FooterTable">
+                    <div class="footerLinks container-fluid">
+                        <div class="row">
+                            <div class="col FooterTopLeftCol">
+                                <ul id="ctl00_GlobalFooter_ulCol1">
+                                <li class="first FooterHeaderCell"><span>LA Fitness</span></li><li><a href="/Pages/Employment.aspx">Career Opportunities</a></li><li><a href="/Pages/SiteMap.aspx">Site Map</a></li><li><a href="/Pages/ContactUs.aspx">Contact Us</a></li><li><a href="/Pages/PrivacyPolicy.aspx">Privacy Policy</a></li><li><a href="/Pages/TermsAndConditions.aspx">Terms and Conditions</a></li><li><a href="/Pages/PressRelease.aspx">Media Relations</a></li><li><a href="/Pages/SocialMedia.aspx">Social Media</a></li><li><a href="/Pages/ADACompliance.aspx">ADA Compliance</a></li></ul>
+                            </div>
+                            <div class="col FooterSecondCol">
+                                <ul id="ctl00_GlobalFooter_ulCol2Group1">
+                                <li class="first FooterHeaderCell"><span>LA Fitness Clubs</span></li><li><a href="/Pages/about.aspx">About LA Fitness</a></li><li><a href="/Pages/findClub.aspx">Find a Club</a></li><li><a href="/Pages/FindClub.aspx?flow=GuestPass">Guest Pass</a></li><li><a href="/Pages/Gallery.aspx">Gallery</a></li></ul>
+                                <ul id="ctl00_GlobalFooter_ulCol2Group2">
+                                <li class="first FooterHeaderCell"><span>LA Fitness Blog</span></li><li><a href="http://blog.lafitness.com">Living Healthy</a></li></ul>
+                            </div>
+                            <div class="col">
+                                <ul id="ctl00_GlobalFooter_ulCol3">
+                                <li class="first FooterHeaderCell"><span>Benefits of Membership</span></li><li><a href="/Pages/whyJoin.aspx">Why Join</a></li><li><a href="/Pages/VidTestimonialPlay.aspx">Testimonials</a></li><li><a href="/Pages/AerobicClasses.aspx">Group Fitness Classes</a></li><li><a href="/Pages/Leagues.aspx">Leagues</a></li><li><a href="/Pages/PersonalTrainingGeneral.aspx">Personal Training</a></li><li><a href="/Pages/MobileHome.aspx">Mobile Applications</a></li></ul>
+                                <ul id="ctl00_GlobalFooter_ulCol3Group2">
+                                </ul>
+                            </div>
+                            <div class="col">
+                                <ul id="ctl00_GlobalFooter_ulCol4Group1">
+                                <li class="first FooterHeaderCell"><span>Becoming a Member</span></li><li><a href="/JoinNow/Default.aspx">Join Now</a></li><li><a href="/Pages/FindClub.aspx?flow=virtualtour">Schedule a Tour</a></li></ul>
+                                <ul id="ctl00_GlobalFooter_ulCol4Group2">
+                                <li class="first FooterHeaderCell"><span>Corporate Memberships</span></li><li><a href="/Pages/CorporateSignup.aspx">Information Request</a></li><li><a href="/Pages/CorporateWellnessPaymentsAndInvoices.aspx">Corporate Billing</a></li><li><a href="/Pages/checkincorporatesummary.aspx">Corporate Check-In</a></li></ul>
+                            </div>
+                            <div class="col">
+                                <ul id="ctl00_GlobalFooter_ulCol5">
+                                <li class="first FooterHeaderCell"><span>Member Tools</span></li><li><a href="/Pages/RegisterMember.aspx">Create an Account</a></li><li><a href="/Pages/memberServices.aspx?task=CustomerManagement">My LA Fitness</a></li><li><a href="http://myzone.lafitness.com" target="_blank">MYZONE<sup>&reg;</sup></a></li><li><a href="/Pages/SendToClubHome.aspx">My Club</a></li><li><a href="/Pages/ScheduleFitnessAssessment.aspx">Schedule Personal Training</a></li><li><a href="/Pages/NewsAndAnnouncements.aspx">News and Announcements</a></li><li><a href="/Pages/myviplist.aspx">Add a VIP Guest</a></li><li><a href="/Pages/OnlineMembershipFamilyAddOn.aspx">Add a Family Member</a></li><li><a href="/Pages/memberServices.aspx?task=BillingManagement">Billing Information</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+</div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <div style="text-align: right">
+            <div id="LAFMedia" class="lafContent">
+                <ul class="social-media">
+                    <li>
+                        <a href="http://www.facebook.com/LAFitness" title="Facebook" target="_blank">
+                            <img src="/Pages/Images/SocialMedia/facebook-icon.jpg" alt="LA Fitness on Facebook" title="LA Fitness on Facebook">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://twitter.com/lafitness" title="Twitter" target="_blank">
+                            <img src="/Pages/Images/SocialMedia/twitter-icon.jpg" alt="LA Fitness on Twitter" title="LA Fitness on Twitter">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.youtube.com/lafitness" title="YouTube" target="_blank">
+                            <img src="/Pages/Images/SocialMedia/youtube-icon.jpg" alt="LA Fitness on YouTube" title="LA Fitness on YouTube">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://plus.google.com/+lafitness/posts" title="Google Plus" target="_blank">
+                            <img src="/Pages/Images/SocialMedia/googleplus-icon.jpg" alt="LA Fitness on Google Plus" title="LA Fitness on Google Plus">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://instagram.com/lafitness" title="Instagram" target="_blank">
+                            <img src="/Pages/Images/SocialMedia/instagram-icon.jpg" alt="Instagram" title="Instagram">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<div id="ctl00_GlobalFooter_pnlFootLegal">
+	
+    <div class="legal">
+        <a href="default.aspx" id="ctl00_GlobalFooter_A9">Home</a>&nbsp;&nbsp; 
+        | &nbsp;&nbsp; <a href="termsAndConditions.aspx" id="ctl00_GlobalFooter_A11">Terms & Conditions</a>&nbsp;&nbsp; 
+        | &nbsp;&nbsp; <a href="privacyPolicy.aspx" id="ctl00_GlobalFooter_A10">Privacy Policy</a>&nbsp;&nbsp; 
+        | &nbsp;&nbsp; <a href="adacompliance.aspx" id="ctl00_GlobalFooter_A4">ADA Compliance</a>
+        <div>
+            &#169;2017&nbsp;
+            Fitness International, LLC. All rights reserved.
+        </div>
+    </div>
+
+</div>
+
+            </div>
+        </div>
+        <!-- end .container -->
+        
+        <span id="ctl00_lblAppVersion" class="no-print" style="color:White;">F-0349 4/12/2017 12:07:31 PM</span>
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_GlobalHeader_vtxtZip"), document.getElementById("ctl00_GlobalHeader_vvtxtZip"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_GlobalHeader_vtxtZip = document.all ? document.all["ctl00_GlobalHeader_vtxtZip"] : document.getElementById("ctl00_GlobalHeader_vtxtZip");
+ctl00_GlobalHeader_vtxtZip.controltovalidate = "ctl00_GlobalHeader_txtZip";
+ctl00_GlobalHeader_vtxtZip.errormessage = "Required!";
+ctl00_GlobalHeader_vtxtZip.validationGroup = "FindClubSearch";
+ctl00_GlobalHeader_vtxtZip.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_GlobalHeader_vtxtZip.initialvalue = "";
+var ctl00_GlobalHeader_vvtxtZip = document.all ? document.all["ctl00_GlobalHeader_vvtxtZip"] : document.getElementById("ctl00_GlobalHeader_vvtxtZip");
+ctl00_GlobalHeader_vvtxtZip.controltovalidate = "ctl00_GlobalHeader_txtZip";
+ctl00_GlobalHeader_vvtxtZip.errormessage = "Invalid!";
+ctl00_GlobalHeader_vvtxtZip.validationGroup = "FindClubSearch";
+ctl00_GlobalHeader_vvtxtZip.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_GlobalHeader_vvtxtZip.validationexpression = "(^\\d{5}(-\\d{4})?$)|(^[ABCEGHJKLMNPRSTVXY]{1}\\d{1}[A-Z]{1} *\\d{1}[A-Z]{1}\\d{1}$)";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+
+document.getElementById('ctl00_GlobalHeader_vtxtZip').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_GlobalHeader_vtxtZip'));
+}
+
+document.getElementById('ctl00_GlobalHeader_vvtxtZip').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_GlobalHeader_vvtxtZip'));
+}
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_GlobalHeader_txtWaterMark_ClientState","WatermarkCssClass":"watermark","WatermarkText":"search club by zip","id":"ctl00_GlobalHeader_txtWaterMark"}, null, null, $get("ctl00_GlobalHeader_txtZip"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

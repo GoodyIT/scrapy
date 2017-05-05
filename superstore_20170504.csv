@@ -1,0 +1,118 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+"Medicine Hat, AB",1550,1792 Trans Canada Way S.E. ,,Medicine Hat,AB,T1B 4C6,Canada,,50.003736,-110.65278,,,0
+"Kelowna, BC",1564,2280 Baron Road ,,Kelowna,BC,V1X 7W3,Canada,,49.88007,-119.4325,,,0
+"Gateway Road, Winnipeg, MB",1512,1035 Gateway Rd ,,Winnipeg,MB,R2K 4C1,Canada,,49.92814,-97.06981,,,0
+"Dougall Ave, Windsor, ON",2827,2430 Dougall Ave. ,,Windsor,ON,N8X 1T2,Canada,,42.288589,-83.023404,,,0
+"Midland, ON",0569,9292 County Road ,,Midland,ON,L4R 4K4,Canada,,44.738365,-79.915016,,,0
+"Courtenay, BC",1528,757 Ryan Road ,,Courtenay,BC,V9N 3R6,Canada,,49.69777,-124.9857,,,0
+"Westbank, BC",1552,3020 Louie Drive ,,Westbank,BC,V4T 3E1,Canada,,49.83476,-119.62076,,,0
+"Red Deer, AB",1579,A-5016-51 Avenue ,,Red Deer,AB,T4N 4H5,Canada,,52.26971,-113.8178,,,0
+"Brandon, MB",1515,920 Victoria Avenue ,,Brandon,MB,R7A 1A7,Canada,,49.84117,-99.95036,,,0
+"Brockville, ON",1017,1972 Parkdale Ave ,,Brockville,ON,K6V 5T2,Canada,,44.61394,-75.688717,,,0
+"Deerfoot, Calgary, AB",1539,"#100, 20 Heritage Meadows Way SE ",,Calgary,AB,T2H 0B5,Canada,,50.986,-114.0428,,,0
+"Newmarket, ON",1018,18120 Yonge St ,,Newmarket,ON,L3Y 4V8,Canada,,44.07158,-79.48583,,,0
+"Fort McMurray, AB",1548,9 Haineault Street ,,Fort McMurray,AB,T9H 1R8,Canada,,56.72421,-111.3764,,,0
+"Westboro, Ottawa, ON",1009,190 Richmond Road ,,Ottawa,ON,K1Z 6W6,Canada,,45.39424,-75.74728,,,0
+"215 St Anne's Rd., Winnipeg",1514,215 St Anne's Rd. ,,Winnipeg,MB,R2M 2Z9,Canada,,49.85707,-97.10311,,,0
+"Windermere Way, Edmonton, AB",1538,1155 Windermere Way SW ,,Edmonton,AB,T6W 2B6,Canada,,53.43701,-113.618506,,,0
+"Kenaston Boulevard, Winnipeg, MB",1516,550 Kenaston Blvd ,,Winnipeg,MB,R3N 2A1,Canada,,49.85535,-97.20413,,,0
+"Winston Churchill, Mississauga, ON",1080,3050 Argentia Road ,,Mississauga,ON,L5N 8E1,Canada,,43.59659,-79.78428,,,0
+"Scarborough, ON",2809,1755 Brimley Road ,,Scarborough,ON,M1P 0A3,Canada,,43.77806,-79.26295,,,0
+"South Common, Edmonton, AB",1549,9711-23rd Ave.  N.W. ,,Edmonton,AB,T6N 1K7,Canada,,53.45206,-113.4801,,,0
+"Richmond, BC",1557,4651 No.3 Road ,,Richmond,BC,V6X 2C4,Canada,,49.17935,-123.138,,,0
+Real Canadian Superstore - Metrotown,1518,#1105 Eaton Ctr. 4700 Kingsway ,,Burnaby,BC,V5H 4M1,Canada,,49.2269,-122.9998,,,0
+Calgary Southport,1574,10505 Southport Road SW ,,Calgary,AB,T2W 3N2,Canada,,50.9612,-114.0741,,,0
+"Heritage, Edmonton",1537,11835 26 Ave SW ,,Edmonton,AB,T6W 0C8,Canada,,53.409419,-113.536854,,,0
+"Seymour, Vancouver, BC",1560,333 Seymour Blvd. ,,North Vancouver,BC,V7J 2J4,Canada,,49.31163,-123.0241,,,0
+"Mayor MaGrath Drive, Lethbridge, AB",1541,3515 Mayor MaGrath Drive S. ,,Lethbridge,AB,T1K 8A8,Canada,,49.65785,-112.7909,,,0
+"Calgary Trail, Edmonton, AB",1570,4821 Calgary Trail N.W. ,,Edmonton,AB,T6H 5W8,Canada,,53.48685,-113.4934,,,0
+"Peterborough, ON",2831,769 Borden Avenue ,,Peterborough,ON,K9J 0B6,Canada,,44.283823,-78.331434,,,0
+"Sargent, Winnipeg, MB",1511,1385 Sargent Avenue ,,Winnipeg,MB,R3E 3P8,Canada,,49.89888,-97.19854,,,0
+"Whitehorse, YT",1530,2270-2nd Avenue ,,Whitehorse,YT,Y1A 1C8,Canada,,60.72832,-135.064,,,0
+"St. Albert, AB",1568,#10-101 St. Alberta Trail ,,St. Albert,AB,T8N 6L5,Canada,,53.62092,-113.6051,,,0
+"Portage, Winnipeg, MB",1508,3193 Portage Avenue ,,Winnipeg,MB,R3K 0W4,Canada,,49.88179,-97.28736,,,0
+"Pitt Meadows, BC",1555,19800 Lougheed Hwy Suite 201 ,,Pitt Meadows,BC,V3Y 2W1,Canada,,49.22164,-122.6702,,,0
+"Penticton, BC",1532,100-2210 Main Street ,,Penticton,BC,V2A 5H8,Canada,,49.476842,-119.58187,,,0
+"McKenzie, Calgary, AB",1546,#100  4700 130th Avenue SE ,,Calgary,AB,T2Z 4E7,Canada,,50.93385,-113.9679,,,0
+"Kingsway Avenue, Edmonton, AB",1502,11541 Kingsway Avenue ,,Edmonton,AB,T5G 3A6,Canada,,53.56552,-113.52301,,,0
+"North Oakville, Oakville, ON",1024,201 Oak Park Drive ,,Oakville,ON,L6H 6M3,Canada,,43.48408,-79.72124,,,0
+"Simcoe, ON - New! Online Shopping Now Available",2818,125 Queensway East ,,Simcoe,ON,N3Y 4M5,Canada,,42.85042,-80.29574,,,0
+"8th Street East, Saskatoon, SK",1535,2901-8th Street East ,,Saskatoon,SK,S7H 0V4,Canada,,52.11579,-106.6121,,,0
+"Duncan, BC",1563,291 Cowichan Way ,,Duncan,BC,V9L 4T8,Canada,,48.77389,-123.7029,,,0
+"Dufferin & Steeles, Toronto, ON",1033,51 Gerry Fitzgerald Dr ,,Toronto,ON,M3J 3N4,Canada,,43.78542,-79.47181,,,0
+Calgary Huntington,1545,7020 4th Street NW ,,Calgary,AB,T2K 1C4,Canada,,51.11624,-114.0698,,,0
+"Winkler, MB",1510,175 CARGILL Road ,,Winkler,MB,R6W 4A9,Canada,,49.1862,-97.93052,,,0
+"Yorkton, SK",1582,206 Broadway St. East ,,Yorkton,SK,S3N 3K4,Canada,,51.20868,-102.4521,,,0
+"Marine Drive, Vancouver, BC",1517,350 S.E. Marine Dr ,,Vancouver,BC,V5X 2S5,Canada,,49.20974,-123.1002,,,0
+"2332 160th St, Surrey",1551,2332 160th St ,,Surrey,BC,V3S 9N6,Canada,,49.043913,-122.778548,,,0
+"Prince of Wales, Regina",1584,2055 Prince Of Wales Dr. ,,Regina,SK,S4V 3A3,Canada,,50.44603,-104.5307,,,0
+"Sudbury, ON",2803,1485 Lasalle Blvd ,,Sudbury,ON,P3A 5H7,Canada,,46.520402,-80.939664,,,0
+"Victoria, BC",1527,835 Langford Parkway ,,Victoria,BC,V9B 4V5,Canada,,48.44138,-123.5063,,,0
+"Oakridge Mall, London, ON",2812,1205 Oxford Street ,,London,ON,N6H 1V9,Canada,,42.975739,-81.323976,,,0
+"Lloydminster, AB",1571,5031 - 44th Street ,,Lloydminster,AB,T9V 0A6,Canada,,53.27725,-110.009,,,0
+"Langley, BC",1561,19851 Willowbrook Drive ,,Langley,BC,V2Y 1A7,Canada,,49.11786,-122.6731,,,0
+"Mavis Road, Mississauga, ON",2841,3045 Mavis Road ,,Mississauga,ON,L5C 1T7,Canada,,43.56774,-79.63285,,,0
+"Abbotsford, BC",1558,2855 Gladwin Road ,,Abbotsford,BC,V2T 6Y4,Canada,,49.05391,-122.3166,,,0
+"Ajax, ON",1012,30 Kingston Road West ,,Ajax,ON,L1T 4K8,Canada,,43.86076,-79.03257,,,0
+"Spruce Grove, AB",1565,#10 - 110 Jennifer Heil Way ,,Spruce Grove,AB,T7X 3Z3,Canada,,53.54367,-113.933,,,0
+"Walker Road, Windsor, ON - New! Online Shopping Now Available",0567,4371 Walker Road ,,Windsor,ON,N8W 3T6,Canada,,42.256829,-82.968141,,,0
+"Oshawa, ON",1043,1385 Harmony Rd North ,,Oshawa,ON,L1H 7K5,Canada,,43.94287,-78.84309,,,0
+"Milton, ON",2810,820 Main Street East ,,Milton,ON,L9T 0J4,Canada,,43.52646,-79.86692,,,0
+"Hamptons, Calgary, AB",1575,5251 Country Hills Bv. N.W. ,,Calgary,AB,T3A 5H8,Canada,,51.13698,-114.1601,,,0
+"Aurora, ON",1030,15900 Bayview Ave ,,Aurora,ON,L4G 7Y3,Canada,,44.02162,-79.45001,,,0
+"Rochdale Boulevard, Regina, SK",1585,4450 Rochdale Blvd. ,,Regina,SK,S4X 4N9,Canada,,50.49774,-104.6436,,,0
+"Sherwood Park, AB",1567,#100-410 Baseline Road ,,Sherwood Park,AB,T8H 2A7,Canada,,53.54298,-113.2939,,,0
+"Nanaimo, BC",1525,6435 Metral Dr. ,,Nanaimo,BC,V9T 2L9,Canada,,49.2317,-124.0457,,,0
+"King George, Surrey, BC",1521,7550 King George Highway ,,Surrey,BC,V3W 2T2,Canada,,49.13909,-122.8436,,,0
+"Oxford & Gammage, London, ON",1091,825 Oxford Street East ,,London,ON,N5Y 3J8,Canada,,43.00297,-81.22619,,,0
+"Steinbach, MB",1503,130 PTH 12 North ,,Steinbach,MB,R5G 1T4,Canada,,49.54371,-96.69253,,,0
+"Gibb Street, Oshawa, ON",2842,481 Gibb Street ,,Oshawa,ON,L1J 1Z4,Canada,,43.885499,-78.877945,,,0
+"Clareview, Edmonton, AB",1566,4950 - 137 Avenue NW ,,Edmonton,AB,T5Y 2V4,Canada,,53.5985,-113.4112,,,0
+"Chatham, ON",0562,791 St. Clair Street North ,,Chatham,ON,N7M 5J7,Canada,,42.4325,-82.22014,,,0
+"Innes Road, Ottawa, ON",1071,4270 Innes Road ,,Ottawa,ON,K4A 5E6,Canada,,45.456676,-75.494492,,,0
+"Delta, BC",1554,8195 120 ST ,,Delta,BC,V4C 6P7,Canada,,49.15179,-122.8917,,,0
+"Grandview, Vancouver, BC",1520,3185 Grandview Highway ,,Vancouver,BC,V5M 2E9,Canada,,49.25912,-123.0356,,,0
+"Highland Hills, Kitchener, ON",2822,875 Highland Road West ,,Kitchener,ON,N2N 2Y2,Canada,,43.43065,-80.526155,,,0
+"Surrey Guildford, BC",1556,14650 104 AVE ,,Surrey,BC,V3R 1M3,Canada,,49.19061,-122.8165,,,0
+"Edmonton West, AB",1573,17303 Stony Plain Road NW ,,Edmonton,AB,T5S 1B5,Canada,,53.5398,-113.6197,,,0
+"Thunder Bay, ON - New! Online Shopping Now Available",1504,971 Carrick Street ,,Thunder Bay,ON,P7B 6L9,Canada,,48.40819,-89.24679,,,0
+"Strathroy, ON - New! Online Shopping Now Available",2823,626 Victoria Street ,,Strathroy,ON,N7G 3C1,Canada,,42.967296,-81.63255,,,0
+"Mission, BC",1559,32136 Lougheed Highway ,,Mission,BC,V2V 1A4,Canada,,49.13198,-122.3327,,,0
+"Don Mills & Eglinton, Toronto, ON",1077,825 Don Mills Road ,,Toronto,ON,M3C 1V4,Canada,,43.72223,-79.33778,,,0
+Calgary Shawnessy,1578,100-15915 Macleod Tr. S.E. ,,Calgary,AB,T2Y 3R9,Canada,,50.90973,-114.0673,,,0
+"Weston Road, Toronto, ON",2800,2549 Weston Road ,,Toronto,ON,M9N 2A7,Canada,,43.710273,-79.533773,,,0
+"Bison, Winnipeg, MB",1509,80 Bison Drive ,,Winnipeg,MB,R3T 4Z7,Canada,,49.80025,-97.1637,,,0
+"Cranbrook, BC",1553,2100 - 17th Street N. ,,Cranbrook,BC,V1C 7J1,Canada,,49.52932,-115.7518,,,0
+"Golden Mile, SK",1533,3806 ALBERT STREET ,,Regina,SK,S4S 3R3,Canada,,50.417413,-104.619503,,,0
+"Regent Avenue, Winnipeg, MB",1506,1578 Regent Ave West ,,Winnipeg,MB,R2C 3B4,Canada,,49.89578,-97.06633,,,0
+"South Kanata, Ottawa, ON",2813,760 Eagleson Road ,,Ottawa,ON,K2M 0A7,Canada,,45.2822,-75.86646,,,0
+"Confederation Drive, Saskatoon, SK",1536,411 Confederation Dr ,,Saskatoon,SK,S7L 5C3,Canada,,52.13202,-106.7254,,,0
+"Leamington, ON",0566,201 Talbot Street East ,,Leamington,ON,N8H 3X5,Canada,,42.05694,-82.58712,,,0
+"Whitby, ON",1058,200 Taunton Road West ,,Whitby,ON,L1R 3H8,Canada,,43.915708,-78.961678,,,0
+"Whitemud, Edmonton, AB",1569,4410-17 Street NW ,,Edmonton,AB,T6T 0C1,Canada,,53.47994,-113.37026,,,0
+"Hwy 10 & Steeles, Brampton, ON",2801,85 Steeles Ave West ,,Brampton,ON,L6Y 0B5,Canada,,43.66496,-79.73264,,,0
+"Campbell River, BC",1524,1424 Island Highway ,,Campbell River,BC,V9W 2E3,Canada,,50.03589,-125.2535,,,0
+"Georgetown, ON",2811,171 Guelph Street ,,Georgetown,ON,L7G 4A1,Canada,,43.6513,-79.90661,,,0
+"Prince Albert, SK",1581,591-15th Street East ,,Prince Albert,SK,S6V 1G3,Canada,,53.19863,-105.739,,,0
+"Wasaga Beach, ON",0512,25-45th Street  South ,,Wasaga Beach,ON,L9Z 1A7,Canada,,44.47359,-80.07552,,,0
+"Grande Prairie, AB",1544,12225-99th Street ,,Grande Prairie,AB,T8V 6X9,Canada,,55.19147,-118.7934,,,0
+Calgary Westwinds,1542,Unit 100 3633 Westwinds Drive N.E. ,,Calgary,AB,T3J 5K3,Canada,,51.11067,-113.9715,,,0
+"Camrose, AB",1547,7005-48th Avenue ,,Camrose,AB,T4V 4W1,Canada,,53.01616,-112.8642,,,0
+"Moose Jaw, SK",1583,30 Thatcher Drive East ,,Moose Jaw,SK,S6H 7K8,Canada,,50.41394,-105.5319,,,0
+"20th Avenue, Calgary, AB",1576,3575-20th Avenue N.E. ,,Calgary,AB,T1Y 6R3,Canada,,51.06952,-113.9838,,,0
+"St. Catharines, ON",0577,411 Louth Street ,,St. Catharines,ON,L2S 4A2,Canada,,43.15307,-79.26594,,,0
+"Seton, Calgary, AB",1586,19655 Seton Way SE ,,Calgary,AB,T3M 2N9,Canada,,50.879569,-113.957712,,,0
+"McPhillips, Winnipeg, MB",1505,2132 Mcphillips St. ,,Winnipeg,MB,R2V 3C8,Canada,,49.94928,-97.1548,,,0
+Chilliwack. BC,1523,45779 Luckakuck Way ,,Chilliwack,BC,V2R 4E8,Canada,,49.14276,-121.959,,,0
+"St Thomas, ON",0551,1063 Talbot Street ,,St. Thomas,ON,N5P 1G4,Canada,,42.78296,-81.1709,,,0
+"Edmonton Northwest, AB",1572,12350 - 137 Ave. NW ,,Edmonton,AB,T5L 4X6,Canada,,53.60066,-113.5368,,,0
+"Vernon, BC",1531,5001 Anderson Way ,,Vernon,BC,V1T 9V1,Canada,,50.28394,-119.2728,,,0
+"Coquitlam, BC",1519,1301 Lougheed Highway ,,Coquitlam,BC,V3K 6P9,Canada,,49.23497,-122.8566,,,0
+"Grimsby, ON",2806,361 South Service Road ,,Grimsby,ON,L3M 4E8,Canada,,43.20406,-79.59033,,,0
+"3000 Lougheed Hwy., Coquitlam",1526,3000 Lougheed Hwy. ,,Coquitlam,BC,V3B 1C5,Canada,,49.27396,-122.7943,,,0
+"Signal Hill, Calgary, AB",1577,5858 Signal Hill Cntr S.W. ,,Calgary,AB,T3H 3P8,Canada,,51.019093,-114.173933,,,0
+"Airdrie, AB",1540,300 Veterans Blvd NE ,,Airdrie,AB,T4B 3P2,Canada,,51.30079,-114.0097,,,0
+"Kamloops, BC",1522,910 Columbia Street West ,,Kamloops,BC,V2C 1L2,Canada,,50.66869,-120.3565,,,0
+"2155 Ferry Avenue, Prince George",1562,2155 Ferry Avenue ,,Prince George,BC,V2N 5E8,Canada,,53.8877,-122.7692,,,0
+"Coventry Hills, Calgary, AB",1543,100 Country Village Road NE ,,Calgary,AB,T3K 5Z2,Canada,,51.16139,-114.0683,,,0
+"Sarnia, ON",2826,600 Murphy Road ,,Sarnia,ON,N7S 2X1,Canada,,42.97886,-82.36584,,,0

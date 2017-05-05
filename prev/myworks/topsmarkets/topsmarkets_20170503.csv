@@ -1,0 +1,181 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+,702,4976 Lakeshore Drive,,,New York,12824,US,(518) 644-2069,43.558342,-73.653865,7am-8pm Daily,,0
+,539,309 W. Morris Street,,,New York,14810,US,(607) 776-1015,42.333885,-77.326799,24 HOURS,,0
+,357,2265 Downer Street,,Town of Van Buren,New York,13027,US,(315) 635-3536,43.151991,-76.349901,24 HOURS,,0
+,245,390 W. Main Street,,Batavia,New York,14020,US,(585) 343-9373,43.006405,-78.204361,24 HOURS,,0
+,431,270 E. Main Street,,,New York,14414,US,(585) 226-2730,42.910709,-77.733822,24 HOURS,,0
+,504,352 West Genesee St.,,Auburn,New York,13021,US,(315) 252-7995,42.919051,-76.590395,24 Hours,,0
+,717,14228 NYS Rt 9N,,,New York,12912,US,(518) 647-5480,44.4410824,-73.67591929999,Sun 7am-8pm; Mon-Sat 7am-9pm,,0
+,277,150 Prospect Street,,,New York,14011,US,(585) 591-8092,42.8690264,-78.2776246,6am-10pm,,0
+,238,658 W. Main Street,,,New York,14009,US,(585) 492-0067,42.5322351,-78.4513619,5 am - 1 am,,0
+,227,9660 Transit Road,,,New York,14051,US,(716) 515-3525,43.0329078,-78.6969697,24 Hours,,0
+,207,3035 Niagara Falls Blvd.,,,New York,14228,US,(716) 515-0025,43.037108,-78.82168,24 Hours,,0
+,41,3980 Maple Road,,,New York,14228,US,(716) 515-0075,42.991987,-78.815742,24 Hours,,0
+,42,3500 Main Street,,,New York,14216,US,(716) 515-3240,42.958762,-78.818579,6 am - Midnight,,0
+,261,12775 Broadway Avenue,,,New York,14004,US,(716) 505-1450,42.894046,-78.5098749,24 hours,,0
+,451,408 West Avenue,,,New York,14411,US,(585) 589-2548,43.239567,-78.205386,6 am to Midnight,,0
+,596,10916 US RT 11,,,New York,13605,US,(315) 232-2222,43.82594,-76.01904,,,0
+,740,Norton Place & Main Street,,Rutland,Vermont,05701,US,(802) 775-6986,43.598824,-72.970427,6 AM to Midnight,,0
+,741,63 Plaze Drive,,,Vermont,05663,US,(802) 485-8878,44.161487,-72.655666,"Sunday, 7AM - 8PM, Monday - Saturday, 7AM - 9PM",,0
+,742,82 VT Route 15W,,,Vermont,05836,US,(802) 472-6504,44.503384,-72.360273,,,0
+,669,28 Railroad Street,,Youngsville,Pennsylvania,16371,US,(814) 563-4366,41.850246,-79.3173018,6am- 10pm,,0
+,620,198 West Main Street,,Westfield,Pennsylvania,16950,US,(814) 367-2320,41.918287,-77.542718,7AM - 9PM,,0
+,676,11 Main Street,,Wellsboro,Pennsylvania,16901,US,(570) 724-5426,41.749877,-77.2988571,6am- Midnight,,0
+,667,"230 South High St., PO Box 327",,Waterford,Pennsylvania,16441,US,(814) 796-6711,41.941886,-79.9838664,6am - 10pm,,0
+,603,74 Market Street,,Warren,Pennsylvania,16365,US,(814) 726-3660,41.84302,-79.144049,6AM to Midnight,,0
+,668,19-21 East High Street,,Union City,Pennsylvania,16438,US,(814) 438-7614,41.8996743,-79.8437926,6am - 10pm,,0
+,677,684 Elmira Street,,,Pennsylvania,16947,US,(570) 297-2475,41.7901778,-76.7788952,6am - Midnight,,0
+,680,"Bradford Towne Center, RR Box 6035",,,Pennsylvania,18854,US,(570) 265-7006,41.7725677,-76.3898391,Open 24 hours daily,,0
+,671,9 Leather Street,,,Pennsylvania,16347,US,(814) 968-3014,41.7025527,-79.0320719,6am- 10pm,,0
+,679,448 N. Keystone Avenue,,Sayre,Pennsylvania,18840,US,(570) 888-4785,41.9926593,-76.5291538,7am- 10pm,,0
+,650,3014 N. Elmira Street,,Troy,Pennsylvania,16947,US,(570) 882-9188,41.7884026,-76.783018,24 Hours,,0
+,670,"144 Center St., - Downtown Mall",,Meadville,Pennsylvania,16335,US,(814) 724-4025,41.6414438,-80.1514484,6am - Midnight,,0
+,672,525 North Fraley Street,,Kane,Pennsylvania,16735,US,(814) 837-7812,41.6670991,-78.8122616,6am - 10pm,,0
+,601,1702 E. 38th  Street,,Erie,Pennsylvania,16510,US,(814) 455-7482,42.116941,-80.030626,24 Hours,,0
+,602,1520 W. 26th St. @ Green Garden,,Erie,Pennsylvania,16508,US,(814) 455-9000,42.1292241,-80.085059,24 Hours,,0
+,665,"712 West 38th St., Liberty Plaza",,Erie,Pennsylvania,16502,US,(814) 864-4958,42.1090023,-80.0927298,6am - 1am,,0
+,678,"East Main Street, RR #1",,Canton,Pennsylvania,17724,US,(570) 673-3838,41.6558641,-76.8462246,6 am - 9pm,,0
+,610,150 Main Street,,Bradford,Pennsylvania,16701,US,(814) 363-9901,41.9596338,-78.6376485,6 am - Midnight,,0
+,276,5274 Main & Union,,,New York,14221,US,(716) 632-7411,42.961076,-78.755498,24 Hours,,0
+,224,2351 Maple Rd.,,,,14221,US,(716) 515-3200,42.988395,-78.699069,24 Hours,,0
+,279,121 East Main Street,,,New York,14787,US,(716) 326-4965,42.325411,-79.573905,6am - 10pm,,0
+,49,355 Orchard Park Road,,West Seneca,New York,14220,US,(716) 517-3000,42.831836,-78.785014,24 Hours,,0
+,212,800 Harlem Rd,,Buffalo,New York,14224,US,(716) 823-8948,42.86665,-78.788544,24 Hours,,0
+,50,315 Orchard Park Rd.,,West Seneca,New York,14220,US,(716) 821-0157,42.835057,-78.788142,6am - 11pm,,0
+,249,111 Bolivar Road,,,New York,14895,US,(585) 593-0166,42.127258,-77.962529,6 am - Midnight,,0
+,576,504 1/2 South Franklin Street,,,New York,14891,US,(607) 535-4064,42.369691,-76.866733,6am - 11pm,,0
+,589,22050 Seaway Shopping Center,,Watertown,New York,13601,US,(315) 788-7330,43.9871589,-75.909762,6am - Midnight,,0
+,565,1963 Kingdom Plaza,,,New York,13148,US,(315) 539-8866,42.9044078,-76.8342728,5AM - Midnight,,0
+,247,2382 Route 19,,,New York,14569,US,(585) 786-0660,42.7736599,-78.1240102,6 am - Midnight,,0
+,701,3836 Main street,,,New York,12885,US,(518) 623-3114,43.495792,-73.77296100000,7am-9pm Daily,,0
+,534,1357 US Highway 9,,,New York,12590,US,(845) 298-7200,41.5834746,-73.9063122,6AM - 12PM,,0
+,428,2140 Walworth-Penfield Road,,,New York,14568,US,(315) 986-4009,43.13803,-77.27798999999,6:00AM - Midnight,,0
+,130,4235 Military Road,,,New York,14305,US,(716) 297-3410,43.125599,-78.999589,6 am - 1 am,,0
+,228,150 Niagara Street,,Tonawanda,New York,14150,US,(716) 693-5700,43.020329,-78.883653,24 Hours,,0
+,226,890 Young Street,,Tonawanda,New York,14150,US,(716) 692-8254,43.001933,-78.85818,24 Hours,,0
+,725,6350 Main Street,,,New York,12485,US,(518) 589-0048,42.195644,-74.133751,7AM to 9PM,,0
+,362,620 Nottingham Road,,Town of DeWitt,New York,13224,US,(315) 446-1652,43.0217252,-76.1092501,24 Hours,,0
+,373,700 1st North Street,,Syracuse,New York,13208,US,(315) 470-0980,43.069379,-76.148956,6 am to 10 pm daily,,0
+,370,2120 W. Genesee Street,,Syracuse,New York,13219,US,(315) 488-2989,43.0475833,-76.1980778,6am - 11pm,,0
+,369,181 Shop City Plaza,,Town of Salina,New York,13206,US,(315) 437-5201,43.0737733,-76.1186533,6am - Midnight,,0
+,372,4141 South Salina St,,Syracuse,New York,13205,US,(315) 492-1048,43.00835,-76.14107,6 AM to 10 PM - 7 Days a Week,,0
+,722,127 Main Street,,,New York,12167,US,(607) 652-5114,42.40995,-74.620757,,,0
+,233,184 South Cascade Drive (Route 219),,,New York,14141,US,(716) 592-8241,42.5083952,-78.6672482,6 am - Midnight,,0
+,453,27 Slayton Ave,,,New York,14559,US,(585) 352-2100,43.1908797,-77.7996532,24 Hours,,0
+,597,1330 Washington Street,,Watertown,New York,13601,US,(315) 779-0144,43.957437,-75.915313,,,0
+,366,40 Fennell Street,,Town of Skaneateles,New York,13152,US,(315) 685-7424,42.9481892,-76.4331932,6 am - 11pm,,0
+,278,140 Central Avenue,,,New York,14136,US,(716) 934-3431,42.54569,-79.1731438,7 am - 10pm,,0
+,364,87 E. State Street,,City of Sherrill,New York,13461,US,(315) 361-1689,43.07336,-75.594004,6 am - Midnight,,0
+,719,1103 Route 9,,,New York,12870,US,(518) 532-7885,43.837637,-73.76259600000,Sun 7am-7pm; Mon-Sat 7am-8pm,,0
+,707,156 Church Street,,,New York,14157,US,(518) 891-4345,44.3289929,-74.130245,7:00 am to 9:00 pm daily,,0
+,709,622 Lake Flower Ave.,,,New York,12983,US,(518) 891-4777,44.310404,-74.11633899999,Sun 7am-8pm;  Mon-Sat 7am-9pm,,0
+,595,6103 North Main Street,,,New York,13145,US,(315) 387-5212,43.646961,-76.086425,5AM to 9PM,,0
+,32,2956 Saunders Settlement Road,,,New York,14132,US,(716) 731-7344,43.142452,-78.88392390000,6AM - Midnight,,0
+,587,217 Erie Blvd. West,,City of Rome,New York,13440,US,(315) 334-5300,43.2120969,-75.4623713,6am - Midnight,,0
+,55,211 N. Winton Rd,,Rochester,New York,14610,US,(585) 697-1736,43.149658,-77.553014,6:00AM-11:00PM,,0
+,401,450 West Avenue,,Rochester,New York,14611,US,(585) 512-4100,43.1499951,-77.6504474,6 am - 10 pm,,0
+,410,North 175 Winton Road,,Rochester,New York,14610,US,(585) 288-7850,43.143174,-77.556543,6am - 11pm,,0
+,418,3507 Mt. Read / Maiden,,Greece,New York,14626,US,(585) 663-4400,43.2236861,-77.6998233,24 Hours,,0
+,460,285 Upper Falls Blvd.,,Rochester,New York,14605,US,(585) 454-4430,43.169739,-77.610083,7 am - 10 pm,,0
+,417,1601 Penfield Road,,Penfield,New York,14526,US,(585) 264-0820,43.133249,-77.496386,24 Hours,,0
+,400,710 Lake Avenue,,Rochester,New York,14613,US,(585) 254-0110,43.1779539,-77.6311096,6 am -10 pm,,0
+,540,360 W. Pulteney St.,,,New York,14830,US,(607) 936-3923,42.1532586,-77.07699960000,24 Hours,,0
+,531,6726 Route 9,,,New York,12572,US,(845) 876-7800,41.946414,-73.900193,24 Hours,,0
+,273,"51 Main St., Randolph Plaza",,,New York,14772,US,(716) 358-6577,42.15795,-78.999805,6am - 10pm,,0
+,585,3830 Rome Road,,,New York,13142,US,(315) 298-1081,43.558888,-76.117519,5AM - 1AM,,0
+,713,"2 Gorman Way, Suite #1",,,Vermont,05739,US,(518) 643-9255,43.3460909,-72.9959915,7am-9pm Daily,,0
+,566,321 Liberty Street,,,New York,14527,US,(315) 536-2508,42.6619273,-77.0569511,24 Hours,,0
+,579,1145 Rt. 17-C,,,New York,13827,US,(607) 687-2546,42.101672,-76.2513699,6am - Midnight,,0
+,108,3201 Southwestern Blvd,,,New York,14127,US,(716) 677-2569,42.795831,-78.748756,24 Hours,,0
+,413,6272 Furnace Road,,,New York,14519,US,(315) 524-3550,43.226553,-77.28072,24 Hours,,0
+,206,2401 W. State Street,,Olean,New York,14760,US,(716) 373-1021,42.0771358,-78.4571202,24 Hours,,0
+,569,54 E. Main Street,,City of Norwich,New York,13815,US,(607) 336-4244,42.5314225,-75.5210957,6am - Midnight,,0
+,721,201 Main Street,,,New York,12134,US,(518) 863-6776,43.227716,-74.17351500000,7am-8pm Daily,,0
+,240,301 Meadow Drive,,North Tonawanda,New York,14120,US,(716) 743-4350,43.050751,-78.874796,24 Hours,,0
+,361,3803 Brewerton Road (Airport Plaza),,Town of Salina,New York,13212,US,(315) 458-0032,43.1179216,-76.1407965,Open 24 hours daily,,0
+,716,273 Main Street,,,New York,12853,US,(518) 251-4669,43.700532,-73.987548,Sun 7am-7pm; Mon-Sat 7am-9pm,,0
+,70,7375 Boston State Road,,,New York,14075,US,(716) 649-8671,42.684398,-78.76574,6:00am to 11:00pm Daily,,0
+,9,1000 Portage Road,,Niagara Falls,New York,14301,US,(716) 513-2170,43.098644,-79.052125,6am to Midnight daily,,0
+,22,7200 Niagara Falls Blvd.,,Niagara Falls,New York,14120,US,(716) 513-2200,43.0881478,-78.9817164,24 Hours,,0
+,39,2555 Main Street,,,New York,14108,US,(716) 778-5094,43.290776,-78.71015,6AM - MIDNIGHT,,0
+,532,271 Main Street,,,New York,12561,US,(845) 256-0121,41.7449333,-74.06921779999,24 Hours,,0
+,594,3385 Main Street,,,New York,13114,US,(315) 963-7053,43.459014,-76.2392969,6 am - 10 pm daily,,0
+,248,11200 Maple Ridge Rd,,,New York,14103,US,(585) 798-2590,43.205185,-78.399519,6 am - Midnight,,0
+,270,640 South Erie Street,,,New York,14757,US,(716) 753-7670,42.24374,-79.496785,6am - 10pm,,0
+,365,119 West Seneca Street,,Town of Manlius,New York,13104,US,(315) 682-7261,43.000473,-75.981596,Open 24 hours daily,,0
+,434,33 Forgham St.,,,New York,14489,US,(315) 946-6272,43.059361,-76.995229,6:00AM TO 10:00PM,,0
+,574,"7301 South State Street, Lowville Plaza",,,New York,13367,US,(315) 376-6311,43.7818903,-75.4828654,6am - Midnight,,0
+,38,3949 Lockport/Olcott Rd.,,,New York,14094,US,(716) 439-8900,43.2252692,-78.6777401,24 Hours,,0
+,275,7134 Rochester Road,,,New York,14067,US,(716) 434-3990,43.181165,-78.641198,6am - Midnight,,0
+,21,5827 South Transit,,,New York,14094,US,(716) 439-4366,43.141423,-78.6947409,24 Hours,,0
+,59,805 Cayuga Street,,,New York,14092,US,(716) 754-7121,43.170625,-79.035473,6am - 11pm,,0
+,115,906 Center Street,,,New York,14092,US,(716) 215-1350,43.171905,-79.031134,5 am - 1 am,,0
+,246,128 W. Main Street,,,New York,14482,US,(585) 768-8549,42.979619,-78.004968,24 Hours,,0
+,522,2300 N. Triphammer Road,,,New York,14850,US,(607) 257-4952,42.481699,-76.48665,24 Hours,,0
+,58,470 Aurora St.,,,New York,14086,US,(716) 681-4641,42.881240,-78.676187,5:00AM-11:00PM,,0
+,533,16 Jon J Wagner Way,,,New York,12540,US,(845) 473-0454,41.6678746,-73.79534060000,24 Hours,,0
+,375,9 Mechanic Street,,Town of Elbridge,New York,13080,US,(315) 689-9491,43.065717199999,-76.4716196,7 am to 9 pm daily,,0
+,274,738 Foote Avenue,,Jamestown,New York,14701,US,(716) 484-7243,42.080585,-79.2287528,6am - 12am,,0
+,525,710 S Meadow St,,Ithaca,New York,14850,US,(607) 275-8041,42.4324865,-76.5080581,24 Hours,,0
+,429,999 East Ridge Road,,Rochester,New York,14621,US,(585) 342-3803,43.195478,-77.589542,6:00am - Midnight,,0
+,723,21501 NY State RT 22,,,New York,12138,US,(518) 686-5649,42.845265,-73.339953,,,0
+,452,98 South Avenue,,,New York,14468,US,(585) 392-6770,43.2860595,-77.79020129999,24 Hours,,0
+,416,1215 Jefferson Rd,,Henrietta Town,New York,14623,US,(585) 292-0117,43.085947,-77.599606,,,0
+,599,409 Fulton Street,,,New York,13074,US,(315) 564-6318,43.3231975,-76.5730345,6AM-10PM Daily,,0
+,726,16 W. Main Street,,,New York,13783,US,(607) 637-3369,41.954983,-75.283488,,,0
+,450,1800 Lake Road,,,New York,14464,US,(585) 964-2920,43.2926519,-77.918745,6AM - 11PM,,0
+,215,4250 McKinley Parkway,,,New York,14006,US,(716) 515-3225,42.768149,-78.813127,24 Hours,,0
+,236,S. 6150 South Park Ave.,,,New York,14075,US,(716) 515-3300,42.72776,-78.824311,24 Hours,,0
+,720,11573 State Route 32,,,New York,12083,US,(518) 966-5396,42.41536,-74.022077,6 am to 11 pm,,0
+,119,2140 Grand Island Blvd.,,,New York,14072,US,(716) 775-1138,43.018617,-78.962231,24 Hours,,0
+,436,381 Hamilton Street,,Geneva,New York,14456,US,(315) 781-0205,42.858021,-76.998607,Open 24 Hours,,0
+,403,2345 Buffalo Rd,,,New York,14428,US,(585) 247-8040,43.146087,-77.710906,24 Hours,,0
+,508,909 W 1st Street S.,,Fulton,New York,13069,US,(315) 592-4523,43.303035,-76.40690999999,6:00AM - 10:00PM,,0
+,754,20 Center Street,,,New York,14738,US,(716) 569-6460,42.053385,-79.160788,6am - 10pm,,0
+,363,5351 N. Burdick Street,,Town of Manlius,New York,13066,US,(315) 637-8039,43.0314819,-76.019536,24 Hours,,0
+,435,6179 Route  96,,Farmington,New York,14425,US,(585) 742-4100,42.974415,-77.34481829999,24 Hours,,0
+,272,110 South Work Street,,,New York,14733,US,(716) 665-1150,42.117775,-79.197147,6am - 10pm,,0
+,419,6720 Pittsford/Palmyra Rd,,,New York,14450,US,(585) 425-0020,43.07055,-77.4397089,6AM to Midnight,,0
+,542,"830 Consumer Sq, Plaza, Rt. 64",,Elmira,New York,14901,US,(607) 739-0095,42.089796,-76.807734,6AM to 10PM,,0
+,578,"1600 Cedar St., Southtown Plaza",,,New York,14867,US,(607) 734-8147,42.362536,-76.595786,6am - Midnight,,0
+,551,299 S. Main Street,,Elmira,New York,14904,US,(607) 734-6686,42.082334,-76.803436,6:00 AM to 12:00 AM Every Day,,0
+,271,64 E. Washington Street,,,New York,14731,US,(716) 699-2353,42.277009,-78.669556,6am - 10 pm,,0
+,710,335 Court Street,,,New York,12932,US,(518) 873-6589,44.2130988,-73.59702900000,Sun 7am-7pm; Mon-Sat 7am-9pm,,0
+,374,227 East Main Street,,Town of Elbridge,New York,13060,US,(315) 689-3781,43.0358802,-76.4398592,6 am - 10 pm,,0
+,118,65 Grey Street,,,New York,14052,US,(716) 655-3206,42.767356,-78.6321339,24 Hours,,0
+,264,3955 Vineyard Drive,,,New York,14048,US,(716) 366-2050,42.4587343,-79.3168289,24 Hours,,0
+,54,4600 East Genesee St.,,Town of DeWitt,New York,13214,US,(315) 445-4071,43.034277,-76.064577,6:00AM-11:00PM,,0
+,371,4410 E. Genesee Street,,Town of DeWitt,New York,13214,US,(315) 446-6421,43.035166,-76.0674436,6am - Midnight,,0
+,237,6363 Transit Rd,,,New York,14043,US,(716) 601-0180,42.930925,-78.696351,24 Hours,,0
+,268,6914 Erie Road,,,New York,14047,US,(716) 947-4019,42.6985262,-78.9861481,24 Hours,,0
+,220,4777 Transit Road,,,New York,14227,US,(716) 515-3280,42.8677235,-78.6969256,24 Hours,,0
+,114,5175 Broadway,,,New York,14043,US,(716) 515-3440,42.898872,-78.683488,24 Hours,,0
+,520,35 Franklin Plaza,,,New York,14437,US,(585) 335-2140,42.561727,-77.7021369,24 Hours,,0
+,724,44 Hope Plaza,,,New York,12192,US,(518) 731-6173,42.394323,-73.806616,,,0
+,517,3932 State Route 281,,,New York,13045,US,(607) 250-2500,42.5972855,-76.2051068,24 Hours,,0
+,700,100 Main Street,,,New York,12822,US,(518) 654-6779,43.246911,-73.83415500000,7am-9pm Daily,,0
+,568,"5 Commons Drive, Rt 28",,,New York,13326,US,(607) 547-5956,42.7006303,-74.924321,6 am - 11pm,,0
+,433,3 Clifton Springs Plaza,,,New York,14432,US,(315) 462-9055,42.969154,-77.14132699999,,,0
+,368,8417 Oswego Road,,Town of Clay,New York,13090,US,(315) 652-4934,43.1784225,-76.2574733,6 am - Midnight,,0
+,359,800 W. Genesee Street,,,New York,13037,US,(315) 687-9224,43.053864,-75.862908,6 am - Midnight,,0
+,712,6308 U.S. 9,,,New York,12817,US,(518) 494-7111,43.649833,-73.80009999999,Sun 7am-7pm; Mon-Sat 7am-9pm,,0
+,202,3865 Union Road,,,New York,14225,US,(716) 684-5927,42.9198661,-78.7541401,24 Hours,,0
+,44,3870 Harlem Road,,,New York,14215,US,(716) 836-0433,42.9489084,-78.78501039999,6 am - Midnight,,0
+,131,700 Thruway Plaza Dr,,,New York,14225,US,(716) 929-0380,42.904088,-78.7804309,6 am - Midnight,,0
+,367,71 Nelson Street,,,New York,13035,US,(315) 655-4565,42.9282888,-75.8462138,Open 24 hours daily,,0
+,535,1936 US Route 6,,,New York,10525,US,(845) 225-4151,41.411912,-73.663724,24 Hours,,0
+,360,Rt. 5 & Oxbow Road,,,New York,13032,US,(315) 697-2700,43.069713,-75.752117,6am - Midnight,,0
+,432,5150 North Street,,,New York,14424,US,(585) 394-5120,42.904359,-77.297259,24 Hours,,0
+,358,5335 West Genesee Street,,Town of Camillus,New York,13031,US,(315) 487-0787,43.0411326,-76.2718874,6am - Midnight,,0
+,586,9554 Harden Blvd/State Rt 13,,,New York,13316,US,(315) 245-4745,43.3345138,-75.747964,6am - Midnight,,0
+,232,2101 Elmwood Avenue,,Buffalo,New York,14207,US,(716) 515-0050,42.9558745,-78.8783148,24 Hours,,0
+,113,425 Niagara Street,,Buffalo,New York,14213,US,(716) 852-6112,42.896132,-78.886379,6 am - Midnight,,0
+,66,1989 Seneca Street,,Buffalo,New York,14210,US,(716) 824-1124,42.8571861,-78.8118987,6 am - 11 pm,,0
+,222,1770 Broadway,,Buffalo,New York,14212,US,(716) 515-3330,42.8975577,-78.8091688,7 am - 11 pm,,0
+,250,1275 Jefferson Avenue,,Buffalo,New York,14208,US,(716) 816-0038,42.909746,-78.852962,7:00 am - 10:00 pm,,0
+,210,345 Amherst Street,,Buffalo,New York,14207,US,(716) 515-2170,42.9377771,-78.8911036,6 am - Midnight,,0
+,213,1460 South Park Avenue,,Buffalo,New York,14220,US,(716) 515-2050,42.858147,-78.829994,6 am - Midnight,,0
+,239,1740 Sheridan @ Delaware,,,New York,14223,US,(716) 874-4991,42.981969,-78.870390,24 Hours,,0
+,412,1900 Clinton Ave. South,,,New York,14618,US,(585) 442-2990,43.1205443,-77.5928789,24 Hours,,0
+,598,261 Utica Blvd.,,,New York,13309,US,(315) 942-3000,43.467816,-75.317895,,,0
+,536,384 Timpany Blvd,,Gardner,Massachusetts,01440,US,(978) 630-1185,42.5572807,-71.9923973,6AM - 12PM,,0

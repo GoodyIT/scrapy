@@ -1,0 +1,107 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+PHX-SCOTTSDALE,,15745 N Hayden Rd,,Scottsdale,AZ,85260-1919,United States,(480) 368-8099,,,,,0
+TUCSON-FOOTHILL MALL,,2270 W Ina Rd Ste 100,,Tucson,AZ,85741-2649,United States,(520) 229-3279,,,,,0
+VEGAS-SILVERADO,,9893 S Eastern Ave Ste F3,,Las Vegas,NV,89123-6949,United States,(702) 616-2943,,,,,0
+VEGAS-SUMMERLIN,,9765 W Charleston Blvd,,Las Vegas,NV,89117-7536,United States,(702) 940-5330,,,,,0
+LA-PALM DESERT,,72513 Hwy 111,,Palm Desert,CA,92260-3306,United States,(760) 340-4692,,,,,0
+S.DG-LA MESA,,8491 Fletcher Pkwy,,La Mesa,CA,91942-3005,United States,(619) 461-2110,,,,,0
+S.DG-RANCHO BERNARDO,,16771 Bernardo Center Dr,,San Diego,CA,92128-2509,United States,(858) 451-3734,,,,,0
+LA-TEMECULA,,26493 Ynez Rd Ste 1A,,Temecula,CA,92591-4654,United States,(951) 296-6370,,,,,0
+S.DG-MISSION VALLEY,,1530 Camino De La Reina Ste C2,,San Diego,CA,92108-1527,United States,(619) 542-0152,,,,,0
+LA-REDLANDS,,9950 Alabama St,,Redlands,CA,92374-2036,United States,(909) 307-6053,,,,,0
+S.DG-MIDWAY,,2790 Midway Dr,,San Diego,CA,92110-3203,United States,(619) 224-2909,,,,,0
+S.DG-LA JOLLA,,8827 Villa La Jolla Rd,,La Jolla,CA,92037-1949,United States,(858) 457-5908,,,,,0
+S.DG-ENCINITAS,,1092 N El Camino Real Ste B,,Encinitas,CA,92024-1320,United States,(760) 942-9924,,,,,0
+S.DG-SOLANO BEACH,,166 S Solana Hills Dr,,Solano Beach,CA,92075-2003,United States,(858) 724-0800,,,,,0
+S.DG-OCEANSIDE,,2550 Vista Way,,Oceanside,CA,92054-6175,United States,(760) 439-5201,,,,,0
+LA-RIVERSIDE,,3780 Tyler St,,Riverside,CA,92503-4161,United States,(951) 688-1598,,,,,0
+LA-RANCHO SANTA MARGARITA,,30505 Avenida de las Flores,,Rancho Santa Margarita,CA,92688-3939,United States,(949) 459-1040,,,,,0
+LA-LAGUNA NIGUEL,,32341 Street of the Golden Lantern Ste D,,Laguna Niguel,CA,92677-5343,United States,(949) 488-2374,,,,,0
+LA-MONTCLAIR,,8831 Central Ave,,Montclair,CA,91763-1618,United States,(909) 621-7944,,,,,0
+LA-ALISO VIEJO,,26775 Aliso Creek Rd,,Aliso Viejo,CA,92656-2887,United States,(949) 349-0060,,,,,0
+LA-IRVINE,,3800 Barranca Pkwy Unit C,,Irvine,CA,92606-1200,United States,(949) 651-6361,,,,,0
+LA-TUSTIN,,13771 Newport Ave Stes 15/16,,Tustin,CA,92780-4692,United States,(714) 734-8009,,,,,0
+LA-SAN DIMAS,,840 W Arrow Hwy,,San Dimas,CA,91773-2446,United States,(909) 305-4807,,,,,0
+LA-BREA,,2315 E Imperial Hwy Ste B,,Brea,CA,92821-3706,United States,(714) 256-4629,,,,,0
+LA-COSTA MESA,,1714 Newport Blvd,,Costa Mesa,CA,92627-3010,United States,(949) 645-6880,,,,,0
+LA-HUNTINGTON BEACH,,7041 Yorktown Ave Ste 101,,Huntington Beach,CA,92648-2463,United States,(714) 969-9904,,,,,0
+LA-PASADENA/HASTINGS RANCH,,3725 E Foothill Blvd,,Pasadena,CA,91107-3110,United States,(626) 351-1144,,,,,0
+LA-LONG BEACH MARKETPLACE,,6415 Pacific Coast Hwy,,Long Beach,CA,90803-4201,United States,(562) 493-7508,,,,,0
+LA-PASADENA ON LAKE,,326 S Lake Ave,,Pasadena,CA,91101-3508,United States,(626) 683-8161,,,,,0
+LA-LA CANADA,,475 Foothill Blvd,,La Canada,CA,91011-3555,United States,(818) 790-6832,,,,,0
+LA-HOLLYWEST,,5453 Hollywood Blvd,,Los Angeles,CA,90027-3405,United States,(323) 978-0409,,,,,0
+LA-TORRANCE/ROLLING HILLS,,2750 Pacific Coast Hwy,,Torrance,CA,90505-7002,United States,(310) 539-3180,,,,,0
+LA-BURBANK,,1565 N Victory Pl,,Burbank,CA,91502-1647,United States,(818) 848-0247,,,,,0
+LA-HOLLYWOOD ON LA BREA,,716 N La Brea Ave,,Hollywood,CA,90038-3339,United States,(323) 930-2611,,,,,0
+LA-MANHATTAN BEACH,,5360 W Rosencrans Ave Ste D,,Hawthorne,CA,90250-6646,United States,(310) 536-2919,,,,,0
+LA-WEST HOLLYWOOD,,8383 Santa Monica Blvd,,West Hollywood,CA,90069-4312,United States,(323) 656-2611,,,,,0
+LA-HERMOSA BEACH,,1559 Pacific Coast Hwy,,Hermosa Beach,CA,90254-3214,United States,(310) 374-5363,,,,,0
+LA-CULVER CITY,,5359 S Sepulveda Blvd,,Culver City,CA,90230-5215,United States,(310) 313-7203,,,,,0
+LA-STUDIO CITY,,12565 Ventura Blvd,,Studio City,CA,91604-2413,United States,(818) 769-3230,,,,,0
+LA-WESTWOOD,,2090 Westwood Blvd,,Los Angeles,CA,90025-6329,United States,(310) 446-3263,,,,,0
+LA-SANTA MONICA,,1645 Lincoln Blvd,,Santa Monica,CA,90404-3711,United States,(310) 450-6333,,,,,0
+LA-SANTA CLARITA,,26613 Bouquet Canyon Rd,,Saugus,CA,91354-2357,United States,(661) 297-1414,,,,,0
+LA-WOODLAND HILLS,,21480 Victory Blvd,,Woodland Hills,CA,91367-2422,United States,(818) 704-7323,,,,,0
+LA-SIMI VALLEY,,2944 Tapo Canyon Rd Ste A,,Simi Valley,CA,93063-0903,United States,(805) 527-7240,,,,,0
+LA-THOUSAND OAKS,,173 N Moorpark Rd Ste A,,Thousand Oaks,CA,91360-4401,United States,(805) 557-0043,,,,,0
+LA-VENTURA,,4738-4 Telephone Rd Ste E4,,Ventura,CA,93003-5234,United States,(805) 644-7227,,,,,0
+BAKERSFIELD,,9010 Rosedale Hwy,,Bakersfield,CA,93312-2160,United States,(661) 588-9217,,,,,0
+SANTA BARBARA,,601 State St,,Santa Barbara,CA,93101-3301,United States,(805) 966-3954,,,,,0
+FRESNO,,7628 N Blackstone Ave,,Fresno,CA,93720-4300,United States,(559) 435-3731,,,,,0
+SAN LUIS OBISPO,,647 Higuera St,,San Luis Obispo,CA,93401-3510,United States,(805) 781-0400,,,,,0
+DEN-HIGHLANDS RANCH,,9579 S University Blvd Ste 600,,Highlands Ranch,CO,80216-7803,United States,(720) 344-2351,,,,,0
+DEN-DENVER/COLORADO BLVD,,1685 S Colorado Blvd Ste L,,Denver,CO,80222-4035,United States,(303) 756-5258,,,,,0
+RENO,,4809 Kietzke Ln,,Reno,NV,89509-6549,United States,(775) 827-2004,,,,,0
+MODESTO,,3801 Pelandale Ave Ste F-3,,Modesto,CA,95356-8705,United States,(209) 545-9267,,,,,0
+STOCKTON,,6575 Pacific Ave,,Stockton,CA,95207-3717,United States,(209) 952-9097,,,,,0
+MONTEREY,,498 Del Monte Center,,Monterey,CA,93940-6159,United States,(831) 373-3436,,,,,0
+SAC-FOLSOM,,2761 E Bidwell St Ste 200,,Folsom,CA,95630-6409,United States,(916) 984-9397,,,,,0
+S.JOS-SAN JOSE,,944 Blossom Hill Rd Ste A,,San Jose,CA,95123-1202,United States,(408) 578-2430,,,,,0
+SAC-ELK GROVE,,7401 Laguna Blvd Ste 120,,Elk Grove,CA,95758-5066,United States,(916) 691-1100,,,,,0
+S.JOS-CAMPBELL,,1730 S Bascom Ave,,Campbell,CA,95008-0608,United States,(408) 879-3800,,,,,0
+SAC-ROSEVILLE/DOUGLAS,,1850 Douglas Blvd Suite 210,,Roseville,CA,95661-3682,United States,(916) 781-3660,,,,,0
+SAC-ROSEVILLE/FAIRWAY,,10333 Fairway Dr Ste 160,,Roseville,CA,95678-1998,United States,(916) 781-6448,,,,,0
+SAC-ARDEN,,2345 Arden Way,,Sacramento,CA,95825-4035,United States,(916) 924-8831,,,,,0
+S.JOS-CUPERTINO,,20600 Stevens Creek Blvd,,Cupertino,CA,95014-2120,United States,(408) 777-0114,,,,,0
+S.JOS-SUNNYVALE,,725 Sunnyvale Saratoga Rd,,Sunnyvale,CA,94087-1310,United States,(408) 738-0330,,,,,0
+BAY-DUBLIN,,7151 Regional St,,Dublin,CA,94568-2323,United States,(925) 828-1966,,,,,0
+BAY-SAN RAMON,,2431 San Ramon Valley Blvd,,San Ramon,CA,94583-1549,United States,(925) 831-8007,,,,,0
+BAY-REDWOOD CITY,,1680 El Camino Real,,Redwood City,CA,94063-2108,United States,(650) 366-4266,,,,,0
+BAY-CONCORD,,1975 Diamond Blvd Bldg B,,Concord,CA,94520-5716,United States,(925) 687-0850,,,,,0
+BAY-SAN MATEO,,180 E 3rd Ave,,San Mateo,CA,94401-4013,United States,(650) 340-9788,,,,,0
+BAY-BERKELEY,,2450 Shattuck Ave,,Berkeley,CA,94704-2029,United States,(510) 841-0200,,,,,0
+BAY-DALY CITY,,5045 Junipero Serra Blvd,,Colma,CA,94014-3217,United States,(650) 994-6633,,,,,0
+BAY-SAN FRANCISCO/GEARY,,5600 Geary Blvd,,San Francisco,CA,94121-2215,United States,(415) 876-0150,,,,,0
+BAY-SAN RAFAEL,,75C Bellam Blvd,,San Rafael,CA,94901-5352,United States,(415) 457-5761,,,,,0
+CHICO,,2015 Forest Ave Ste B,,Chico,CA,95928-7620,United States,(530) 894-2198,,,,,0
+SANTA ROSA,,2815 Santa Rosa Ave,,Santa Rosa,CA,95407-7627,United States,(707) 575-5501,,,,,0
+REDDING,,917 Dana Dr Ste C,,Redding,CA,96003-4020,United States,(530) 223-0992,,,,,0
+AUS-SUNSET VALLEY,,5400 Brodie Ln Ste 920,,Austin,TX,78745-2527,United States,(512) 358-8357,,,,,0
+AUS-ARBORETUM,,9503 Research Blvd Ste 550,,Austin,TX,78759-5882,United States,(512) 275-9470,,,,,0
+DFW-FT WORTH/WATERSIDE,,3700 Vision Dr Suite 112,,Fort Worth,TX,76109,United States,(817) 945-3964,,,,,0
+DFW-FT WORTH/CHAPEL HILL,,4701 West Frwy Ste 300,,Fort Worth,TX,76107-5498,United States,(817) 377-2091,,,,,0
+DFW-COLLEYVILLE,,"4709 Colleyville Blvd, Ste 600",,Colleyville,TX,76034,United States,(817) 766-2071,,,,,0
+DFW-SOUTHLAKE,,3020 E Southlake Blvd,,Southlake,TX,76092-6618,United States,(817) 748-2767,,,,,0
+DFW-FLOWER MOUND,,6101 Long Prairie Rd Ste 140,,Flower Mound,TX,75028-6204,United States,(972) 691-5481,,,,,0
+DFW-DALLAS/INWOOD VILLAGE,,5360 W Lovers Ln Ste 208,,Dallas,TX,75209-4380,United States,(214) 904-8493,,,,,0
+DFW-FRISCO,,3333 Preston Rd Ste 112,,Frisco,TX,75034-9013,United States,(972) 668-3620,,,,,0
+DFW-DALLAS/PRESTON ROYAL,,6025 Royal Lane Ste 106,,Dallas,TX,75230,United States,(214) 306-6141,,,,,0
+DFW-PLANO,,1801 Preston Rd Ste D,,Plano,TX,75093-5104,United States,(972) 931-7119,,,,,0
+DFW-WEST VILLAGE,,"3700 McKinney Ave, Ste 134",,Dallas,TX,75204,United States,(214) 306-6392,,,,,0
+DFW-MCKINNEY,,"8930 State Hwy 121, Ste 516",,McKinney,TX,75070,United States,(469) 269-0658,,,,,0
+PORT-LAKE OSWEGO,,16130 Boones Ferry Rd,,Lake Oswego,OR,97035-4202,United States,(503) 636-3668,,,,,0
+PORT-BEAVERTON,,11715 SW Beaverton Hillsdale Hwy,,Beaverton,OR,97005-2992,United States,(503) 626-7261,,,,,0
+HSTN-KATY,,20260 Katy Frwy Ste C-1,,Katy,TX,77449-7500,United States,(281) 646-9155,,,,,0
+HSTN-SUGARLAND,,16322 Southwest Fwy,,Sugarland,TX,77479-2371,United States,(281) 240-0900,,,,,0
+HSTN-WOODLANDS,,9595 Six Pines Dr Ste 1270,,The Woodlands,TX,77380-1493,United States,(281) 298-8593,,,,,0
+HSTN-GALLERIA,,5144 Richmond Ave,,Houston,TX,77056-6702,United States,(713) 961-4882,,,,,0
+HSTN-BELLAIRE,,3057 W Holcombe Blvd,,Houston,TX,77025-1504,United States,(713) 664-2395,,,,,0
+SEA-PUYALLUP,,3705 S Meridian Ave Ste B,,Puyallup,WA,98373-3715,United States,(253) 864-9846,,,,,0
+HSTN-BAYBROOK,,1027 W Bay Area Blvd,,Webster,TX,77598-4047,United States,(281) 557-8791,,,,,0
+SEA-ISSAQUAH,,1802 12th Ave NW Ste A-1,,Issaquah,WA,98027-8934,United States,(425) 391-8364,,,,,0
+SEA-SOUTHCENTER,,17570 Southcenter Pkwy,,Tukwila,WA,98188-3703,United States,(253) 479-0090,,,,,0
+SEA-REDMOND,,7221 170th Ave NE,,Redmond,WA,98052-4485,United States,(425) 558-0353,,,,,0
+SEA-WOODINVILLE,,13970 NE 178th Place,,Woodinville,WA,98072-3531,United States,(425) 487-0779,,,,,0
+SEA-SHORELINE,,15909 Westminster Way,,Seattle,WA,98133-5929,United States,(206) 417-5065,,,,,0
+SEA-LYNNWOOD,,18420 33rd Ave W Ste G,,Lynnwood,WA,98037-4713,United States,(425) 771-2752,,,,,0
+ATL-SANDY SPRINGS,,6255 Roswell Rd NE Ste 52,,Atlanta,GA,30328-3294,United States,(404) 475-7000,,,,,0

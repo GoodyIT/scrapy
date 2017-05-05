@@ -1,0 +1,986 @@
+store_name	store_number	address	address2	city	state	zip_code	country	phone_number	latitude	longitude	store_hours	store_type	other_fields
+Los Angeles, Beverly Center		8500 Beverly Blvd.	Los Angeles, CA 90048	Los Angeles	California	90048	United States	(310) 657-9670			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Birmingham, The Summit		225 Summit Boulevard	Birmingham, AL 35243	Birmingham	Alabama	35243	United States	(205) 969-4848			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Malibu, Malibu		3896 Cross Creek Rd.	Malibu, CA 90265	Malibu	California	90265	United States	(310) 317-6767			Mo-Su 10:00-19:00	Store	
+Fresno, Fresno Fashion Fair		639 East Shaw Ave.	Fresno, CA 93710	Fresno	California	93710	United States	(559) 222-3434			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Hollywood, Hollywood & Highland		6801 Hollywood Blvd.	Hollywood, CA 90028	Hollywood	California	90028	United States	(323) 462-6898			Mo-Sa 10:00-22:00; Su 10:00-20:00	Store	
+Glendale, Americana		230 Americana Way	Glendale, CA 91210	Glendale	California	91210	United States	(818) 502-9787			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-20:00	Store	
+Los Angeles, The Grove		189 The Grove Drive	Los Angeles, CA 90036	Los Angeles	California	90036	United States	(323) 937-0347			Mo-Fr 10:00-21:00; Sa 10:00-22:00; Su 11:00-20:00	Store	
+Los Angeles, Beverly Drive		270 N. Beverly Dr.	Los Angeles, CA 90210	Los Angeles	California	90210	United States	(310) 860-9581			Mo-Sa 10:00-20:00; Su 11:00-19:00	Store	
+Chula Vista, Chula Vista		2015 Birch Road	Chula Vista, CA 91915	Chula Vista	California	91915	United States	(619) 482-4400			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Culver City, Culver City		6000 Sepulveda Blvd.	Culver City, CA 90230	Culver City	California	90230	United States	(310) 915-1542			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Costa Mesa, South Coast Plaza		3333 Bristol Street	Costa Mesa, CA 92626	Costa Mesa	California	92626	United States	(714) 429-9130			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:30	Store	
+Emeryville, Emeryville		5626 Bay Street	Emeryville, CA 94608	Emeryville	California	94608	United States	(510) 547-6200			Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Costa Mesa, CRYSTAL COURT		3333 Bear St.	Costa Mesa, CA 92626	Costa Mesa	California	92626	United States	(714) 435-1001			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:30	Store	
+Huntington Beach, Huntington Beach		21040 Pacific Coast Highway	Huntington Beach, CA 92648	Huntington Beach	California	92648	United States	(714) 536-1415			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Cerritos, Los Cerritos Center		161 Los Cerritos Center	Cerritos, CA 90703	Cerritos	California	90703	United States	(562) 860-4499			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+Canoga Park, Canoga Park		6600 Topanga Canyon Blvd.	Canoga Park, CA 91303	Canoga Park	California	91303	United States	(818) 704-4600			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+Quebec, Place Ste-Foy		2450 Boulevard	Quebec, QC G1V 2L1	Quebec	Quebec	G1V 2L1	Canada	(418) 650-2400			Mo-We 10:00-18:00; Th-Fr 10:00-21:00; Sa 09:30-17:00; Su 10:00-17:00	Store	
+Quebec, Les Promenades St Bruno		182, boul. des Promenades	Quebec, QC J3V 5K1	Quebec	Quebec	J3V 5K1 	Canada	(450) 441-3400			Mo-Fr 10:00-21:00; Sa 09:00-17:00; Su 10:00-17:00	Store	
+Quebec, Quebec Capitale		5401, boulevard des Galeries	Quebec, QC G2K 1N4	Quebec	Quebec	G2K 1N4	Canada	(418) 626-4645			Mo-Fr 10:00-21:00; Sa 09:00-17:00; Su 10:00-17:00	Store	
+Regina, Cornwall Centre		2102 11th Ave	Regina, SK S4P 3Y6	Regina	Saskatchewan	S4P 3Y6	Canada	(306) 585-6200			Mo-Tu 09:30-18:00; We-Fr 09:30-21:00; Sa 09:30-12:00; Su 12:00-17:00	Store	
+Saskatoon, Saskatoon		201 1 Avenue South	Saskatoon, SK S7K 1J9	Saskatoon	Saskatchewan	S7K 1J9	Canada	(306) 978-3733			Mo-Tu 09:30-19:00; We-Fr 09:30-21:00; Sa 09:30-19:00; Su 11:00-18:00	Store	
+Pointe Claire, Pointe Claire		6815 Trans-Canadienne	Pointe Claire, QC H9R 1C4	Pointe Claire	Quebec	H9R 1C4	Canada	(514) 630-6100			Mo-Fr 10:00-21:00; Sa 09:00-17:00; Su 10:00-17:00	Store	
+Montreal, ANJOU		7999 Boulevard Les-Galeries-d'Anjou	Montreal, QC H1M 1W9	Montreal	Quebec	H1M 1W9	Canada	(514) 352-9924			Mo-Fr 10:00-21:00; Sa 09:00-17:00; Su 10:00-17:00	Store	
+Montreal, Rockland		2305 Chemin Rockland	Montreal, QC H3P 3E9	Montreal	Quebec	H3P 3E9	Canada	(514) 737-0333			Mo-Tu 10:00-18:00; We-Fr 10:00-21:00; Sa 09:00-17:00; Su 10:00-17:00	Store	
+Windsor, Devonshire		3100 Howard Ave	Windsor, ON N8X 3Y8	Windsor	Ontario	N8X 3Y8	Canada	(519) 972-0219			Mo-Fr 09:30-21:00; Sa 09:30-18:00; Su 11:00-17:00	Store	
+Montreal, Montreal Ste Catherine		677 Sainte-Catherine St. W	Montreal, QC H3B 5K4	Montreal	Quebec	H3B 5K4	Canada	(514) 849-8484			Mo-Tu 10:00-18:00; We-Fr 10:00-21:00; Sa 10:00-18:00; Su 11:00-17:00	Store	
+Brossard, DIX30		9200 Boulevard Leduc	Brossard, QC J4Y 0L1	Brossard	Quebec	J4Y 0L1	Canada	(450) 678-2166			Mo-Tu 10:00-18:00; We-Fr 10:00-21:00; Sa 09:00-17:00; Su 10:00-17:00	Store	
+Laval, Carrefour Laval		3035 Le Carrefour Blvd.	Laval, QC H7T 1C8	Laval	Quebec	H7T 1C8	Canada	(450) 688-8886			Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-17:00	Store	
+Vaughan, Vaughan Mills		1 Bass Pro Mills Dr	Vaughan, ON L4K 5W4	Vaughan	Ontario	L4K 5W4	Canada	(905) 761-0473			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Toronto, Yorkdale		3401 Dufferin Street	Toronto, ON M6A 3A1	Toronto	Ontario	M6A 3A1	Canada	(416) 785-4400			Mo-Fr 10:00-21:00; Sa 09:30-21:00; Su 11:00-19:00	Store	
+Toronto, Yonge & Eglinton		2300 Yonge St.	Toronto, ON M4R 1K8	Toronto	Ontario	M4R 1K8	Canada	(416) 481-1070			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 12:00-18:00	Store	
+Toronto, Fairview Toronto		1800 Sheppard Avenue East	Toronto, ON M2J 5A7	Toronto	Ontario	M2J 5A7	Canada	(416) 492-5500			Mo-Fr 10:00-21:00; Sa 09:30-21:00; Su 11:00-19:00	Store	
+Toronto, Sherway Gardens		25 The West Mall	Toronto, ON M9C 1B8	Toronto	Ontario	M9C 1B8	Canada	(416) 621-6700			Mo-Fr 10:00-21:00; Sa 09:30-21:00; Su 11:00-18:00	Store	
+Toronto, Eaton Centre		220 Yonge Street	Toronto, ON M5B 2H1	Toronto	Ontario	M5B 2H1	Canada	(416) 595-7227			Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 10:00-19:00	Store	
+St. Catharines, Pen Centre Mall		221 Glendale Ave	St. Catharines, ON L2T 2K9	St. Catharines	Ontario	L2T 2K9	Canada	(905) 685-3700			Mo-Fr 10:00-21:00; Sa 09:00-18:00; Su 11:00-18:00	Store	
+Toronto, Bloor Street		131 Bloor Street West	Toronto, ON M5S 2B4	Toronto	Ontario	M5S 2B4	Canada	(416) 513-1100			Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Scarborough, Scarborough		300 Borough Drive	Scarborough, ON M1P 4P5	Scarborough	Ontario	M1P 4P5	Canada	(416) 290-6822			Mo-Fr 10:00-21:00; Sa 09:30-21:00; Su 11:00-19:00	Store	
+Richmond Hill, Hillcrest Mall		9350 Yonge Street	Richmond Hill, ON L4C 5G2	Richmond Hill	Ontario	L4C 5G2	Canada	(905) 780-9433			Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-18:00	Store	
+Ottawa, Rideau Centre		50 Rideau Street	Ottawa, ON K1N 9J7	Ottawa	Ontario	K1N 9J7	Canada	(613) 567-1830			Mo-Fr 09:30-21:00; Sa 09:30-18:00; Su 11:00-17:00	Store	
+Ottawa, Bayshore		100 Bayshore Dr	Ottawa, ON K2B 8C1	Ottawa	Ontario	K2B 8C1	Canada	(613) 596-5050			Mo-Sa 09:00-21:00; Su 10:00-18:00	Store	
+Oshawa, Oshawa		419 King Street	Oshawa, ON L1J 2K5	Oshawa	Ontario	L1J 2K5	Canada	(905) 720-0276			Mo-Sa 09:30-21:00; Su 11:00-18:00	Store	
+Oakville, Oakville Place		240 Leighland Avenue	Oakville, ON L6H 3H6	Oakville	Ontario	L6H 3H6	Canada	(905) 815-8280			Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:30-17:00	Store	
+Newmarket, Upper Canada Mall		17600 Younge Street	Newmarket, ON L3Y 4Z1	Newmarket	Ontario	L3Y 4Z1	Canada	(905) 898-6767			Mo-Fr 09:30-21:00; Sa 09:30-18:00; Su 11:00-17:00	Store	
+Mississauga, Square One		100 City Centre Drive	Mississauga, ON L5B 2B9	Mississauga	Ontario	L5B 2B9	Canada	(905) 279-4400			Mo-Fr 10:00-21:00; Sa 09:30-21:00; Su 11:00-19:00	Store	
+Markham, MARKVILLE		5000 Highway 7 East	Markham, ON L3R 4M9	Markham	Ontario	L3R 4M9	Canada	(905) 940-1551			Tu 10:00-18:00; We-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-18:00	Store	
+London, Masonville Place		1680 Richmond Street North	London, ON N6G 3Y9	London	Ontario	N6G 3Y9	Canada	(519) 673-5507			Mo-Sa 10:00-21:00; Su 00:00-17:00	Store	
+Burlington, Mapleview Shopping Center		900 Maple Ave	Burlington, ON L7S 2J8	Burlington	Ontario	L7S 2J8	Canada	(905) 631-0505			Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-18:00	Store	
+Kitchener, Kitchener		2960 Kingsway Drive	Kitchener, ON N2C 1X1	Kitchener	Ontario	N2C 1X1	Canada	(519) 893-7773			Mo-Fr 09:30-21:00; Sa 09:30-18:00; Su 12:00-17:00	Store	
+Kingston, CATARAQUI		945 Gardiners Rd	Kingston, ON K7M 7H4	Kingston	Ontario	K7M 7H4	Canada	(613) 384-3232			Mo-Fr 09:30-21:00; Sa 09:30-18:00; Su 11:00-17:00	Store	
+Hamilton, Lime Ridge Mall		999 Upper Wentworth St	Hamilton, ON L9A 4X5	Hamilton	Ontario	L9A 4X5	Canada	(905) 389-3861			Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-17:00	Store	
+London, White Oaks		1105 Wellington Road	London, ON N6E 1V4	London	Ontario	N6E 1V4	Canada	(519) 685-1115			Mo-Sa 09:30-21:00; Su 12:00-17:00	Store	
+Brampton, Bramalea City Centre		25 Peel Centre Drive	Brampton, ON L6T 3R5	Brampton	Ontario	L6T 3R5	Canada				Mo-Fr 10:00-21:00; Sa 09:30-21:00; Su 11:00-19:00	Store	
+Halifax, Halifax		7001 Mumford Road	Halifax, NS B3L 4N9	Halifax	Nova Scotia	B3L 4N9	Canada	(902) 484-2121			Mo-Sa 09:30-21:00; Su 12:00-17:00	Store	
+Dartmouth, Mic Mac Mall		21 Micmac Blvd	Dartmouth, NS B3A 4K7	Dartmouth	Nova Scotia	B3A 4K7	Canada	(902) 468-7400			Mo-Sa 09:30-21:00; Su 12:00-17:00	Store	
+St. John'S, Avalon		48 Kenmount Road	St. John'S, NL A1B 1W3	St. John'S	Newfoundland and Labrador	A1B 1W3	Canada	(709) 722-0245			Mo-Sa 09:30-21:30; Su 12:00-17:00	Store	
+Barrie, Georgian		509 Bayfield Street	Barrie, ON L4M 4Z8	Barrie	Ontario	L4M 4Z8	Canada	(705) 722-0333			Mo-Fr 09:30-21:00; Sa 09:30-18:00; Su 11:00-17:00	Store	
+Dieppe, Moncton		477 Paul St	Dieppe, NB E1A 4X5	Dieppe	New Brunswick	E1A 4X5	Canada	(506) 872-3000			Mo-Sa 10:00-21:00; Su 12:00-17:00	Store	
+Winnipeg, St Vital		1225 St. Mary's Road	Winnipeg, MB R2M 5E5	Winnipeg	Manitoba	R2M 5E5	Canada	(204) 255-0005			Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-18:00	Store	
+West Vancouver, PARK ROYAL		769 Main Street	West Vancouver, BC V7T 0A5	West Vancouver	British Columbia	V7T 0A5	Canada	(604) 926-1787			Mo-Tu 10:00-19:00; We-Fr 10:00-21:00; Sa 09:30-19:00; Su 11:00-18:00	Store	
+Winnipeg, Polo Park Shopping Centre		1485 Portage Ave	Winnipeg, MB R3G 0W4	Winnipeg	Manitoba	R3G 0W4	Canada	(204) 775-5560			Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-18:00	Store	
+Vancouver, Pacific Centre		701 W Georgia Street	Vancouver, BC V7Y 1E4	Vancouver	British Columbia	V7Y 1E4	Canada	(778) 331-3942			Mo-Tu 10:00-19:00; We-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Victoria, Mayfair Mall		3147 Douglas Street	Victoria, BC V8Z 6E3	Victoria	British Columbia	V8Z 6E3	Canada	(250) 294-7670			Mo-Tu 10:00-18:00; We-Fr 10:00-21:00; Sa 10:00-18:00; Su 11:00-18:00	Store	
+Vancouver, Robson		1045 Robson Street	Vancouver, BC V6Z 2V7	Vancouver	British Columbia	V6Z 2V7	Canada	(604) 681-9704			Mo-Sa 10:00-21:00; Su 11:00-20:00	Store	
+Surrey, GUILDFORD TOWN CENTRE		10355 152 Street	Surrey, BC V3R 7C1	Surrey	British Columbia	V3R 7C1	Canada	(604) 930-8872			Mo-Sa 10:00-21:00; Su 10:00-18:00	Store	
+Richmond, Richmond Centre		6551 No. 3 Road	Richmond, BC V6Y 2B6	Richmond	British Columbia	V6Y 2B6	Canada	(778) 296-3800			Mo-Tu 09:30-19:00; We-Fr 09:30-21:00; Sa 09:30-19:00; Su 11:00-18:00	Store	
+Nanaimo, Woodgrove Centre		6631 Island Highway North	Nanaimo, BC V9T 4T7	Nanaimo	British Columbia	V9T 4T7	Canada	(250) 390-3366			Mo-Tu 10:00-18:00; We-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Kelowna, Kelowna		2271 Harvey Ave	Kelowna, BC V1Y 6H2	Kelowna	British Columbia	V1Y 6H2	Canada	(250) 860-1126			Mo-Tu 10:00-18:00; We-Fr 10:00-21:00; Sa 09:00-18:00; Su 10:00-18:00	Store	
+Burnaby, Metropolis		216-4820 Kingsway	Burnaby, BC V5H 4P1	Burnaby	British Columbia	V5H 4P1	Canada	(604) 678-2360			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Coquitlam, Coquitlam Center		2929 Barnet highway	Coquitlam, BC V3B 5R5	Coquitlam	British Columbia	V3B 5R5	Canada	(778) 284-2350			Mo-Tu 10:00-18:00; We-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-18:00	Store	
+Abbotsford, Highstreet		3122 Mt. Lehman Road	Abbotsford, BC V2T 0C5	Abbotsford	British Columbia	V2T 0C5	Canada	(778) 856-1599			Mo-We 10:00-19:00; Th-Fr 10:00-21:00; Sa-Su 10:00-18:00	Store	
+Edmonton, South Edmonton Commons		9761 19 Avenue  AB  NW	Edmonton, AB T6N 1N5	Edmonton	Alberta	T6N 1N5	Canada				Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Edmonton, West Edmonton Mall		8882 170th Street	Edmonton, AB T5T 4J2	Edmonton	Alberta	T5T 4J2	Canada	(780) 425-3788			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Edmonton, Southgate Centre		5015- 111 Street NW	Edmonton, AB T6H 4M6	Edmonton	Alberta	T6H 4M6	Canada	(780) 638-1642			Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-17:00	Store	
+Edmonton, Kingsway Mall		109 St. & Princess Elizabeth Ave.	Edmonton, AB T5G 3A6	Edmonton	Alberta	T5G 3A6	Canada	(780) 477-7720			Mo-Fr 10:00-21:00; Sa 09:30-18:00; Su 11:00-17:00	Store	
+Calgary, THE CORE		317 7 Ave SW	Calgary, AB T2P 2Y9	Calgary	Alberta	T2P 2Y9	Canada	(403) 263-4461			Mo-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00	Store	
+Red Deer, Bower Place		4900 Molly Banister Drive	Red Deer, AB T4R 1N9	Red Deer	Alberta	T4R 1N9	Canada	(403) 347-3775			Mo-Fr 09:30-21:00; Sa-Su 11:00-17:00	Store	
+Calgary, Market Mall		3625 Shaganappi Trail NW	Calgary, AB T3A OE2	Calgary	Alberta	T3A OE2	Canada	(403) 286-0200			Mo-Fr 09:30-21:00; Sa 09:30-20:00; Su 11:00-18:00	Store	
+Calgary, South Calgary		100 Anderson Road SE	Calgary, AB T2J 3V1	Calgary	Alberta	T2J 3V1	Canada	(403) 441-7300			Mo-Fr 09:30-21:00; Sa 09:30-20:00; Su 11:00-18:00	Store	
+Pleasant Prairie, JCPenney at Shoppes of Prairie Ridge		10225 77th St	Pleasant Prairie, WI 53158-1142	Pleasant Prairie	Wisconsin	53158-1142	Sephora inside JCPenney	(262) 237-6193			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Menomonee Falls, JCPenney at Crossroads Shopping Center		N96W18515 County Line Rd	Menomonee Falls, WI 53051-7103	Menomonee Falls	Wisconsin	53051-7103	Sephora inside JCPenney	(262) 415-1237			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Calgary, Chinook Centre		6455 Macleod Trail SW	Calgary, AB T2H 0K8	Calgary	Alberta	T2H 0K8	Canada	(403) 355-3500			Mo-Sa 09:30-21:00; Su 11:00-19:00	Store	
+Madison, JCPenney at West Town Mall		23 West Towne Mall	Madison, WI 53719-1087	Madison	Wisconsin	53719-1087	Sephora inside JCPenney	(608) 833-9011			Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00	Store	
+La Crosse, JCPenney at Valley View Mall		3700 STATE RD 16	La Crosse, WI 54601	La Crosse	Wisconsin	54601	Sephora inside JCPenney	(608) 781-8000			Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00	Store	
+Madison, JCPenney at East Towne Mall		135 E Towne Mall	Madison, WI 53704	Madison	Wisconsin	53704	Sephora inside JCPenney	(608) 241-3414			Mo-Fr 10:00-21:00; Sa 09:30-21:00; Su 11:00-18:00	Store	
+Greendale, JCPenney at Southridge Center		5350 S 76Th St	Greendale, WI 53129	Greendale	Wisconsin	53129	Sephora inside JCPenney	(414) 421-6900			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Eau Claire, JCPenney at Oakwood Mall		4770 Golf Rd	Eau Claire, WI 54701	Eau Claire	Wisconsin	54701	Sephora inside JCPenney	(715) 832-3414			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Brookfield, JCPenney at Brookfield Square Mall		95 N MOORLAND RD	Brookfield, WI 53005	Brookfield	Wisconsin	53005	Sephora inside JCPenney	(262) 782-2000			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Appleton, JCPenney at Fox River Mall		4301 W Wisconsin Ave	Appleton, WI 54913	Appleton	Wisconsin	54913	Sephora inside JCPenney	(920) 739-8871			Mo-Sa 10:00-21:00; Su 10:00-18:00	Store	
+Vienna, JCPenney at Grand Central Mall		200 Grand Central Mall	Vienna, WV 26105	Vienna	West Virginia	26105	Sephora inside JCPenney	(304) 485-1661			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Ashwaubenon, JCPenney at The Village at Bay Park		800 WILLARD DRIVE	Ashwaubenon, WI 54304	Ashwaubenon	Wisconsin	54304	Sephora inside JCPenney	(920) 497-9364			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Triadelphia, JCPenney at Highlands		515 Cabela Dr	Triadelphia, WV 26059-1045	Triadelphia	West Virginia	26059-1045	Sephora inside JCPenney	(304) 547-9640			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Bridgeport, JCPenney at Meadowbrook Mall		2500 Meadowbrook Mall	Bridgeport, WV 26330	Bridgeport	West Virginia	26330	Sephora inside JCPenney	(304) 842-5451			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Mount Hope, JCPenney at Crossroads Mall		105 Crossroads Mall	Mount Hope, WV 25880	Mount Hope	West Virginia	25880	Sephora inside JCPenney	(304) 252-7300			Mo-Sa 10:00-21:00; Su 12:30-17:30	Store	
+Charleston, JCPenney at Charleston Town Center		401 Lee St	Charleston, WV 25301-1595	Charleston	West Virginia	25301-1595	Sephora inside JCPenney	(304) 345-9075			Mo-Sa 10:00-21:00; Su 12:30-18:00	Store	
+Barboursville, JCPenney at Huntington Mall		800 Mall Rd	Barboursville, WV 25504-1830	Barboursville	West Virginia	25504-1830	Sephora inside JCPenney	(304) 733-0088			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Vancouver, JCPenney at Vancouver Mall		8900 NE Vancouver Mall Dr	Vancouver, WA 98662-6499	Vancouver	Washington	98662-6499	Sephora inside JCPenney	(360) 254-3800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Wenatchee, JCPenney at Valley North Shopping Center		1300 N Miller St	Wenatchee, WA 98801	Wenatchee	Washington	98801	Sephora inside JCPenney	(509) 663-2121			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Vancouver, JCPenney at Columbia Tech Center		19005 SE Mill Plain Blvd	Vancouver, WA 98683-9316	Vancouver	Washington	98683-9316	Sephora inside JCPenney	(360) 253-9550			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Spokane, JCPenney at Spokane Valley Mall		14730 E Indiana Ave	Spokane, WA 99216-1823	Spokane	Washington	99216-1823	Sephora inside JCPenney	(509) 922-0288			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Union Gap, JCPenney at Washington Plaza		1600 East Washington Ave	Union Gap, WA 98903	Union Gap	Washington	98903	Sephora inside JCPenney	(509) 249-6100			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Tacoma, JCPenney at Tacoma Mall		4502 S. Steele St.	Tacoma, WA 98409-7265	Tacoma	Washington	98409-7265	Sephora inside JCPenney	(253) 475-4510			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Spokane, JCPenney at Northtown Mall		4730 N Division St	Spokane, WA 99207-1426	Spokane	Washington	99207-1426	Sephora inside JCPenney	(509) 487-2223			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Seattle, JCPenney at Southcenter Mall		1249 Southcenter Mall	Seattle, WA 98188-2825	Seattle	Washington	98188-2825	Sephora inside JCPenney	(206) 246-0850			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Seattle, JCPenney at Northgate Mall		401 E. Northgate Way	Seattle, WA 98125-8514	Seattle	Washington	98125-8514	Sephora inside JCPenney	(206) 361-2500			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Puyallup, JCPenney at South Hill Mall		3700 S Meridian St	Puyallup, WA 98373-3779	Puyallup	Washington	98373-3779	Sephora inside JCPenney	(253) 845-6669			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Silverdale, JCPenney at Kitsap Mall		PO Box 1070	Silverdale, WA 98383-1070	Silverdale	Washington	98383-1070	Sephora inside JCPenney	(360) 692-1222			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Olympia, JCPenney at Capital Mall		625 BLACK LAKE BLVD	Olympia, WA 98502	Olympia	Washington	98502	Sephora inside JCPenney	(360) 754-8000			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Kennewick, JCPenney at Columbia Center		1321 N Columbia Center Blvd	Kennewick, WA 99336-7658	Kennewick	Washington	99336-7658	Sephora inside JCPenney	(509) 783-4111			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Lynnwood, JCPenney at Alderwood Mall		18601 33rd Ave W	Lynnwood, WA 98037-4783	Lynnwood	Washington	98037-4783	Sephora inside JCPenney	(425) 771-9555			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Bellingham, JCPenney at Bellis Fair		10 Bellis Fair Pkwy	Bellingham, WA 98226	Bellingham	Washington	98226	Sephora inside JCPenney	(360) 734-7412			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Woodbridge, JCPenney at Potomac Mills Mall		2700 POTOMAC MILLS CIR	Woodbridge, VA 22192	Woodbridge	Virginia	22192	Sephora inside JCPenney	(703) 494-0089			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Winchester, JCPenney at Apple Blossom Mall		1850 Apple Blossom Dr	Winchester, VA 22601	Winchester	Virginia	22601	Sephora inside JCPenney	(540) 667-2334			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Virginia Beach, JCPenney at Lynnhaven Mall		701 LYNN HAVEN PKWY	Virginia Beach, VA 23452	Virginia Beach	Virginia	23452	Sephora inside JCPenney	(757) 463-4270			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Sterling, JCPenney at Dulles Town Center		21030 DULLES TOWN CIR	Sterling, VA 20166	Sterling	Virginia	20166	Sephora inside JCPenney	(703) 421-6572			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Roanoke, JCPenney at Valley View Mall		4832 Valley View Blvd Nw	Roanoke, VA 24012	Roanoke	Virginia	24012	Sephora inside JCPenney	(540) 362-1251			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Springfield, JCPenney at Springfield Mall		6699 Springfield Mall	Springfield, VA 22150-1702	Springfield	Virginia	22150-1702	Sephora inside JCPenney	(703) 971-8850			Mo-Th 10:00-21:30; Fr-Sa 10:00-22:00; Su 11:00-19:00	Store	
+Richmond, JCPenney at Shops at White Oak Village		4541 S Laburnum Ave	Richmond, VA 23231-2421	Richmond	Virginia	23231-2421	Sephora inside JCPenney	(804) 222-2168			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Richmond, JCPenney at Chesterfield Mall		11500 Midlothian Turnpike	Richmond, VA 23235-4761	Richmond	Virginia	23235-4761	Sephora inside JCPenney	(804) 897-1288			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Hampton, JCPenney at Peninsula Town Center		2071 Coliseum Dr	Hampton, VA 23666-3219	Hampton	Virginia	23666-3219	Sephora inside JCPenney	(757) 896-1924			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Fairfax, JCPenney at Fair Oaks Mall		11801 Fair Oaks Mall	Fairfax, VA 22033-3398	Fairfax	Virginia	22033-3398	Sephora inside JCPenney	(703) 385-1500			Mo-Th 10:00-21:30; Fr-Sa 10:00-22:00; Su 11:00-19:00	Store	
+Newport News, JCPenney at Patrick Henry Mall		12300 JEFFERSON AVE STE 500	Newport News, VA 23602	Newport News	Virginia	23602	Sephora inside JCPenney	(757) 249-1090			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lynchburg, JCPenney at River Ridge Mall		3409 Candlers Mountain Rd	Lynchburg, VA 24502	Lynchburg	Virginia	24502	Sephora inside JCPenney	(434) 237-4741			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Colonial Heights, JCPenney at Southpark Mall		6 Southpark Mall	Colonial Heights, VA 23834-2962	Colonial Heights	Virginia	23834-2962	Sephora inside JCPenney	(804) 526-1487			Mo-Th 10:00-21:00; Fr 10:00-21:30; Sa 09:00-21:30; Su 11:00-19:00	Store	
+Chesapeake, JCPenney at Greenbrier Mall		1401 GREENBRIER PKWY STE 300	Chesapeake, VA 23320	Chesapeake	Virginia	23320	Sephora inside JCPenney	(757) 361-0180			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Sandy, JCPenney at South Towne Center		10450 S STATE STE	Sandy, UT 84070	Sandy	Utah	84070	Sephora inside JCPenney	(801) 572-9229			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+South Jordan, JCPenney at The District		11552 S District Dr	South Jordan, UT 84095	South Jordan	Utah	84095	Sephora inside JCPenney	(801) 495-4970			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+South Burlington, JCPenney at University Mall		155 DORSET ST	South Burlington, VT 5403	South Burlington	Vermont	5403	Sephora inside JCPenney	(802) 860-6388			Mo-Sa 09:30-21:00; Su 11:00-18:00	Store	
+Salt Lake City, JCPenney at Valley Fair Mall		3601 S 2700 W	Salt Lake City, UT 84119	Salt Lake City	Utah	84119	Sephora inside JCPenney	(801) 967-6003			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Riverdale, JCPenney at Riverdale Center		4185 Riverdale Rd	Riverdale, UT 84405-3509	Riverdale	Utah	84405-3509	Sephora inside JCPenney	(801) 621-2575			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Provo, JCPenney at Provo Towne Center		1200 Towne Centre Blvd	Provo, UT 84601-2996	Provo	Utah	84601-2996	Sephora inside JCPenney	(801) 852-3500			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Layton, JCPenney at Layton Hills Mall		1201 N. Hill Field Rd	Layton, UT 84041-2103	Layton	Utah	84041-2103	Sephora inside JCPenney	(801) 543-2225			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Wichita Falls, JCPenney at Sikes Senter Mall		3111 Midwestern Pkwy	Wichita Falls, TX 76308	Wichita Falls	Texas	76308	Sephora inside JCPenney	(940) 692-9630			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Waxahachie, JCPenney at Waxahachie Towne Center Crossing		1441 N Hwy 77	Waxahachie, TX 75165	Waxahachie	Texas	75165	Sephora inside JCPenney	(972) 937-3042			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Weslaco, JCPenney at Valley Crossing Shopping Center		715 E Expressway 83	Weslaco, TX 78596-4539	Weslaco	Texas	78596-4539	Sephora inside JCPenney	(956) 447-3500			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Waco, JCPenney at Richland Mall		6001 W Waco Dr	Waco, TX 76710	Waco	Texas	76710	Sephora inside JCPenney	(254) 776-1250			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+The Woodlands, JCPenney at The Woodland Mall		1201 LAKE WOODLANDS DR STE 500	The Woodlands, TX 77380	The Woodlands	Texas	77380	Sephora inside JCPenney	(281) 419-1419			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Tyler, JCPenney at Broadway Square Mall		4401 S Broadway	Tyler, TX 75703-1398	Tyler	Texas	75703-1398	Sephora inside JCPenney	(903) 561-3333			Mo-Sa 10:00-21:00; Su 12:30-18:00	Store	
+Victoria, JCPenney at West Acres Mall		8106 N Navarro St	Victoria, TX 77904-2698	Victoria	Texas	77904-2698	Sephora inside JCPenney	(361) 578-1511			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Sugarland, JCPenney at First Colony		16529 Southwest Pkwy	Sugarland, TX 77479-2317	Sugarland	Texas	77479-2317	Sephora inside JCPenney	(281) 565-1596			Mo-Sa 10:00-22:00; Su 11:00-19:00	Store	
+Texarkana, JCPenney at Central Mall		2400 RICHMOND RD STE 61	Texarkana, TX 75503	Texarkana	Texas	75503	Sephora inside JCPenney	(903) 832-1561			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Sherman, JCPenney at Sherman Town Center		610 Graham Dr	Sherman, TX 75092	Sherman	Texas	75092	Sephora inside JCPenney	(903) 870-0489			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+San Marcos, JCPenney at Stonecreek Crossing		800 Barnes St	San Marcos, TX 78666-6190	San Marcos	Texas	78666-6190	Sephora inside JCPenney	(512) 392-6860			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+San Antonio, JCPenney at The Rim Shopping Center		17710 LA CANTERA PKWY	San Antonio, TX 78257	San Antonio	Texas	78257	Sephora inside JCPenney	(210) 641-2493			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+San Antonio, JCPenney at South Park Mall		2418 SW Military Drive	San Antonio, TX 78224-1497	San Antonio	Texas	78224-1497	Sephora inside JCPenney	(210) 923-5461			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+San Antonio, JCPenney at Rolling Oaks Mall		6909 N Loop 1604 E	San Antonio, TX 78266	San Antonio	Texas	78266	Sephora inside JCPenney	(210) 599-0299			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+San Antonio, JCPenney at Ingram Park Mall		6301 NW LOOP 410	San Antonio, TX 78238	San Antonio	Texas	78238	Sephora inside JCPenney	(210) 681-6450			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+San Antonio, JCPenney at North Star Mall		7400 San Pedro Ave	San Antonio, TX 78216-5353	San Antonio	Texas	78216-5353	Sephora inside JCPenney	(210) 348-2958			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+San Antonio, JCPenney at Alamo Ranch Marketplace		5335 W Loop 1604 N	San Antonio, TX 78253-7300	San Antonio	Texas	78253-7300	Sephora inside JCPenney	(210) 301-2001			Mo-Sa 10:00-21:00; Su 11:00-21:00	Store	
+Round Rock, JCPenney at University Oaks Shopping Center		151 University Oaks	Round Rock, TX 78665-2431	Round Rock	Texas	78665-2431	Sephora inside JCPenney	(512) 341-0764			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Rosenberg, JCPenney at Brazos Town Commons		24201 Brazos Town Crossing	Rosenberg, TX 77471-6092	Rosenberg	Texas	77471-6092	Sephora inside JCPenney	(281) 232-3270			Mo-Fr 10:00-22:00; Sa 09:00-22:00; Su 11:00-20:00	Store	
+Pearland, JCPenney at The Crossing at 288 Shopping Center		2500 SMITH RANCH ROAD	Pearland, TX 77584	Pearland	Texas	77584	Sephora inside JCPenney	(713) 436-1548			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Rockwall, JCPenney at Plaza at Rockwall		1015 E I 30	Rockwall, TX 75087	Rockwall	Texas	75087	Sephora inside JCPenney	(972) 961-9239			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Pasadena, JCPenney at Fairmont Center		5120 FAIRMONT PKWY	Pasadena, TX 77505	Pasadena	Texas	77505	Sephora inside JCPenney	(281) 998-0696			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Plano, JCPenney at Collin Creek Mall		821 N CENTRAL EXPWY	Plano, TX 75075	Plano	Texas	75075	Sephora inside JCPenney	(972) 578-8666			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Odessa, JCPenney at Music City Mall		4101 E 42ND ST	Odessa, TX 79762	Odessa	Texas	79762	Sephora inside JCPenney	(432) 367-0601			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Mesquite, JCPenney at Town East Mall		6000 Town East Blvd	Mesquite, TX 75150-4152	Mesquite	Texas	75150-4152	Sephora inside JCPenney	(972) 279-4100			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+New Braunfels, JCPenney at New Braunfels Town Center at Creekside		215 Creekside Way	New Braunfels, TX 78130-6389	New Braunfels	Texas	78130-6389	Sephora inside JCPenney	(830) 632-2113			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Midland, JCPenney at Midland Park Mall		4511 N MIDKIFF RD	Midland, TX 79705	Midland	Texas	79705	Sephora inside JCPenney	(432) 699-4347			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Lubbock, JCPenney at South Plains Mall		6002 Slide Rd	Lubbock, TX 79414-8611	Lubbock	Texas	79414-8611	Sephora inside JCPenney	(806) 792-6841			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Mcallen, JCPenney at La Plaza		2200 S 10th St	Mcallen, TX 78503-5478	Mcallen	Texas	78503-5478	Sephora inside JCPenney	(956) 682-9431			Mo-Fr 10:00-21:00; Sa 09:00-22:00; Su 11:00-20:00	Store	
+League City, JCPenney at Victory Lakes Town Center		2520 Gulf Fwy S	League City, TX 77573-6743	League City	Texas	77573-6743	Sephora inside JCPenney	(281) 534-7196			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Longview, JCPenney at Longview Mall		3550 MCCANN RD	Longview, TX 75605	Longview	Texas	75605	Sephora inside JCPenney	(903) 758-4441			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Katy, JCPenney at West Grand Promenade		23523 Grand Circle Blvd	Katy, TX 77449-4562	Katy	Texas	77449-4562	Sephora inside JCPenney	(281) 574-3311			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lake Jackson, JCPenney at Brazos Mall		100 HWY 332 W STE 1260	Lake Jackson, TX 77566	Lake Jackson	Texas	77566	Sephora inside JCPenney	(979) 297-3281			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Laredo, JCPenney at Mall Del Norte Shopping Center		5300 San Dario	Laredo, TX 78041-3000	Laredo	Texas	78041-3000	Sephora inside JCPenney	(956) 718-9961			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Hurst, JCPenney at North East Mall		1105 Melbourne Dr	Hurst, TX 76053-6211	Hurst	Texas	76053-6211	Sephora inside JCPenney	(817) 284-4761			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Houston, JCPenney at Willowbrook Mall		7925 FM 1960 Road West	Houston, TX 77070-5735	Houston	Texas	77070-5735	Sephora inside JCPenney	(281) 469-0033			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00	Store	
+Houston, JCPenney at Shops at Stone Park		5858 E Sam Houston Pkwy N	Houston, TX 77049-2500	Houston	Texas	77049-2500	Sephora inside JCPenney	(281) 504-1092			Mo-Fr 10:00-22:00; Sa 09:00-22:00; Su 11:00-18:00	Store	
+Houston, JCPenney at Meyerland Plaza		730 Meyerland Plaza Mall	Houston, TX 77096-1699	Houston	Texas	77096-1699	Sephora inside JCPenney	(713) 666-3861			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 11:00-20:00	Store	
+Humble, JCPenney at Deerbrook Mall		20131 HWY 59N STE 3000	Humble, TX 77338	Humble	Texas	77338	Sephora inside JCPenney	(281) 540-7513			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00	Store	
+Houston, JCPenney at Memorial City Mall		300 MEMORIAL CITY WAY	Houston, TX 77024	Houston	Texas	77024	Sephora inside JCPenney	(713) 467-1621			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00	Store	
+Fort Worth, JCPenney at Ridgmar Mall		1900 Green Oaks Rd	Fort Worth, TX 76116-1703	Fort Worth	Texas	76116-1703	Sephora inside JCPenney	(817) 731-6371			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Harlingen, JCPenney at Valle Vista Mall		2006 S Expressway 83	Harlingen, TX 78552-5999	Harlingen	Texas	78552-5999	Sephora inside JCPenney	(956) 425-4211			Mo-Fr 10:00-21:00; Sa 08:00-21:00; Su 11:00-20:00	Store	
+Frisco, JCPenney at Stonebriar Centre		2607 Preston Rd	Frisco, TX 75034-9434	Frisco	Texas	75034-9434	Sephora inside JCPenney	(972) 712-2707			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+Friendswood, JCPenney at Baybrook Mall		100 Baybrook Mall	Friendswood, TX 77546-2707	Friendswood	Texas	77546-2707	Sephora inside JCPenney	(281) 218-7000			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Flower Mound, JCPenney at Robertsons Creek		5751 Long Prairie Rd	Flower Mound, TX 75028-5619	Flower Mound	Texas	75028-5619	Sephora inside JCPenney	(972) 874-6725			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Fort Worth, JCPenney at Alliance Town Center		3001 Texas Sage Trail	Fort Worth, TX 76177-8590	Fort Worth	Texas	76177-8590	Sephora inside JCPenney	(817) 745-4800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Fairview, JCPenney at Village at Fairview		301 Stacy Rd	Fairview, TX 75069-1640	Fairview	Texas	75069-1640	Sephora inside JCPenney	(972) 549-4094			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+El Paso, JCPenney at El Mercado Plaza		1950 Joe Battle Blvd	El Paso, TX 79938-2629	El Paso	Texas	79938-2629	Sephora inside JCPenney	(915) 856-0437			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Edinburg, JCPenney at Shops at Rio Grande		419 E Trenton Rd	Edinburg, TX 78539-9150	Edinburg	Texas	78539-9150	Sephora inside JCPenney	(956) 380-0820			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+El Paso, JCPenney at Cielo Vista Mall		8401 Gateway W	El Paso, TX 79925-5690	El Paso	Texas	79925-5690	Sephora inside JCPenney	(915) 779-2000			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Eagle Pass, JCPenney at Mall De Las Aguilas		455 S BIBB ST	Eagle Pass, TX 78852	Eagle Pass	Texas	78852	Sephora inside JCPenney	(830) 773-7844			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Denton, JCPenney at Golden Triangle Mall		2201 S Interstate 35 E	Denton, TX 76210	Denton	Texas	76210	Sephora inside JCPenney	(940) 566-6086			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Dallas, JCPenney at Timber Creek Crossing		6051 Skillman St	Dallas, TX 75231-7720	Dallas	Texas	75231-7720	Sephora inside JCPenney	(972) 892-2050			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Corpus Christi, JCPenney at La Palmera Mall		5488 S Padre Island Dr	Corpus Christi, TX 78411-4120	Corpus Christi	Texas	78411-4120	Sephora inside JCPenney	(361) 991-7251			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+College Station, JCPenney at Post Oak Mall		1500 Harvey Rd	College Station, TX 77840	College Station	Texas	77840	Sephora inside JCPenney	(979) 764-1600			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Cypress, JCPenney at Cy Fair Town Center		25646 Hwy 290	Cypress, TX 77429-1028	Cypress	Texas	77429-1028	Sephora inside JCPenney	(281) 373-4103			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Conroe, JCPenney at Teas Crossing		3165 Interstate 45 N	Conroe, TX 77304-5040	Conroe	Texas	77304-5040	Sephora inside JCPenney	(936) 756-7567			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Cedar Park, JCPenney at Lakeline Mall		11200 Lakeline Mall Dr	Cedar Park, TX 78613	Cedar Park	Texas	78613	Sephora inside JCPenney	(512) 257-1177			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Burleson, JCPenney at Burleson Town Center		877 NE ALSBURY BLVD	Burleson, TX 76028	Burleson	Texas	76028	Sephora inside JCPenney	(817) 295-0638			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Cedar Hill, JCPenney at Cedar Hill Village		333 N Hwy 67	Cedar Hill, TX 75104-2134	Cedar Hill	Texas	75104-2134	Sephora inside JCPenney	(972) 293-0273			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Brownsville, JCPenney at Sunrise Mall		2370 N Expwy Ste 2000	Brownsville, TX 78526-4500	Brownsville	Texas	78526-4500	Sephora inside JCPenney	(956) 504-0134			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Beaumont, JCPenney at Parkdale Mall		6455 Eastex Freeway	Beaumont, TX 77706-6784	Beaumont	Texas	77706-6784	Sephora inside JCPenney	(409) 898-2552			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00	Store	
+Austin, JCPenney at Southpark Meadows Shopping Center		9500 S IH-35 STE H	Austin, TX 78748	Austin	Texas	78748	Sephora inside JCPenney	(512) 280-3872			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Austin, JCPenney at Tech Ridge Center		12351 N IH-35	Austin, TX 78753	Austin	Texas	78753	Sephora inside JCPenney	(512) 873-7438			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Amarillo, JCPenney at Westgate Mall		7701 W I-40	Amarillo, TX 79121-0600	Amarillo	Texas	79121-0600	Sephora inside JCPenney	(806) 355-7241			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Austin, JCPenney at Barton Creek Square		2901 S CAPITOL OF TEXAS HWY	Austin, TX 78746	Austin	Texas	78746	Sephora inside JCPenney	(512) 327-6300			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Arlington, JCPenney at The Parks Mall		3851 S Cooper St	Arlington, TX 76015-4120	Arlington	Texas	76015-4120	Sephora inside JCPenney	(817) 557-9292			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Mt Juliet, JCPenney at Providence Marketplace		401 S MT JULIET RD STE 630	Mt Juliet, TN 37122	Mt Juliet	Tennessee	37122	Sephora inside JCPenney	(615) 758-7800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Murfreesboro, JCPenney at Stones River Mall		1720 OLD FORT PARKWAY	Murfreesboro, TN 37129	Murfreesboro	Tennessee	37129	Sephora inside JCPenney	(615) 907-0759			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Memphis, JCPenney at Centennial Commons		7700 Polo Grounds Blvd	Memphis, TN 38125-5755	Memphis	Tennessee	38125-5755	Sephora inside JCPenney	(901) 620-2800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Abilene, JCPenney at Mall Of Abilene		4310 Buffalo Gap Rd	Abilene, TX 79606	Abilene	Texas	79606	Sephora inside JCPenney	(325) 695-2100			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Johnson City, JCPenney at The Mall		2011 N Roan St	Johnson City, TN 37601-3130	Johnson City	Tennessee	37601-3130	Sephora inside JCPenney	(423) 282-6606			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Knoxville, JCPenney at West Town Mall		7600 Kingston Pike	Knoxville, TN 37919	Knoxville	Tennessee	37919	Sephora inside JCPenney	(865) 693-4110			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Jackson, JCPenney at Old Hickory Mall		2021 N Highland Ave Ste 15	Jackson, TN 38305	Jackson	Tennessee	38305	Sephora inside JCPenney	(731) 668-7330			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Franklin, JCPenney at CoolSprings Galleria		1780 Galleria Blvd	Franklin, TN 37067-2623	Franklin	Tennessee	37067-2623	Sephora inside JCPenney	(615) 771-7743			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Goodlettsville, JCPenney at Rivergate Mall		1000 RIVERGATE PKWY STE 3	Goodlettsville, TN 37072	Goodlettsville	Tennessee	37072	Sephora inside JCPenney	(615) 859-3461			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Farragut, JCPenney at Turkey Creek Shopping Center		11534 Parkside Dr	Farragut, TN 37934-1975	Farragut	Tennessee	37934-1975	Sephora inside JCPenney	(865) 288-6708			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Chattanooga, JCPenney at Hamilton Place		2100 Hamilton Place Blvd	Chattanooga, TN 37421-6049	Chattanooga	Tennessee	37421-6049	Sephora inside JCPenney	(423) 894-2330			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Bartlett, JCPenney at Wolfchase Galleria		2756 N Germantown Pkwy	Bartlett, TN 38133	Bartlett	Tennessee	38133	Sephora inside JCPenney	(901) 937-7666			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Sioux Falls, JCPenney at Empire Mall		3200 W Empire Mall	Sioux Falls, SD 57106-6501	Sioux Falls	South Dakota	57106-6501	Sephora inside JCPenney	(605) 361-6123			Mo-Sa 09:00-21:00; Su 11:00-19:00	Store	
+N Charleston, JCPenney at Northwoods Mall		2150 Northwoods Blvd	N Charleston, SC 29406-4062	N Charleston	South Carolina	29406-4062	Sephora inside JCPenney	(843) 824-8113			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Greenville, JCPenney at Haywood Mall		700 Haywood Rd	Greenville, SC 29607-2794	Greenville	South Carolina	29607-2794	Sephora inside JCPenney	(864) 297-3550			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 12:30-18:00	Store	
+Rock Hill, JCPenney at Rock Hill Galleria		2321 DAVE LYLE BLVD	Rock Hill, SC 29730	Rock Hill	South Carolina	29730	Sephora inside JCPenney	(803) 366-6161			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Columbia, JCPenney at Village at Sandhill		304 FORUM DRIVE	Columbia, SC 29229	Columbia	South Carolina	29229	Sephora inside JCPenney	(803) 699-4469			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Myrtle Beach, JCPenney at Coastal Grand Mall		1800 Coastal Grand Cir	Myrtle Beach, SC 29577-9782	Myrtle Beach	South Carolina	29577-9782	Sephora inside JCPenney	(843) 839-0088			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Florence, JCPenney at Magnolia Mall		2701 David H Mcleod Blvd	Florence, SC 29501	Florence	South Carolina	29501	Sephora inside JCPenney	(843) 669-3211			Mo-Sa 10:00-21:00; Su 12:00-17:00	Store	
+Warwick, JCPenney at Warwick Mall		400 Bald Hill Rd	Warwick, RI 02886-1683	Warwick	Rhode Island	02886-1683	Sephora inside JCPenney	(401) 739-7010			Mo-Sa 10:00-22:00; Su 12:00-18:00	Store	
+Anderson, JCPenney at Anderson Mall		3187 N Main St	Anderson, SC 29621	Anderson	South Carolina	29621	Sephora inside JCPenney	(864) 225-4641			Mo-Sa 10:00-21:00; Su 13:30-18:00	Store	
+Wilkes-Barre, JCPenney at Wyoming Valley Mall		34 Wyoming Valley Mall	Wilkes-Barre, PA 18702-6810	Wilkes-Barre	Pennsylvania	18702-6810	Sephora inside JCPenney	(570) 829-0531			Mo-Sa 10:00-21:00; Su 11:00-17:00	Store	
+Columbia, JCPenney at Columbiana Center Mall		100 Columbiana Cir #102	Columbia, SC 29212	Columbia	South Carolina	29212	Sephora inside JCPenney	(803) 407-2215			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Whitehall, JCPenney at Lehigh Valley Mall		500 LEHIGH VALLEY MALL	Whitehall, PA 18052	Whitehall	Pennsylvania	18052	Sephora inside JCPenney	(610) 264-5671			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Tarentum, JCPenney at Galleria at Pittsburg Mills		167 PITTSBURGH MILLS CIRCLE	Tarentum, PA 15084	Tarentum	Pennsylvania	15084	Sephora inside JCPenney	(724) 275-1047			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Scranton, JCPenney at Viewmont Mall		80 Viewmont Mall	Scranton, PA 18508-1398	Scranton	Pennsylvania	18508-1398	Sephora inside JCPenney	(570) 346-8401			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+North Wales, JCPenney at Montgomery Mall		300 Montgomery Mall	North Wales, PA 19454-3907	North Wales	Pennsylvania	19454-3907	Sephora inside JCPenney	(215) 362-2100			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Monroeville, JCPenney at Monroeville Mall		500 Monroeville Mall	Monroeville, PA 15146	Monroeville	Pennsylvania	15146	Sephora inside JCPenney	(412) 373-2620			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Pittsburgh, JCPenney at Robinson Town Center		2000 Robinson Town Center	Pittsburgh, PA 15205-4810	Pittsburgh	Pennsylvania	15205-4810	Sephora inside JCPenney	(412) 787-9778			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Monaca, JCPenney at Beaver Valley Mall		200 BEAVER VALLEY MALL	Monaca, PA 15061	Monaca	Pennsylvania	15061	Sephora inside JCPenney	(724) 728-8140			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lancaster, JCPenney at Park City Shopping Center		400 PARK CITY S/C	Lancaster, PA 17601	Lancaster	Pennsylvania	17601	Sephora inside JCPenney	(717) 299-0411			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Johnstown, JCPenney at Galleria Mall		560 Galleria Dr	Johnstown, PA 15904-8909	Johnstown	Pennsylvania	15904-8909	Sephora inside JCPenney	(814) 269-2171			Mo-Sa 10:00-21:00; Su 12:00-17:00	Store	
+Langhorne, JCPenney at Oxford Valley Mall		2300 E Lincoln Hwy	Langhorne, PA 19047-1824	Langhorne	Pennsylvania	19047-1824	Sephora inside JCPenney	(215) 752-2350			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Hermitage, JCPenney at Shenango Valley Mall		3405 E State St	Hermitage, PA 16148	Hermitage	Pennsylvania	16148	Sephora inside JCPenney	(724) 981-2500			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Harrisburg, JCPenney at High Pointe Commons		4680 HIGH POINTE BLVD	Harrisburg, PA 17111	Harrisburg	Pennsylvania	17111	Sephora inside JCPenney	(717) 561-2124			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Hanover, JCPenney at North Hanover Mall		1155 Carlisle Street	Hanover, PA 17331	Hanover	Pennsylvania	17331	Sephora inside JCPenney	(717) 634-3490			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Greensburg, JCPenney at Westmoreland Mall		5256 Route 30	Greensburg, PA 15601-6405	Greensburg	Pennsylvania	15601-6405	Sephora inside JCPenney	(724) 836-8110			Mo-Th 10:00-21:00; Fr 10:00-21:30; Sa 09:00-21:30; Su 11:00-18:00	Store	
+Altoona, JCPenney at Logan Valley Mall		5580 Goods Ln	Altoona, PA 16602	Altoona	Pennsylvania	16602	Sephora inside JCPenney	(814) 944-5081			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Erie, JCPenney at Mill Creek Mall		840 Mill Creek Mall	Erie, PA 16565-0840	Erie	Pennsylvania	16565-0840	Sephora inside JCPenney	(814) 868-5261			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Salem, JCPenney at Salem Center		305 Liberty St NE	Salem, OR 97301-3589	Salem	Oregon	97301-3589	Sephora inside JCPenney	(503) 585-4535			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Portland, JCPenney at Washington Square		9500 SW Washington Sq Rd	Portland, OR 97223-4429	Portland	Oregon	97223-4429	Sephora inside JCPenney	(503) 620-0750			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+Medford, JCPenney at Rogue Valley Mall		1500 N Riverside Ave	Medford, OR 97501	Medford	Oregon	97501	Sephora inside JCPenney	(541) 773-8100			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Eugene, JCPenney at Valley River Center		300 Valley River Center	Eugene, OR 97401-2151	Eugene	Oregon	97401-2151	Sephora inside JCPenney	(541) 342-6211			Mo-Fr 10:00-21:00; Sa 10:00-18:00; Su 11:00-19:00	Store	
+Portland, JCPenney at Clackamas Town Center		12300 SE 82nd Ave	Portland, OR 97086-7788	Portland	Oregon	97086-7788	Sephora inside JCPenney	(503) 653-8830			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+Tulsa, JCPenney at Woodland Hills Mall		6931 S Memorial Dr	Tulsa, OK 74133	Tulsa	Oklahoma	74133	Sephora inside JCPenney	(918) 252-7525			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Tulsa, JCPenney at Tulsa Promenade		4101 S Yale Ave	Tulsa, OK 74135	Tulsa	Oklahoma	74135	Sephora inside JCPenney	(918) 627-8500			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Owasso, JCPenney at Center at Owasso		9056 N 121st East Ave	Owasso, OK 74055-5315	Owasso	Oklahoma	74055-5315	Sephora inside JCPenney	(918) 401-2460			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Oklahoma City, JCPenney at Quail Springs Mall		2501 W Memorial Rd	Oklahoma City, OK 73134-8099	Oklahoma City	Oklahoma	73134-8099	Sephora inside JCPenney	(405) 755-5500			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Oklahoma City, JCPenney at Penn Square Mall		1901 N.W. Expressway	Oklahoma City, OK 73118-1608	Oklahoma City	Oklahoma	73118-1608	Sephora inside JCPenney	(405) 840-4522			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Midwest City, JCPenney at Town Center Plaza		7271 SE 29th St	Midwest City, OK 73110-6092	Midwest City	Oklahoma	73110-6092	Sephora inside JCPenney	(405) 739-0130			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Moore, JCPenney at Shops at Moore		2400 S Service Rd	Moore, OK 73160-5504	Moore	Oklahoma	73160-5504	Sephora inside JCPenney	(405) 237-1542			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Youngstown, JCPenney at Southern Park Mall		7401 Market Street	Youngstown, OH 44512-5694	Youngstown	Ohio	44512-5694	Sephora inside JCPenney	(330) 758-6451			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Toledo, JCPenney at Westfield Franklin Park		5001 MONROE ST	Toledo, OH 43623	Toledo	Ohio	43623	Sephora inside JCPenney	(419) 473-3511			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Strongsville, JCPenney at SouthPark Center		17177 Royalton Rd	Strongsville, OH 44136	Strongsville	Ohio	44136	Sephora inside JCPenney	(440) 846-8419			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Sandusky, JCPenney at Sandusky Mall		4316 Milan Rd	Sandusky, OH 44870	Sandusky	Ohio	44870	Sephora inside JCPenney	(419) 627-8840			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Mentor, JCPenney at Great Lakes Mall		7850 MENTOR AVE STE 930	Mentor, OH 44060	Mentor	Ohio	44060	Sephora inside JCPenney	(440) 255-4461			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Parma, JCPenney at Parmatown		7900 Day Drive	Parma, OH 44129	Parma	Ohio	44129	Sephora inside JCPenney	(440) 845-7200			Mo-Sa 10:00-21:00; Su 11:30-17:30	Store	
+N Olmsted, JCPenney at Great Northern Mall		5100 GREAT NORTHERN MALL	N Olmsted, OH 44070	N Olmsted	Ohio	44070	Sephora inside JCPenney	(440) 779-8800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Niles, JCPenney at Eastwood Mall		5555 Youngstown-Warren Rd	Niles, OH 44446	Niles	Ohio	44446	Sephora inside JCPenney	(330) 544-1331			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Hamilton, JCPenney at Bridgewater Falls Shopping Center		3459 Princeton Rd	Hamilton, OH 45011-7956	Hamilton	Ohio	45011-7956	Sephora inside JCPenney	(513) 671-2511			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lima, JCPenney at Lima Mall		2400 Elida Rd	Lima, OH 45805-1223	Lima	Ohio	45805-1223	Sephora inside JCPenney	(419) 331-0361			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Maumee, JCPenney at The Shops at Fallen Timbers		3100 Main St	Maumee, OH 43537	Maumee	Ohio	43537	Sephora inside JCPenney	(419) 878-0153			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Dublin, JCPenney at Tuttle Crossing Mall		5083 Tuttle Crossing Blvd	Dublin, OH 43016-1508	Dublin	Ohio	43016-1508	Sephora inside JCPenney	(614) 717-0399			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Columbus, JCPenney at Polaris Fashion Place		1500 Polaris Parkway	Columbus, OH 43240-2040	Columbus	Ohio	43240-2040	Sephora inside JCPenney	(614) 846-1807			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Colerain Township, JCPenney at Stone Creek Town Center		3675 Stone Creek Blvd	Colerain Township, OH 45251-1459	Colerain Township	Ohio	45251-1459	Sephora inside JCPenney	(513) 245-9800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Cincinnati, JCPenney at Governors Plaza		9365 Fields Ertel Rd	Cincinnati, OH 45249-8302	Cincinnati	Ohio	45249-8302	Sephora inside JCPenney	(513) 697-0333			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Avon, JCPenney at Avon Crossing		1301 Center Rd	Avon, OH 44011-1211	Avon	Ohio	44011-1211	Sephora inside JCPenney	(440) 695-3011			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Cincinnati, JCPenney at Eastgate Mall		4621 EASTGATE BLVD	Cincinnati, OH 45245	Cincinnati	Ohio	45245	Sephora inside JCPenney	(513) 752-2622			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Beaver Creek, JCPenney at Fairfield Commons		2727 FAIRFIELD COMMONS BLVD	Beaver Creek, OH 45431	Beaver Creek	Ohio	45431	Sephora inside JCPenney	(937) 427-3300			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Centerville, JCPenney at Dayton Mall		2700 Miamisburg-Centerville Rd	Centerville, OH 45459-3735	Centerville	Ohio	45459-3735	Sephora inside JCPenney	(937) 436-5465			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Minot, JCPenney at Dakota Square Mall		2400 10TH ST SW	Minot, ND 58701	Minot	North Dakota	58701	Sephora inside JCPenney	(701) 839-4255			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 12:00-18:00	Store	
+Akron, JCPenney at Market Square at Montrose		3742 BROOKWALL DRIVE STE 10	Akron, OH 44333	Akron	Ohio	44333	Sephora inside JCPenney	(330) 670-9137			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Akron, JCPenney at Chapel Hill Mall		2000 Brittain Rd Ste. 600	Akron, OH 44310	Akron	Ohio	44310	Sephora inside JCPenney	(330) 633-7700			Mo-Sa 10:00-21:00; Su 12:00-17:00	Store	
+Grand Forks, JCPenney at Columbia Mall		2800 S Columbia Rd	Grand Forks, ND 58201	Grand Forks	North Dakota	58201	Sephora inside JCPenney	(701) 746-4521			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Fargo, JCPenney at West Acres Shopping Center		3902 13th Ave SW	Fargo, ND 58103-3399	Fargo	North Dakota	58103-3399	Sephora inside JCPenney	(701) 282-9770			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Bismarck, JCPenney at Kirkwood Mall		850 KIRKWOOD MALL	Bismarck, ND 58504	Bismarck	North Dakota	58504	Sephora inside JCPenney	(701) 258-9300			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 12:00-18:00	Store	
+Rocky Mount, JCPenney at Golden East Crossing		1100 Wesleyan Blvd	Rocky Mount, NC 27804	Rocky Mount	North Carolina	27804	Sephora inside JCPenney	(252) 972-6800			Mo-Sa 10:00-21:00; Su 13:00-18:00	Store	
+Wilmington, JCPenney at Independence Mall		3500 Oleander Dr	Wilmington, NC 28403	Wilmington	North Carolina	28403	Sephora inside JCPenney	(910) 392-1400			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Winston-Salem, JCPenney at Hanes Mall		3320 Silas Creek Pkwy	Winston-Salem, NC 27103-3032	Winston-Salem	North Carolina	27103-3032	Sephora inside JCPenney	(336) 768-2510			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Raleigh, JCPenney at North Hills S/C		4217 Six Forks Rd Ste 100	Raleigh, NC 27609	Raleigh	North Carolina	27609	Sephora inside JCPenney	(919) 787-4920			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Pineville, JCPenney at Carolina Place Mall		11017 Carolina Place Pkwy	Pineville, NC 28134-8370	Pineville	North Carolina	28134-8370	Sephora inside JCPenney	(704) 543-4197			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Matthews, JCPenney at Windsor Mall		10101 East Independence Blvd	Matthews, NC 28215	Matthews	North Carolina	28215	Sephora inside JCPenney	(704) 443-5710			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Hickory, JCPenney at Valley Hills Mall		1970 US Hwy 70 SE	Hickory, NC 28602-5158	Hickory	North Carolina	28602-5158	Sephora inside JCPenney	(828) 328-2661			Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 12:00-18:00	Store	
+Greenville, JCPenney at Greenville Mall		714 Greenville Blvd	Greenville, NC 27858	Greenville	North Carolina	27858	Sephora inside JCPenney	(252) 756-1190			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Greensboro, JCPenney at Four Seasons Town Centre		100 FOUR SEASONS TOWN CTR	Greensboro, NC 27407	Greensboro	North Carolina	27407	Sephora inside JCPenney	(336) 294-6871			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Fayetteville, JCPenney at Cross Creek Mall		300 Cross Creek Mall	Fayetteville, NC 28303-7299	Fayetteville	North Carolina	28303-7299	Sephora inside JCPenney	(910) 864-2525			Mo-Sa 09:00-21:30; Su 12:00-19:00	Store	
+Burlington, JCPenney at Alamance Crossing		3141 Watermill Dr	Burlington, NC 27215-8237	Burlington	North Carolina	27215-8237	Sephora inside JCPenney	(336) 524-9012			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Durham, JCPenney at Streets at Southpoint		6910 FAYETTEVILLE RD STE 600	Durham, NC 27713	Durham	North Carolina	27713	Sephora inside JCPenney	(919) 806-3682			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Williamsville, JCPenney at Eastern Hills Mall		4545 Transit Rd	Williamsville, NY 14221-6080	Williamsville	New York	14221-6080	Sephora inside JCPenney	(716) 633-2500			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Syracuse, JCPenney at Destiny USA		9559 Destiny USA Dr	Syracuse, NY 13290	Syracuse	New York	13290	Sephora inside JCPenney	(315) 466-2405			Tu-Sa 02:00-21:00; Su 11:00-18:00	Store	
+Victor, JCPenney at Eastview Mall		600 Eastview Mall	Victor, NY 14564-1002	Victor	New York	14564-1002	Sephora inside JCPenney	(585) 425-7700			Mo-Sa 02:00-21:30; Su 11:00-18:00	Store	
+Staten Island, JCPenney at Staten Island Mall		140 Marsh Ave	Staten Island, NY 10314-5902	Staten Island	New York	10314-5902	Sephora inside JCPenney	(718) 982-9330			Mo-Th 10:00-21:30; Fr-Sa 10:00-22:00; Su 11:00-19:00	Store	
+Saratoga Springs, JCPenney at Wilton Mall at Saratoga		3065 Route 50	Saratoga Springs, NY 12866	Saratoga Springs	New York	12866	Sephora inside JCPenney	(518) 581-8326			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Rochester, JCPenney at Marketplace Mall		25 MIRACLE MILE DR	Rochester, NY 14623	Rochester	New York	14623	Sephora inside JCPenney	(585) 424-1010			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Queensbury, JCPenney at Aviation Mall		578 Aviation Rd Ste 3	Queensbury, NY 12804	Queensbury	New York	12804	Sephora inside JCPenney	(518) 761-1229			Mo-Sa 09:30-21:00; Su 11:00-17:00	Store	
+Poughkeepsie, JCPenney at Poughkeepsie Galleria		2001 South Rd (Route 9)	Poughkeepsie, NY 12601-5978	Poughkeepsie	New York	12601-5978	Sephora inside JCPenney	(845) 298-0572			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+New York, JCPenney at Manhattan Mall		100 W 32nd Street	New York, NY 10001	New York	New York	10001	Sephora inside JCPenney	(212) 295-6120			Mo-Sa 09:00-21:30; Su 11:00-21:00	Store	
+Middletown, JCPenney at Crystal Run Galleria		1 N Galleria Drive	Middletown, NY 10941-3032	Middletown	New York	10941-3032	Sephora inside JCPenney	(845) 692-4700			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+New Hartford, JCPenney at Sangertown Square Mall		1 Sangertown Square	New Hartford, NY 13413-1597	New Hartford	New York	13413-1597	Sephora inside JCPenney	(315) 797-6010			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Johnson City, JCPenney at Oakdale Mall		601-635 Harry L Dr Ste 99	Johnson City, NY 13790	Johnson City	New York	13790	Sephora inside JCPenney	(607) 770-9211			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Horseheads, JCPenney at Arnot Mall		3300 CHAMBERS RD STE 5090	Horseheads, NY 14845	Horseheads	New York	14845	Sephora inside JCPenney	(607) 739-3521			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Garden City, JCPenney at Roosevelt Field Shopping Center		630 Old Country Rd	Garden City, NY 11530-3600	Garden City	New York	11530-3600	Sephora inside JCPenney	(516) 877-1100			Mo-Sa 10:00-21:30; Su 23:30-18:00	Store	
+Greece, JCPenney at Mall at Greece Ridge		231 GREECE RIDGE CTR DR	Greece, NY 14626	Greece	New York	14626	Sephora inside JCPenney	(585) 723-5700			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Elmhurst, JCPenney at Queens Center		92-59 59th Ave	Elmhurst, NY 11373-5018	Elmhurst	New York	11373-5018	Sephora inside JCPenney	(718) 592-1800			Mo-Sa 10:00-21:30; Su 11:00-21:00	Store	
+Clifton Park, JCPenney at Clifton Park Center		22 Clifton Country Rd	Clifton Park, NY 12065-3810	Clifton Park	New York	12065-3810	Sephora inside JCPenney	(518) 371-1500			Mo-Fr 10:00-21:30; Sa 09:00-21:30; Su 11:00-18:00	Store	
+Brooklyn, JCPenney at Gateway Shopping Center Phase II		360 Gateway Dr	Brooklyn, NY 11239	Brooklyn	New York	11239	Sephora inside JCPenney	(718) 235-3818			Mo-Fr 09:00-21:30; Sa 09:00-22:00; Su 10:00-20:00	Store	
+Cheektowaga, JCPenney at Walden Galleria		3 Walden Galleria Dr	Cheektowaga, NY 14225-5424	Cheektowaga	New York	14225-5424	Sephora inside JCPenney	(716) 681-5100			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Bronx, JCPenney at Bay Plaza Mall		100 Baychester Ave	Bronx, NY 10475-4572	Bronx	New York	10475-4572	Sephora inside JCPenney	(718) 862-9125			Mo-Th 10:00-22:00; Fr-Sa 09:00-22:00; Su 10:00-21:00	Store	
+Blasdell, JCPenney at McKinley Mall		6 McKinley Mall	Blasdell, NY 14219-2659	Blasdell	New York	14219-2659	Sephora inside JCPenney	(716) 822-1166			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Bay Shore, JCPenney at Westfield Shopping Town		1701 Sunrise Highway	Bay Shore, NY 11706-6081	Bay Shore	New York	11706-6081	Sephora inside JCPenney	(631) 666-3000			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Las Cruces, JCPenney at Mesilla Valley Mall		700 Telshor Blvd Ste 2000	Las Cruces, NM 88011	Las Cruces	New Mexico	88011	Sephora inside JCPenney	(575) 522-3041			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Amherst, JCPenney at Boulevard Mall		1303 Niagara Falls Blvd	Amherst, NY 14226-1185	Amherst	New York	14226-1185	Sephora inside JCPenney	(716) 837-2100			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Albany, JCPenney at Crossgates Mall		120 Washington Ave Ext	Albany, NY 12203-5376	Albany	New York	12203-5376	Sephora inside JCPenney	(518) 456-0824			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Albuquerque, JCPenney at Cottonwood Mall		10000 Coors Bypass NW	Albuquerque, NM 87114-4050	Albuquerque	New Mexico	87114-4050	Sephora inside JCPenney	(505) 890-8727			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Albuquerque, JCPenney at Coronado Center		6600 Menaul Blvd NE	Albuquerque, NM 87110-3439	Albuquerque	New Mexico	87110-3439	Sephora inside JCPenney	(505) 883-5800			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Woodbridge, JCPenney at Woodbridge Center		428 Woodbridge Center Dr	Woodbridge, NJ 07095-1394	Woodbridge	New Jersey	07095-1394	Sephora inside JCPenney	(732) 636-6000			Mo-Th 10:00-21:30; Fr-Sa 10:00-22:00; Su 11:00-19:00	Store	
+Trenton, JCPenney at Quaker Bridge Mall		500 Quaker Bridge Mall	Trenton, NJ 8648	Trenton	New Jersey	8648	Sephora inside JCPenney	(609) 799-8100			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Wayne, JCPenney at Wayne Towne Center		260 Wayne Towne Center	Wayne, NJ 07470-6993	Wayne	New Jersey	07470-6993	Sephora inside JCPenney	(973) 785-3200			Mo-Sa 10:00-21:30; Su 11:00-19:30	Store	
+Toms River, JCPenney at Ocean County Mall		1201 Hooper Ave	Toms River, NJ 08753-3392	Toms River	New Jersey	08753-3392	Sephora inside JCPenney	(732) 240-5400			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Paramus, JCPenney at Garden State Plaza		502 Garden State Plaza	Paramus, NJ 07652-2492	Paramus	New Jersey	07652-2492	Sephora inside JCPenney	(201) 843-2910			Mo-Sa 10:00-21:30; Su Closed	Store	
+Mays Landing, JCPenney at Hamilton Mall		4405 Black Horse Pike	Mays Landing, NJ 8330	Mays Landing	New Jersey	8330	Sephora inside JCPenney	(609) 645-9399			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Rockaway, JCPenney at Rockaway Town Square		305 Mount Hope Ave	Rockaway, NJ 07866-2147	Rockaway	New Jersey	07866-2147	Sephora inside JCPenney	(973) 361-4500			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Jersey City, JCPenney at Newport Center Mall		10 MALL DR W	Jersey City, NJ 7310	Jersey City	New Jersey	7310	Sephora inside JCPenney	(201) 217-1111			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Eatontown, JCPenney at Monmouth Mall		State Hwy 35 and 36	Eatontown, NJ 07724-2093	Eatontown	New Jersey	07724-2093	Sephora inside JCPenney	(732) 544-8600			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Freehold, JCPenney at Freehold Raceway Mall		3710 Route 9	Freehold, NJ 07728-1600	Freehold	New Jersey	07728-1600	Sephora inside JCPenney	(732) 780-4001			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Deptford, JCPenney at Deptford Mall		1750 DEPTFORD CENTER RD STE 3	Deptford, NJ 8096	Deptford	New Jersey	8096	Sephora inside JCPenney	(856) 845-6111			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+East Brunswick, JCPenney at Brunswick Square Mall		755 State Route 18	East Brunswick, NJ 08816-4995	East Brunswick	New Jersey	08816-4995	Sephora inside JCPenney	(732) 238-3900			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+West Lebanon, JCPenney at Upper Valley Plaza		RT 12 A	West Lebanon, NH 3784	West Lebanon	New Hampshire	3784	Sephora inside JCPenney	(603) 298-5971			Mo-Sa 09:00-21:00; Su 10:00-18:00	Store	
+Salem, JCPenney at Mall at Rockingham Park		81 ROCKINGHAM PARK	Salem, NH 3079	Salem	New Hampshire	3079	Sephora inside JCPenney	(603) 893-4322			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Cherry Hill, JCPenney at Cherry Hill Mall		2000 Route 38	Cherry Hill, NJ 08002-2144	Cherry Hill	New Jersey	08002-2144	Sephora inside JCPenney	(856) 488-0330			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Newington, JCPenney at Fox Run Mall		50 FOX RUN RD STE 35	Newington, NH 3801	Newington	New Hampshire	3801	Sephora inside JCPenney	(603) 433-0812			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Manchester, JCPenney at Mall of New Hampshire		1500 S WILLOW ST	Manchester, NH 3103	Manchester	New Hampshire	3103	Sephora inside JCPenney	(603) 622-1335			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Nashua, JCPenney at Pheasant Lane Mall		310 Daniel Webster Hwy	Nashua, NH 3060	Nashua	New Hampshire	3060	Sephora inside JCPenney	(603) 888-9380			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Keene, JCPenney at West Street Shopping Center		381 West St	Keene, NH 3431	Keene	New Hampshire	3431	Sephora inside JCPenney	(603) 352-2166			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Las Vegas, JCPenney at Meadows Shopping Center		4400 Meadows Lane	Las Vegas, NV 89107-3196	Las Vegas	Nevada	89107-3196	Sephora inside JCPenney	(702) 870-9182			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+Las Vegas, JCPenney at Grand Canyon Parkway		4485 S GRAND CANYON DR	Las Vegas, NV 89147	Las Vegas	Nevada	89147	Sephora inside JCPenney	(702) 876-3644			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Henderson, JCPenney at Galleria Mall at Sunset		1312 W Sunset Rd	Henderson, NV 89014-6606	Henderson	Nevada	89014-6606	Sephora inside JCPenney	(702) 451-4545			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Reno, JCPenney at Meadowood Mall		5200 MEADOWOOD MALL CIR	Reno, NV 89502	Reno	Nevada	89502	Sephora inside JCPenney	(775) 827-2700			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Carson City, JCPenney at Southgate Mall		3939 S Carson St	Carson City, NV 89701	Carson City	Nevada	89701	Sephora inside JCPenney	(775) 884-3330			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Papillion, JCPenney at Shadow Lake Town Center		7751 Towne Center Pkwy	Papillion, NE 68046-2135	Papillion	Nebraska	68046-2135	Sephora inside JCPenney	(402) 592-1825			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Omaha, JCPenney at Westroads Shopping Center		800 N 98TH ST	Omaha, NE 68114	Omaha	Nebraska	68114	Sephora inside JCPenney	(402) 397-4600			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Omaha, JCPenney at Oak View  Mall		3202 Oakview Dr	Omaha, NE 68144	Omaha	Nebraska	68144	Sephora inside JCPenney	(402) 334-2470			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lincoln, JCPenney at Gateway Mall		68 Gateway Mall	Lincoln, NE 68505-2433	Lincoln	Nebraska	68505-2433	Sephora inside JCPenney	(402) 466-2222			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Billings, JCPenney at Rimrock Mall		140 South 24th Street West	Billings, MT 59102-5688	Billings	Montana	59102-5688	Sephora inside JCPenney	(406) 652-4000			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Washington, JCPenney at Washington		5886 Highway 100	Washington, MO 63090	Washington	Missouri	63090	Sephora inside JCPenney	(636) 390-2405			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+St Louis, JCPenney at South County Center		100 S County Center Way	St Louis, MO 63129-1094	St Louis	Missouri	63129-1094	Sephora inside JCPenney	(314) 487-2500			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+St Peters, JCPenney at Mid Rivers Mall		4 Mid Rivers Mall	St Peters, MO 63376-4301	St Peters	Missouri	63376-4301	Sephora inside JCPenney	(636) 970-2115			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+St Joseph, JCPenney at East Hills Shopping Center		3702 Frederick Ave	St Joseph, MO 64506-3089	St Joseph	Missouri	64506-3089	Sephora inside JCPenney	(816) 279-6381			Mo-Sa 10:00-21:00; Su 12:00-17:00	Store	
+Sedalia, JCPenney at Thompson Hills Shopping Center		3159 W Broadway	Sedalia, MO 65301	Sedalia	Missouri	65301	Sephora inside JCPenney	(660) 827-2880			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Springfield, JCPenney at Battlefield Mall		2825 S Glenstone Ave	Springfield, MO 65804-3781	Springfield	Missouri	65804-3781	Sephora inside JCPenney	(417) 883-4220			Mo-Sa 09:30-21:00; Su 11:00-19:00	Store	
+Lees Summit, JCPenney at Summit Fair		990 NW Blue Pkwy	Lees Summit, MO 64086-5718	Lees Summit	Missouri	64086-5718	Sephora inside JCPenney	(816) 600-3253			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Kansas City, JCPenney at Tiffany Springs Market		9100 N Skyview Ave	Kansas City, MO 64154-8500	Kansas City	Missouri	64154-8500	Sephora inside JCPenney	(816) 410-2960			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Kansas City, JCPenney at Plaza at Shoal Creek		8100 N Flintlock Rd	Kansas City, MO 64158-1115	Kansas City	Missouri	64158-1115	Sephora inside JCPenney	(816) 415-2397			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Independence, JCPenney at Bolger Square		17610 East 39TH St S	Independence, MO 64055	Independence	Missouri	64055	Sephora inside JCPenney	(816) 350-0172			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Joplin, JCPenney at Northpark Mall		101 Range Line	Joplin, MO 64801	Joplin	Missouri	64801	Sephora inside JCPenney	(417) 623-5700			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Fenton, JCPenney at Summit at Gravois Bluff		798 Gravois Bluffs Blvd	Fenton, MO 63026-7726	Fenton	Missouri	63026-7726	Sephora inside JCPenney	(636) 203-9338			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Des Peres, JCPenney at Westfield Shoppingtown West County Center		37 West County Center	Des Peres, MO 63131	Des Peres	Missouri	63131	Sephora inside JCPenney	(314) 965-9100			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Columbia, JCPenney at Columbia Mall		2301 W Worley	Columbia, MO 65203-1092	Columbia	Missouri	65203-1092	Sephora inside JCPenney	(573) 445-7001			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Cape Girardeau, JCPenney at West Park Mall		200 W Park Mall	Cape Girardeau, MO 63703-6397	Cape Girardeau	Missouri	63703-6397	Sephora inside JCPenney	(573) 334-2881			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 09:00-21:00; Su 12:00-18:00	Store	
+Tupelo, JCPenney at Mall at Barnes Crossing		1001 BARNES CROSSING RD STE 300	Tupelo, MS 38804	Tupelo	Mississippi	38804	Sephora inside JCPenney	(662) 844-2660			Mo-Sa 10:00-21:00; Su 12:30-18:00	Store	
+Ridgeland, JCPenney at Northpark Mall		1200 E County Line Rd	Ridgeland, MS 39157	Ridgeland	Mississippi	39157	Sephora inside JCPenney	(601) 957-3113			Mo-Sa 10:00-21:00; Su 00:00-17:00	Store	
+Hattiesburg, JCPenney at Turtle Creek Mall		1000 TURTLE CREEK DR	Hattiesburg, MS 39402	Hattiesburg	Mississippi	39402	Sephora inside JCPenney	(601) 261-0040			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Southaven, JCPenney at Southaven Towne Center		6620 TOWNE CENTER LOOP STE 3	Southaven, MS 38671	Southaven	Mississippi	38671	Sephora inside JCPenney	(662) 536-1428			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Biloxi, JCPenney at Edgewater Mall		2600 BEACH BLVD	Biloxi, MS 39531	Biloxi	Mississippi	39531	Sephora inside JCPenney	(228) 388-8550			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Flowood, JCPenney at Market St at Flowood		200 Market St	Flowood, MS 39232-3339	Flowood	Mississippi	39232-3339	Sephora inside JCPenney	(601) 863-2021			Mo-Th 10:00-21:00; Fr-Sa 09:00-22:00; Su 10:00-20:00	Store	
+Woodbury, JCPenney at Tamarack Village Shopping Center		8348 TAMARACK VILLAGE	Woodbury, MN 55125	Woodbury	Minnesota	55125	Sephora inside JCPenney	(651) 501-4676			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+St. Cloud, JCPenney at Crossroads Center		4101 West Division St	St. Cloud, MN 56301-6600	St. Cloud	Minnesota	56301-6600	Sephora inside JCPenney	(320) 252-6020			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Roseville, JCPenney at Rosedale Shopping Center		1700 W County Rd	Roseville, MN 55113-3096	Roseville	Minnesota	55113-3096	Sephora inside JCPenney	(651) 631-3330			Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-19:00	Store	
+Minnetonka, JCPenney at Ridgedale Shopping Center		12421 WAYZATA BLVD	Minnetonka, MN 55305	Minnetonka	Minnesota	55305	Sephora inside JCPenney	(952) 544-6000			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Rochester, JCPenney at Apache Mall		101 Apache Mall	Rochester, MN 55902	Rochester	Minnesota	55902	Sephora inside JCPenney	(507) 288-8383			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Maple Grove, JCPenney at Grove Square Shopping Center		13701 GROVE DR	Maple Grove, MN 55311	Maple Grove	Minnesota	55311	Sephora inside JCPenney	(763) 416-1708			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Eden Prairie, JCPenney at Eden Prairie Center		8201 Flying Cloud Dr	Eden Prairie, MN 55344-5315	Eden Prairie	Minnesota	55344-5315	Sephora inside JCPenney	(952) 944-6807			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Coon Rapids, JCPenney at Riverdale Village		12550 Riverdale Blvd	Coon Rapids, MN 55448-6710	Coon Rapids	Minnesota	55448-6710	Sephora inside JCPenney	(763) 323-1339			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Duluth, JCPenney at Miller Hill Mall		1600 Miller Trunk Hwy	Duluth, MN 55811	Duluth	Minnesota	55811	Sephora inside JCPenney	(218) 727-8111			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Burnsville, JCPenney at Burnsville Center		14301 BURNHAVEN DR	Burnsville, MN 55306	Burnsville	Minnesota	55306	Sephora inside JCPenney	(951) 435-8551			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Bemidji, JCPenney at Paul Bunyan Mall		1401 Paul Bunyan Dr NW Ste 2	Bemidji, MN 56601	Bemidji	Minnesota	56601	Sephora inside JCPenney	(218) 751-4574			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 12:00-18:00	Store	
+White Lake Township, JCPenney at Village Lakes		300 Town Center Blvd	White Lake Township, MI 48386-2181	White Lake Township	Michigan	48386-2181	Sephora inside JCPenney	(248) 779-6070			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Westland, JCPenney at Westland Shopping Centre		35000 W Warren Rd	Westland, MI 48185	Westland	Michigan	48185	Sephora inside JCPenney	(734) 525-1721			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Traverse City, JCPenney at Grand Traverse Mall		3300 S Airport Rd W	Traverse City, MI 49684	Traverse City	Michigan	49684	Sephora inside JCPenney	(231) 929-9008			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Troy, JCPenney at Oakland Mall		700 W 14 MILD RO	Troy, MI 48083	Troy	Michigan	48083	Sephora inside JCPenney	(248) 583-3400			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Taylor, JCPenney at Southland Shopping Center		23000 Eureka Rd	Taylor, MI 48180	Taylor	Michigan	48180	Sephora inside JCPenney	(734) 287-2020			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Sterling Heights, JCPenney at Lakeside Mall		14300 LAKESIDE CIR	Sterling Heights, MI 48313	Sterling Heights	Michigan	48313	Sephora inside JCPenney	(586) 247-1710			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Saginaw, JCPenney at Fashion Square Mall		4600 Bay Rd	Saginaw, MI 48604-2797	Saginaw	Michigan	48604-2797	Sephora inside JCPenney	(989) 799-8550			Mo-Sa 10:00-21:00; Su 12:00-17:30	Store	
+Roseville, JCPenney at Roseville		31510 Gratiot Ave	Roseville, MI 48066-4555	Roseville	Michigan	48066-4555	Sephora inside JCPenney	(586) 296-2907			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Novi, JCPenney at Twelve Oaks		27150 Novi Rd	Novi, MI 48377	Novi	Michigan	48377	Sephora inside JCPenney	(248) 348-3190			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Portage, JCPenney at Crossroads Mall		6580 S Westnedge Ave	Portage, MI 49024-3593	Portage	Michigan	49024-3593	Sephora inside JCPenney	(269) 323-7711			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Muskegon, JCPenney at Lakes Mall		5690 Harvey St	Muskegon, MI 49444-8766	Muskegon	Michigan	49444-8766	Sephora inside JCPenney	(231) 798-6107			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Grand Rapids, JCPenney at Woodland Mall		3225 28th St SE	Grand Rapids, MI 49512-1675	Grand Rapids	Michigan	49512-1675	Sephora inside JCPenney	(616) 949-7600			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Grandville, JCPenney at Rivertown Crossings		3774 RIVERTOWN PRKWY SW	Grandville, MI 49418	Grandville	Michigan	49418	Sephora inside JCPenney	(616) 532-4299			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Flint, JCPenney at Genesee Valley Center		3535 S Linden Rd	Flint, MI 48507-3041	Flint	Michigan	48507-3041	Sephora inside JCPenney	(810) 733-7300			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Dearborn, JCPenney at Fairlane Town Center		18900 Michigan Ave (US 12)	Dearborn, MI 48126	Dearborn	Michigan	48126	Sephora inside JCPenney	(313) 593-3300			Mo-Sa 10:00-21:00; Su 00:00-18:00	Store	
+Chesterfield Townshp, JCPenney at Waterside Mp		50753 Waterside Dr	Chesterfield Townshp, MI 48051-4008	Chesterfield Townshp	Michigan	48051-4008	Sephora inside JCPenney	(586) 913-8001			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Canton, JCPenney at Ford Rd		43690 Ford Rd	Canton, MI 48187-3101	Canton	Michigan	48187-3101	Sephora inside JCPenney	(734) 456-5109			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Burton, JCPenney at Courtland Center		4190 E Court St	Burton, MI 48509-1761	Burton	Michigan	48509-1761	Sephora inside JCPenney	(810) 275-9178			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Brighton, JCPenney at Green Oak Village Pl		9480 Village Place Blvd	Brighton, MI 48116-2084	Brighton	Michigan	48116-2084	Sephora inside JCPenney	(810) 229-7598			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Ann Arbor, JCPenney at Briarwood Mall		500 Briarwood Cir	Ann Arbor, MI 48108	Ann Arbor	Michigan	48108	Sephora inside JCPenney	(734) 769-7910			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Peabody, JCPenney at Northshore Mall		210 Andover Street	Peabody, MA 01960-1525	Peabody	Massachusetts	01960-1525	Sephora inside JCPenney	(978) 977-3050			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+North Dartmouth, JCPenney at Dartmouth Mall		120 N DARTMOUTH MALL	North Dartmouth, MA 2747	North Dartmouth	Massachusetts	2747	Sephora inside JCPenney	(508) 997-1501			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+North Attleboro, JCPenney at Emerald Square Mall		1019 S Washington St	North Attleboro, MA 02760-3651	North Attleboro	Massachusetts	02760-3651	Sephora inside JCPenney	(508) 699-6700			Mo-Fr 10:00-21:00; Sa 09:30-21:30; Su 11:00-18:00	Store	
+Marlborough, JCPenney at Solomon Pond Mall		573 Donald Lynch Blvd	Marlborough, MA 01752-4725	Marlborough	Massachusetts	01752-4725	Sephora inside JCPenney	(508) 624-6070			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Wheaton, JCPenney at Wheaton Plaza		11160 Veirs Mill Rd	Wheaton, MD 20902-2540	Wheaton	Maryland	20902-2540	Sephora inside JCPenney	(301) 929-5100			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Leominster, JCPenney at Mall at Whitney Field		100 COMMERCIAL RD UNIT 180	Leominster, MA 1453	Leominster	Massachusetts	1453	Sephora inside JCPenney	(978) 534-2440			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lanham, JCPenney at Woodmore Towne Center		9100 McHugh Dr	Lanham, MD 20706-1673	Lanham	Maryland	20706-1673	Sephora inside JCPenney	(301) 341-2700			Mo-Sa 02:00-21:00; Su 00:00-18:00	Store	
+Waldorf, JCPenney at St Charles Towne Center		11130 Mall Circle	Waldorf, MD 20603-6110	Waldorf	Maryland	20603-6110	Sephora inside JCPenney	(301) 645-3925			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Holyoke, JCPenney at Holyoke Mall		50 Holyoke St	Holyoke, MA 1041	Holyoke	Massachusetts	1041	Sephora inside JCPenney	(413) 536-3963			Mo-Sa 02:00-21:30; Su 06:00-18:00	Store	
+Hyattsville, JCPenney at Mall at Prince Georges		3500 East West Hwy	Hyattsville, MD 20782-5001	Hyattsville	Maryland	20782-5001	Sephora inside JCPenney	(301) 270-3400			Mo-Sa 10:00-21:30; Su 12:00-18:00	Store	
+Hagerstown, JCPenney at Valley Mall		17301 VALLEY MALL RD STE 400	Hagerstown, MD 21740	Hagerstown	Maryland	21740	Sephora inside JCPenney	(301) 582-3700			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-23:00; Su 11:00-18:00	Store	
+Glen Burnie, JCPenney at Marley Station		7900 Governor Ritchie Hwy	Glen Burnie, MD 21061	Glen Burnie	Maryland	21061	Sephora inside JCPenney	(410) 760-7724			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Gaithersburg, JCPenney at Lake Forest Mall		701 Russell Ave	Gaithersburg, MD 20877-2696	Gaithersburg	Maryland	20877-2696	Sephora inside JCPenney	(301) 840-0010			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Forestville, JCPenney at Forestville Park		3401 Donnell Drive	Forestville, MD 20747-3289	Forestville	Maryland	20747-3289	Sephora inside JCPenney	(301) 420-3400			Mo-Sa 10:00-21:30; Su 12:00-18:00	Store	
+Frederick, JCPenney at Francis Scott Key Mall		5500 Buckeystown Pike	Frederick, MD 21703	Frederick	Maryland	21703	Sephora inside JCPenney	(301) 662-7110			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Columbia, JCPenney at Columbia Town Center		10300 Little Patuxent Pkwy	Columbia, MD 21044-3398	Columbia	Maryland	21044-3398	Sephora inside JCPenney	(410) 715-8700			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Baltimore, JCPenney at White Marsh Mall		8200 Perry Hall Blvd	Baltimore, MD 21236-4901	Baltimore	Maryland	21236-4901	Sephora inside JCPenney	(410) 931-7550			Mo-Fr 10:00-21:00; Sa 09:00-21:30; Su 11:00-18:00	Store	
+Annapolis, JCPenney at Annapolis Mall		1695 ANNAPOLIS MALL	Annapolis, MD 21401	Annapolis	Maryland	21401	Sephora inside JCPenney	(410) 224-6500			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Baltimore, JCPenney at Eastpoint Mall		7777 EASTPOINT MALL	Baltimore, MD 21224	Baltimore	Maryland	21224	Sephora inside JCPenney	(410) 288-5800			Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00	Store	
+Abingdon, JCPenney at The Boulevard at Box Hill		3411 Merchant Boulevard	Abingdon, MD 21009	Abingdon	Maryland	21009	Sephora inside JCPenney	(443) 409-3360			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+South Portland, JCPenney at The Maine Mall		700 Maine Mall Rd	South Portland, ME 4106	South Portland	Maine	4106	Sephora inside JCPenney	(207) 775-3911			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Bangor, JCPenney at Bangor Mall		639 STILLWATER AVE	Bangor, ME 4401	Bangor	Maine	4401	Sephora inside JCPenney	(207) 947-0792			Mo-Sa 09:00-21:00; Su 10:00-18:00	Store	
+Auburn, JCPenney at Auburn Mall		550 Center St	Auburn, ME 4210	Auburn	Maine	4210	Sephora inside JCPenney	(207) 786-2936			Mo-Sa 10:00-21:00; Su 10:00-18:00	Store	
+Shreveport, JCPenney at Regal Court Shopping Center		7451 Youree Dr	Shreveport, LA 71105-5535	Shreveport	Louisiana	71105-5535	Sephora inside JCPenney	(318) 797-5611			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Metairie, JCPenney at Lakeside Shopping Center		3301 VETERANS MEMORIAL BLVD	Metairie, LA 70002	Metairie	Louisiana	70002	Sephora inside JCPenney	(504) 837-9880			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Lake Charles, JCPenney at Prien Lake Mall		312 W Prien Lake Rd	Lake Charles, LA 70601-8453	Lake Charles	Louisiana	70601-8453	Sephora inside JCPenney	(337) 478-5110			Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 12:00-18:00	Store	
+Monroe, JCPenney at Pecanland Mall		4761 Pecanland Mall Dr	Monroe, LA 71203	Monroe	Louisiana	71203	Sephora inside JCPenney	(318) 387-9530			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Houma, JCPenney at Southland Mall		5953 W Park Ave	Houma, LA 70364	Houma	Louisiana	70364	Sephora inside JCPenney	(985) 851-3680			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Hammond, JCPenney at Hammond Square		501 C M Fagan Dr	Hammond, LA 70403	Hammond	Louisiana	70403	Sephora inside JCPenney	(985) 277-3110			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lafayette, JCPenney at Stirling Lafayette Shopping Center		3125 Louisiana Ave	Lafayette, LA 70501-1404	Lafayette	Louisiana	70501-1404	Sephora inside JCPenney	(337) 233-1801			Mo-Fr 10:00-22:00; Sa 09:00-22:00; Su 10:00-20:00	Store	
+Covington, JCPenney at River Chase Shopping Center		69340 Highway 21	Covington, LA 70433	Covington	Louisiana	70433	Sephora inside JCPenney	(985) 893-1284			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Bossier City, JCPenney at Pierre Bossier Mall		2950 E TEXAS AVE	Bossier City, LA 71111	Bossier City	Louisiana	71111	Sephora inside JCPenney	(318) 747-6600			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Gretna, JCPenney at Oakwood Shopping Center		197 WESTBANK EXPY STE 2	Gretna, LA 70053	Gretna	Louisiana	70053	Sephora inside JCPenney	(504) 227-2112			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Baton Rouge, JCPenney at Mall of Louisiana		6201 Bluebonnet Blvd	Baton Rouge, LA 70836-6200	Baton Rouge	Louisiana	70836-6200	Sephora inside JCPenney	(225) 766-4410			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Richmond, JCPenney at Richmond Centre		2037 Lantern Ridge Dr	Richmond, KY 40475	Richmond	Kentucky	40475	Sephora inside JCPenney	(859) 626-7857			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Alexandria, JCPenney at Alexandria Mall		3541 Masonic Dr	Alexandria, LA 71301-3697	Alexandria	Louisiana	71301-3697	Sephora inside JCPenney	(318) 448-3231			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Paducah, JCPenney at Kentucky Oaks Mall		5101 Hinkleville Rd Ste 800	Paducah, KY 42001	Paducah	Kentucky	42001	Sephora inside JCPenney	(270) 443-2577			Mo-Sa 10:00-21:00; Su 00:00-17:30	Store	
+Louisville, JCPenney at Mall Saint Matthews		5000 Shelbyville Rd	Louisville, KY 40207-3371	Louisville	Kentucky	40207-3371	Sephora inside JCPenney	(502) 897-3161			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Louisville, JCPenney at Jefferson Mall		4803 Outer Loop Rd	Louisville, KY 40219-3398	Louisville	Kentucky	40219-3398	Sephora inside JCPenney	(502) 968-3381			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Lexington, JCPenney at Fayette Mall		3401 NICHOLASVILLE RD  STE 116	Lexington, KY 40503	Lexington	Kentucky	40503	Sephora inside JCPenney	(859) 273-2525			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Florence, JCPenney at Florence Mall		6000 Florence Mall	Florence, KY 41042-1432	Florence	Kentucky	41042-1432	Sephora inside JCPenney	(859) 525-1170			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Ashland, JCPenney at Ashland Town Center		500 Winchester Ave	Ashland, KY 41101-7362	Ashland	Kentucky	41101-7362	Sephora inside JCPenney	(606) 324-0168			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Wichita, JCPenney at Towne West		4600 W Kellogg Rd	Wichita, KS 67209-2546	Wichita	Kansas	67209-2546	Sephora inside JCPenney	(316) 945-0141			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Overland Park, JCPenney at Oak Park Shopping Center		11801 W 95th St	Overland Park, KS 66214-1882	Overland Park	Kansas	66214-1882	Sephora inside JCPenney	(913) 492-8150			Mo-Sa 10:00-21:30; Su 10:00-19:00	Store	
+Wichita, JCPenney at Towne East		7700 E Kellogg Dr	Wichita, KS 67207-1771	Wichita	Kansas	67207-1771	Sephora inside JCPenney	(316) 685-6261			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Manhattan, JCPenney at Manhattan Town Center		101 Manhattan Town Center	Manhattan, KS 66502	Manhattan	Kansas	66502	Sephora inside JCPenney	(785) 776-4867			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Overland Park, JCPenney at Corbin Park		6901 W 135th St	Overland Park, KS 66223-4803	Overland Park	Kansas	66223-4803	Sephora inside JCPenney	(913) 982-4149			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Kansas City, JCPenney at Legends at Village West		10904 Stadium Pkwy	Kansas City, KS 66111-8100	Kansas City	Kansas	66111-8100	Sephora inside JCPenney	(913) 334-0285			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Davenport, JCPenney at Northpark Shopping Center		320 W Kimberly Rd	Davenport, IA 52806-5972	Davenport	Iowa	52806-5972	Sephora inside JCPenney	(563) 391-4800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+W Des Moines, JCPenney at Valley West Mall		1551 Valley West Dr	W Des Moines, IA 50266-1189	W Des Moines	Iowa	50266-1189	Sephora inside JCPenney	(515) 223-5353			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Sioux City, JCPenney at Southern Hills Mall		4340 SERGEANT RD	Sioux City, IA 51106	Sioux City	Iowa	51106	Sephora inside JCPenney	(712) 276-2747			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Ames, JCPenney at North Grand Mall		2901 N Grand Ave	Ames, IA 50010	Ames	Iowa	50010	Sephora inside JCPenney	(515) 233-3450			Mo-Sa 10:00-21:00; Su 11:30-17:30	Store	
+Valparaiso, JCPenney at Porters Vale		410 Porters Vale Blvd	Valparaiso, IN 46383-0000	Valparaiso	Indiana	46383-0000	Sephora inside JCPenney	(219) 531-0596			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Cedar Rapids, JCPenney at Westdale Mall		2400 Edgewood Rd SW	Cedar Rapids, IA 52404	Cedar Rapids	Iowa	52404	Sephora inside JCPenney	(319) 396-0777			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Council Bluffs, JCPenney at Marketplace		3333 Market Place Dr	Council Bluffs, IA 51501-8287	Council Bluffs	Iowa	51501-8287	Sephora inside JCPenney	(712) 366-1107			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Plainfield, JCPenney at Metropolis		2611 E Main St	Plainfield, IN 46168-2710	Plainfield	Indiana	46168-2710	Sephora inside JCPenney	(317) 837-0042			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Mishawaka, JCPenney at University Park Mall		6501 N Grape Rd	Mishawaka, IN 46545	Mishawaka	Indiana	46545	Sephora inside JCPenney	(574) 277-6000			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Merrillville, JCPenney at Westfield Southlake Mall		1890 Southlake Mall	Merrillville, IN 46410-6497	Merrillville	Indiana	46410-6497	Sephora inside JCPenney	(219) 738-2155			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lafayette, JCPenney at Tippecanoe Mall		2415 SAGAMORE PKWY S  52	Lafayette, IN 47905	Lafayette	Indiana	47905	Sephora inside JCPenney	(765) 447-3161			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Terre Haute, JCPenney at Honey Creek Square		3401 S US 41	Terre Haute, IN 47802	Terre Haute	Indiana	47802	Sephora inside JCPenney	(812) 232-3881			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Noblesville, JCPenney at Hamilton Towne Center		13900 Hoard Dr	Noblesville, IN 46060-5598	Noblesville	Indiana	46060-5598	Sephora inside JCPenney	(317) 773-0670			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Indianapolis, JCPenney at Castleton Square Mall		6020 E 82nd St	Indianapolis, IN 46250-1578	Indianapolis	Indiana	46250-1578	Sephora inside JCPenney	(317) 849-6500			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Greenwood, JCPenney at Greenwood Park Mall		1251 US Highway 31 N	Greenwood, IN 46142	Greenwood	Indiana	46142	Sephora inside JCPenney	(317) 882-7339			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Indianapolis, JCPenney at Northwest Pavilion at Michigan Road		8752 MICHIGAN ROAD	Indianapolis, IN 46268	Indianapolis	Indiana	46268	Sephora inside JCPenney	(317) 334-0353			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Fort Wayne, JCPenney at Glenbrook Mall		4201 Coldwater Rd	Fort Wayne, IN 46805-1176	Fort Wayne	Indiana	46805-1176	Sephora inside JCPenney	(260) 482-4661			Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 09:00-22:00; Su 11:00-19:00	Store	
+Evansville, JCPenney at Eastland Mall		800 N Green River Rd	Evansville, IN 47715	Evansville	Indiana	47715	Sephora inside JCPenney	(812) 477-7222			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Clarksville, JCPenney at Greentree Mall		757 E Lewis & Clark Parkway	Clarksville, IN 47129-2285	Clarksville	Indiana	47129-2285	Sephora inside JCPenney	(812) 282-0401			Mo-Fr 10:00-21:00; Sa 09:00-22:00; Su 12:00-18:00	Store	
+Springfield, JCPenney at Springfield		1201 S Dirksen Parkway	Springfield, IL 62703-2122	Springfield	Illinois	62703-2122	Sephora inside JCPenney	(217) 789-0550			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Vernon Hills, JCPenney at Hawthorn Center		4 HAWTHORN CENTER	Vernon Hills, IL 60061	Vernon Hills	Illinois	60061	Sephora inside JCPenney	(847) 549-0788			Mo-Fr 10:00-21:00; Sa 10:00-22:00; Su 11:00-19:00	Store	
+Rockford, JCPenney at Cherryvale Mall		7200 E HARRISON AVE	Rockford, IL 61112	Rockford	Illinois	61112	Sephora inside JCPenney	(815) 332-5000			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Orland Park, JCPenney at Orland Square Mall		3 Orland Square Dr	Orland Park, IL 60462-6596	Orland Park	Illinois	60462-6596	Sephora inside JCPenney	(708) 349-7300			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Schaumburg, JCPenney at Woodfield Mall		3 Woodfield Mall	Schaumburg, IL 60173-5068	Schaumburg	Illinois	60173-5068	Sephora inside JCPenney	(847) 240-5000			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+North Aurora, JCPenney at North Aurora Town Center		1600 Orchard Gateway Blvd	North Aurora, IL 60542-6501	North Aurora	Illinois	60542-6501	Sephora inside JCPenney	(630) 301-6300			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+North Riverside, JCPenney at North Riverside Mall		7507 W CERMAK RD	North Riverside, IL 60546	North Riverside	Illinois	60546	Sephora inside JCPenney	(708) 442-6600			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Peoria, JCPenney at Northwoods Shopping Center		2200 W War Memorial Dr	Peoria, IL 61613-1082	Peoria	Illinois	61613-1082	Sephora inside JCPenney	(309) 685-6111			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 09:00-22:00; Su 11:00-19:00	Store	
+Niles, JCPenney at Golf Mill Shopping Center		220 GOLF MILL CENTER	Niles, IL 60714	Niles	Illinois	60714	Sephora inside JCPenney	(847) 299-8888			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Moline, JCPenney at SouthPark Mall		4651 27Th St	Moline, IL 61265	Moline	Illinois	61265	Sephora inside JCPenney	(309) 797-1201			Mo-Sa 10:00-21:00; Su 00:00-18:00	Store	
+Montgomery, JCPenney at Ogden Hill of Montgomery		1100 Ogden Ave	Montgomery, IL 60538-5401	Montgomery	Illinois	60538-5401	Sephora inside JCPenney	(630) 851-5019			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Matteson, JCPenney at Lincoln Marketplace		4451 Promenade Way	Matteson, IL 60443-3044	Matteson	Illinois	60443-3044	Sephora inside JCPenney	(708) 441-6141			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Mokena, JCPenney at Mokena Marketplace		11325 W Lincoln Hwy	Mokena, IL 60448-2070	Mokena	Illinois	60448-2070	Sephora inside JCPenney	(815) 277-4061			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lombard, JCPenney at Yorktown Shopping Center		175 Yorktown Shopping Center	Lombard, IL 60148-5592	Lombard	Illinois	60148-5592	Sephora inside JCPenney	(630) 629-7750			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Joliet, JCPenney at Westfield Louis Joliet		3340 MALL LOOP DRIVE SPACE 2	Joliet, IL 60431	Joliet	Illinois	60431	Sephora inside JCPenney	(815) 439-1400			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Fairview Heights, JCPenney at St Clair Square		245 St Clair Sq	Fairview Heights, IL 62208-2199	Fairview Heights	Illinois	62208-2199	Sephora inside JCPenney	(618) 632-2300			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Chicago, JCPenney at Ford City Mall		7601 S Cicero Ave	Chicago, IL 60652	Chicago	Illinois	60652	Sephora inside JCPenney	(773) 581-6600			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Johnsburg, JCPenney at Shops at Fox River		2940 Commerce Dr	Johnsburg, IL 60051-5409	Johnsburg	Illinois	60051-5409	Sephora inside JCPenney	(815) 271-9147			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Algonquin, JCPenney at Shops at Fox River		800 S Randall Rd	Algonquin, IL 60102-5932	Algonquin	Illinois	60102-5932	Sephora inside JCPenney	(847) 915-3267			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Aurora, JCPenney at Westfield Fox Valley Mall		4 FOX VALLEY CTR	Aurora, IL 60504	Aurora	Illinois	60504	Sephora inside JCPenney	(630) 851-6380			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Rapid City, JCPenney at Rushmore Mall		2200 N Maple Ave.	Rapid City, ID 57701	Rapid City	Idaho	57701	Sephora inside JCPenney	(605) 342-9400			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Idaho Falls, JCPenney at Grand Teton Mall		2320 E 17Th St	Idaho Falls, ID 83404	Idaho Falls	Idaho	83404	Sephora inside JCPenney	(208) 523-3071			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Boise, JCPenney at Boise Towne Square Mall		300 N MILWAUKEE ST	Boise, ID 83704	Boise	Idaho	83704	Sephora inside JCPenney	(208) 376-0555			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Waycross, JCPenney at The Mall at Waycross		2215 Memorial Dr	Waycross, GA 31501	Waycross	Georgia	31501	Sephora inside JCPenney	(912) 283-2655			Mo-Sa 10:00-21:00; Su 12:30-18:00	Store	
+Nampa, JCPenney at Nampa Gateway Center		1200 N Happy Valley Rd	Nampa, ID 83687-8598	Nampa	Idaho	83687-8598	Sephora inside JCPenney	(208) 442-5511			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Valdosta, JCPenney at Valdosta Mall		1700 Norman Dr	Valdosta, GA 31601	Valdosta	Georgia	31601	Sephora inside JCPenney	(229) 244-4150			Mo-Sa 10:00-21:00; Su 13:00-18:00	Store	
+Savannah, JCPenney at Oglethorpe Mall		7804 ABERCORN ST	Savannah, GA 31406	Savannah	Georgia	31406	Sephora inside JCPenney	(912) 355-4000			Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 12:00-19:00	Store	
+Newnan, JCPenney at Newnan Crossing		341 Newnan Crossing Byp	Newnan, GA 30265	Newnan	Georgia	30265	Sephora inside JCPenney	(770) 251-5834			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Mcdonough, JCPenney at South Point Shopping Center		1380 Hwy 20 W	Mcdonough, GA 30253-7303	Mcdonough	Georgia	30253-7303	Sephora inside JCPenney	(770) 957-0312			Mo-Fr 10:00-22:00; Sa 09:00-22:00; Su 11:00-20:00	Store	
+Lithonia, JCPenney at Mall at Stonecrest		8040 Mall Pkwy	Lithonia, GA 30038-2542	Lithonia	Georgia	30038-2542	Sephora inside JCPenney	(770) 484-5604			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Kennesaw, JCPenney at Town Center at Cobb		400 Ernest W Barrett Pkwy	Kennesaw, GA 30144-4917	Kennesaw	Georgia	30144-4917	Sephora inside JCPenney	(770) 514-7101			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Hiram, JCPenney at Hiram Square		5043 Jimmy Lee Smith Pkwy	Hiram, GA 30141-2733	Hiram	Georgia	30141-2733	Sephora inside JCPenney	(770) 250-1860			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Douglasville, JCPenney at Arbor Place Mall		6650 Douglas Blvd	Douglasville, GA 30135	Douglasville	Georgia	30135	Sephora inside JCPenney	(678) 715-5669			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Fayetteville, JCPenney at Banks Crossing Shopping Center		240 Banks Crossing	Fayetteville, GA 30214	Fayetteville	Georgia	30214	Sephora inside JCPenney	(770) 460-2095			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Buford, JCPenney at Mall of Georgia		3333 Buford Dr	Buford, GA 30519-4930	Buford	Georgia	30519-4930	Sephora inside JCPenney	(770) 831-0252			Mo-Sa 10:00-21:00; Su 11:00-18:30	Store	
+Augusta, JCPenney at Augusta Mall		3450 Wrightsboro Rd	Augusta, GA 30909	Augusta	Georgia	30909	Sephora inside JCPenney	(706) 736-1201			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Columbus, JCPenney at Peachtree Mall		3507 Manchester Expy	Columbus, GA 31909	Columbus	Georgia	31909	Sephora inside JCPenney	(706) 322-4035			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Athens, JCPenney at Georgia Square		3700 Atlanta Hwy	Athens, GA 30606	Athens	Georgia	30606	Sephora inside JCPenney	(706) 543-1458			Mo-Sa 10:00-21:00; Su 00:00-18:00	Store	
+Alpharetta, JCPenney at North Point Mall		2000 N POINT CIR	Alpharetta, GA 30022	Alpharetta	Georgia	30022	Sephora inside JCPenney	(770) 475-9850			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Albany, JCPenney at Albany Mall		2601 Dawson Rd	Albany, GA 31707-6801	Albany	Georgia	31707-6801	Sephora inside JCPenney	(229) 435-1401			Mo-Sa 10:00-21:00; Su 12:30-18:00	Store	
+Wesley Chapel, JCPenney at Shops at Wiregrass		28151 State Rd 56	Wesley Chapel, FL 33543-8805	Wesley Chapel	Florida	33543-8805	Sephora inside JCPenney	(813) 907-7266			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Vero Beach, JCPenney at Indian River Mall		6200 20Th St  Ste 700	Vero Beach, FL 32966	Vero Beach	Florida	32966	Sephora inside JCPenney	(772) 569-1600			Mo-Sa 10:00-21:00; Su 12:00-17:30	Store	
+Wellington, JCPenney at Wellington Green Shopping Center		10308 W Forest Hill Blvd	Wellington, FL 33414-3106	Wellington	Florida	33414-3106	Sephora inside JCPenney	(561) 333-3399			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Tampa, JCPenney at Westshore Plaza		201 Westshore Plaza	Tampa, FL 33609	Tampa	Florida	33609	Sephora inside JCPenney	(813) 286-7111			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Tallahassee, JCPenney at Governors Square		1500 Apalachee Pkwy	Tallahassee, FL 32301-3087	Tallahassee	Florida	32301-3087	Sephora inside JCPenney	(850) 878-8111			Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 09:00-22:00; Su 11:00-19:00	Store	
+St Petersburg, JCPenney at Tyrone Square		7000 Tyrone Sq	St Petersburg, FL 33710-3937	St Petersburg	Florida	33710-3937	Sephora inside JCPenney	(727) 344-2611			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Spring Hill, JCPenney at Nature Coast Commons		5181 Pepper St	Spring Hill, FL 34607-3935	Spring Hill	Florida	34607-3935	Sephora inside JCPenney	(352) 683-4715			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Sarasota, JCPenney at Westfield Sarasota		8201 S TAMIAMI TRAIL	Sarasota, FL 34238	Sarasota	Florida	34238	Sephora inside JCPenney	(941) 921-7911			Mo-Th 10:00-21:00; Fr-Sa 09:00-21:00; Su 11:00-19:00	Store	
+Port Charlotte, JCPenney at Port Charlotte Town Center		1441 Tamiami Trail	Port Charlotte, FL 33948	Port Charlotte	Florida	33948	Sephora inside JCPenney	(941) 624-4006			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Sanford, JCPenney at Seminole Towne Center		310 Towne Center Cir	Sanford, FL 32771-7410	Sanford	Florida	32771-7410	Sephora inside JCPenney	(407) 323-1310			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Pompano Beach, JCPenney at Pompano Citi Centre		1600 NE 23rd St	Pompano Beach, FL 33062	Pompano Beach	Florida	33062	Sephora inside JCPenney	(954) 946-1600			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Pensacola, JCPenney at University Town Plz		7171 N Davis Hwy and Rt 10	Pensacola, FL 32504	Pensacola	Florida	32504	Sephora inside JCPenney	(850) 478-4500			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Plantation, JCPenney at Plantation Westfield Mall		8000 West Broward Blvd	Plantation, FL 33388-0900	Plantation	Florida	33388-0900	Sephora inside JCPenney	(954) 472-2500			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Pembroke Pines, JCPenney at Pembroke Lakes Mall		11401 Pines Blvd	Pembroke Pines, FL 33026-4117	Pembroke Pines	Florida	33026-4117	Sephora inside JCPenney	(954) 433-2445			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Panama Beach, JCPenney at Pier Park		206 Bluefish Dr	Panama Beach, FL 32413	Panama Beach	Florida	32413	Sephora inside JCPenney	(850) 233-8423			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Orlando, JCPenney at Orlando Fashion Square		3115 E Colonial Dr	Orlando, FL 32803	Orlando	Florida	32803	Sephora inside JCPenney	(407) 896-1006			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Orlando, JCPenney at Florida Mall		8001 S Orange Blossom	Orlando, FL 32809-7684	Orlando	Florida	32809-7684	Sephora inside JCPenney	(407) 851-5200			Mo-Fr 10:00-21:00; Sa 10:00-22:00; Su 11:00-19:00	Store	
+Orange Park, JCPenney at Orange Park Mall		1910 Wells Rd	Orange Park, FL 32073-2329	Orange Park	Florida	32073-2329	Sephora inside JCPenney	(904) 264-2772			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Naples, JCPenney at Coastland Shopping Center		2076 9TH ST N	Naples, FL 34102	Naples	Florida	34102	Sephora inside JCPenney	(239) 261-6010			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Miami, JCPenney at Southland Mall		20505 S Dixie Hwy	Miami, FL 33189	Miami	Florida	33189	Sephora inside JCPenney	(305) 252-9836			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Miami, JCPenney at Miami International Mall		1603 NW 107th Ave	Miami, FL 33172-2707	Miami	Florida	33172-2707	Sephora inside JCPenney	(305) 477-1786			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Miami, JCPenney at Dadeland Mall		7201 N Kendall Dr	Miami, FL 33156-7874	Miami	Florida	33156-7874	Sephora inside JCPenney	(305) 666-1911			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Merritt Island, JCPenney at Merritt Square Mall		777 E MERRITT ISL CSWY STE 210	Merritt Island, FL 32952	Merritt Island	Florida	32952	Sephora inside JCPenney	(321) 452-6811			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Melbourne, JCPenney at Melbourne Square		1700 W NEW HAVEN AVE	Melbourne, FL 32904	Melbourne	Florida	32904	Sephora inside JCPenney	(321) 727-0923			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Lakeland, JCPenney at Lakeland Square		3800 US Hwy 98 N	Lakeland, FL 33809-3800	Lakeland	Florida	33809-3800	Sephora inside JCPenney	(863) 858-7900			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Jacksonville, JCPenney at Regency Square Mall		9501 Arlington Expy	Jacksonville, FL 32225-8293	Jacksonville	Florida	32225-8293	Sephora inside JCPenney	(904) 721-2820			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Jacksonville, JCPenney at Avenues Center		10308 Southside Blvd	Jacksonville, FL 32256-0750	Jacksonville	Florida	32256-0750	Sephora inside JCPenney	(904) 363-1741			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Jensen Beach, JCPenney at Treasure Coast Sq		3382 Nw Federal Hwy	Jensen Beach, FL 34957	Jensen Beach	Florida	34957	Sephora inside JCPenney	(772) 692-1010			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Hialeah, JCPenney at Westland Mall		1655 W 49th St	Hialeah, FL 33012-2966	Hialeah	Florida	33012-2966	Sephora inside JCPenney	(305) 823-9880			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Kissimmee, JCPenney at Loop West		2001 W Osceola Pkwy	Kissimmee, FL 34741-0731	Kissimmee	Florida	34741-0731	Sephora inside JCPenney	(407) 847-5922			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Fort Myers, JCPenney at Gulf Coast Town Center		10083 Gulf Center Dr	Fort Myers, FL 33913	Fort Myers	Florida	33913	Sephora inside JCPenney	(239) 481-2844			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Gainesville, JCPenney at Oaks Mall		6481 Newberry Rd	Gainesville, FL 32605-4398	Gainesville	Florida	32605-4398	Sephora inside JCPenney	(352) 331-2222			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Fort Myers, JCPenney at Edison Mall		4125 CLEVELAND AVE STE 903	Fort Myers, FL 33901	Fort Myers	Florida	33901	Sephora inside JCPenney	(239) 936-8101			Mo-Sa 10:00-21:00; Su 11:30-17:30	Store	
+Daytona Beach, JCPenney at Volusia Mall		1700 W INTL SPEEDWAY	Daytona Beach, FL 32114	Daytona Beach	Florida	32114	Sephora inside JCPenney	(386) 255-0971			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Davenport, JCPenney at Posner Commons		6200 Grandview Pkwy	Davenport, FL 33837-2305	Davenport	Florida	33837-2305	Sephora inside JCPenney	(863) 424-7137			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-18:00	Store	
+Clermont, JCPenney at Clermont Landing		2345 S Hwy 27	Clermont, FL 34711-6877	Clermont	Florida	34711-6877	Sephora inside JCPenney	(352) 241-0206			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Coral Springs, JCPenney at Coral Square Mall		9303 W Atlantic Blvd	Coral Springs, FL 33071-6900	Coral Springs	Florida	33071-6900	Sephora inside JCPenney	(954) 752-8116			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Clearwater, JCPenney at Countryside Mall		27001 US Hwy 19 N	Clearwater, FL 33761-3499	Clearwater	Florida	33761-3499	Sephora inside JCPenney	(727) 796-2191			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Citrus Park, JCPenney at Citrus Park Mall		8102 Citrus Park Town Ctr	Citrus Park, FL 33625	Citrus Park	Florida	33625	Sephora inside JCPenney	(813) 926-4380			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Brandon, JCPenney at Brandon Town Center		331 Brandon Town Center Mall	Brandon, FL 33511-4723	Brandon	Florida	33511-4723	Sephora inside JCPenney	(813) 681-9800			Mo-Fr 10:00-21:00; Sa 09:30-21:30; Su 11:00-19:00	Store	
+Altamonte Springs, JCPenney at Altamonte Mall		451 E ALTAMONTE DR STE 1301	Altamonte Springs, FL 32701	Altamonte Springs	Florida	32701	Sephora inside JCPenney	(407) 332-9600			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Boynton Beach, JCPenney at Boyton Beach Mall		801 N Congress Ave	Boynton Beach, FL 33426-3399	Boynton Beach	Florida	33426-3399	Sephora inside JCPenney	(561) 736-8500			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Dover, JCPenney at Dover Mall		1365 N DUPONT HWY STE 5000	Dover, DE 19901	Dover	Delaware	19901	Sephora inside JCPenney	(302) 674-4200			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Newark, JCPenney at Christiana Mall		606 CHRISTIANA MALL	Newark, DE 19702	Newark	Delaware	19702	Sephora inside JCPenney	(302) 366-7680			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Aventura, JCPenney at Aventura Mall		19525 Biscayne Blvd	Aventura, FL 33180-2397	Aventura	Florida	33180-2397	Sephora inside JCPenney	(305) 937-0022			Mo-Sa 10:00-21:30; Su 11:00-20:00	Store	
+Wilmington, JCPenney at Prices Corner Shopping Center		3236 Kirkwood Hwy	Wilmington, DE 19808	Wilmington	Delaware	19808	Sephora inside JCPenney	(302) 998-1131			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Waterbury, JCPenney at Brass Mill Center		525 UNION ST	Waterbury, CT 6706	Waterbury	Connecticut	6706	Sephora inside JCPenney	(203) 575-1395			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Manchester, JCPenney at Shoppes at Buckland		344 V Buckland Hls Dr Ste 7000	Manchester, CT 6042	Manchester	Connecticut	6042	Sephora inside JCPenney	(860) 644-6633			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Farmington, JCPenney at Westfarms Mall		300 Westfarms Mall	Farmington, CT 6032	Farmington	Connecticut	6032	Sephora inside JCPenney	(860) 521-7850			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Westminster, JCPenney at Orchards at Westminster		14658 DELAWARE ST	Westminster, CO 80023	Westminster	Colorado	80023	Sephora inside JCPenney	(303) 280-1120			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Pueblo, JCPenney at Pueblo Mall		3301 Dillon Dr	Pueblo, CO 81008	Pueblo	Colorado	81008	Sephora inside JCPenney	(719) 544-3943			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Littleton, JCPenney at Southwest Plaza		8501 W Bowles Ave	Littleton, CO 80123	Littleton	Colorado	80123	Sephora inside JCPenney	(303) 933-9200			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Lone Tree, JCPenney at Park Meadows Mall		8417 S PARK MEADOWS CENTER DR	Lone Tree, CO 80124	Lone Tree	Colorado	80124	Sephora inside JCPenney	(303) 768-9130			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Montrose, JCPenney at River Landing Shopping Center		3400 Rio Grande Ave	Montrose, CO 81401-4834	Montrose	Colorado	81401-4834	Sephora inside JCPenney	(970) 249-1988			Mo-Fr 10:00-22:00; Sa 09:00-22:00; Su 10:00-20:00	Store	
+Fort Collins, JCPenney at College Avenue		135 BOCKMAN DR	Fort Collins, CO 80525	Fort Collins	Colorado	80525	Sephora inside JCPenney	(970) 223-1481			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Grand Junction, JCPenney at Mesa Mall		2424 US 6th and 50th	Grand Junction, CO 81505	Grand Junction	Colorado	81505	Sephora inside JCPenney	(970) 242-6733			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Colorado Springs, JCPenney at First & Main Town Center		3650 New Center Pt	Colorado Springs, CO 80922-2817	Colorado Springs	Colorado	80922-2817	Sephora inside JCPenney	(719) 550-4660			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Denver, JCPenney at Northfield Stapleton		8568 E 49th Ave	Denver, CO 80238-3143	Denver	Colorado	80238-3143	Sephora inside JCPenney	(303) 576-6661			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Aurora, JCPenney at Southlands S/C		6302 S Central St	Aurora, CO 80016	Aurora	Colorado	80016	Sephora inside JCPenney	(303) 693-8454			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Yuba City, JCPenney at Yuba Sutter Mall		1199 Colusa Ave	Yuba City, CA 95991	Yuba City	California	95991	Sephora inside JCPenney	(530) 671-5701			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Aurora, JCPenney at Aurora Mall		14200 E ALAMEDA AVE	Aurora, CO 80012	Aurora	Colorado	80012	Sephora inside JCPenney	(303) 344-9901			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Brighton, JCPenney at Prairie Center		1950 Prairie Center Pkwy	Brighton, CO 80601-7066	Brighton	Colorado	80601-7066	Sephora inside JCPenney	(303) 219-9392			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Whittier, JCPenney at Whittwood Town Center		15740 WHITTWOOD LANE	Whittier, CA 90603	Whittier	California	90603	Sephora inside JCPenney	(562) 947-2511			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 10:00-20:00	Store	
+West Covina, JCPenney at West Covina Fashion Plaza		1203 Plaza Dr	West Covina, CA 91790-2885	West Covina	California	91790-2885	Sephora inside JCPenney	(626) 960-3711			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+Visalia, JCPenney at Visalia Mall		2115 S Mooney Blvd	Visalia, CA 93277-6289	Visalia	California	93277-6289	Sephora inside JCPenney	(559) 732-4171			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00	Store	
+Victorville, JCPenney at Mall of Victor Valley		14370 Bear Valley Road	Victorville, CA 92392	Victorville	California	92392	Sephora inside JCPenney				Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+Ventura, JCPenney at Pacific View Mall		377 S MILLS RD	Ventura, CA 93003	Ventura	California	93003	Sephora inside JCPenney	(805) 642-7592			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Torrance, JCPenney at Del Amo Center		21840 S Hawthorne Blvd	Torrance, CA 90503-7000	Torrance	California	90503-7000	Sephora inside JCPenney	(310) 371-6577			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-19:00	Store	
+Santa Rosa, JCPenney at Coddingtown Mall		800 Coddingtown Mall	Santa Rosa, CA 95401-3570	Santa Rosa	California	95401-3570	Sephora inside JCPenney	(707) 542-2014			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Thousand Oaks, JCPenney at The Oaks Mall		280 Hillcrest Dr	Thousand Oaks, CA 91360-4294	Thousand Oaks	California	91360-4294	Sephora inside JCPenney	(805) 497-6811			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+San Jose, JCPenney at Eastridge Shopping Center		2230 Eastridge Loop	San Jose, CA 95122-1347	San Jose	California	95122-1347	Sephora inside JCPenney	(408) 238-0300			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Stockton, JCPenney at Weberstown Shopping Center		4915 Claremont Ave	Stockton, CA 95207-5787	Stockton	California	95207-5787	Sephora inside JCPenney	(209) 951-1110			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Temecula, JCPenney at Promenade Mall		40640 WINCHESTER RD	Temecula, CA 92591	Temecula	California	92591	Sephora inside JCPenney	(951) 296-5558			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Santa Clarita, JCPenney at Westfield Valencia Town Center		24140 MAGIC MOUNTAIN PKY	Santa Clarita, CA 91355	Santa Clarita	California	91355	Sephora inside JCPenney	(661) 255-9864			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Santa Ana, JCPenney at Santa Ana Mainplace		2890 N Main St	Santa Ana, CA 92705-6605	Santa Ana	California	92705-6605	Sephora inside JCPenney	(714) 953-9640			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+San Diego, JCPenney at Fashion Valley Mall		6987 Friars Road	San Diego, CA 92108-1299	San Diego	California	92108-1299	Sephora inside JCPenney	(619) 291-6050			Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-19:00	Store	
+San Bruno, JCPenney at Tanforan Shopping Center		1122 El Camino Real	San Bruno, CA 94066-1389	San Bruno	California	94066-1389	Sephora inside JCPenney	(650) 873-4100			Mo-Sa 10:00-21:00; Su 10:00-20:00	Store	
+Salinas, JCPenney at Northridge Mall		100 Northridge Mall	Salinas, CA 93906-2097	Salinas	California	93906-2097	Sephora inside JCPenney	(831) 449-8111			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+San Bernardino , JCPenney at Inland Center		500 Inland Center Dr	San Bernardino , CA 92408	San Bernardino 	California	92408	Sephora inside JCPenney				Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Roseville, JCPenney at Galleria at Roseville		1125 Galleria Blvd	Roseville, CA 95678-1917	Roseville	California	95678-1917	Sephora inside JCPenney	(916) 772-8800			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+Sacramento, JCPenney at Arden Fair Mall		1695 Arden Way	Sacramento, CA 95815-4004	Sacramento	California	95815-4004	Sephora inside JCPenney	(916) 564-0315			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Riverside, JCPenney at Galleria at Tyler		3605 GALLERIA AT TYLER	Riverside, CA 92503	Riverside	California	92503	Sephora inside JCPenney	(951) 687-3060			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Pleasanton, JCPenney at Stoneridge Shopping Center		1500 Stoneridge Mall Rd	Pleasanton, CA 94588-3276	Pleasanton	California	94588-3276	Sephora inside JCPenney	(925) 463-9780			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Redlands, JCPenney at Redlands Town Center		10000 Alabama St	Redlands, CA 92374-2062	Redlands	California	92374-2062	Sephora inside JCPenney	(909) 335-8111			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Redding, JCPenney at Mt Shasta Mall		950 DANA DR	Redding, CA 96003	Redding	California	96003	Sephora inside JCPenney	(530) 223-0100			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Palm Desert, JCPenney at Palm Desert Town Center		72900 Hwy 111	Palm Desert, CA 92260	Palm Desert	California	92260	Sephora inside JCPenney	(760) 346-1511			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+Rancho Cucamonga, JCPenney at Victoria Gardens		12399 S Main Street	Rancho Cucamonga, CA 91739-8810	Rancho Cucamonga	California	91739-8810	Sephora inside JCPenney	(909) 646-8911			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 10:00-20:00	Store	
+Northridge, JCPenney at Northridge Fashion Center		9301 Tampa Ave	Northridge, CA 91324-2503	Northridge	California	91324-2503	Sephora inside JCPenney	(818) 885-1464			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-19:00	Store	
+Palmdale, JCPenney at Antelope Valley Mall		1131 W Rancho Vista Blvd	Palmdale, CA 93551-3945	Palmdale	California	93551-3945	Sephora inside JCPenney	(661) 947-3169			Mo-Sa 10:00-21:00; Su 11:00-20:00	Store	
+National City, JCPenney at Plaza Bonita		3040 Plaza Bonita Rd	National City, CA 91950-8097	National City	California	91950-8097	Sephora inside JCPenney	(619) 267-6000			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 10:00-20:00	Store	
+Moreno Valley, JCPenney at Moreno Valley Mall		22450 TOWN CIR	Moreno Valley, CA 92553	Moreno Valley	California	92553	Sephora inside JCPenney	(951) 653-1055			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Montebello, JCPenney at Montebello Mall		1600 Town Center Dr	Montebello, CA 90640-2197	Montebello	California	90640-2197	Sephora inside JCPenney	(323) 727-7833			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 10:00-20:00	Store	
+Modesto, JCPenney at Vintage Faire Mall		3401 Dale Road	Modesto, CA 95356-0505	Modesto	California	95356-0505	Sephora inside JCPenney	(209) 527-5000			Mo-Fr 10:00-21:00; Sa-Su 10:00-19:00	Store	
+Merced, JCPenney at Merced Mall		600 Merced Mall	Merced, CA 95348	Merced	California	95348	Sephora inside JCPenney	(209) 723-3112			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Manteca, JCPenney at Promenade Shops at Orchard Valley		1060 Perimeter Dr	Manteca, CA 95337-9620	Manteca	California	95337-9620	Sephora inside JCPenney	(209) 923-6233			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lakewood, JCPenney at Lakewood Center Mall		67 Lakewood Center Mall	Lakewood, CA 90712-2482	Lakewood	California	90712-2482	Sephora inside JCPenney	(562) 634-7000			Mo-Sa 10:00-21:00; Su 11:00-20:00	Store	
+Laguna Hills, JCPenney at Laguna Hills Mall		24200 Laguna Hills Mall	Laguna Hills, CA 92653-3695	Laguna Hills	California	92653-3695	Sephora inside JCPenney	(949) 581-7700			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+Montclair, JCPenney at Montclair Plaza		5100 MONTCLAIR PLAZA LANE	Montclair, CA 91763	Montclair	California	91763	Sephora inside JCPenney	(909) 621-3811			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Hayward, JCPenney at Southland Mall		340 Southland Mall	Hayward, CA 94545	Hayward	California	94545	Sephora inside JCPenney	(510) 783-0300			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Fairfield, JCPenney at Westfield Solano		1330 Travis Blvd	Fairfield, CA 94533-4699	Fairfield	California	94533-4699	Sephora inside JCPenney	(707) 422-0320			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+Glendale, JCPenney at Glendale Galleria		1169 Glendale Galleria	Glendale, CA 91210-1301	Glendale	California	91210-1301	Sephora inside JCPenney	(818) 240-8700			Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-19:00	Store	
+Fresno, JCPenney at Fresno Fashion Fair		555 E Shaw Ave	Fresno, CA 93710-7770	Fresno	California	93710-7770	Sephora inside JCPenney	(559) 224-8330			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+El Centro, JCPenney at Imperial Valley Mall		3351 S DOGWOOD	El Centro, CA 92243	El Centro	California	92243	Sephora inside JCPenney	(760) 482-0092			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+Escondido, JCPenney at N County Fair Mall		290 E Via Rancho Pkwy	Escondido, CA 92025-8094	Escondido	California	92025-8094	Sephora inside JCPenney	(760) 480-4500			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+El Cajon, JCPenney at Westfield Shopping Town		355 Fletcher Pkwy	El Cajon, CA 92020-2513	El Cajon	California	92020-2513	Sephora inside JCPenney	(619) 444-3100			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 09:00-22:00; Su 10:00-20:00	Store	
+Daly City, JCPenney at Serramonte Center		63 Serramonte Center	Daly City, CA 94015-2345	Daly City	California	94015-2345	Sephora inside JCPenney	(650) 731-3401			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Downey, JCPenney at Stonewood Shopping Center		100 Stonewood St	Downey, CA 90241-3994	Downey	California	90241-3994	Sephora inside JCPenney	(562) 869-4541			Mo-Sa 10:00-21:00; Su 11:00-20:00	Store	
+Culver City, JCPenney at Fox Hills Mall		6000 S Hannum Ave	Culver City, CA 90230-6504	Culver City	California	90230-6504	Sephora inside JCPenney	(310) 390-8966			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Concord, JCPenney at Sunvalley Shopping Center		484 Sun Valley Mall	Concord, CA 94520	Concord	California	94520	Sephora inside JCPenney	(925) 687-6000			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Chico, JCPenney at Chico Mall		1932 E 20th St	Chico, CA 95928	Chico	California	95928	Sephora inside JCPenney	(530) 899-8160			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Citrus Heights, JCPenney at Sunrise Mall		6100 Sunrise Blvd	Citrus Heights, CA 95610-6973	Citrus Heights	California	95610-6973	Sephora inside JCPenney	(916) 726-8811			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Chula Vista, JCPenney at Chula Vista Shopping Center		591 Broadway	Chula Vista, CA 91910-5307	Chula Vista	California	91910-5307	Sephora inside JCPenney	(619) 427-1050			Mo-Sa 10:00-21:00; Su 10:00-20:00	Store	
+Carson, JCPenney at Southbay Pavillion Mall		20700 Avalon Blvd	Carson, CA 99503-4591	Carson	California	99503-4591	Sephora inside JCPenney	(310) 538-2900			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Chino, JCPenney at Rancho Del Chino Shopping Center		14659 Ramona Ave	Chino, CA 91710-5746	Chino	California	91710-5746	Sephora inside JCPenney	(909) 393-5099			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Carlsbad, JCPenney at Plaza Camino Real		2555 El Camino Real	Carlsbad, CA 92008-1202	Carlsbad	California	92008-1202	Sephora inside JCPenney	(760) 729-7991			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+Bakersfield, JCPenney at Valley Plaza		2501 MING AVE	Bakersfield, CA 93304	Bakersfield	California	93304	Sephora inside JCPenney	(661) 835-7080			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Antioch, JCPenney at Orchard at Slatten Ranch		4951 Slatten Ranch Rd	Antioch, CA 94531-8695	Antioch	California	94531-8695	Sephora inside JCPenney	(925) 752-9405			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Arcadia, JCPenney at Santa Anita Mall		400 S Baldwin Ave	Arcadia, CA 91007-1900	Arcadia	California	91007-1900	Sephora inside JCPenney	(626) 445-6454			Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-20:00	Store	
+Rogers, JCPenney at Pinnacle Hlls Promde		2202 Bellview Rd	Rogers, AR 72758	Rogers	Arkansas	72758	Sephora inside JCPenney	(479) 936-7746			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Little Rock, JCPenney at Shackleford Crossing		2600 S Shackleford Rd	Little Rock, AR 72205-6916	Little Rock	Arkansas	72205-6916	Sephora inside JCPenney	(501) 224-0347			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+North Little Rock, JCPenney at McCain Shopping Center		3929 MCCAIN BLVD STE 500	North Little Rock, AR 72116	North Little Rock	Arkansas	72116	Sephora inside JCPenney	(501) 758-4880			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Jonesboro, JCPenney at Mall at Turtle Creek		3000 E HIGHLAND DR STE 516	Jonesboro, AR 72401	Jonesboro	Arkansas	72401	Sephora inside JCPenney	(870) 931-2127			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Fort Smith, JCPenney at Central Mall		5111 Rogers Ave	Fort Smith, AR 72903-2065	Fort Smith	Arkansas	72903-2065	Sephora inside JCPenney	(479) 452-2420			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Fayetteville, JCPenney at New Arkansas Mall		4201 N Shiloh Drive	Fayetteville, AR 72703-3877	Fayetteville	Arkansas	72703-3877	Sephora inside JCPenney	(479) 521-2771			Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 12:00-18:00	Store	
+Yuma, JCPenney at Yuma Palms Shopping Center		1375 S Yuma Palms Pkwy	Yuma, AZ 85365-1708	Yuma	Arizona	85365-1708	Sephora inside JCPenney	(928) 782-5782			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Tucson, JCPenney at Tucson Spectrum		5265 S Calle Santa Cruz	Tucson, AZ 85706-3962	Tucson	Arizona	85706-3962	Sephora inside JCPenney	(520) 917-3280			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Tucson, JCPenney at Tucson Mall		4530 N Oracle Rd	Tucson, AZ 85705	Tucson	Arizona	85705	Sephora inside JCPenney	(520) 293-8100			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Tucson, JCPenney at El Con Mall		3501 E Broadway	Tucson, AZ 85716	Tucson	Arizona	85716	Sephora inside JCPenney	(520) 881-2200			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Phoenix, JCPenney at Paradise Valley Mall		4510 E CACTUS RD	Phoenix, AZ 85032	Phoenix	Arizona	85032	Sephora inside JCPenney	(602) 996-2550			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Tempe, JCPenney at Tempe Marketplace		1900 E Rio Salado Pkwy	Tempe, AZ 85281-2237	Tempe	Arizona	85281-2237	Sephora inside JCPenney	(480) 829-3555			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Phoenix, JCPenney at Christown Spectrum		1727 W Bethany Home Rd	Phoenix, AZ 85015	Phoenix	Arizona	85015	Sephora inside JCPenney	(602) 841-1235			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Nogales, JCPenney at Mariposa West Plaza		220 W Mariposa Rd	Nogales, AZ 85621	Nogales	Arizona	85621	Sephora inside JCPenney	(520) 281-4891			Mo-Sa 10:00-21:00; Su 10:00-18:00	Store	
+Mesa, JCPenney at Superstition Springs Mall		6525 E SOUTHERN AVE	Mesa, AZ 85206	Mesa	Arizona	85206	Sephora inside JCPenney	(480) 832-0400			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Goodyear, JCPenney at Palm Valley Cornerstone		13333 W MCDOWELL RD	Goodyear, AZ 85395	Goodyear	Arizona	85395	Sephora inside JCPenney	(623) 535-7063			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lake Havasu City, JCPenney at Shops at Lake Havasu		5651 Hwy 95 N	Lake Havasu City, AZ 86404-9646	Lake Havasu City	Arizona	86404-9646	Sephora inside JCPenney	(928) 764-1800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Phoenix, JCPenney at Ahwatukee Foothills		5050 E RAY RD	Phoenix, AZ 85044	Phoenix	Arizona	85044	Sephora inside JCPenney	(480) 785-5245			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Glendale, JCPenney at Arrowhead Towne Center		7750 W ARROWHEAD TOWNE CENTER	Glendale, AZ 85308	Glendale	Arizona	85308	Sephora inside JCPenney	(623) 412-1121			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Flagstaff, JCPenney at Flagstaff Mall and Marketplace		4600 N US Hwy 89	Flagstaff, AZ 86004	Flagstaff	Arizona	86004	Sephora inside JCPenney	(928) 526-5400			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Chandler, JCPenney at Mill Crossing		2180 S Gilbert Rd	Chandler, AZ 85286-1587	Chandler	Arizona	85286-1587	Sephora inside JCPenney	(480) 281-4637			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Casa Grande, JCPenney at Promenade Casa Grande		1041 N Promenade Pkwy	Casa Grande, AZ 85194-5402	Casa Grande	Arizona	85194-5402	Sephora inside JCPenney	(520) 836-1557			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Anchorage, JCPenney at 5th Ave Mall		406 W 5th Ave	Anchorage, AK 99503-4591	Anchorage	Alaska	99503-4591	Sephora inside JCPenney	(907) 279-5656			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Tuscaloosa, JCPenney at University Mall		1701 Macfarland Blvd E	Tuscaloosa, AL 35404	Tuscaloosa	Alabama	35404	Sephora inside JCPenney	(205) 556-7860			Mo-Sa 10:00-21:00; Su 13:00-17:30	Store	
+Spanish Fort, JCPenney at Spanish Fort Town Center		22500 Town Center Ave	Spanish Fort, AL 36527-9414	Spanish Fort	Alabama	36527-9414	Sephora inside JCPenney	(251) 625-4930			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Prattville, JCPenney at High Point Town Center		550 Pinnacle Pl	Prattville, AL 36066-6542	Prattville	Alabama	36066-6542	Sephora inside JCPenney	(334) 450-2274			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Montgomery, JCPenney at Eastdale Mall		1236 Eastdale Mall	Montgomery, AL 36117	Montgomery	Alabama	36117	Sephora inside JCPenney	(334) 272-2933			Mo-Sa 10:00-21:00; Su 13:00-18:00	Store	
+Trussville, JCPenney at Tutwiler Farm		5060 PINNACLE SQUARE	Trussville, AL 35235	Trussville	Alabama	35235	Sephora inside JCPenney	(205) 655-5891			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Mobile, JCPenney at Bel Air Mall		3400 Bel Air Mall	Mobile, AL 36606-3411	Mobile	Alabama	36606-3411	Sephora inside JCPenney	(251) 476-4560			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Huntsville, JCPenney at Madison Square		5901 University Dr	Huntsville, AL 35805	Huntsville	Alabama	35805	Sephora inside JCPenney	(256) 837-2011			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Fultondale, JCPenney at Promenade Fultondale		3363 Lowery Pkwy	Fultondale, AL 35068	Fultondale	Alabama	35068	Sephora inside JCPenney	(205) 994-7330			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Dothan, JCPenney at Wiregrass Commons		900 Commons Dr Ste 900	Dothan, AL 36303	Dothan	Alabama	36303	Sephora inside JCPenney	(334) 794-0531			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Appleton, Appleton		4301 West Wisconsin Ave.	Appleton, WI 54913	Appleton	Wisconsin	54913	United States	(920) 733-7830			Mo-Sa 10:00-21:00; Su 10:00-18:00	Store	
+Madison, Madison		71 West Towne Mall	Madison, WI 53719	Madison	Wisconsin	53719	United States	(608) 827-5958			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Charleston, Charleston Town Center		1019 Charleston Town Center	Charleston, WV 25389	Charleston	West Virginia	25389	United States	(304) 345-7900			Mo-Sa 10:00-21:00; Su 12:30-18:00	Store	
+Wauwatosa, Mayfair Mall		2500 N. Mayfair Rd	Wauwatosa, WI 53226	Wauwatosa	Wisconsin	53226	United States	(414) 257-9310			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Tacoma, Tacoma Mall		4502 S. Steele St.	Tacoma, WA 98409	Tacoma	Washington	98409	United States	(253) 474-1400			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Lynnwood, Alderwood Mall		3000 184 St. SW	Lynnwood, WA 98037	Lynnwood	Washington	98037	United States	(425) 776-8010			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Spokane, RIVER PARK SQUARE		808 West Main Avenue	Spokane, WA 99201	Spokane	Washington	99201	United States	(509) 624-7000			Mo-Sa 10:00-20:00; Su 11:00-18:00	Store	
+Seattle, Southcenter Mall		616 Southcenter Mall	Seattle, WA 98188	Seattle	Washington	98188	United States	(206) 444-4724			Mo-Fr 10:30-21:00; Sa 10:00-21:00; Su 11:00-19:00	Store	
+Seattle, University Village		2618 NE University Village St	Seattle, WA 98105	Seattle	Washington	98105	United States	(206) 526-9110			Mo-Sa 09:30-21:00; Su 11:00-19:00	Store	
+Bellevue, Bellevue Square		148 Bellevue Square	Bellevue, WA 98004	Bellevue	Washington	98004	United States	(425) 467-1337			Mo-Sa 09:30-21:30; Su 11:00-19:00	Store	
+Virginia Beach, Lynnhaven Mall		701 Lynnhaven Park	Virginia Beach, VA 23452	Virginia Beach	Virginia	23452	United States	(757) 498-3888			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Seattle, Downtown Seattle		415 Pine Street	Seattle, WA 98101	Seattle	Washington	98101	United States	(206) 624-7003			Mo-Sa 10:00-20:00; Su 11:00-18:00	Store	
+Richmond, Regency Square		1420 Parham Road	Richmond, VA 23229	Richmond	Virginia	23229	United States	(804) 750-2800			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Springfield, Springfield TC		6500 Springfield Mall	Springfield, VA 22150	Springfield	Virginia	22150	United States	(703) 924-7005			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Richmond, Short Pump		11800 West Broad Street	Richmond, VA 23233	Richmond	Virginia	23233	United States	(804) 360-0060			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Reston, Reston		11960 Market Street	Reston, VA 20190	Reston	Virginia	20190	United States	(703) 435-9099			Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 12:00-18:00	Store	
+E. Charlottsville, Charlottesville		1600 Rio Rd	E. Charlottsville, VA 22901	E. Charlottsville	Virginia	22901	United States	(434) 974-7887			Mo-Sa 10:00-21:00; Su 12:00-17:30	Store	
+Fairfax, Fair Oaks		11828 Fair Oaks Mall	Fairfax, VA 22033	Fairfax	Virginia	22033	United States	(703) 591-8036			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Arlington, Market Common Clarendon		2800 Clarendon Blvd	Arlington, VA 22201	Arlington	Virginia	22201	United States	(703) 528-1273			Mo-Sa 10:00-20:00; Su 11:00-18:00	Store	
+Norfolk, MacArthur		300 Monticello Ave	Norfolk, VA 23510	Norfolk	Virginia	23510	United States	(757) 216-1468			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Mclean, Tysons Corner		7966 Tysons Corner Center	Mclean, VA 22102	Mclean	Virginia	22102	United States	(703) 917-0002			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Fredericksburg, Fredericksburg		1 Town Center Blvd	Fredericksburg, VA 22407	Fredericksburg	Virginia	22407	United States	(540) 548-3366			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Salt Lake City, Downtown Salt Lake City		50 South Main Street	Salt Lake City, UT 84101	Salt Lake City	Utah	84101	United States	(801) 532-4232			Mo-Sa 10:00-21:00; Su CLOSED	Store	
+Arlington, The Fashion Centre At Pentagon City		1100 S. Hayes Street	Arlington, VA 22202	Arlington	Virginia	22202	United States	(703) 415-4501			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+The Woodlands, The Woodlands Mall		1201 Lake Woodlands Dr TX	The Woodlands, TX 77380	The Woodlands	Texas	77380	United States	(281) 298-8882			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Southlake, Southlake Town Square		312 Grand Avenue West	Southlake, TX 76092	Southlake	Texas	76092	United States	(817) 421-4433			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+San Antonio, North Star Mall		7400 San Pedro Ave	San Antonio, TX 78216	San Antonio	Texas	78216	United States	(210) 541-0979			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Sugarland, Sugarland		16535 Southwest Freeway	Sugarland, TX 77479	Sugarland	Texas	77479	United States	(281) 277-7900			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Murray, Fashion Place		6191 S. State Street	Murray, UT 84107	Murray	Utah	84107	United States	(801) 263-6800			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Mcallen, La Plaza Mall		2200 S 10th St	Mcallen, TX 78503	Mcallen	Texas	78503	United States	(956) 687-1500			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Plano, Willow Bend		6121 W Park Blvd.	Plano, TX 75093	Plano	Texas	75093	United States	(469) 366-0852			Mo-Sa 10:00-21:00; Su 12 - 6PM	Store	
+San Antonio, La Cantera		15900 La Cantera Parkway	San Antonio, TX 78256	San Antonio	Texas	78256	United States	(210) 694-4448			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Houston, Willowbrook Mall		7925 FM 1960 Road West	Houston, TX 77070	Houston	Texas	77070	United States	(281) 807-4900			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Houston, The Village Arcade		2401 Times Blvd	Houston, TX 77005	Houston	Texas	77005	United States	(713) 942-0110			Mo-Sa 10:00-19:00; Su 12:00-18:00	Store	
+Katy, La Centerra at Cinco Ranch		23501 Cinco Ranch Blvd	Katy, TX 77494	Katy	Texas	77494	United States	(281) 371-2333			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Hurst, North East Mall		1101 Melbourne Road	Hurst, TX 76053	Hurst	Texas	76053	United States	(817) 284-1939			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Houston, City Centre		796 Town & Country Blvd.	Houston, TX 77024	Houston	Texas	77024	United States	(713) 932-0172			Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 12:00-18:00	Store	
+Georgetown, Wolf Ranch		1015 W. University Ave.	Georgetown, TX 78628	Georgetown	Texas	78628	United States	(512) 868-4960			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Frisco, Stonebriar Centre		2601 Preston Rd	Frisco, TX 75034	Frisco	Texas	75034	United States	(972) 712-8886			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Houston, Houston Galleria Mall		5015 Westheimer	Houston, TX 77056	Houston	Texas	77056	United States	(713) 961-3580			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Houston, Memorial City Mall		900 Gessner Houston	Houston, TX 77024	Houston	Texas	77024	United States	(713) 932-0848			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Friendswood, Baybrook Mall		1168 Baybrook Mall	Friendswood, TX 77546	Friendswood	Texas	77546	United States	(281)461-7400			Mo-Sa 10:00-21:00; Su 12 - 6 PM	Store	
+Forth Worth, University Park Village		1612 South University Dr.	Forth Worth, TX 76107	Forth Worth	Texas	76107	United States	(817) 348-0003			Mo-Sa 10:00-20:00; Su 12:00-18:00	Store	
+Arlington, The Parks Mall		3811 South Cooper St	Arlington, TX 76015	Arlington	Texas	76015	United States	(817) 375-0070			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Austin, Barton Creek		2901 Capitol of Texas Hwy So.	Austin, TX 78746	Austin	Texas	78746	United States	(512) 327-4600			Mo-Sa 10:00-21:00; Su 23:00-19:00	Store	
+Austin, The Domain		11700 Rock Rose Ave.	Austin, TX 78758	Austin	Texas	78758	United States	(512) 836-8001			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Dallas, Galleria		13350 N. Dallas Parkway	Dallas, TX 75240	Dallas	Texas	75240	United States	(972) 934-3056			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Austin, Arboretum Market		9722 Great Hills Trail	Austin, TX 78759	Austin	Texas	78759	United States	(512) 342-8484			Mo-Sa 10:00-19:00; Su 12:00-18:00	Store	
+Dallas, NorthPark Center		8687 N Central Expressway	Dallas, TX 75225	Dallas	Texas	75225	United States	(214) 378-8177			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+El Paso, Cielo Vista Mall		8401 Gateway W	El Paso, TX 79925-5690	El Paso	Texas	79925-5690	United States	(915) 771-0203			Mo-Sa 10:00-21:00; Su 00:00-18:00	Store	
+Memphis, Wolfchase		2760 N. Germantown Parkway	Memphis, TN 38133	Memphis	Tennessee	38133	United States	(901) 388-8466			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Nashville, Mall At Green Hills		2126 Abbot Martin Rd	Nashville, TN 37215	Nashville	Tennessee	37215	United States	(615) 269-3005			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Collierville, Carriage Crossing		4630 Merchants Park Circle	Collierville, TN 38017	Collierville	Tennessee	38017	United States	(901) 861-3400			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Knoxville, West Town Mall		7600 Kingston Pike	Knoxville, TN 37919	Knoxville	Tennessee	37919	United States	(865) 691-0048			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Allen, Watters Creek At Montgomery Farm		919 Garden Park Drive	Allen, TX 75013	Allen	Texas	75013	United States	(972) 649-6601			Mo-Sa 10:00-21:00; Su 12 - 6PM	Store	
+Germantown, Saddle Creek		2055 West Street	Germantown, TN 38138	Germantown	Tennessee	38138	United States	(901) 751-6600			Mo-Sa 10:00-20:00; Su 12:00-17:30	Store	
+Franklin, CoolSprings Galleria		1800 Galleria Blvd	Franklin, TN 37067	Franklin	Tennessee	37067	United States	(615) 778-9012			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Chattanooga, Hamilton Place		2100 Hamilton Place Blvd.	Chattanooga, TN 37421	Chattanooga	Tennessee	37421	United States	(423) 893-6181			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Sioux Falls, EMPIRE MALL		1490 Empire Place	Sioux Falls, SD 57106	Sioux Falls	South Dakota	57106	United States	(605) 362-5395			Mo-Sa 10:00-21:00; Su 00:00-18:00	Store	
+Charleston, King Street		289 King Street	Charleston, SC 29401	Charleston	South Carolina	29401	United States	(843) 724-1025			Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Greenville, Greenville		700 Haywood Rd.	Greenville, SC 29607	Greenville	South Carolina	29607	United States	(864) 676-2884			Mo-Sa 10:00-21:00; Su 12:30-18:00	Store	
+Columbia, Columbiana		100 Columbiana Cir	Columbia, SC 29212	Columbia	South Carolina	29212	United States	(803) 749-0780			Mo-Sa 10:00-21:00; Su 12 - 6PM	Store	
+Providence, Providence Place		168 Providence Place	Providence, RI 02903	Providence	Rhode Island	02903	United States	(401) 270-8989			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Cranston, Garden City Center		142 Hillside Road	Cranston, RI 02920	Cranston	Rhode Island	02920	United States	(401) 942-2166			Mo-Sa 10:00-20:00; Su 12:00-18:00	Store	
+Newport, Newport		49 Long Wharf Mall	Newport, RI 02840	Newport	Rhode Island	02840	United States	(401) 849-3520			Mo-Sa 10:00-19:00; Su 11:00-18:00	Store	
+Pittsburgh,, Shadyside		5526 Walnut St.	Pittsburgh,, PA 15232-2312	Pittsburgh,	Pennsylvania	15232-2312	United States	(412) 687-2484			Mo-Tu 10:00-19:00; We 10:00-20:00; Th-Sa 10:00-19:00; Su 11:00-17:00	Store	
+Willow Grove, Willow Grove		2500 Moreland Rd.	Willow Grove, PA 19090	Willow Grove	Pennsylvania	19090	United States	(215) 659-0969			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Whitehall,, Lehigh Valley Mall		835 Lehigh Lifestyle Center	Whitehall,, PA 18052	Whitehall,	Pennsylvania	18052	United States	(610) 266-3242			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+San Juan, PLAZA LAS AMERICAS		525 Avenue F.D Roosevelt	San Juan, PR 00918	San Juan	Puerto Rico	00918	United States	(787) 771-0240			Mo-Sa 09:00-21:00; Su 11:00-19:00	Store	
+Pittsburgh, South Hills Village		301 South Hills Village	Pittsburgh, PA 15241	Pittsburgh	Pennsylvania	15241	United States	(412) 854-1111			Mo-Fr 10:00-21:00; Sa 10:00-21:00; Su 11:00-18:00	Store	
+Pittsburgh, Ross Park		1000 Ross Park Mall Dr	Pittsburgh, PA 15237	Pittsburgh	Pennsylvania	15237	United States	(412) 364-3311			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Langhorne, OXFORD VALLEY MALL		2300 East Lincoln Highway	Langhorne, PA 19047	Langhorne	Pennsylvania	19047	United States	(215) 757-1899			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lancaster, Lancaster		319 Park City Center	Lancaster, PA 17601	Lancaster	Pennsylvania	17601	United States	(717) 207-0505			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Philadelphia, Chestnut St		1714 Chestnut Street	Philadelphia, PA 19103	Philadelphia	Pennsylvania	19103	United States	(215) 563-6112			Mo-Sa 10:00-19:00; Su 11:00-18:00	Store	
+King Of Prussia, King Of Prussia Plaza		160 N Gulph Rd	King Of Prussia, PA 19406	King Of Prussia	Pennsylvania	19406	United States	(610) 265-8888			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Ardmore, Suburban Square		42A St. Georges Road	Ardmore, PA 19003	Ardmore	Pennsylvania	19003	United States	(610) 658-8701			Mo-Sa 10:00-20:00; Su 12:00-18:00	Store	
+Tulsa, Woodland Hills		7021 S. Memorial Drive`	Tulsa, OK 74133	Tulsa	Oklahoma	74133	United States	(918) 307-8434			Mo-Sa 10:00-21:00; Su 12 - 7PM	Store	
+Westlake, Westlake Crocker Park		160 Crocker Park Blvd	Westlake, OH 44145	Westlake	Ohio	44145	United States	(440) 617-0708			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Portland, Clackamas		12000 SE 82nd Avenue	Portland, OR 97086	Portland	Oregon	97086	United States	(503) 659-2631			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Portland, Portland		413 SW Morrison Street	Portland, OR 97204	Portland	Oregon	97204	United States	(503) 224-7300			Mo-Sa 10:00-20:00; Su 11:00-18:00	Store	
+Portland, Washington Square		9329 SW Washington Sq Rd	Portland, OR 97223	Portland	Oregon	97223	United States	(503) 684-9693			Mo-Sa 10:00-21:00; Su 10:00-19:00	Store	
+Toledo, Westfield Franklin Park		5001 Monroe St	Toledo, OH 43623	Toledo	Ohio	43623	United States	(419) 471-0707			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Fairlawn, Akron		3265 W Market St	Fairlawn, OH 44333	Fairlawn	Ohio	44333	United States	(330) 864-1000			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Strongsville, Westfield South Park		26 Southpark Center	Strongsville, OH 44136	Strongsville	Ohio	44136	United States	(440) 572-5700			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Oklahoma City, Penn Square Mall		1901 N.W. Expressway	Oklahoma City, OK 73118	Oklahoma City	Oklahoma	73118	United States	(405) 848-0000			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Dayton, The Greene		4421 Glengarry Drive	Dayton, OH 45440	Dayton	Ohio	45440	United States	(937) 431-9300			Mo-Sa 10:00-21:00; Su 12 -6 PM	Store	
+Columbus, Easton Town Center		4174 The Strand	Columbus, OH 43219	Columbus	Ohio	43219	United States	(614) 414-0366			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12 - 6PM	Store	
+Greensboro, Greensboro		803B Friendly Center Rd	Greensboro, NC 27408	Greensboro	North Carolina	27408	United States	(336) 852-8990			Mo-Sa 10:00-21:00; Su 13:00-18:00	Store	
+Columbus, Polaris Fashion Place		1500 Polaris Parkway	Columbus, OH 43240	Columbus	Ohio	43240	United States	(614) 785-9990			Mo-Th 10:00-21:00; Fr-Sa 10:00-21:30; Su 12:00-18:00	Store	
+Raleigh, Crabtree Mall		4325 Glenwood Avenue	Raleigh, NC 27612	Raleigh	North Carolina	27612	United States	(919) 781-9622			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Beachwood, Beachwood		26300 Cedar Road	Beachwood, OH 44122	Beachwood	Ohio	44122	United States	(216) 514-9984			Mo-Sa 10:00-21:00; Su 12 - 6 PM	Store	
+Cincinnati, Kenwood Towne Center		7875 Montgomery Road	Cincinnati, OH 45236	Cincinnati	Ohio	45236	United States	(513) 794-0250			Mo-Sa 10:00-21:00; Su 12 - 6PM	Store	
+Winston Salem, WINSTON-SALEM		3320 Silas Creek Pkwy	Winston Salem, NC 27103	Winston Salem	North Carolina	27103	United States	(336) 794-0025			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+White Plains, Westchester		125 Westchester Avenue	White Plains, NY 10601	White Plains	New York	10601	United States	(914) 761-7727			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Durham, Southpoint		6910 Fayetville Road	Durham, NC 27713	Durham	North Carolina	27713	United States	(919) 544-4905			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Yonkers, Yonkers		163 Market St	Yonkers, NY 10710	Yonkers	New York	10710	United States	(914) 376-1200			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Charlotte, South Park		4400 Sharon Road	Charlotte, NC 28211	Charlotte	North Carolina	28211	United States	(704) 366-5080			Mo-Sa 10:00-21:00; Su 12:30-18:00	Store	
+Charlotte, Northlake Mall		6801 Northlake Mall Drive	Charlotte, NC 28216	Charlotte	North Carolina	28216	United States	(704) 494-0380			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Staten Island, Staten Island Mall		2655 Richmond Avenue	Staten Island, NY 10314	Staten Island	New York	10314	United States	(718) 761-7724			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+West  Nyack, Palisades Center		1000 Palisades Center Dr.	West  Nyack, NY 10994	West  Nyack	New York	10994	United States	(845) 353-1033			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Poughkeepsie, Poughkeepsie Galleria Mall		2001 South Road	Poughkeepsie, NY 12601	Poughkeepsie	New York	12601	United States	(845) 297-5354			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Victor, Eastview Mall		7979 Pittsford-Victor Road	Victor, NY 14564	Victor	New York	14564	United States	(585) 421-3600			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Syracuse, Destiny USA		9090 Destiny USA	Syracuse, NY 13290	Syracuse	New York	13290	United States	(315) 472-0709			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+New York, World Trade Center		185 Greenwich Street, Ste LL4305 (C2)	New York, NY 10007	New York	New York	10007	United States	(212) 406-6500			Mo-Fr 08:00-21:00; Sa 10:00-21:00; Su 11:00-19:00	Store	
+New York, Union Square		45 E. 17th Street	New York, NY 10003	New York	New York	10003	United States	(212) 995-8833			Mo-Fr 10:00-21:00; Sa 10:00-21:00; Su 11:00-19:00	Store	
+New York, Meatpacking		21-27 Ninth Avenue	New York, NY 10014	New York	New York	10014	United States	(212) 510-7941			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+New York, Times Square		1500 Broadway	New York, NY 10036	New York	New York	10036	United States	(212) 944-6789			Mo-Th 08:00-00:00; Fr-Sa 08:00-01:00; Su 09:00-00:00	Store	
+New York, 99Th & Columbus		808 Columbus Avenue	New York, NY 10025	New York	New York	10025	United States	(212) 280-2525			Mo-Sa 09:00-20:00; Su 10:00-19:00	Store	
+New York, 86th & Lexington		144 E. 86th Street	New York, NY 10028	New York	New York	10028	United States	(212) 426-6199			Mo-Sa 09:00-21:00; Su 10:00-20:00	Store	
+New York, Columbus Circle		10 Columbus Circle	New York, NY 10019	New York	New York	10019	United States	(212) 823-9383			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+New York, Flatiron		119 Fifth Avenue	New York, NY 10003	New York	New York	10003	United States	(212) 674-3570			Mo-Sa 09:00-20:00; Su 11:00-19:00	Store	
+New York, SOHO		555 Broadway	New York, NY 10012	New York	New York	10012	United States	(212) 625-1309			Mo-Sa 10:00-21:00; Su 11:00-20:00	Store	
+New York, 76Th & Broadway		2164 Broadway	New York, NY 10024	New York	New York	10024	United States	(917) 441-4760			Mo-Sa 09:00-20:00; Su 10:00-19:00	Store	
+New York, 5th Avenue		580 5th Ave	New York, NY 10036	New York	New York	10036	United States	(212) 980-6534			Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-19:00	Store	
+New York, 60th & Lexington		750 Lexington Ave	New York, NY 10022	New York	New York	10022	United States	(646) 521-2200			Mo-Sa 09:00-21:00; Su 10:00-20:00	Store	
+New York, 5 Times Square 200 W. 42nd Street		200 W 42nd Street	New York, NY 10036	New York	New York	10036	United States	(212) 737-4672			Mo-Su 08:00-00:00	Store	
+New York, 42nd & Madison		300 Madison Avenue	New York, NY 10017	New York	New York	10017	United States	(212) 503-0800			Mo-Fr 08:00-20:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+New York, 34th Street		112 West 34th Street	New York, NY 10001	New York	New York	10001	United States	(212) 629-9135			Mo-Th 08:00-22:00; Fr 08:00-23:00; Sa 09:00-23:00; Su 10:00-21:00	Store	
+Manhasset, Manhasset		1950 Northern Boulevard	Manhasset, NY 11030	Manhasset	New York	11030	United States	(516) 365-9008			Mo-We 10:00-19:00; Th 10:00-20:00; Fr-Sa 10:00-19:00; Su 11:00-18:00	Store	
+Nanuet, Nanuet		5129 Fashion Drive	Nanuet, NY 10954	Nanuet	New York	10954	United States	(845) 623-1060			Mo-Sa 10:00-20:00; Su 11:00-19:00	Store	
+Huntington Station, Walt Whitman		160 Walt Whitman Avenue	Huntington Station, NY 11746	Huntington Station	New York	11746	United States	(631) 425-1488			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Lake Grove, Smith Haven		313 Smith Haven Mall	Lake Grove, NY 11755	Lake Grove	New York	11755	United States	(631) 863-3070			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Forest Hills, Forest Hills		7130 Austin Street	Forest Hills, NY 11375	Forest Hills	New York	11375	United States	(718) 544-0009			Mo-Sa 10:00-20:00; Su 11:00-19:00	Store	
+Garden City, Roosevelt Field Shopping Center		630 Old Country Road	Garden City, NY 11530	Garden City	New York	11530	United States	(516) 746-3933			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Elmhurst, Queens		90-15 Queens Blvd	Elmhurst, NY 11373	Elmhurst	New York	11373	United States	(718) 271-3969			Mo-Sa 10:00-21:30; Su 11:00-20:00	Store	
+Brooklyn, Brooklyn		210 Joralemon Street	Brooklyn, NY 11201	Brooklyn	New York	11201	United States	(718) 422-7722			Mo-Th 09:00-20:00; Fr 09:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+Albany, Colonie Center		131 Colonie Center	Albany, NY 12205	Albany	New York	12205	United States	(518) 453-9900			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Bay Shore, Great South Bay		1701 Sunrise Highway	Bay Shore, NY 11706	Bay Shore	New York	11706	United States	(631) 666-4028			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Buffalo, Walden Galleria		Walden Galleria Drive	Buffalo, NY 14225	Buffalo	New York	14225	United States	(716) 651-1923			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Albuquerque, Albuquerque		6600 Menaul NE	Albuquerque, NM 87110	Albuquerque	New Mexico	87110	United States	(505) 816-0112			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Wayne, Willowbrook Mall		1760 Willowbrook Mall	Wayne, NJ 07470	Wayne	New Jersey	07470	United States	(973) 837-0990			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Short Hills, The Mall At Short Hills		1200 Morris Turnpike	Short Hills, NJ 07078	Short Hills	New Jersey	07078	United States	(973) 258-1919			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Paramus, Paramus Park		1460 Paramus Park Mall	Paramus, NJ 07652	Paramus	New Jersey	07652	United States	(201) 261-2811			Mo-Sa 10:00-21:30; Su CLOSED	Store	
+Paramus, Garden State Plaza		1 Garden State Plaza	Paramus, NJ 07652	Paramus	New Jersey	07652	United States	(201) 845-7071			Mo-Sa 10:00-21:30; Su CLOSED	Store	
+Jersey City, Newport Centre		30 Mall Drive West	Jersey City, NJ 07310	Jersey City	New Jersey	07310	United States	(201) 610-0454			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Lawrenceville Township, Quaker Bridge Mall		150 Quaker Bridge Mall	Lawrenceville Township, NJ 08648	Lawrenceville Township	New Jersey	08648	United States	(609) 799-5019			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Freehold, Freehold Raceway Mall		3710 U.S. 9	Freehold, NJ 07728	Freehold	New Jersey	07728	United States	(732) 780-4232			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Edison, Menlo Park Mall		488 Menlo Park Drive	Edison, NJ 08837	Edison	New Jersey	08837	United States	(732) 635-0023			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Deptford, Deptford Mall		1750 Deptford Center Road	Deptford, NJ 08096	Deptford	New Jersey	08096	United States	(856) 384-8500			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Cherry Hill, Cherry Hill Mall		2000 Route 38	Cherry Hill, NJ 08002	Cherry Hill	New Jersey	08002	United States	(856) 317-9370			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Bridgewater, Bridgewater Commons Mall		400 Commons Way	Bridgewater, NJ 08807	Bridgewater	New Jersey	08807	United States	(908) 595-0200			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Salem, Mall At Rockingham Park		99 Rockingham Park Blvd	Salem, NH 03079	Salem	New Hampshire	03079	United States	(603) 870-0005			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Nashua, Pheasant Lane		310 Daniel Webster Hwy	Nashua, NH 03060	Nashua	New Hampshire	03060	United States	(603) 888-0500			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Las Vegas, The Forum Shops at Caesars Palace		3500 Las Vegas Blvd S	Las Vegas, NV 89109	Las Vegas	Nevada	89109	United States	(702) 228-3535			Mo-Th 10:00-23:00; Fr-Sa 10:00-00:00; Su 10:00-23:00	Store	
+Las Vegas, Miracle Mile		3663 Las Vegas Blvd. South	Las Vegas, NV 89109	Las Vegas	Nevada	89109	United States	(702) 737-0550			Mo-Th 10:00-23:00; Fr-Sa 10:00-00:00; Su 10:00-23:00	Store	
+Las Vegas, Town Square		6671 Las Vegas Blvd.	Las Vegas, NV 89119	Las Vegas	Nevada	89119	United States	(702) 361-3727			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-20:00	Store	
+Las Vegas, Venetian		3377 Las Vegas Blvd.	Las Vegas, NV 89109	Las Vegas	Nevada	89109	United States	(702) 735-3896			Mo-Th 10:00-23:00; Fr-Sa 10:00-00:00; Su 10:00-23:00	Store	
+Las Vegas, Fashion Show		3200 Las Vegas Blvd	Las Vegas, NV 89109	Las Vegas	Nevada	89109	United States	(702) 792-0600			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Las Vegas, Summerlin		2115 Festival Plaza Dr.	Las Vegas, NV 89135	Las Vegas	Nevada	89135	United States	(702) 341-8700			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Omaha, Village Pointe		17101 Davenport Street	Omaha, NE 68118	Omaha	Nebraska	68118	United States	(402) 289-3939			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Reno, Summit Reno		13915 S. Virginia Street	Reno, NV 89511	Reno	Nevada	89511	United States	(775) 853-9090			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+St Louis, St Louis Galleria		2407 St Louis Galleria	St Louis, MO 63117	St Louis	Missouri	63117	United States	(314) 863-2600			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Springfield, Battlefield Mall		2825 S Glenstone Ave	Springfield, MO 65804	Springfield	Missouri	65804	United States	(417) 886-4646			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Kansas City, Zona Rosa		8758 NW Prairie View Road	Kansas City, MO 64153	Kansas City	Missouri	64153	United States	(816) 382-3700			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Independence, independence		2018 Independence Center Drive	Independence, MO 64057	Independence	Missouri	64057	United States	(816) 795-1469			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Kansas City, Country Club Plaza		(Country Club Plaza) 424 Nichols Road	Kansas City, MO 64112	Kansas City	Missouri	64112	United States	(816) 753-5996			Mo-We 10:00-19:00; Th 10:00-21:00; Fr-Sa 10:00-19:00; Su 12:00-18:00	Store	
+Des Peres, Westfield Shoppingtown West County		37 West County Center	Des Peres, MO 63131	Des Peres	Missouri	63131	United States	(314) 821-5200			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Roseville, Rosedale		2100 Rosedale Center	Roseville, MN 55113	Roseville	Minnesota	55113	United States	(651) 697-6577			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Chesterfield, Chesterfield Mall		2008 Chesterfield Mall	Chesterfield, MO 63017	Chesterfield	Missouri	63017	United States	(636) 536-6999			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Ridgeland, Jackson		1000 Highland Colony Parkway	Ridgeland, MS 39157	Ridgeland	Mississippi	39157	United States	(601) 856-8616			Mo-Sa 10:00-20:00; Su 12:00-18:00	Store	
+Minnetonka, Ridgedale		12669 Wayzata Blvd.	Minnetonka, MN 55305	Minnetonka	Minnesota	55305	United States	(952) 513-1306			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Edina, Southdale Center		10 Southdale Center	Edina, MN 55435	Edina	Minnesota	55435	United States	(952) 922-8340			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Troy, Somerset		2800 W. Big Beaver Road	Troy, MI 48084	Troy	Michigan	48084	United States	(248) 458-0100			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Bloomington, Mall of America		200 West Market	Bloomington, MN 55425	Bloomington	Minnesota	55425	United States	(952) 854-1517			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Novi, Twelve Oaks		27846 Novi Road	Novi, MI 48377	Novi	Michigan	48377	United States	(248) 347-1518			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lansing, Eastwood Towne Center		2916 Towne Centre Blvd	Lansing, MI 48912	Lansing	Michigan	48912	United States	(517) 316-7300			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Grandville, Grand Rapids		3700 Rivertown Parkway	Grandville, MI 49418	Grandville	Michigan	49418	United States	(616) 530-7969			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Clinton Township, Partridge Creek		17410 Hall Road	Clinton Township, MI 48038	Clinton Township	Michigan	48038	United States	(586) 286-7788			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Ann Arbor, Briarwood		876 Briarwood Circle	Ann Arbor, MI 48108	Ann Arbor	Michigan	48108	United States	(734) 622-8200			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Natick, Natick Mall		1245 Worcester St.	Natick, MA 01760	Natick	Massachusetts	01760	United States	(508) 650-9000			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Peabody, Northshore Mall		210 Andover Street	Peabody, MA 01960	Peabody	Massachusetts	01960	United States	(978) 531-9100			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Lynnfield, Lynnfield		720 Market Street	Lynnfield, MA 01940	Lynnfield	Massachusetts	01940	United States	(781) 334-6555			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Millbury, Worcester		70 Worcester-Providence Turnpike	Millbury, MA 01527	Millbury	Massachusetts	01527	United States	(508) 865-6699			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Holyoke, Holyoke Mall		50 Holyoke Street	Holyoke, MA 01040	Holyoke	Massachusetts	01040	United States	(413) 536-7500			Mo-Sa 10:00-21:30; Su 11:00-18:00	Store	
+Hyannis, Cape Cod Mall		793 Iyannough Rd , MA	Hyannis, MA 02601	Hyannis	Massachusetts	02601	United States	(508) 790-5757			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Hingham, Hingham		(Derby Street Shoppes) 98 Derby Street	Hingham, MA 02043	Hingham	Massachusetts	02043	United States	(781) 749-7532			Mo-Sa 10:00-21:00; Su 23:00-18:00	Store	
+Dedham, Dedham		512 Legacy Place	Dedham, MA 02026	Dedham	Massachusetts	02026	United States	(781) 326-0662			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Braintree, South Shore		250 Granite St.	Braintree, MA 02184	Braintree	Massachusetts	02184	United States	(781) 848-0421			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Chestnut Hill, Chestnut Hill		199 Boylston Street	Chestnut Hill, MA 02467	Chestnut Hill	Massachusetts	02467	United States	(617) 964-0800			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 12:00-18:00	Store	
+Burlington, Burlington Mall		75 Middlesex Turnpike	Burlington, MA 01803	Burlington	Massachusetts	01803	United States	(781) 270-2382			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Cambridge, CambridgeSide Galleria		100 Cambridge Side Place	Cambridge, MA 02141	Cambridge	Massachusetts	02141	United States	(617) 577-1005			Mo-Sa 10:00-21:00; Su 12:00-19:00	Store	
+Boston, Prudential Center		800 Boylston Street	Boston, MA 02199	Boston	Massachusetts	02199	United States	(617) 262-4200			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Boston, Fenway		1331 Boylston Street	Boston, MA 02215	Boston	Massachusetts	02215	United States	(617) 859-4949 			Mo-Sa 10:00-20:00; Su 11:00-18:00	Store	
+Annapolis, Annapolis		2002 Annapolis Mall	Annapolis, MD 21401	Annapolis	Maryland	21401	United States	(410) 573-1888			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Columbia, Columbia Town Center		10300 Little Patuxent Pkwy	Columbia, MD 21044	Columbia	Maryland	21044	United States	(410) 992-7700			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Towson, Towson		825 Dulaney Valley Road	Towson, MD 21204	Towson	Maryland	21204	United States	(410) 337-7494			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Bethesda, Montgomery		7101 Democracy Blvd.	Bethesda, MD 20817	Bethesda	Maryland	20817	United States	(301) 365-9590			Mo-Sa 10:00-21:00; Su 23:00-18:00	Store	
+Chevy Chase, Chevy Chase		5330-E Western Avenue	Chevy Chase, MD 20815	Chevy Chase	Maryland	20815	United States	(301) 718-3050			Mo-Fr 10:00-20:00; Sa 22:00-20:00; Su 12:00-18:00	Store	
+Boston, Faneuil Hall		7 North Street	Boston, MA 02109	Boston	Massachusetts	02109	United States	(617) 570-9110			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+South Portland, Maine Mall		364 Maine Mall Road	South Portland, ME 04106	South Portland	Maine	04106	United States	(207) 879-5900			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Metairie, Lakeside		3301 Veterans Memorial Blvd.	Metairie, LA 70002	Metairie	Louisiana	70002	United States	(504) 830-4567			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Louisville, Oxmoor Center		7900 Shelbyville Road	Louisville, KY 40222	Louisville	Kentucky	40222	United States	(502) 326-2966			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Lafayette, The Mall Of Acadiana		5725 Johnston Street	Lafayette, LA 70503	Lafayette	Louisiana	70503	United States	(337) 984-2202			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Lexington, Fayette Mall		3401 Nicholasville Road	Lexington, KY 40503	Lexington	Kentucky	40503	United States	(859) 245-0601			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Baton Rouge, Mall Of Louisiana		6401 Bluebonnet Blvd.	Baton Rouge, LA 70836	Baton Rouge	Louisiana	70836	United States	(225) 767-3040			Mo-Sa 10:00-21:00; Su 12:00-17:00	Store	
+Overland Park, Oak Park		11731 West 95th St.	Overland Park, KS 66214	Overland Park	Kansas	66214	United States	(913) 859-9750			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Crestview Hills, Crestview Hills		2854 Town Center Blvd.	Crestview Hills, KY 41017	Crestview Hills	Kentucky	41017	United States	(859) 426-9400			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Leawood, Town Center Plaza		5056 W. 119th Street	Leawood, KS 66209	Leawood	Kansas	66209	United States	(913) 491-6338			Mo-Sa 10:00-21:00; Su 12:00-17:00	Store	
+Wichita, Wichita		2000 N. Rock Road	Wichita, KS 67206	Wichita	Kansas	67206	United States	(316) 636-5500			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Evansville, Evansville		800 N. Green River Rd	Evansville, IN 47715	Evansville	Indiana	47715	United States	(812) 475-8800			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Indianapolis, Keystone		8702 Keystone Crossing	Indianapolis, IN 46240	Indianapolis	Indiana	46240	United States	(317) 587-0700			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Greenwood, Greenwood Park Mall		1251 US Highway 31 N	Greenwood, IN 46142	Greenwood	Indiana	46142	United States	(317) 859-8491			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Mishawaka, University Park		6501 North Grape Road	Mishawaka, IN 46545	Mishawaka	Indiana	46545	United States	(574) 272-1600			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Coralville, IOWA CITY		1451 Coral Ridge Ave	Coralville, IA 52241	Coralville	Iowa	52241	United States	(319) 351-2900			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+West Des Moines, Jordan Creek		101 Jordan Creek Parkway	West Des Moines, IA 50266	West Des Moines	Iowa	50266	United States	(515) 457-1200			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Vernon Hills, HAWTHORN CENTER		411 Hawthorn Center	Vernon Hills, IL 60061	Vernon Hills	Illinois	60061	United States	(847) 573-1064			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Schaumburg,  Woodfield Mall		#5 Woodfield Shopping Center	Schaumburg, IL 60173	Schaumburg	Illinois	60173	United States	(847) 330-0203			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Skokie, Old Orchard		4999 Old Orchard Center Suite E9, Skokie, IL 60077	Skokie, IL 60077	Skokie	Illinois	60077	United States	(847) 568-0323			Mo-Fr 10:00-20:00; Sa 10:00-21:00; Su 11:00-18:00	Store	
+Orland Park, Orland Park		730 Square Drive	Orland Park, IL 60462	Orland Park	Illinois	60462	United States	(708) 349-0100			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Oak Brook, Oakbrook Center		104 Oakbrook Center	Oak Brook, IL 60523	Oak Brook	Illinois	60523	United States	(630) 368-3322			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Naperville, Downtown Naperville		132 W. Jefferson Ave	Naperville, IL 60540	Naperville	Illinois	60540	United States	(630) 778-1002			Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Northbrook, Northbrook		1314 Northbrook Court	Northbrook, IL 60062	Northbrook	Illinois	60062	United States	(847) 714-0505			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Deer Park, Deer Park		20530 North Rand Road	Deer Park, IL 60010	Deer Park	Illinois	60010	United States	(847) 438-8885			Mo-Sa 10:00-21:00; Su 12:00-17:00	Store	
+Geneva, Geneva Commons		406 Commons Drive	Geneva, IL 60134	Geneva	Illinois	60134	United States	(630) 262-3330			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Chicago, State Street		108 North State Street	Chicago, IL 60602	Chicago	Illinois	60602	United States	(312) 263-8688			Mo-Sa 10:00-20:00; Su 11:00-18:00	Store	
+Boise, Boise Towne Square Mall		350 North Milwaukee St.	Boise, ID 83704	Boise	Idaho	83704	United States	(208) 322-6278			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Chicago, Michigan Ave		605 North Michigan Avenue	Chicago, IL 60611	Chicago	Illinois	60611	United States	(312) 649-9343			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Chicago, LINCOLN PARK		938 West North Avenue	Chicago, IL 60642	Chicago	Illinois	60642	United States	(312) 274-0722			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+Champaign, Champaign		2000 North Neil Street	Champaign, IL 61820	Champaign	Illinois	61820	United States	(217) 351-3482			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Chicago, Watertower Place		845 N. Michigan Ave.	Chicago, IL 60611	Chicago	Illinois	60611	United States	(312) 335-9391			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Kapolei, Ka Makana		91-5431  Kapolei Parkway	Kapolei, HI 96707	Kapolei	Hawaii	96707	United States				Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Honolulu, Ala Moana		1450 Ala Moana Blvd.	Honolulu, HI 96814	Honolulu	Hawaii	96814	United States	(808) 944-9797			Mo-Sa 09:30-21:00; Su 10:00-19:00	Store	
+Buford, Mall Of Georgia		3333 Buford Drive	Buford, GA 30519	Buford	Georgia	30519	United States	(770) 614-3499			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Honolulu, Kalakaua		2250 Kalakaua Avenue	Honolulu, HI 96815	Honolulu	Hawaii	96815	United States	(808) 923-3301			Mo-Su 10:00-23:00	Store	
+Maui, Lahaina		2435 Ka'anapali Pkwy	Maui, HI 96761	Maui	Hawaii	96761	United States	(808) 667-2545			Mo-Su 09:30-22:00	Store	
+Marietta, East Cobb		4475 Rosewell Rd.	Marietta, GA 30062	Marietta	Georgia	30062	United States	770-565-0865			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Kennesaw, Town Center At Cobb		400 Ernest W Barrett Pkwy	Kennesaw, GA 30144	Kennesaw	Georgia	30144	United States	(770) 426-1418			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Aiea, Pearlridge		98-1005 Moanalua Rd	Aiea, HI 96701	Aiea	Hawaii	96701	United States	(808) 487-0660			Mo-Sa 10:00-21:00; Su 10:00-18:00	Store	
+Atlanta, Buckhead		3167 Peachtree Road NE	Atlanta, GA 30305	Atlanta	Georgia	30305	United States				Mo-Sa 10:00-19:00; Su 12:00-18:00	Store	
+Atlanta, Ponce City Market		650 North Avenue	Atlanta, GA 30308	Atlanta	Georgia	30308	United States	(404) 532-1591			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Augusta, Augusta		3450 Wrightsboro Road	Augusta, GA 30909	Augusta	Georgia	30909	United States	(706) 736-6511			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Atlanta, Perimeter Mall		4400 Ashford Dunwoody Rd.	Atlanta, GA 30346	Atlanta	Georgia	30346	United States	(678) 731-9950			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Atlanta, Cumberland Mall		1140 Cumberland Mall	Atlanta, GA 30339	Atlanta	Georgia	30339	United States	(678) 503-0000			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Alpharetta, North Point Mall		1000 North Point Circle	Alpharetta, GA 30022	Alpharetta	Georgia	30022	United States	(770) 475-4878			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Atlanta, Lenox Square		3393 Peachtree Rd., NE	Atlanta, GA 30326	Atlanta	Georgia	30326	United States	(404) 816-0123			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+West Palm Beach, City Place		550 S. Rosemary Ave	West Palm Beach, FL 33401	West Palm Beach	Florida	33401	United States	(561) 651-7633			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12:00-18:00	Store	
+Tampa, International Plaza		2223 N Westshore Blvd	Tampa, FL 33607	Tampa	Florida	33607	United States	(813) 872-2600			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Tampa,  Citrus Park		7965 Citrus Park Town Center	Tampa, FL 33625	Tampa	Florida	33625	United States	(813) 920-6200			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Tallahassee, Governors Square Mall		1500 Apalachee Pkwy	Tallahassee, FL 32301	Tallahassee	Florida	32301	United States	(850) 402-0105			Mo-Sa 10:00-21:00; Su 12:30-17:30	Store	
+Sarasota, UTC Sarasota		140 University Town Center Drive	Sarasota, FL 34243	Sarasota	Florida	34243	United States	(941) 702-9491			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Pembroke Pines, Pembroke Gardens		516 SW 145th Terrace	Pembroke Pines, FL 33027	Pembroke Pines	Florida	33027	United States	(954) 438-2030			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Pensacola, CORDOVA MALL		5100 N 9th Ave	Pensacola, FL 32504	Pensacola	Florida	32504	United States	(850) 473-0083			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Orlando, MALL AT MILLENIA		4200 Conroy Road	Orlando, FL 32839	Orlando	Florida	32839	United States	(407) 352-5102			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Miami, Miami international		1455 NW 107th Ave	Miami, FL 33172	Miami	Florida	33172	United States	(786) 464-1313			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Miami, Brickell City Centre		701 - B South Miami Avenue	Miami, FL 33131	Miami	Florida	33131	United States	(786) 261-0507 			Mo-Sa 10:00-21:30; Su 12:00-19:00	Store	
+Palm Beach Gardens, The Gardens		3101 PGA Blvd.	Palm Beach Gardens, FL 33410	Palm Beach Gardens	Florida	33410	United States	(561) 622-1057			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Gainesville, Oaks Mall		6689 Newberry Road	Gainesville, FL 32605	Gainesville	Florida	32605	United States	(352) 331-8880			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Miami Beach, South Beach		721 Collins Avenue	Miami Beach, FL 33139	Miami Beach	Florida	33139	United States	(305) 532-0904			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-21:00	Store	
+Lake Buena Vista, Disney Springs		1530 E. Buena Vista Drive	Lake Buena Vista, FL 32830	Lake Buena Vista	Florida	32830	United States	(407) 560-9159			Mo-Th 10:00-23:00; Fr-Sa 10:00-23:30; Su 10:00-23:00	Store	
+Orlando, Florida Mall		8001 S. Orange Blossom Trail	Orlando, FL 32809	Orlando	Florida	32809	United States	(407) 240-6634			Mo-Fr 10:00-21:00; Sa 10:00-22:00; Su 12:00-20:00	Store	
+Miami, Dadeland		7479 N. Kendall Drive	Miami, FL 33156	Miami	Florida	33156	United States	(305) 740-3445			Mo-Sa 10:00-21:30; Su 12:00-19:00	Store	
+Jacksonville, St Johns		10281 Midtown Parkway	Jacksonville, FL 32246	Jacksonville	Florida	32246	United States	(904) 997-1212			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Estero, Coconut Point		23161 Fashion Drive	Estero, FL 33928	Estero	Florida	33928	United States	(239) 390-9889			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Ft. Lauderdale, The Galleria At Fort Lauderdale		2414 E Sunrise Blvd	Ft. Lauderdale, FL 33304	Ft. Lauderdale	Florida	33304	United States	(954) 630-3636			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Destin, Destin		4236 Legendary Dr.	Destin, FL 32541	Destin	Florida	32541	United States	(850) 269-1858			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Coral Gables, Merrick Park		358 San Lorenzo Ave	Coral Gables, FL 33146	Coral Gables	Florida	33146	United States	(305) 569-9296			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Washington DC, F Street		1000 F Street NW 	Washington DC, DC 20004	Washington DC	District of Columbia	20004	United States	(202) 347-5115			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Brandon, Brandon Town Center		912 Brandon Town Center Mall	Brandon, FL 33511	Brandon	Florida	33511	United States	(813) 651-1800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Georgetown, Georgetown		3065 M St. NW	Georgetown, DC 20007	Georgetown	District of Columbia	20007	United States	(202) 338-5644			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Newark, Newark		118 Christiana Mall	Newark, DE 19702	Newark	Delaware	19702	United States	(302) 738-9000			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Boca Raton, Boca Raton Town Center		6000 W. Glades	Boca Raton, FL 33431	Boca Raton	Florida	33431	United States	(561) 391-1221			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Aventura, Aventura		19575 Biscayne Blvd.	Aventura, FL 33180	Aventura	Florida	33180	United States	(305) 931-9579			Mo-Sa 10:00-21:30; Su 12:00-20:00	Store	
+Altamonte Springs, Altamonte Mall		451 East Altamonte Dr.	Altamonte Springs, FL 32701	Altamonte Springs	Florida	32701	United States	(407) 265-6101			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Trumbull, Westfield Trumbull		5065 Main Street	Trumbull, CT 06611	Trumbull	Connecticut	06611	United States	(203) 373-7344			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Greenwich, Greenwich		75 Greenwich Ave	Greenwich, CT 06830	Greenwich	Connecticut	06830	United States	(203) 422-2191			Mo-Sa 10:00-18:00; Su 12:00-17:00	Store	
+Uncasville, Mohegan Sun		1 Mohegan Sun Boulevard	Uncasville, CT 06382	Uncasville	Connecticut	06382	United States	(860) 886-0433			Mo-Th 10:00-22:00; Fr 10:00-00:00; Sa 10:00-00:00; Su 11:00-22:00	Store	
+Farmington, Westfarms Mall		307 Westfarms Mall	Farmington, CT 06032	Farmington	Connecticut	06032	United States	(860) 521-7669			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+South Windsor, Evergreen Walk		200 Evergreen Way	South Windsor, CT 06074	South Windsor	Connecticut	06074	United States	(860) 648-4000			Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Stamford, Stamford		100 Greyrock Place	Stamford, CT 06901	Stamford	Connecticut	06901	United States	(203) 388-3824			Mo-Sa 10:00-21:00; Su 23:00-18:00	Store	
+Danbury, Danbury Fair Mall		7 Backus Ave., Suite 364, Danbury, CT 06810	Danbury, CT 06810	Danbury	Connecticut	06810	United States	(203) 778-3200			Mo-Sa 10:00-21:30; Su 11:00-19:00	Store	
+Colorado Springs, Outdoor Center		1645 Briargate Parkway	Colorado Springs, CO 80920	Colorado Springs	Colorado	80920	United States	(719) 260-8686			Mo-Sa 10:00-21:00; Su 23:00-18:00	Store	
+Canton, The Shoppes At Farmington Valley		110 Albany Turnpike	Canton, CT 06019	Canton	Connecticut	06019	United States	(860) 693-8955			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Boulder, Boulder		1755 29th Street	Boulder, CO 80301	Boulder	Colorado	80301	United States	(303) 443-7700			Mo-Sa 10:00-20:00; Su 11:00-18:00	Store	
+Walnut Creek, Walnut Creek		1149 Broadway Plaza	Walnut Creek, CA 94596	Walnut Creek	California	94596	United States	(925) 933-3433			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Denver, Cherry Creek		3000 E First Avenue	Denver, CO 80206	Denver	Colorado	80206	United States	(303) 399-8800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Broomfield, Flatiron Crossing		One W. Flatiron Circle	Broomfield, CO 80021	Broomfield	Colorado	80021	United States	(720) 887-9655			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Fort Collins, Front Range Center		2720 Council Tree Ave	Fort Collins, CO 80525	Fort Collins	Colorado	80525	United States	(970) 225-1151			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Ventura, Ventura		3301-1242 E. Main Street	Ventura, CA 93003	Ventura	California	93003	United States	(805) 658-1100			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Valencia, Valencia		24201 West Valencia Blvd.	Valencia, CA 91355	Valencia	California	91355	United States	(661) 253-0003			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Temecula, The Promenade		40772 Winchester Road	Temecula, CA 92591	Temecula	California	92591	United States	(951) 296-1788			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Littleton, Park Meadows		8505 Park Meadows Center Dr.	Littleton, CO 80124	Littleton	Colorado	80124	United States	(303) 799-4800			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Thousand Oaks, Westlake		4000 E Thousand Oaks Blvd	Thousand Oaks, CA  91362	Thousand Oaks	California	 91362	United States	(805) 496-1750			Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 23:00-19:00	Store	
+Santa Rosa, SANTA ROSA PLAZA		1071 Santa Rosa Plaza	Santa Rosa, CA 95401	Santa Rosa	California	95401	United States	(707) 541-0120			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Sherman Oaks, Westfield Fashion Square		14006 Riverside Drive	Sherman Oaks, CA 91423	Sherman Oaks	California	91423	United States	(818) 817-0900			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Torrance, Del Amo		21540 Hawthorn Blvd	Torrance, CA 90503	Torrance	California	90503	United States	(310) 214-3457			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+Santa Clara, Valley Fair Westfield Shopping Town		2855 Stevens Creek Blvd	Santa Clara, CA 95050	Santa Clara	California	95050	United States	(408) 248-7095			Mo-Fr 10:00-21:30; Sa 10:00-21:00; Su 11:00-19:00	Store	
+Santa Monica, Santa Monica		1244 Third Street	Santa Monica, CA 90401	Santa Monica	California	90401	United States	(310) 395-3460			Mo-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su 10:00-21:00	Store	
+Thousand Oaks, The Oaks Mall		338 W. Hillcrest Drive	Thousand Oaks, CA 91360	Thousand Oaks	California	91360	United States	(805) 370-9833			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+San Mateo, Hillsdale		115 Hillsdale Mall	San Mateo, CA 94403	San Mateo	California	94403	United States	(650) 525-9710			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Santa Barbara, Santa Barbara		701 Paseo Nuevo	Santa Barbara, CA 93101	Santa Barbara	California	93101	United States	(805) 962-5410			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00	Store	
+San Luis Obispo, San Luis Obispo		1090 Court Street	San Luis Obispo, CA 93401	San Luis Obispo	California	93401	United States	(805) 783-2200			Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-19:00	Store	
+San Jose, Westfield Oakridge		925 Blossom Hill Road	San Jose, CA 95123	San Jose	California	95123	United States	(408) 224-7404			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:30	Store	
+San Jose, Santana Row		377 Santana Row	San Jose, CA 95128	San Jose	California	95128	United States	(408) 247-0907			Mo-Sa 10:00-21:00; Su 23:00-19:00	Store	
+San Francisco, Embarcadero		2 Embarcadero Center 	San Francisco, CA 94111	San Francisco	California	94111	United States	(415) 982-0150			Mo-Fr 10:00-19:00; Sa 11:00-18:00; Su 12:00-17:00	Store	
+San Francisco, Stonestown Galleria		3251 20th Avenue	San Francisco, CA 94132	San Francisco	California	94132	United States	(415) 242-3200			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+San Francisco, Union Street		2083 Union St.	San Francisco, CA 94123	San Francisco	California	94123	United States	(415) 614-2704			Mo-Sa 10:00-20:00; Su 11:00-18:00	Store	
+Roseville, Roseville		1151 Galleria Blvd	Roseville, CA 95678	Roseville	California	95678	United States	(916) 786-6333			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+San Francisco, Powell Street		33 Powell Street	San Francisco, CA 94102	San Francisco	California	94102	United States	(415) 362-9360			Mo-Sa 09:00-21:30; Su 10:00-20:00	Store	
+San Diego, Fashion Valley		7007 Friars Road	San Diego, CA 92108	San Diego	California	92108	United States	(619) 220-0771			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Riverside, Riverside		2077 Galleria at Tyler	Riverside, CA 92503	Riverside	California	92503	United States	(951) 785-0717			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+San Diego, University Towne Center		4545 La Jolla Village Dr.	San Diego, CA 92122	San Diego	California	92122	United States	(858) 457-1983			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Palo Alto, Stanford Shopping Center		355 Stanford Shopping Center	Palo Alto, CA 94304	Palo Alto	California	94304	United States	(650) 327-5180			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Sacramento, Arden Fair		1689 Arden Way	Sacramento, CA 95815	Sacramento	California	95815	United States	(916) 649-1010			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Rancho Cucamonga, Victoria Gardens		12506 N. Main Street	Rancho Cucamonga, CA 91739	Rancho Cucamonga	California	91739	United States	(909) 646-7299			Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00	Store	
+Novato, Vintage Oaks Shopping Center		208 Vintage Oaks	Novato, CA 94945	Novato	California	94945	United States	(415) 878-2004			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Pasadena, Old Town		13 W Colorado Blvd	Pasadena, CA 91105	Pasadena	California	91105	United States	(626) 683-3100			Mo-Sa 10:00-22:00; Su 11:00-20:00	Store	
+Modesto, Vintage Faire Mall		3401 Dale Road	Modesto, CA 95356	Modesto	California	95356	United States	(209) 341-0100			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Pleasanton, Stoneridge Shopping Center		2125 Stoneridge Mall Rd	Pleasanton, CA 94588	Pleasanton	California	94588	United States	(925) 737-0616			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Palm Desert, Palm Desert		73505 El Paseo	Palm Desert, CA 92260	Palm Desert	California	92260	United States	(760) 837-1970			Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-17:00	Store	
+Monterey, Monterey		230 Del Monte Center	Monterey, CA 93940	Monterey	California	93940	United States	(831) 372-1340			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Montclair, Montclair		2061 Montclair Plaza Lane	Montclair, CA 91763	Montclair	California	91763	United States	(909) 447-4174			Mo-Sa 10:00-20:30; Su 11:00-19:00	Store	
+Northridge, Northridge Fashion Center		9301 Tampa Ave	Northridge, CA 91324	Northridge	California	91324	United States	(818) 886-6500			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Mission Viejo, Mission Viejo		498 The Shops at Mission Viejo	Mission Viejo, CA 92691	Mission Viejo	California	92691	United States	(949) 364-3449			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Marina Del Rey, Waterside Marina Del Rey		4766 Admiralty Way	Marina Del Rey, CA 90292	Marina Del Rey	California	90292	United States	(310) 305-4193			Mo-Su 10:00-20:00	Store	
+Burlingame, Burlingame		1205 Burlingame Avenue	Burlingame, CA 94010	Burlingame	California	94010	United States	(650) 347-6700			Mo-Sa 10:00-20:00; Su 10:00-18:00	Store	
+Manhattan Beach, Manhattan Village Shopping Center		3200 Sepulveda Blvd.	Manhattan Beach, CA 90266	Manhattan Beach	California	90266	United States	(310) 546-8889			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Bakersfield, Bakersfield		2701 Ming Ave.	Bakersfield, CA 93304	Bakersfield	California	93304	United States	(661) 832-6300			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Rogers, Pinnacle Hills		2203 S. 45th Street	Rogers, AR 72758	Rogers	Arkansas	72758	United States	(479) 636-9191			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Calabasas, Calabasas		4799 Commons Way	Calabasas, CA 91302	Calabasas	California	91302	United States	(818) 223-9481			Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-18:00	Store	
+Arcadia, Santa Anita Mall		400 S. Baldwin Ave	Arcadia, CA 91007	Arcadia	California	91007	United States	(626) 445-0400			Mo-Sa 10:00-21:00; Su 11:00-19:00	Store	
+Brea, Brea Mall		1065 Brea Mall	Brea, CA 92821	Brea	California	92821	United States	(714) 674-0333			Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00	Store	
+Tucson, Park Place		5870 East Broadway Blvd.	Tucson, AZ 85711	Tucson	Arizona	85711	United States	(520) 790-3333			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Little Rock, Park Plaza		6000 W Markham Street	Little Rock, AR 72205	Little Rock	Arkansas	72205	United States	(501) 603-9189			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Tucson, Tucson Mall		4500 N. Oracle Road	Tucson, AZ 85705	Tucson	Arizona	85705	United States	(520) 888-3440			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Anaheim, Disneyland		1570 S. Disneyland Drive	Anaheim, CA 92802	Anaheim	California	92802	United States	(714) 758-1700			Mo-Th 10:00-22:00; Fr-Sa 10:30-23:00; Su 10:30-22:00	Store	
+Phoenix, Biltmore		2502 E. Camelback Rd. 	Phoenix, AZ 85016	Phoenix	Arizona	85016	United States	602-957-9400			Mo-Sa 10:00-20:00; Su 12:00-18:00	Store	
+Scottsdale, Scottsdale Quarter		15169 N Scottsdale Rd.	Scottsdale, AZ 85254	Scottsdale	Arizona	85254	United States	(480) 991-0915			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Scottsdale, Scottsdale Fashion Center		7014 East Camelback Rd	Scottsdale, AZ 85251	Scottsdale	Arizona	85251	United States	(480) 945-0100			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Anchorage, 5TH AVE MALL		320 W. 5th Ave	Anchorage, AK 99501	Anchorage	Alaska	99501	United States	(907) 277-7700			Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00	Store	
+Glendale, Arrowhead Towne Center		7700 W Arrowhead Towne Center	Glendale, AZ 85308	Glendale	Arizona	85308	United States	(623) 334-8700			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Gilbert, San Tan Village		2206 E Williams Field Rd	Gilbert, AZ 85295	Gilbert	Arizona	85295	United States	(480) 917-4555			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Hoover, Riverchase Galleria		2000 Riverchase Galleria	Hoover, AL 35244	Hoover	Alabama	35244	United States	(205) 403-9920			Mo-Sa 10:00-21:00; Su 12:00-18:00	Store	
+Chandler, Chandler Fashion Center		3111 W. Chandler Blvd	Chandler, AZ 85226	Chandler	Arizona	85226	United States	(480) 726-7733			Mo-Sa 10:00-21:00; Su 11:00-18:00	Store	
+Huntsville, Huntsville		335 The Bridge St	Huntsville, AL 35806	Huntsville	Alabama	35806	United States	(256) 327-8737			Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 12:00-18:00	Store	

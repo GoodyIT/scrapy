@@ -1,0 +1,30 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+,,"13, rue des Francs Bourgeois",,Paris,,75004,France,+33 1 40 09 25 85,,,"Monday - Sunday, 11 am - 7 pm",,0
+,,"37, rue de Grenelle",,Paris,,75007,France,+33 1 42 22 76 40,,,"Monday - Saturday, 11 am - 7 pm",,0
+,,"140, avenue Victor Hugo",,Paris,,75016,France,+33 1 45 05 39 02,,,"Monday - Saturday, 11 am - 7 pm",,0
+,,"21, rue du Mont Thabor",,Paris,,75001,France,+33 1 42 22 16 89,,,"Monday - Saturday, 11 am - 7 pm",,0
+,,14 Burlington Arcade,,London,,W1J 0PH,England,+44 (0) 207 409 2364,,,"Monday - Saturday, 10 am - 7 pm; Sunday,  11 am - 5 pm",,0
+,,Via del Babuino 30,,Rome,,00187,Italy,+39 06 3204750,,,"Monday - Saturday, 10:30 am - 7:30 pm; Sunday,  12:00 pm - 7:30 pm",,0
+,,94 Greenwich Avenue,,New York,,NY 10011,United States,+ 1 646 666 0330,,,"Monday - Saturday, 11 am - 7 pm; Sunday,  12 pm - 5 pm",,0
+,,898 Madison Avenue,,New York,,NY 10021,United States,+1 212 249 7941,,,"Monday - Wednesday, 10 am - 6 pm; Thursday, 10 am - 7 pm; Friday - Saturday, 10 am - 6 pm; Sunday, 12 pm - 5 pm",,0
+HOLT RENFREW,,"50 Bloor Street West Toronto, ON M4W 1A1 TEL: +1 416 922 2333 50 Bloor Street",,Toronto,,50 BLOOR STREET,Canada,+1 416 922 2333,,,,,0
+HOLT RENFREW,,"737 Dunsmuir Street Vancouver, BC, V7Y 1K2 TEL: +1 604 681 3121 737 Dunsmuir Street",,Vancouver,,737 DUNSMUIR STREET,Canada,+1 604 681 3121,,,,,0
+BARNEYS NEW YORK,,Copley Place 100 Huntington Avenue,,Boston,,MA 02116,United States,+1 (617) 385 3300,,,,,0
+CUFFS CLOTHING,,18 East Orange Street,,Chagrin falls,,OHIO 44022,United States,+1 (440) 247 2828,,,,,0
+BARNEYS NEW YORK,,25 East Oak Street,,Chicago,,IL 60611,United States,+1 (312) 596 1081,,,,,0
+FORTY FIVE TEN,,4510 McKinney Avenue,,Dallas,,TX 75205,United States,+1 (214) 559 4510,,,,,0
+TURPAN,,55 Main Street,,East Hampton,,NY 11937,United States,+1 (631) 324 2444,,,,,0
+LA PETITE PARFUMERIE,,2155 Southdale Center,,Edina,,MN 55435,United States,+1 (952) 475 2212,,,,,0
+SAKS FIFTH AVENUE,,Houston Galleria Mall 5115 Westheimer Road,,Houston,,TX 77056,United States,+1 (713) 627 0500,,,,,0
+BARNEYS NEW YORK AT THE PALLAZZO,,3327 Las Vegas Boulevard South,,Las Vegas,,NV 89109,United States,+1 (702) 629 4200,,,,,0
+BARNEYS NEW YORK,,9570 Wilshire Boulevard,,Los Angeles,,CA 90212,United States,+1 (310) 276 4400,,,,,0
+BARNEYS NEW YORK,,The Grove 189 The Grove Drive,,Los Angeles,,CA 90036,United States,+1 (323) 761 5255,,,,,0
+HIRSCHLEIFERS,,2080 Northern Boulevard,,Manhasset,,NY 11030,United States,+1 (516) 627 3566,,,,,0
+,,ST-TROPEZ HOME 1300 Third Street South,,Naples,,FLORIDA 34102,United States,+1 (239) 234 4458,,,,,0
+AEDES DE VENUSTAS,,9 Christopher Street,,New York,,NY 10014,United States,+1 (212) 206 8674,,,,,0
+BARNEYS NEW YORK,,660 Madison Avenue,,New York,,NY 10017,United States,1 (212) 833 2652,,,,,0
+BARNEYS NEW YORK,,2151 Broadway,,New York,,NY 10023,United States,+1 (646) 335 0978,,,,,0
+MONCXIII,,40 Madison Street,,Sag Harbor,,NY 11963,United States,+1 (631) 808 3333,,,,,0
+BARNEYS NEW YORK,,77 O'Farrell Street,,San Francisco,,CA 94108,United States,+1 (415) 268 3500,,,,,0
+BARNEYS NEW YORK,,Fashion Square 4500 N. Scottsdale Road,,Scottsdale,,AZ 85251,United States,+1 (602) 337 6000,,,,,0
+BARNEYS NEW YORK,,Pacific Place 600 Pine Street,,Seattle,,WA 98101,United States,+1 (206) 622 6300,,,,,0
