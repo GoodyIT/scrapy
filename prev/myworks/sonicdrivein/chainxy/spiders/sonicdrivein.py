@@ -16,12 +16,11 @@ import geocoder
 class Sonicdrivein(scrapy.Spider):
     name = "sonicdrivein"
 
-    domain = "http://en.store.dior.com/"
+    domain = "https://locations.sonicdrivein.com/"
     start_urls = ["https://locations.sonicdrivein.com/index.html"]
     directory_url = "https://locations.sonicdrivein.com/%s"
 
     def __init__(self):
-
         self.store_numbers = []
 
     # calculate number of pages
@@ -33,8 +32,6 @@ class Sonicdrivein(scrapy.Spider):
             for directory in directory_list:
                 link = self.directory_url % directory.xpath('./a[@class="c-directory-list-content-item-link"]/@href').extract_first()
                 item_count = int(directory.xpath('./span/text()').extract_first())
-
-
 
                 if item_count == 1:
                     request = scrapy.Request(url=self.remove_prefix(link, '../'), callback=self.parse_store)
@@ -53,7 +50,6 @@ class Sonicdrivein(scrapy.Spider):
      
     # pare store detail page
     def parse_store(self, response):
-        pdb.set_trace()
         left_content = response.xpath('//div[@class="nap-content-col-white-left"]')
 
         item = ChainItem();
@@ -80,9 +76,9 @@ class Sonicdrivein(scrapy.Spider):
         hour_list = []
         hours = response.xpath('//div[@class="nap-content-col-white-right"]/div[@class="nap-content-hours hidden-xs"]/div[@class="c-location-hours"]/div/table/tbody/tr')
         for hour in hours:
-            day = hour.xpath('./td[@class="c-location-hours-details-row-day"]/text()').extract_first()
+            day = hour.xpath('./td[@class="c-location-hours-details-row-day"]/text()').extract_first().strip()
             time = hour.xpath('./td[@class="c-location-hours-details-row-intervals"]/div')
-            hour_list.append(day + ' ' + time.xpath('./span[@class="c-location-hours-details-row-intervals-instance-open"]/text()').extract_first() + ' - ' + time.xpath('./span[@class="c-location-hours-details-row-intervals-instance-close"]/text()').extract_first())
+            hour_list.append(day + ' ' + time.xpath('./span[@class="c-location-hours-details-row-intervals-instance-open"]/text()').extract_first().strip() + ' - ' + time.xpath('./span[@class="c-location-hours-details-row-intervals-instance-close"]/text()').extract_first().strip())
 
         item['store_hours'] = "; ".join(hour_list)
         

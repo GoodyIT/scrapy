@@ -1,0 +1,17 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Boca Raton,,3350 North Airport Road,,Boca Raton,FL,33431,United States,5617505200,26.37935900,-80.11051500,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Cutler Bay,,18750 South Dixie Highway,,Cutler Bay,FL,33157,United States,3052553538,25.59309300,-80.35769900,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Fort Lauderdale,,3501 North Federal Highway,,Oakland Park,FL,33308,United States,9545647700,26.17161700,-80.11981300,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Fort Myers,,9951 Interstate Commerce Drive,,Fort Myers,FL,33913,United States,2395618489,26.49551500,-81.79091700,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Hialeah,,5250 West 20th Avenue,,Hialeah,FL,33016,United States,3058252065,25.87033200,-80.32421100,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Lady Lake,,1070 Bichara Blvd,,Lady Lake,FL,32159,United States,3527508044,28.93884090,-81.94667820,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Miami,,9255 South Dixie Highway,,Miami,FL,33156,United States,3056621076,25.68344600,-80.31286100,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Naples,,14250 Tamiami Trail North Suite 2,,Naples,FL,34110,United States,2395131535,26.30033400,-81.80209400,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+North Miami Beach,,1500 NW 167 Street,,North Miami Beach,FL,33169,United States,3056289714,25.92597700,-80.22548700,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Outlet,,6701 North Hiatus Road,,Tamarac,FL,33321,United States,9547183300,26.20323100,-80.29345700,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Pembroke Pines,,11249 Pines Boulevard,,Pembroke Pines,FL,33026,United States,9544316220,26.00955100,-80.29722600,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Sawgrass,,6701 North Hiatus Road,,Tamarac,FL,33321,United States,9547183300,26.20323100,-80.29345700,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+Stuart,,2655 NW Federal Highway,,Stuart,FL,34994,United States,7726924322,27.23831400,-80.26793000,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+The Mall at Wellington Green,,10312 West Forest Hill Blvd,,Wellington,FL,33414,United States,5617934848,26.64603900,-80.20650300,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0
+The Villages,,1110 Canal Street,,The Villages,FL,32162,United States,3527512980,28.90709660,-81.97468510,Mon-Sat:10am - 9pm; Sun:12pm - 5pm; ,,0
+West Palm Beach,,2121 Palm Beach Lakes Boulevard,,West Palm Beach,FL,33409,United States,5616843560,26.71327300,-80.09527300,Mon-Sat:10am - 9pm; Sun:11am - 6pm; ,,0

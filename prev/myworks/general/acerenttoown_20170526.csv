@@ -1,0 +1,22 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Atlantic,46,1512 E 7th St Ste 1,,Atlantic,IA,50022,United States,712.254.9181,41.4038709,-94.9928468,,,0
+Beatrice,41,3304 N. 6th Street,,Beatrice,NE,68310,United States,402.228.6500,40.3002829,-96.7467559,,,0
+Bellevue,26,516 Galvin Rd S,,Bellevue,NE,68005,United States,402.292.9000,41.1552842,-95.919554,,,0
+Columbus,37,1910 23rd St,,Columbus,NE,68601,United States,402.562.6444,41.4385408,-97.3507558,,,0
+Council Bluffs,31,3401 W Broadway,,Council Bluffs,IA,51501,United States,712-322-5300,41.261681,-95.8997569,,,0
+"Denison, Iowa",49,1420 4th Avenue South,,Denison,IA,51442,United States,712.267.8400,42.0123931,-95.3529659,,,0
+Fremont,33,1841 E 23rd Ave S,,Fremont,NE,68025,United States,402.941.1177,41.451027,-96.473783,,,0
+Grand Island,28,1201 S Locust St,,Grand Island,NE,68801,United States,308.389.4400,40.9087967,-98.3386853,,,0
+Hastings,34,1049 West 2nd St,,Hastings,NE,68901,United States,402.462.4700,40.5852312,-98.3945886,,,0
+Lexington,47,103 E 8th Street,,Lexington,NE,68850,United States,(308) 746-7377,40.7809338,-99.7414825,,,0
+Lincoln-Belmont,27,"2441 N 11th St, Ste 8",,Lincoln,NE,68521,United States,402.438.2233,40.8389829,-96.7075137,,,0
+Lincoln-Holdrege,29,"5501 Holdrege St, Ste 2",,Lincoln,NE,68504,United States,402.466.2323,40.827712,-96.644705,,,0
+Lincoln-O Street,24,2429 O Street,,Lincoln,NE,68510,United States,402.474.3444,40.8132228,-96.6859059,,,0
+Nebraska City,35,1728 South 11th St,,Nebraska City,NE,68410,United States,402.873.5111,40.6609481,-95.8592249,,,0
+Norfolk ,44,"1310 W. Norfolk Ave, Ste A",,Norfolk,NE,68701,United States,402.379.3222,42.0330421,-97.4280974,,,0
+Omaha - Empire Park,43,5070 S. 108th Street,,Omaha,NE,68137,United States,402.898.1010,41.2067031,-96.0815019,,,0
+Omaha-72nd Street,38,2044 N 72nd St,,Omaha,NE,68134,United States,402.393.1500,41.2793722,-96.024417,,,0
+Omaha-L Street,39,4650 L Street,,Omaha,NE,68117,United States,402.898.5800,41.2128331,-95.9838866,,,0
+Omaha-Saddle Creek,25,616 S Saddle Creek Rd,,Omaha,NE,68106,United States,402.558.2244,41.253943,-95.984382,,,0
+Sioux City,36,1428 Hamilton Blvd,,Sioux City,IA,51103,United States,712.224.2227,42.5057016,-96.4157983,,,0
+York,42,700 S. Lincoln Avenue,,York,NE,68467,United States,402.362.0200,40.8593384,-97.5930247,,,0

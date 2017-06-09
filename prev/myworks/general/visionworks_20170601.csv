@@ -1,0 +1,749 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Visionworks,,"3560 Route 611, Ste 115",The Shoppes at Crossroads,Bartonsville,PA,18321,United States,(570)  421-2785,41.012,-75.291,,,0
+Visionworks,,"3714 Easton Nazareth Hwy, Unit 4",Northhampton Crossings,Easton,PA,18045,United States,(610)  253-1626,40.716,-75.286,,,0
+Visionworks Doctors of Optometry,,157 Route 10 E,Roxbury,Succasunna,NJ,07876,United States,(973)  927-7717,40.867,-74.639,,,0
+Visionworks,,"793 Iyannough Rd, N101F",Cape Cod Mall,Hyannis,MA,02601,United States,(508)  771-6983,41.665,-70.288,,,0
+Visionworks Doctors of Optometry,,"2100 Hamilton Place Blvd, #167",Hamilton Place Mall,Chattanooga,TN,37421,United States,(423)  892-7166,35.035,-85.158,,,0
+Empire Visionworks,,"1930 South Rd, #105",Consumer Plaza,Poughkeepsie,NY,12601,United States,(845)  298-3200,41.621023,-73.91662,,,0
+Empire Visionworks,,9 Boice's Lane,,Kingston,NY,12401,United States,(845)  336-3937,41.963,-73.99,,,0
+Visionworks Doctors of Optometry,,"2007 S Highway 27, Ste A",Somerset Pad,Somerset,KY,42501,United States,(606)  678-9953,37.073895,-84.61782,,,0
+Visionworks,,1114-C Emmet St,Barracks Road Shopping Center,Charlottesville,VA,22903,United States,(434)  293-3225,38.052,-78.5,,,0
+Visionworks,,"1971 Hwy 287 N, Ste 105",Mansfield Town Center East,Mansfield,TX,76063,United States,(682)  518-7565,32.599,-97.148,,,0
+Visionworks,,"130 NW John Jones Dr, Ste 216",South Towne Crossing,Burleson,TX,76028,United States,(817)  295-4785,32.542,-97.321,,,0
+Visionworks,,"305 W FM 1382, Bldg 500, Ste 500",Uptown Village at Cedar Hill,Cedar Hill,TX,75104,United States,(972)  293-0373,32.602,-96.943,,,0
+Visionworks,,"3811 S Cooper St, #1210",The Parks at Arlington,Arlington,TX,76015,United States,(817)  465-3934,32.679,-97.13,,,0
+Visionworks,,"4800 S Hulen St, #146",Hulen Mall,Fort Worth,TX,76132,United States,(817)  292-3977,32.679,-97.398,,,0
+Visionworks,,1550 Arbor Place Mall,Arbor Place,Douglasville,GA,30135,United States,(770)  852-1002,33.728,-84.746,,,0
+Visionworks,,"17814 Spring Cypress Rd, Ste 105",Old Town Cypress Village,Cypress,TX,77429,United States,(281)  758-0030,29.971,-95.697,,,0
+Visionworks,,"14002 FM 2920, Ste B",Tomball Town Center,Tomball,TX,77377,United States,(281)  255-3400,30.09,-95.633,,,0
+Visionworks,,"6887 Hwy 6 N, Ste 700",Copperwood Village,Houston,TX,77084,United States,(281)  856-2198,29.877,-95.646,,,0
+Visionworks,,231 S Fry Rd,Green Tree,Katy,TX,77450,United States,(281)  492-6400,29.782,-95.718,,,0
+Visionworks,,7540 FM 1960 W,Commons at Willowbrook,Houston,TX,77070,United States,(281)  894-4300,29.965,-95.542,,,0
+Visionworks,,1678 Willowbrook Mall,Willowbrook Mall,Houston,TX,77070,United States,(281)  894-6655,29.959,-95.539,,,0
+Visionworks,,"6501 S Fry Rd, Ste 100",Grand Lakes Marketplace,Katy,TX,77494,United States,(281)  392-4040,29.713,-95.77,,,0
+Visionworks,,"197 Westbank Expressway, Ste 1540",Oakwood Mall,Gretna,LA,70056,United States,(504)  376-1818,29.922,-90.04,,,0
+Visionworks,,"1801 Manhattan Blvd, Ste U",Manhattan Place,Harvey,LA,70058,United States,(504)  367-3930,29.889,-90.057,,,0
+Visionworks,,3501 Severn Ave,Pontchartrain Place,Metairie,LA,70002,United States,(504)  455-6767,30.013,-90.159,,,0
+Visionworks,,5072 Jonestown Rd,Colonial Commons,Harrisburg,PA,17112,United States,(717)  541-0961,40.274,-76.884,,,0
+Visionworks,,1194 Mae Street,Hershey Square,Hummelstown,PA,17036,United States,(717)  566-6374,40.2712317,-76.6862686,,,0
+Visionworks,,3401 Hartzdale Dr,Capitol City Plaza,Camp Hill,PA,17011,United States,(717)  975-0501,40.225,-76.925,,,0
+Visionworks,,"6416 Carlisle Pike, Ste 1700",Silver Spring Square,Mechanicsburg,PA,17050,United States,(717)  791-0103,40.248,-77.01,,,0
+Visionworks,,"1207 Carlisle Rd, Ste 880",Delco Plaza,York,PA,17404,United States,(717)  848-3420,39.965,-76.77,,,0
+Empire Visionworks,,3843 Union Rd,Tops Plaza,Cheektowaga,NY,14225,United States,(716)  683-6582,42.92,-78.759,,,0
+Empire Visionworks,,8336 Lewiston Rd,BJ's Plaza,Batavia,NY,14020,United States,(585)  344-4000,43.009,-78.209,,,0
+Empire Visionworks,,3540 McKinley Pkwy,McKinley Milestrip Plaza,Hamburg,NY,14219,United States,(716)  826-1673,42.792,-78.827,,,0
+Empire Visionworks,,1308 Niagara Falls Blvd,Formerly the Maple Rd Amherst location,Tonawanda,NY,14150,United States,(716)  831-8050,42.99,-78.823,,,0
+Empire Visionworks,,"2680 Delaware Ave, Ste C",Delaware Consumer Square,Buffalo,NY,14216,United States,(716)  873-1241,42.957,-78.87,,,0
+Visionworks Doctors of Optometry,,550 Old Post Rd,Post Plaza,Edison,NJ,08817,United States,(732)  287-6600,40.515,-74.373,,,0
+Davis Visionworks,,"205 Bricktown Way, Ste D",Bricktown II,Staten Island,NY,10309,United States,(347)  562-4634,40.5296229,-74.23023220000005,,,0
+Visionworks Doctors of Optometry,,873 St. Georges Ave,St Georges Crossing,Woodbridge,NJ,07095,United States,(732)  750-3900,40.568,-74.29,,,0
+Visionworks Doctors of Optometry,,475 Nassau Park Blvd,Nassau Park Pavilion,West Windsor Township,NJ,08540,United States,(609)  243-8902,40.303,-74.681,,,0
+Visionworks Doctors of Optometry,,"1255 Raritan Rd, Unit 740",Clark Commons,Clark,NJ,07066,United States,(732)  388-4035,40.63,-74.303,,,0
+Visionworks Doctors of Optometry,,280 Shrewsbury Plaza,Shrewsbury Plaza,Shrewsbury,NJ,07702,United States,(732)  460-0916,40.315,-74.066,,,0
+Davis Visionworks,,"2655 Richmond Ave, Ste 1140",Staten Island Mall,Staten Island,NY,10314,United States,(718)  761-5607,40.5814994,-74.1650185,,,0
+Visionworks Doctors of Optometry,,"4733 Highway 9, Ste 100",Howell Commons,Howell,NJ,07731,United States,(732)  901-4158,40.133,-74.224,,,0
+Visionworks Doctors of Optometry,,"120 Center Island, Route 22",,Springfield,NJ,07081,United States,(973)  379-5063,40.686,-74.322,,,0
+Visionworks Doctors of Optometry,,1400 Parkway Ave,Birmingham Plaza,Ewing,NJ,08628,United States,(609)  771-0088,40.266,-74.806,,,0
+Visionworks Doctors of Optometry,,"2200 Route 66, Ste 5",Shop Rite Plaza,Neptune,NJ,07753,United States,(732)  775-0013,40.227,-74.042,,,0
+Visionworks,,"310 Daniel Webster Hwy, A201A",Pheasant Lane Mall,Nashua,NH,03060,United States,(603)  888-0853,42.703,-71.441,,,0
+Visionworks,,1031 Charleston Town Center Mall,Charleston Town Center Mall,Charleston,WV,25389,United States,(304)  345-1233,38.354,-81.638,,,0
+Visionworks Doctors of Optometry,,"1100 S Hayes St, 3rd Floor",Pentagon City Mall,Arlington,VA,22202,United States,(703)  415-5544,38.864,-77.059,,,0
+Visionworks,,1775 K St NW,"K Street, NW",Washington,DC,20006,United States,(202)  463-6364,38.901,-77.04,,,0
+Visionworks,,1335 G St NW Suite 100A,"G Street, NW",Washington,DC,20005,United States,(202)  783-7171,38.908,-77.031,,,0
+Visionworks Doctors of Optometry,,3556-A S. Jefferson St,Bailey's Crossroads,Bailey s Crossroads,VA,22041,United States,(703)  379-1100,38.847842,-77.12072,,,0
+Visionworks,,"4301 Wisconsin Ave, NW",Tenley Circle,Washington,DC,20016,United States,(202)  237-8500,38.939,-77.097,,,0
+Visionworks Doctors of Optometry,,"7702 Richmond Hwy, Ste H",Mount Vernon Plaza,Alexandria,VA,22306,United States,(703)  717-0737,38.7495692,-77.0852257,,,0
+Visionworks,,8551 Fenton St,Fenton Building,Silver Spring,MD,20910,United States,(301)  585-1080,38.998,-77.026,,,0
+Visionworks,,"2830 Campus Way N, Ste 628",Woodmore Towne Centre,Lanham,MD,20706,United States,(301)  322-1037,38.925,-76.846,,,0
+Visionworks Doctors of Optometry,,6535 Springfield Mall,Springfield Town Center,Springfield,VA,22150,United States,(703)  971-4739,38.775,-77.175,,,0
+Visionworks Doctors of Optometry,,8359 Leesburg Pike,Tyson's Corner,Vienna,VA,22182,United States,(703)  442-9295,38.92,-77.236,,,0
+Visionworks,,"11160 Veirs Mill Rd, P203A",Westfield Wheaton Mall,Wheaton,MD,20902,United States,(301)  933-3957,39.045,-77.039,,,0
+Visionworks Doctors of Optometry,,8424 Old Keene Mill Rd,Old Keene Mill Shopping Center,Springfield,VA,22152,United States,(703)  569-6611,38.779,-77.236,,,0
+Visionworks,,"15902 Crain Hwy SE, Ste F",Brandywine Crossing,Brandywine,MD,20613,United States,(301)  782-4907,38.697,-76.848,,,0
+Visionworks,,11802-B Rockville Pike,Mid-Pike Plaza,Rockville,MD,20852,United States,(301)  770-7780,39.05,-77.115,,,0
+Visionworks,,15431 Emerald Way,Bowie Town Center,Bowie,MD,20716,United States,(301)  805-6132,38.944,-76.726,,,0
+Visionworks,,11110 Mall Circle (P.O. Box 6035),St Charles Towne Center,Waldorf,MD,20603,United States,(301)  705-8383,38.617,-76.926,,,0
+Visionworks Doctors of Optometry,,11130-L S Lakes Dr,South Lakes Village Center,Reston,VA,20191,United States,(703)  476-0077,38.941,-77.329,,,0
+Visionworks,,"1003 Fairlawn Ave, #24A",Laurel Center,Laurel,MD,20707,United States,(301)  776-1818,39.097,-76.855,,,0
+Visionworks Doctors of Optometry,,"11903-L Lee Jackson Memorial Hwy, #G133",Fair Oaks Mall,Fairfax,VA,22033,United States,(703)  218-8036,38.874,-77.39,,,0
+Visionworks Doctors of Optometry,,"2700 Potomac Mills Circle, #105",Potomac Mills,Prince William,VA,22192,United States,(703)  494-0660,38.643,-77.295,,,0
+Visionworks Doctors of Optometry,,"12950 Highland Crossing Dr, Ste A",Woodland Park Crossing,Herndon,VA,20171,United States,(703)  793-6124,38.9495444,-77.3945223,,,0
+Visionworks,,271 Kentlands Blvd,Kentlands Square,Gaithersburg,MD,20878,United States,(301)  590-9191,39.123,-77.236,,,0
+Visionworks,,631 N Frederick Ave,N. Frederick Avenue,Gaithersburg,MD,20879,United States,(301)  330-4972,39.154,-77.214,,,0
+Visionworks,,"1402 S Main Chapel Way, Ste 114",Village South At Waugh Chapel,Gambrills,MD,21054,United States,(410)  721-5041,39.067,-76.666,,,0
+Visionworks Doctors of Optometry,,"21031 Triple Seven Rd, Ste 170",Borders Plaza,Sterling,VA,20165,United States,(703)  444-1462,39.035,-77.407,,,0
+Visionworks,,"30020 SW Boones Ferry Rd, Ste 10",Old Town Square,Wilsonville,OR,97070,United States,(503)  570-0963,45.302284,-122.772589,,,0
+Visionworks,,"9499 SW Washington Sq Rd, #A1",Washington Square Mall,Tigard,OR,97223,United States,(503)  968-5437,45.447,-122.782,,,0
+Visionworks,,"3205 SW Cedar Hills Blvd, Ste 9",Cedar Hills Crossing,Beaverton,OR,97005,United States,(503)  646-7995,45.497,-122.809,,,0
+Visionworks,,"12000 SE 82nd Ave, #G1-11/G1-13",Clackamas Town Center,Portland,OR,97086,United States,(503)  659-5947,45.437,-122.576,,,0
+Visionworks,,831 Lancaster Dr NE,Lancaster Mall,Salem,OR,97301,United States,(503)  399-7556,44.942,-122.987,,,0
+Visionworks,,18070 NW Evergreen Pwy,Tanasbourne Town Center,Beaverton,OR,97006,United States,(503)  617-0963,45.537,-122.864,,,0
+Visionworks,,1006 Lloyd Center,Lloyd Center,Portland,OR,97232,United States,(503)  282-9752,45.532,-122.655,,,0
+Visionworks,,1500 Harvey Rd,Post Oak Mall,College Station,TX,77840,United States,(979)  693-8680,30.624,-96.304,,,0
+Davis Visionworks,,"650 Lee Boulevard, Ste D01A",Jefferson Valley Mall,Yorktown Heights,NY,10598,United States,(914)  962-0379,41.328664,-73.807805,,,0
+Davis Visionworks,,"130 N Route 303, Ste 6",Palisades Plaza,West Nyack,NY,10994,United States,(845)  348-3236,41.098,-73.951,,,0
+Visionworks Doctors of Optometry,,3910 Hinkleville Rd,Hinkleville Rd,Paducah,KY,42001,United States,(270)  443-2090,37.08,-88.675,,,0
+Visionworks,,1605 S 1st St,Kandi Mall,Willmar,MN,56201,United States,(320)  235-9060,45.099,-95.043,,,0
+Empire Visionworks,,4551 Commercial Dr,,New Hartford,NY,13413,United States,(315)  768-1000,43.085,-75.317,,,0
+Empire Visionworks,,50 Auert Ave,North Utica Shopping Plaza,Utica,NY,13502,United States,(315)  724-3000,43.11,-75.237,,,0
+Empire Visionworks,,1018 Oneida Plaza Dr,Oneida Plaza,Oneida,NY,13421,United States,(315)  366-1000,43.078,-75.689,,,0
+Empire Visionworks,,5631 Route 12,Chenango Towne Center,Norwich,NY,13815,United States,(607)  336-2007,42.537,-75.524,,,0
+Visionworks,,17277 Chesterfield Airport Rd,Boone's Crossing,Chesterfield,MO,63005,United States,(636)  730-3119,38.669,-90.598,,,0
+Visionworks,,"1600 Mid Rivers Mall, Ste 2032",Mid Rivers Mall,St Peters,MO,63376,United States,(636)  279-1638,38.796,-90.616,,,0
+Visionworks,,80 West County Center,West County Center,St Louis,MO,63131,United States,(314)  909-4814,38.600829,-90.446849,,,0
+Visionworks,,12597 Olive Blvd,Heritage Plaza,Creve Coeur,MO,63141,United States,(314)  628-9366,38.67631,-90.464319,,,0
+Visionworks Doctors of Optometry,,"1908 Southlake Mall, Unit AL104",Westfield Southlake,Merrillville,IN,46410,United States,(219)  791-0951,41.47,-87.304,,,0
+Visionworks,,"10140 Indianapolis Blvd, Ste C",Highland Meijer Plaza,Highland,IN,46322,United States,(219)  924-3919,41.53,-87.471,,,0
+Visionworks Doctors of Optometry,,"395 Mount Hope, Ste 400",Rockaway Plaza,Rockaway,NJ,07866,United States,(973)  361-0329,40.917,-74.534,,,0
+Visionworks Doctors of Optometry,,30 Lafayette Ave,Lafayette Avenue,Morristown,NJ,07960,United States,(973)  267-9800,40.798,-74.473,,,0
+Visionworks Doctors of Optometry,,500 Route 23 N,Route 23 North,Pompton Plains,NJ,07444,United States,(973)  616-7171,40.967,-74.285,,,0
+Visionworks Doctors of Optometry,,255 Route 46 W,Route 46 West,Totowa,NJ,07512,United States,(973)  785-8000,40.894,-74.229,,,0
+Empire Visionworks,,758 Hoosick Rd,WalMart Plaza,Troy,NY,12180,United States,(518)  272-3300,42.73,-73.66,,,0
+Empire Visionworks,,622 Columbia Turnpike,,East Greenbush,NY,12061,United States,(518)  477-8700,42.591,-73.702,,,0
+Empire Visionworks,,"560 Troy-Schenectady Rd, Route 7",,Latham,NY,12110,United States,(518)  783-0090,42.751,-73.765,,,0
+Empire Visionworks,,1009 Central Ave,,Albany,NY,12206,United States,(518)  489-8575,42.685,-73.796,,,0
+Empire Visionworks,,1365 New Scotland Rd,Price Chopper Plaza,Slingerlands,NY,12159,United States,(518)  439-7600,42.639,-73.858,,,0
+Empire Visionworks,,"2080 Western Ave, Ste 140",20 Mall,Guilderland,NY,12084,United States,(518)  862-4280,42.7,-73.907,,,0
+Empire Visionworks,,"54 The Crossings, Ste X & Y",The Crossings,Clifton Park,NY,12065,United States,(518)  373-2200,42.867,-73.772,,,0
+Empire Visionworks,,418B Balltown Rd,Niskayuna,Schenectady,NY,12304,United States,(518)  346-6290,42.783,-73.893,,,0
+Empire Visionworks,,2330 Watt St,Crosstown Plaza,Schenectady,NY,12304,United States,(518)  382-0661,42.784,-73.915,,,0
+Empire Visionworks,,"10 Glenridge Rd, Store 1",Glenville @ Target Center,Glenville,NY,12302,United States,(518)  399-3562,42.84,-73.937,,,0
+Visionworks,,"4465 Poplar Ave, #146",Oak Court Mall,Memphis,TN,38117,United States,(901)  683-1689,35.117,-89.913,,,0
+Visionworks Doctors of Optometry,,338 Goodman Rd W,Southcrest Market,Southaven,MS,38671,United States,(662)  349-1139,34.963,-89.994,,,0
+Visionworks Doctors of Optometry,,"5849 Poplar Ave, Ste 109",Ridgeway Trace,Memphis,TN,38119,United States,(901)  767-2309,35.103,-89.865,,,0
+Visionworks,,"7706 Winchester Rd, Ste 105",Centennial Commons,Memphis,TN,38125,United States,(901)  756-7192,35.05,-89.807,,,0
+Visionworks,,2825 N Germantown Parkway Ste.103,Wolfcreek,Memphis,TN,38133,United States,(901)  381-1522,35.20237,-89.7929143,,,0
+Visionworks,,"19 Colonnade Way, Ste 105",The Colonnade at State College,State College,PA,16803,United States,(814)  867-7012,40.81,-77.906,,,0
+Davis Visionworks,,313 Merrick Rd,Rockville Centre Plaza,Rockville Centre,NY,11570,United States,(516)  536-1031,40.667,-73.641,,,0
+Davis Visionworks,,600 Old Country Rd,,Garden City,NY,11530,United States,(516)  745-6565,40.743,-73.616,,,0
+Davis Visionworks,,253 01 Rockaway Blvd,Rosedale,Queens,NY,11422,United States,(516)  569-2750,40.637,-73.738,,,0
+Davis Visionworks,,254-69 Horace Harding Expressway,Little Neck Plaza,Little Neck,NY,11362,United States,(718)  225-0362,40.765,-73.725,,,0
+Davis Visionworks,,3244 Hempstead Turnpike,Levittown Plaza,Levittown,NY,11756,United States,(516)  520-0286,40.723,-73.518,,,0
+Davis Visionworks,,85-11 126th St,,Kew Gardens,NY,11415,United States,(718)  849-7773,40.704,-73.825,,,0
+Davis Visionworks,,4930 Merrick Rd,Southgate Shopping Center,Massapequa Park,NY,11762,United States,(516)  799-6500,40.68,-73.455,,,0
+Visionworks,,"133 40 79th Street, Ste D",Linden Center,Queens,NY,11414,United States,(718)  296-1983,40.672,-73.857,,,0
+Davis Visionworks,,1004 Old Country Rd,,Plainview,NY,11803,United States,(516)  681-1161,40.776,-73.474,,,0
+Davis Visionworks,,91 41 Queens Blvd,,Elmhurst,NY,11373,United States,(718)  458-2631,40.733,-73.869,,,0
+Davis Visionworks,,"494 Gateway Dr, Unit K1 2",Gateway Center II,Brooklyn,NY,11239,United States,(718)  277-3120,40.65,-73.87,,,0
+Visionworks,,222 Airport Plaza Blvd,Airport Plaza,Farmingdale,NY,11735,United States,(631)  694-5406,40.738,-73.418,,,0
+Visionworks,,37 52 82nd Street,Jackson Heights,Jackson Heights,NY,11372,United States,(718)  899-0437,40.748,-73.884,,,0
+Davis Visionworks,,30 76 Steinway,Steinway St in Astoria,Queens,NY,11103,United States,(718)  204-4764,40.762,-73.917,,,0
+Davis Visionworks,,1445 Metropolitan Ave,Parkchester,Bronx,NY,10462,United States,(718)  931-1369,40.836,-73.861,,,0
+Davis Visionworks,,"350 Route 110, Unit 9",Huntington Shopping Center,Huntington Station,NY,11746,United States,(631)  549-0272,40.818,-73.409,,,0
+Davis Visionworks,,703 Montauk Hwy,Great South Bay,West Babylon,NY,11704,United States,(631)  321-1606,40.686,-73.345,,,0
+Davis Visionworks,,2166 Nostrand Ave,Flatbush Junction,Brooklyn,NY,11210,United States,(718)  434-0826,40.632,-73.948,,,0
+Visionworks,,875 Pelham Parkway,Pelham Post Road Plaza,Pelham Manor,NY,10803,United States,(914)  576-0750,40.893,-73.821,,,0
+Davis Visionworks,,1411 Kings Hwy,,Brooklyn,NY,11229,United States,(718)  376-1534,40.609017,-73.958804,,,0
+Davis Visionworks,,1498 Deer Park Ave,Deer Cross Commons,North Babylon,NY,11703,United States,(631)  242-6730,40.749,-73.324,,,0
+Visionworks,,5520 Broadway,Kingsbridge,Bronx,NY,10463,United States,(718)  884-2408,40.877,-73.907,,,0
+Davis Visionworks,,2133 86th St,Bensonhurst,Brooklyn,NY,11214,United States,(718)  449-1525,40.603,-73.995,,,0
+Visionworks,,455 86th St,Bay Ridge,Brooklyn,NY,11209,United States,(718)  238-3296,40.622,-74.027,,,0
+Davis Visionworks,,301 Clay Pitts Rd,,East Northport,NY,11731,United States,(631)  754-2020,40.877,-73.325,,,0
+Davis Visionworks,,"1701 Sunrise Hwy, Unit FSU4",Near South Shore Mall,Bay Shore,NY,11706,United States,(631)  665-6309,40.736,-73.241,,,0
+Davis Visionworks,,2588 Central Park Ave,Central Plaza Shopping Center,Yonkers,NY,10710,United States,(914)  337-2171,40.986,-73.825,,,0
+Visionworks Doctors of Optometry,,802 Bayonne Crossing Way,Bayonne Crossing,Bayonne,NJ,07002,United States,(201)  858-5615,40.659,-74.106,,,0
+Visionworks,,38 Mamaroneck Avenue,Mamaroneck Avenue,White Plains,NY,10601,United States,(914)  948-4586,41.032,-73.767,,,0
+Davis Visionworks,,536 Route 111,Hauppauge Plaza,Hauppauge,NY,11788,United States,(631)  265-4700,40.815,-73.212,,,0
+Davis Visionworks,,201 S Research Pl,Central Islip Town Center,Central Islip,NY,11722,United States,(631)  582-4719,40.788,-73.194,,,0
+Visionworks,,"1805 Epps Bridge Parkway, Ste 105",Athens Place,Athens,GA,30606,United States,(706)  352-2282,33.916599,-83.444964,,,0
+Visionworks Doctors of Optometry,,3042 William St,William Street,Cape Girardeau,MO,63701,United States,(573)  339-2008,37.301,-89.571,,,0
+Visionworks Doctors of Optometry,,"2115 Lantern Ridge Dr, Ste U500",Richmond Centre,Richmond,KY,40475,United States,(859)  625-1004,37.737,-84.328,,,0
+Visionworks,,"500 Mall Rd, Unit #150",Huntington Mall,Barboursville,WV,25504,United States,(304)  733-3313,38.421,-82.266,,,0
+Visionworks,,"169 Jennifer Rd, Ste D",Jennifer Square,Annapolis,MD,21401,United States,(410)  224-0021,38.987,-76.543,,,0
+Visionworks,,7214 Green Bay Rd,Southport Plaza,Kenosha,WI,53142,United States,(262)  694-5464,42.569,-87.887,,,0
+Visionworks,,"6170 W Grand Ave, Ste 375",Gurnee Mills Mall,Gurnee,IL,60031,United States,(847)  855-0134,42.389,-87.957,,,0
+Visionworks,,419 Hawthorn Center,Hawthorn Center,Vernon Hills,IL,60061,United States,(847)  549-0197,42.243,-87.946,,,0
+Visionworks,,1015 S Rand Rd,Deerpath Commons,Lake Zurich,IL,60047,United States,(847)  438-6919,42.181,-88.081,,,0
+Visionworks,,2210 N Richmond Rd,2210N Richmond Rd.,McHenry,IL,60051,United States,(815)  344-2916,42.35967,-88.266502,,,0
+Visionworks,,247 N Pottstown Pike,Brentwood Shoppes,Exton,PA,19341,United States,(610)  594-1737,40.032,-75.631,,,0
+Visionworks,,4891 W Chester Pike,Edgmont Square,Newtown Square,PA,19073,United States,(610)  359-8131,39.975,-75.442,,,0
+Visionworks,,"160 N Gulph Rd, Ste 2007A",King of Prussia Mall,King of Prussia,PA,19406,United States,(610)  265-5940,40.089,-75.393,,,0
+Visionworks,,"550 E Lancaster Ave, Ste C-1",St. David's Square,Radnor,PA,19087,United States,(610)  687-0364,40.04,-75.37,,,0
+Visionworks,,"1810 E Ridge Pike, Ste 100",The Court at Upper Providence,Royersford,PA,19468,United States,(610)  454-0546,40.212,-75.496,,,0
+Visionworks,,3030 Brandywine Pkwy,Brandywine Town Center,Wilmington,DE,19803,United States,(302)  477-2508,39.833,-75.539,,,0
+Visionworks,,264 Upland Square Dr,Upland Square,Pottstown,PA,19464,United States,(610)  705-1890,40.269,-75.655,,,0
+Visionworks,,"1006 Baltimore Pike, Store #N-8",Springfield Square North,Springfield,PA,19064,United States,(610)  544-3828,39.93,-75.33,,,0
+Visionworks,,"116 Township Line Rd, Unit 204",Quarry Center,Havertown,PA,19083,United States,(610)  446-1089,39.966634,-75.301749,,,0
+Visionworks,,6 Conshohocken State Rd,Bala Cynwyd,Bala Cynwyd,PA,19004,United States,(610)  668-1373,40.001411,-75.226806,,,0
+Visionworks,,4345 Kirkwood Suite 200,Kirkwood Plaza,Wilmington,DE,19808,United States,(302)  998-2354,39.727812,-75.652541,,,0
+Visionworks,,7700 Crittenden St,Market Square at Chestnut Hill,Philadelphia,PA,19118,United States,(215)  247-1085,40.072,-75.194,,,0
+Visionworks,,167 Montgomery Mall,Montgomery Mall,North Wales,PA,19454,United States,(215)  361-8549,40.234,-75.244,,,0
+Visionworks,,"5765 NW Hwy, Ste 106",Liberty Plaza,Crystal Lake,IL,60014,United States,(815)  444-0662,42.226,-88.311,,,0
+Visionworks,,1278 Spring Hill Mall,Spring Hill Mall,Carpentersville,IL,60110,United States,(847)  836-0229,42.098,-88.283,,,0
+Visionworks,,"511 E Palatine Rd, Retail Space C",Town & Country Shopping Center,Arlington Heights,IL,60004,United States,(847)  818-9185,42.11,-87.977,,,0
+Visionworks,,2730 N Sutton Rd,Poplar Creek Crossing,Hoffman Estates,IL,60192,United States,(847)  645-0136,42.069,-88.202,,,0
+Visionworks,,1562 E Golf Rd,Woodfield Village Green,Schaumburg,IL,60173,United States,(847)  240-2385,42.051,-88.041,,,0
+Visionworks,,230 Franklin Village Dr,Franklin Village Plaza,Franklin,MA,02038,United States,(508)  528-3911,42.09,-71.425,,,0
+Visionworks,,"70 Worcester Providence Tpke, Ste 507",The Shoppes at Blackstone Valley,Millbury,MA,01527,United States,(508)  865-5196,42.197,-71.776,,,0
+Visionworks,,1875 Mineral Springs Ave,,North Providence,RI,02904,United States,(401)  353-3200,41.861,-71.465,,,0
+Visionworks,,228 Washington Street Ste A100,The Shoppes at Mayfaire,Attleboro,MA,02703,United States,(508)  399-8418,41.923601,-71.356968,,,0
+Visionworks,,1400 Oaklawn Ave,Marshall's Shopping Center,Cranston,RI,02920,United States,(401)  463-6696,41.767,-71.469,,,0
+Visionworks,,"1 Worcester Road, Unit 525",Sea-n-Surf,Framingham,MA,01701,United States,(508)  879-3442,42.3024688,-71.3965676,,,0
+Visionworks,,15 Highland Ave,Home Depot Plaza,Seekonk,MA,02771,United States,(508)  336-4096,41.8,-71.335,,,0
+Visionworks,,968 Norland Avenue,Chambersburg Square ,Chambersburg,PA,17201,United States,(717)  263-7424,39.94,-77.628,,,0
+Visionworks,,6783 Veterans Pkwy Suite 100,Columbus Park Crossing,Columbus,GA,31909,United States,(706)  323-0260,32.546,-84.953,,,0
+Visionworks,,"2350 Lincoln Hwy E, Ste 890",Mill Creek Square,Lancaster,PA,17602,United States,(717)  293-3268,40.025,-76.207,,,0
+Visionworks,,854 Plaza Blvd,Parkview Plaza,Lancaster,PA,17601,United States,(717)  295-3111,40.07,-76.343,,,0
+Visionworks,,656 Bel Air Rd,Harford Mall,Bel Air,MD,21014,United States,(410)  838-1188,39.526,-76.357,,,0
+Visionworks,,14908 Hall Road,Hall Commons,Sterling Heights,MI,48313,United States,(586)  566-6341,42.6271061,-82.97618360000001,,,0
+Visionworks,,"4201 W Division St, #90",Crossroads Center,St Cloud,MN,56301,United States,(320)  259-1131,45.553,-94.21,,,0
+Visionworks Doctors of Optometry,,1255 Broad St,Broad Street,Bloomfield,NJ,07003,United States,(973)  338-7575,40.832844,-74.18028559999999,,,0
+Visionworks Doctors of Optometry,,251 Clifton Ave,Clifton Avenue,Clifton,NJ,07011,United States,(973)  340-2300,40.876,-74.136,,,0
+Visionworks Doctors of Optometry,,501 Route 17 S,Super Gap Mall,Paramus,NJ,07652,United States,(201)  265-9400,40.955,-74.074,,,0
+Visionworks,,2445 Saint Louis Galleria,Saint Louis Galleria,Richmond Heights,MO,63117,United States,(314)  726-9567,38.637,-90.349,,,0
+Visionworks,,"1050 S Kirkwood Rd, Unit C",Kirkwood Commons,Kirkwood,MO,63122,United States,(314)  965-1269,38.565,-90.406,,,0
+Visionworks,,2300 E Lincoln Hwy,Oxford Valley Mall,Langhorne,PA,19047,United States,(215)  750-3760,40.184,-74.881,,,0
+Visionworks,,2240 Street Rd,Bensalem,Bensalem,PA,19020,United States,(215)  639-4045,40.102,-74.949,,,0
+Visionworks Doctors of Optometry,,1040 Nixon Dr,East Gate Square,Mt Laurel,NJ,08054,United States,(856)  778-0936,39.94,-74.964,,,0
+Visionworks Doctors of Optometry,,748C Route 73 S,Willow Ridge Plaza,Evesham Township,NJ,08053,United States,(856)  596-5925,39.87,-74.922,,,0
+Visionworks Doctors of Optometry,,818 Haddonfield Rd,Park East Plaza,Cherry Hill,NJ,08002,United States,(856)  662-2740,39.931,-75.026,,,0
+Visionworks,,"2118 Cottman Ave, #8",Citibank Plaza,Philadelphia,PA,19149,United States,(215)  725-1209,40.049,-75.063,,,0
+Visionworks,,3586 Aramingo Ave,Aramingo,Philadelphia,PA,19134,United States,(215)  535-4264,39.993,-75.099,,,0
+Visionworks Doctors of Optometry,,"2 Route 37 W, G-5",Crossroads Center,Toms River,NJ,08753,United States,(732)  797-0104,39.964,-74.195,,,0
+Visionworks,,6404 O Street,Gateway ,Lincoln,NE,68510,United States,(402)  466-3700,40.814,-96.634,,,0
+Visionworks,,"9623 E Independence Blvd, Building P",Windsor Square,Matthews,NC,28105,United States,(704)  321-7150,35.135,-80.713,,,0
+Visionworks,,"9600 S IH-35, Service Rd SB, Ste S225",South Park Meadows,Austin,TX,78748,United States,(512)  280-3720,30.1588647,-97.7909325,,,0
+Visionworks,,2901 S Capital of Texas Hwy,Barton Creek Square Mall,Austin,TX,78746,United States,(512)  329-0703,30.256,-97.811,,,0
+Visionworks,,12700 Hill Country Blvd,Hill Country Galleria,Austin,TX,78738,United States,(512)  263-2349,30.31,-97.942,,,0
+Visionworks,,1201 Barbara Jordan Blvd Suite 1480,Mueller Regional Center,Austin,TX,78723,United States,(512)  320-1968,30.307,-97.71,,,0
+Visionworks,,"651 Barnes Dr, Ste 200",Stone Creek Crossing Shopping Center,San Marcos,TX,78666,United States,(512)  353-0523,29.847,-97.971,,,0
+Visionworks,,"10515 N Mopac Expressway, NB, Ste 115",The Shops at Arbor Walk,Austin,TX,78759,United States,(512)  345-7260,30.39,-97.732,,,0
+Visionworks,,"11200 Lakeline Dr, #H-5",Lakeline Mall,Cedar Park,TX,78613,United States,(512)  257-0013,30.471,-97.807,,,0
+Visionworks,,"19171 SE Mill Plain Blvd, Ste 101",Columbia Tech Center,Vancouver,WA,98683,United States,(360)  883-8889,45.616,-122.477,,,0
+Visionworks,,"8700 NE Vancouver Mall Dr, Ste 168",Westfield Shopping Town,Vancouver,WA,98662,United States,(360)  253-3663,45.658,-122.583,,,0
+Visionworks,,970 NW Eastman Pkwy,Gresham Town Fair,Gresham,OR,97030,United States,(503)  666-7460,45.504,-122.436,,,0
+Visionworks,,"277 Mundy St, Ste 101",Wilkes-Barre,Wilkes Barre Township,PA,18702,United States,(570)  829-1437,41.243,-75.842,,,0
+Davis Visionworks,,1958-1962 Middle Country Rd,Centereach,Centereach,NY,11720,United States,(631)  467-0524,40.859,-73.079,,,0
+Davis Visionworks,,"33 Research Way, Ste 13",Stony Brook Tech Park,East Setauket,NY,11733,United States,(631)  444-4900,40.93,-73.104,,,0
+Davis Visionworks,,4042 Nesconset Highway,Suffolk Plaza,East Setauket,NY,11733,United States,(631)  476-3583,40.905,-73.072,,,0
+Davis Visionworks,,351 Sunrise Highway,Waverly Plaza,Patchogue,NY,11772,United States,(631)  654-1235,40.778,-73.032,,,0
+Davis Visionworks,,"2799 Route 112, #2A",,Medford,NY,11763,United States,(631)  289-3937,40.827,-72.995,,,0
+Davis Visionworks,,346-58 Route 25A,,Rocky Point,NY,11778,United States,(631)  744-6800,40.945,-72.944,,,0
+Visionworks,,2060 Greengate Centre Circle,Greengate Centre,Greensburg,PA,15601,United States,(724)  834-3172,40.30838,-79.580179,,,0
+Visionworks,,253 Monroeville Mall,Monroeville Mall,Monroeville,PA,15146,United States,(412)  372-3018,40.429299,-79.795546,,,0
+Visionworks,,"240 E Waterfront Dr, Space C",Waterfront Towne Center,Homestead,PA,15120,United States,(412)  462-8198,40.411035,-79.91244,,,0
+Visionworks,,639B Clairton Blvd (Hwy 51),Southland Shopping Center,Pittsburgh,PA,15236,United States,(412)  655-7394,40.33088,-79.943874,,,0
+Visionworks,,100 Viewmont Mall,Viewmont Mall,Scranton,PA,18508,United States,(570)  344-2786,41.461,-75.657,,,0
+Visionworks,,"1002 Logan Blvd, Ste 112",Logan Plank Crossing,Altoona,PA,16602,United States,(814)  946-5292,40.473656,-78.403959,,,0
+Visionworks,,326 Town Center Drive,Richland Town Center,Johnstown,PA,15904,United States,(814)  269-2162,40.2777433,-78.84588559999997,,,0
+Visionworks,,12244 West Broad St,West Broad Marketplace,Richmond,VA,23233,United States,(804)  364-6045,37.660595,-77.638325,,,0
+Visionworks,,1630 N State Route 50,Bradley,Bourbonnais,IL,60914,United States,(815)  929-0120,41.175,-87.851,,,0
+Visionworks,,7208 W 191st St,Brookside Marketplace,Tinley Park,IL,60487,United States,(815)  464-0668,41.544,-87.793,,,0
+Visionworks,,17723 S Halsted St,Homewood Square,Homewood,IL,60430,United States,(708)  799-5016,41.567929,-87.636306,,,0
+Visionworks,,"1850 Adams, #112",River Hills Mall,Mankato,MN,56001,United States,(507)  387-6358,44.173,-93.955,,,0
+Visionworks,,2263 Michigan Ave,Shoppes at Water Tower Place,Arnold,MO,63010,United States,(636)  287-1459,38.438,-90.374,,,0
+Visionworks,,34 S County Center Way,South County Mall,St Louis,MO,63129,United States,(314)  894-1935,38.504,-90.328,,,0
+Visionworks,,2424 US Hwy 6 & 50,Mesa Mall,Grand Junction,CO,81505,United States,(970)  257-1427,39.113,-108.645,,,0
+Visionworks,,"239 Golf Mill Center, Ste 255",Golf Mill Shopping Center,Niles,IL,60714,United States,(847)  297-2286,42.049593,-87.837385,,,0
+Visionworks,,"3333 W Touhy Ave, Ste D01D",Lincolnwood Town Center,Lincolnwood,IL,60712,United States,(847)  673-3902,42.011,-87.715,,,0
+Visionworks,,4100 N Cicero,Six Corners,Chicago,IL,60641,United States,(773)  427-9378,41.955,-87.748,,,0
+Visionworks,,4122 North Harlem Ave,Harlem Irving Plaza,Norridge,IL,60706,United States,(708)  456-1910,41.954,-87.807,,,0
+Visionworks,,2635 N Elston,Logan & Elston ,Chicago,IL,60647,United States,(773)  276-1269,41.922,-87.702,,,0
+Visionworks,,2701 N Clark,Lincoln Park,Chicago,IL,60614,United States,(773)  935-3762,41.921,-87.653,,,0
+Visionworks,,"120 S Mannheim Rd, H101",Hillside Town Center,Hillside,IL,60162,United States,(708)  547-7312,41.868,-87.883,,,0
+Visionworks,,"7501 W Cermak Rd, Ste G12",North Riverside Mall,North Riverside,IL,60546,United States,(708)  447-8214,41.847,-87.811,,,0
+Visionworks,,"1101 S Canal St, Ste 108",Southgate,Chicago,IL,60607,United States,(312)  588-0159,41.869,-87.639,,,0
+Visionworks,,"315 Stratford Square, Ste C-15",Stratford Square Mall,Bloomingdale,IL,60108,United States,(630)  295-8031,41.958,-88.081,,,0
+Visionworks,,4313 S Pulaski,,Chicago,IL,60632,United States,(773)  847-1911,41.815,-87.724,,,0
+Visionworks,,266 Yorktown Center,Yorktown Center,Lombard,IL,60148,United States,(630)  261-1867,41.841,-88.01,,,0
+Visionworks,,2333 W 95th S,95th & Western,Chicago,IL,60643,United States,(773)  239-4881,41.721,-87.681,,,0
+Visionworks,,"101 Chicago Ridge Mall Dr, Ste E-1",Chicago Ridge Mall,Chicago Ridge,IL,60415,United States,(708)  423-0791,41.701,-87.779,,,0
+Visionworks Doctors of Optometry,,"800 N Green River Rd, Space 205",Eastland Mall,Evansville,IN,47715,United States,(812)  475-1946,37.981,-87.496,,,0
+Visionworks,,7008 W Colonial Dr,Hiawassee,Orlando,FL,32818,United States,(407)  294-5648,28.552,-81.476,,,0
+Visionworks,,4673 Millenia Plaza Way,Millenia Plaza,Orlando,FL,32839,United States,(407)  351-1433,28.494,-81.428,,,0
+Visionworks,,"430 E Altamonte, Ste 1040",,Altamonte Springs,FL,32701,United States,(407)  830-0087,28.663,-81.377,,,0
+Visionworks,,"8001 S Orange Blossom Trail, #1312",Florida Mall,Orlando,FL,32809,United States,(407)  857-8718,28.446,-81.395,,,0
+Visionworks,,3817 E Colonial Dr,East Colonial,Orlando,FL,32803,United States,(407)  897-3570,28.554,-81.336,,,0
+Visionworks,,3062 Dyer Blvd,Osceola Village,Kissimmee,FL,34741,United States,(407)  343-6228,28.34,-81.431,,,0
+Visionworks,,"203 Seminole Town Center Circle, Space P-8",Seminole Towne Center,Sanford,FL,32771,United States,(407)  328-0790,28.802,-81.338,,,0
+Visionworks,,"12090 Jefferson Ave, Ste 1010",Marketplace at Tech Center,Newport News,VA,23606,United States,(757)  249-0737,37.10386,-76.491667,,,0
+Visionworks,,3985 Kilgore Avenue,Peninsula Town Center,Hampton,VA,23666,United States,(757)  262-1232,37.0438747,-76.3913923,,,0
+Visionworks,,"5866 E Sam Houston Pkwy N, Ste A",The Shops at Stone Park,Houston,TX,77049,United States,(281)  454-6071,29.81,-95.162,,,0
+Visionworks,,"6502 Garth Rd, Ste 200",San Jacinto ,Baytown,TX,77521,United States,(281)  421-9631,29.797,-94.98,,,0
+Visionworks,,5591 Fairmont Pkwy,Fairway Centre,Pasadena,TX,77505,United States,(281)  487-2445,29.65,-95.155,,,0
+Visionworks,,"Pasadena Town Square, Space 201",Pasadena Town Square,Pasadena,TX,77506,United States,(713)  472-5100,29.632,-95.144,,,0
+Visionworks,,591 Gulfgate Center,Gulfgate Center,Houston,TX,77087,United States,(713)  242-0390,29.697,-95.299,,,0
+Visionworks,,"12200 Gulf Freeway, Ste 302",Almeda Mall,Houston,TX,77075,United States,(713)  941-1214,29.621,-95.225,,,0
+Visionworks,,19210 Gulf Freeway,Baybrook,Friendswood,TX,77546,United States,(281)  286-8188,29.543,-95.145,,,0
+Visionworks,,"500 Baybrook Mall, Space 1059",Baybrook Mall,Friendswood,TX,77546,United States,(281)  990-8532,29.543,-95.153,,,0
+Visionworks,,"103 Yale St, Ste 100",Washington Heights,Houston,TX,77007,United States,(713)  869-5371,29.772,-95.399,,,0
+Visionworks,,"20131 Hwy 59 N, #1142",Deerbrook Mall,Humble,TX,77338,United States,(281)  548-1185,30.008,-95.27,,,0
+Visionworks,,4088 Westheimer Ave,Highland Village,Houston,TX,77027,United States,(713)  622-8781,29.742,-95.448,,,0
+Visionworks,,"2910 Gulf Freeway S, Ste F",League City Marketplace,League City,TX,77573,United States,(281)  337-1481,29.469,-95.093,,,0
+Visionworks,,"2730 Smith Ranch Rd, Ste 114",Crossing at 288 Shopping Center,Pearland,TX,77584,United States,(713)  436-0102,29.558,-95.385,,,0
+Visionworks,,13774 Northwest Freeway,Northwest Market Place,Houston,TX,77040,United States,(713)  690-9940,29.871,-95.509,,,0
+Visionworks,,"10285 West McDowell Rd, Ste A-102",Gateway Village,Avondale,AZ,85392,United States,(623)  907-8730,33.464783,-112.279937,,,0
+Visionworks,,14009 W McDowell Rd,Palm Valley Pavilions West,Goodyear,AZ,85338,United States,(623)  935-9784,33.464,-112.361,,,0
+Visionworks,,1645 W Bethany Home Rd,Phoenix Spectrum Mall,Phoenix,AZ,85015,United States,(602)  249-3057,33.524,-112.094,,,0
+Visionworks,,"9617 N Metro Pkwy W, #1160",Metrocenter,Phoenix,AZ,85051,United States,(602)  861-1670,33.574,-112.125,,,0
+Visionworks,,"7700 W Arrowhead Towne Center, #2130",Arrowhead Towne Center,Glendale,AZ,85308,United States,(623)  486-2020,33.642,-112.226,,,0
+Visionworks,,"13371 W Grand Ave, Ste 102",Surprise Marketplace,Surprise,AZ,85374,United States,(623)  556-8038,33.637,-112.349,,,0
+Visionworks,,"4933 E Ray Rd, #103",Ahwatukee Foothills Towne Center,Phoenix,AZ,85044,United States,(480)  940-5388,33.319,-111.977,,,0
+Visionworks,,"4550 E Cactus Rd, #30",Paradise Valley Mall,Phoenix,AZ,85032,United States,(602)  494-0929,33.599,-111.981,,,0
+Visionworks,,"2020 E Rio Salado Pkwy, Ste 101",Tempe Marketplace,Tempe,AZ,85281,United States,(480)  967-0563,33.4318303,-111.9043936,,,0
+Visionworks,,"3111 W Chandler Blvd, Ste 1124",Chandler Fashion,Chandler,AZ,85226,United States,(480)  782-9380,33.305,-111.903,,,0
+Visionworks,,1938-1 S Dobson Rd,Dobson Shores,Mesa,AZ,85202,United States,(480)  894-2020,33.379,-111.878,,,0
+Visionworks,,9055 E Talking Stick Way,The Pavilions at Talking Stick,Scottsdale,AZ,85250,United States,(480)  948-2020,33.538,-111.886,,,0
+Visionworks,,"2825 S Glenstone, Space F-11",Battlefield Mall,Springfield,MO,65804,United States,(417)  882-3692,37.157,-93.248,,,0
+Visionworks,,"150 North Shore Blvd, #2060",North Shore Square Mall,Slidell,LA,70460,United States,(985)  641-7722,30.307,-89.826,,,0
+Visionworks,,4142 Seward Street,Easton Gateway,Columbus,OH,43219,United States,(614)  414-0797,40.057,-82.908,,,0
+Visionworks,,"4120 Buckeye Pkwy, #167",Parkway Centre East,Grove City,OH,43123,United States,(614)  875-0012,39.877,-83.04,,,0
+Visionworks,,100 W Highway 332,Brazos Mall,Lake Jackson,TX,77566,United States,(979)  297-1994,29.05,-95.458,,,0
+Davis Visionworks,,1820 Old Country Rd,Riverhead,Riverhead,NY,11901,United States,(631)  208-2927,40.922616,-72.713757,,,0
+Visionworks,,"825 Dulaney Valley Rd, Ste 1335",Towson Town Center,Towson,MD,21204,United States,(410)  823-8452,39.404,-76.599,,,0
+Visionworks,,"8652 Pulaski Hwy, Ste A",The Centre at Golden Ring,Rosedale,MD,21237,United States,(410)  391-5265,39.335,-76.485,,,0
+Visionworks,,8153-C Honeygo Blvd,Avenue at White Marsh,Baltimore,MD,21236,United States,(443)  678-4141,39.372,-76.463,,,0
+Visionworks,,10112 York Road,Industry Lane,Cockeysville,MD,21030,United States,(410)  628-5350,39.465264,-76.63739,,,0
+Visionworks,,10369 Reisterstown Rd,Garrison Forest,Owings Mills,MD,21117,United States,(443)  394-8679,39.418,-76.779,,,0
+Visionworks,,"6427 Baltimore Pike, Ste A",Baltimore Pike,Catonsville,MD,21228,United States,(410)  788-9303,39.284,-76.76,,,0
+Visionworks,,"7000 Arundel Mills Circle, Space 404",Arundel Mills,Hanover,MD,21076,United States,(410)  799-2770,39.154,-76.725,,,0
+Visionworks,,"6250 Columbia Crossing Circle, Ste K",Columbia Crossing,Columbia,MD,21045,United States,(443)  285-0100,39.198,-76.814,,,0
+Visionworks Doctors of Optometry,,10447 E US Hwy 36,Avon Commons,Avon,IN,46123,United States,(317)  273-1702,39.764,-86.338,,,0
+Visionworks Doctors of Optometry,,"1251 US 31 N, Ste K03A",Greenwood Park Mall,Greenwood,IN,46142,United States,(317)  883-0419,39.62,-86.165,,,0
+Visionworks,,3437 Masonic Dr,Alexandria Mall,Alexandria,LA,71301,United States,(318)  442-7711,31.277,-92.461,,,0
+Visionworks,,655 Brandon Town Center,Brandon Town Center Mall,Brandon,FL,33511,United States,(813)  651-0113,27.927,-82.327,,,0
+Visionworks,,700 S Dale Mabry,South Dale Mabry Hwy,Tampa,FL,33609,United States,(813)  872-8587,27.937,-82.505,,,0
+Visionworks,,3301 4th St N,4th Street North,St Petersburg,FL,33704,United States,(727)  821-9540,27.802,-82.638,,,0
+Visionworks,,2001 E Fowler Ave,Visionworks Plaza,Tampa,FL,33612,United States,(813)  972-5728,28.053,-82.437,,,0
+Visionworks Doctors of Optometry,,1609 N Dixie Ave Ste 100,Towne Point Shopping Center,Elizabethtown,KY,42701,United States,(270)  765-7372,37.719,-85.88,,,0
+Visionworks Doctors of Optometry,,7815 Preston Hwy,Okolona Center,Louisville,KY,40219,United States,(502)  966-2020,38.143,-85.695,,,0
+Visionworks Doctors of Optometry,,7945 Bardstown Rd,The Fern Creek Shops,Louisville,KY,40291,United States,(502)  231-4061,38.132,-85.577,,,0
+Visionworks Doctors of Optometry,,5224 Dixie Hwy,Dixie Highway,Louisville,KY,40216,United States,(502)  449-2080,38.161,-85.832,,,0
+Visionworks,,"3962 Blue Diamond Rd, Ste 105",Blue Diamond Crossing,Las Vegas,NV,89139,United States,(702)  260-4127,36.039,-115.195,,,0
+Visionworks,,681 Mall Ring Circle,Galleria Mall,Henderson,NV,89014,United States,(702)  433-4727,36.066,-115.046,,,0
+Visionworks,,"4300 Meadows Mall, Space 104",Meadows Mall,Las Vegas,NV,89107,United States,(702)  822-6848,36.12,-115.138,,,0
+Visionworks,,3460 S Maryland Pkwy,Boulevard Mall,Las Vegas,NV,89169,United States,(702)  731-3968,36.126,-115.15,,,0
+Visionworks,,58 Blanding Blvd,Blanding Blvd,Orange Park,FL,32073,United States,(904)  276-2973,30.186,-81.74,,,0
+Visionworks,,10300 Southside Blvd,Mall of the Avenues,Jacksonville,FL,32256,United States,(904)  363-8330,30.183,-81.554,,,0
+Visionworks,,118 Wagner Rd,Township Marketplace,Monaca,PA,15061,United States,(724)  775-2987,40.681,-80.304,,,0
+Visionworks,,"1713 Route 228, Ste F",Cranberry Commons,Cranberry Township,PA,16066,United States,(724)  772-1880,40.686962,-80.082633,,,0
+Visionworks,,12311 Perry Hwy,Health+Wellness Pavilion,Wexford,PA,15090,United States,(724)  933-2400,40.637,-80.062,,,0
+Visionworks,,"1000 Ross Park Mall Dr, Space K11B",Ross Park Mall,Pittsburgh,PA,15237,United States,(412)  364-6478,40.541871,-80.008502,,,0
+Visionworks,,"100 Robinson Center Dr, Space 1530",The Mall at Robinson,Pittsburgh,PA,15205,United States,(412)  788-4054,40.453264,-80.157248,,,0
+Visionworks,,"540 Butler Crossing, Ste 1",Butler Crossing,Butler,PA,16001,United States,(724)  282-3902,40.877,-79.947,,,0
+Visionworks,,2612 W Moreland Rd,Park Place,Willow Grove,PA,19090,United States,(215)  657-1725,40.144,-75.122,,,0
+Visionworks,,"221 Easton Rd, Ste 112",Valley Gate,Warrington,PA,18976,United States,(215)  491-1450,40.218,-75.14,,,0
+Visionworks,,2250 S Christopher Columbus Blvd,Columbus Commons,Philadelphia,PA,19148,United States,(215)  339-5341,39.919,-75.14,,,0
+Visionworks Doctors of Optometry,,"1907 Deptford Center Rd, Space 8",Staples Shopping Center,Deptford,NJ,08096,United States,(856)  232-5492,39.828,-75.091,,,0
+Visionworks,,"1201 N Hill Field Rd, #2046",Layton Hills Mall,Layton,UT,84041,United States,(801)  444-7200,41.078,-111.978,,,0
+Visionworks,,1134 E 2100 South,Commons at Sugarhouse,Salt Lake,UT,84106,United States,(801)  463-2712,40.725,-111.858,,,0
+Visionworks,,"32443 Gratiot Ave, Ste 490",Macomb Mall,Roseville,MI,48066,United States,(586)  415-0245,42.535,-82.912,,,0
+Visionworks,,361 W 14 Mile Rd,Madison Heights,Madison Heights,MI,48071,United States,(248)  588-3026,42.533848,-83.110247,,,0
+Visionworks,,3026 Rochester Rd,,Rochester Hills,MI,48307,United States,(248)  853-7209,42.636,-83.132,,,0
+Visionworks,,24571 W Twelve Mile Rd,Star Center,Southfield,MI,48034,United States,(248)  354-4178,42.500764,-83.286875,,,0
+Visionworks,,"4925 Baldwin Rd, Bldg B",Auburn Hills,Lake Orion,MI,48359,United States,(248)  391-0158,42.709,-83.307,,,0
+Visionworks,,4135 Ft Campbell Boulevard,Campbell Crossing,Hopkinsville,KY,42240,United States,(270)  887-5765,36.831,-87.473,,,0
+Visionworks Doctors of Optometry,,2801 Wilma Rudolph Blvd Ste 475,Hampton,Clarksville,TN,37040,United States,(931)  553-8033,36.588,-87.288,,,0
+Empire Visionworks,,3518 Route 281,,Cortland,NY,13045,United States,(607)  756-2751,42.601,-76.18,,,0
+Empire Visionworks,,1290 Front St,Giant Plaza,Binghamton,NY,13901,United States,(607)  771-4000,42.145,-75.887,,,0
+Visionworks,,"101 Wilson Ave, Ste D",Gateway,Hanover,PA,17331,United States,(717)  630-0567,39.829,-76.997,,,0
+Empire Visionworks,,110 Consumer Square,Consumer Square,Plattsburgh,NY,12901,United States,(518)  562-0200,44.699,-73.453,,,0
+Visionworks,,2169 14th Ave S E,Heritage Mall,Albany,OR,97321,United States,(541)  967-8655,44.63,-123.08,,,0
+Visionworks,,249 Valley River Center,Valley River Center,Eugene,OR,97401,United States,(541)  345-6988,44.069,-123.108,,,0
+Empire Visionworks,,333 Grant Ave,,Auburn,NY,13021,United States,(315)  255-9212,42.96,-76.541,,,0
+Empire Visionworks,,"4109 W Genesee St, Ste 100",Fairmount,Syracuse,NY,13219,United States,(315)  488-2020,43.046,-76.243,,,0
+Empire Visionworks,,"7879 Oswego Rd, Route 57",,Liverpool,NY,13090,United States,(315)  622-2000,43.124,-76.217,,,0
+Empire Visionworks,,"3873 State Route 31, #110",Clay,Liverpool,NY,13090,United States,(315)  652-5962,43.185,-76.245,,,0
+Empire Visionworks,,"125 Lawrence Rd E, North Plaza",North Plaza,North Syracuse,NY,13212,United States,(315)  455-5500,43.115,-76.145,,,0
+Empire Visionworks,,"125 Shop City Plaza, 1802 Teall Ave",Shop City Plaza,Syracuse,NY,13206,United States,(315)  463-7700,43.07,-76.103,,,0
+Empire Visionworks,,2921 Erie Blvd E,,Syracuse,NY,13224,United States,(315)  446-5120,43.055,-76.09,,,0
+Visionworks,,5653 East Circle Dr,Cicero Marketplace,Cicero,NY,13039,United States,(315)  458-1216,43.15,-76.122,,,0
+Empire Visionworks,,6859 E Genesee St,,Fayetteville,NY,13066,United States,(315)  251-2206,43.029,-76.048,,,0
+Empire Visionworks,,115 Rochester St,,Fulton,NY,13069,United States,(315)  598-8505,43.323,-76.417,,,0
+Visionworks,,652 Lafayette Road Unit 3,Sea City Crossing,Seabrook,NH,03874,United States,(603)  474-0297,42.894641,-70.870813,,,0
+Visionworks,,"346 S Broadway, Route 28",,Salem,NH,03079,United States,(603)  898-8560,42.753,-71.208,,,0
+Visionworks Doctors of Optometry,,"4440 S US Highway 41, Ste 102",Honey Creek Marketplace,Terre Haute,IN,47802,United States,(812)  232-2988,39.412553,-87.414269,,,0
+Visionworks,,"4700 Millhaven Rd, #1090",Pecanland Mall,Monroe,LA,71203,United States,(318)  325-4598,32.5,-92.065,,,0
+Visionworks,,640 Apache Mall,Apache Mall,Rochester,MN,55902,United States,(507)  252-1540,44.001,-92.48,,,0
+Visionworks Doctors of Optometry,,"4215 Black Horse Pike, #500",Hamilton Commons,Mays Landing,NJ,08330,United States,(609)  383-8614,39.444,-74.627,,,0
+Visionworks Doctors of Optometry,,2229 N 2nd St,About 1 mile south of Cumberland Mall,Millville,NJ,08332,United States,(856)  825-0170,39.426,-75.039,,,0
+Visionworks,,"101 Range Line Rd, Space 346",Northpark Mall,Joplin,MO,64801,United States,(417)  623-8620,37.091,-94.477,,,0
+Visionworks,,"7200 Harrison Ave, Ste F35",Cherryvale Mall,Rockford,IL,61112,United States,(815)  332-1855,42.245,-88.976,,,0
+Visionworks,,684 NW End Blvd,Richland Marketplace,Quakertown,PA,18951,United States,(215)  536-7023,40.461,-75.369,,,0
+Visionworks,,780 N Krocks Rd,Hamilton Crossings,Allentown,PA,18106,United States,(610)  530-3180,40.564617,-75.563493,,,0
+Visionworks,,949 Airport Center Dr,Airport Center,Allentown,PA,18109,United States,(610)  264-0891,40.638,-75.441,,,0
+Visionworks,,30715 US Highway 19 N,Seabreeze Shopping Center,Palm Harbor,FL,34684,United States,(727)  786-7288,28.052,-82.739,,,0
+Visionworks,,912 S Missouri Ave,Renaissance Square,Clearwater,FL,33756,United States,(727)  443-6493,27.956,-82.788,,,0
+Visionworks,,"8150 Citrus Park Town Ctr Mall, Space 1100",Citrus Park Town Center,Tampa,FL,33625,United States,(813)  920-6824,28.068,-82.556,,,0
+Visionworks,,9644 Scenic Dr,Scenic Drive,Port Richey,FL,34668,United States,(727)  848-3018,28.303,-82.702,,,0
+Visionworks,,11212 Park Blvd,Park Boulevard,Seminole,FL,33772,United States,(727)  397-8994,27.84,-82.794,,,0
+Visionworks,,14901 N Dale Mabry Hwy,North Dale Mabry Hwy,Tampa,FL,33618,United States,(813)  960-8318,28.085,-82.504,,,0
+Visionworks,,2143 Tyrone Blvd,Tyrone Blvd,St Petersburg,FL,33710,United States,(727)  345-4446,27.791,-82.726,,,0
+Visionworks,,1279 Polaris Pkwy,Polaris Towne Center,Columbus,OH,43240,United States,(614)  846-1571,40.141,-82.982,,,0
+Visionworks,,6465 Sawmill Rd,Sawmill Rd,Dublin,OH,43017,United States,(614)  210-7291,40.099,-83.092,,,0
+Visionworks,,1840 Hilliard Rome Rd,George's Corner IV,Hilliard,OH,43026,United States,(614)  876-5025,39.99,-83.151,,,0
+Visionworks,,4A Backus Ave,Shops at Marcus Dairy,Danbury,CT,06810,United States,(203)  205-2329,41.38,-73.475,,,0
+Visionworks,,344 Russell St. Unit 5,Hadley Corner,Hadley,MA,01035-5904,United States,(413)  584-0452,42.357844,-72.55264,,,0
+Visionworks Doctors of Optometry,,"588 Route 70, Ste 9",FEDEX Plaza Shopping Center,Brick,NJ,08723,United States,(732)  864-0755,40.0583265,-74.1476956999999,,,0
+Empire Visionworks,,830 Cty Route 64,,Elmira,NY,14903,United States,(607)  739-9000,42.154,-76.882,,,0
+Empire Visionworks,,107-113 W Market St,,Corning,NY,14830,United States,(607)  936-2000,42.148,-77.053,,,0
+Visionworks,,24014 Commercial Dr,Brazos Town Center,Rosenberg,TX,77471,United States,(281)  232-0550,29.546,-95.752,,,0
+Visionworks,,"16535 SW Freeway, #790",First Colony Mall,Sugar Land,TX,77479,United States,(281)  565-0666,29.591,-95.625,,,0
+Visionworks Doctors of Optometry,,"7727 Mall Road, Ste B",Florence Square,Florence,KY,41042,United States,(859)  282-1751,38.996759,-84.654758,,,0
+Visionworks,,"7466 S Olympia Ave West, Unit 50",Tulsa Hills,Tulsa,OK,74132,United States,(918)  447-0082,36.043,-96.005,,,0
+Visionworks,,"7021 S Memorial Dr, Ste 269B",Woodland Hills Mall,Tulsa,OK,74133,United States,(918)  252-9850,36.063,-95.881,,,0
+Visionworks,,"2733 Paper Mills Rd, Ste X15",Broadcasting Square,Wyomissing,PA,19610,United States,(610)  373-5108,40.347,-75.971,,,0
+Visionworks,,"9757 Perkins Rd SP, #B",Bluebonnet Village,Baton Rouge,LA,70810,United States,(225)  767-3363,30.379771,-91.098153,,,0
+Visionworks,,9580 Florida Blvd,Florida Blvd,Baton Rouge,LA,70815,United States,(225)  926-3446,30.455,-91.082,,,0
+Visionworks,,"701 Lynnhaven Pkwy, F85",Lynnhaven Mall,Virginia Beach,VA,23452,United States,(757)  340-3816,36.818,-76.07,,,0
+Visionworks,,"7505 Towne Center Pkwy, Ste 101",Shadow Lake Towne Center,Papillion,NE,68046,United States,(402)  339-2481,41.133,-96.028,,,0
+Visionworks,,"10000 California St, #3150",Westroads Mall,Omaha,NE,68114,United States,(402)  391-1333,41.268,-96.069,,,0
+Visionworks,,"3001 S 144th St, Space A11",Oak View Mall,Omaha,NE,68144,United States,(402)  334-2020,41.231,-96.138,,,0
+Visionworks,,470 Lewis Avenue,Westfield Meriden,Meriden,CT,06451,United States,(203)  235-4611,41.5515632,-72.8077581,,,0
+Empire Visionworks,,820 Route 9 Suite1308,Northway Plaza,Glens Falls,NY,12804,United States,(518)  745-1200,43.31,-73.644,,,0
+Empire Visionworks,,3039 Route 50,Wilton Square,Saratoga Springs,NY,12866,United States,(518)  580-1117,43.04,-73.714,,,0
+Visionworks,,"2501 W Memorial Rd, #211",Quail Springs Mall,Oklahoma City,OK,73134,United States,(405)  749-1999,35.612,-97.561,,,0
+Visionworks,,"1901 NW Expressway, #101",Penn Square Mall,Oklahoma City,OK,73118,United States,(405)  842-2600,35.511,-97.53,,,0
+Visionworks,,656 Orland Square,Orland Square,Orland Park,IL,60462,United States,(708)  364-0592,41.614,-87.851,,,0
+Visionworks,,"623 E Boughton Rd, Ste 120, Space 880",The Promenade ,Bolingbrook,IL,60440,United States,(630)  783-1514,41.72,-88.045,,,0
+Visionworks,,"3340 Mall Loop Dr, Ste 1442",Westfield Louis Joliet Mall,Joliet,IL,60431,United States,(815)  436-1582,41.575,-88.166,,,0
+Visionworks,,"96 River Oaks Center Dr, Ste B101",River Oaks Center,Calumet City,IL,60409,United States,(708)  832-3869,41.598,-87.554,,,0
+Visionworks,,"2484 Fox Valley Dr, Ste B-14",Fox Valley Mall,Aurora,IL,60504,United States,(630)  499-8498,41.759,-88.207,,,0
+Visionworks,,2422 Route 34,Prairie Market,Oswego,IL,60543,United States,(630)  551-4133,41.705,-88.307,,,0
+Visionworks,,3100 Fashion Center,Christiana Fashion Center,Newark,DE,19702,United States,(302)  266-0872,39.6739756,-75.649736,,,0
+Visionworks,,3700 W Gate City Blvd,Visionworks Plaza,Greensboro,NC,27407,United States,(336)  852-6664,36.04,-79.85,,,0
+Visionworks,,701 W SW Loop 323,Near Broadway Square Mall,Tyler,TX,75701,United States,(903)  581-4292,32.304,-95.309,,,0
+Visionworks Doctors of Optometry,,"10777 E Washington St, Ste A",Centre East Shoppes,Indianapolis,IN,46229,United States,(317)  897-0480,39.775,-85.975,,,0
+Visionworks,,"4800 Golf Rd, #436",Oakwood Mall,Eau Claire,WI,54701,United States,(715)  834-8404,44.775,-91.442,,,0
+Empire Visionworks,,"1319 Erie Blvd W, Ste #3",Aspen Dental Plaza,Rome,NY,13440,United States,(315)  337-7700,43.222,-75.452,,,0
+Visionworks,,120 Trinity Point Dr,Trinity Point Shopping Center,Washington,PA,15301,United States,(724)  222-2164,40.18413,-80.220125,,,0
+Visionworks,,"301 S Hills Village, Space 2265A",South Hills Village Mall,Pittsburgh,PA,15241,United States,(412)  833-5675,40.344,-80.057,,,0
+Empire Visionworks,,1125 Arsenal St,,Watertown,NY,13601,United States,(315)  788-5020,43.975432,-75.940043,,,0
+Visionworks,,"26425 Novi Rd, Ste D",Novi,Novi,MI,48375,United States,(248)  344-1426,42.485,-83.477,,,0
+Visionworks,,"5619 W Loop 1604 N, Ste 114",Alamo Ranch,San Antonio,TX,78253,United States,(210)  647-1808,29.491,-98.707,,,0
+Visionworks,,6301 NW Loop 410,Ingram Park Mall,San Antonio,TX,78238,United States,(210)  680-5173,29.47,-98.621,,,0
+Visionworks,,6035 NW Loop 410,Ingram Festival Square,San Antonio,TX,78238,United States,(210)  680-5451,29.477,-98.609,,,0
+Visionworks,,"15900 La Cantera Pkwy, Blvd 9, Ste 9915",The Shops at La Cantera,San Antonio,TX,78256,United States,(210)  694-5296,29.592,-98.614,,,0
+Visionworks,,"7400 San Pedro, Ste 18",North Star Mall,San Antonio,TX,78216,United States,(210)  349-0696,29.517,-98.497,,,0
+Visionworks,,1936 SW Military,Mayan Palace Plaza,San Antonio,TX,78221,United States,(210)  923-4363,29.357,-98.524,,,0
+Visionworks,,"175 E Houston St, Ste 100",Downtown San Antonio,San Antonio,TX,78205,United States,(210)  228-0718,29.4265788,-98.4914894,,,0
+Visionworks,,"270 E Basse Rd, Ste D101",Quarry Village,San Antonio,TX,78209,United States,(210)  826-2951,29.494,-98.479,,,0
+Visionworks,,"18030 US Highway 281 N, #250",Northwoods Shopping Center,San Antonio,TX,78232,United States,(210)  402-0746,29.604,-98.468,,,0
+Visionworks,,1437 S Main St,South Main Street,West Bend,WI,53095,United States,(262)  334-1925,43.425,-88.183,,,0
+Visionworks Doctors of Optometry,,2960 Miller Place Way,Miller Place Way,Knoxville,TN,37924,United States,(865)  525-9520,36.027,-83.794,,,0
+Visionworks Doctors of Optometry,,"7600 Kingston Pike, Space 1110-A",West Town Mall,Knoxville,TN,37919,United States,(865)  531-3295,35.928,-84.036,,,0
+Visionworks Doctors of Optometry,,10930 Parkside Dr,Pavilion of Turkey Creek,Knoxville,TN,37934,United States,(865)  671-1188,35.903,-84.148,,,0
+Visionworks,,5100 N 9th St,Cordova Mall,Pensacola,FL,32504,United States,(850)  484-3077,30.474,-87.211,,,0
+Visionworks,,"6570 N Illinois St, Ste A",The Shoppes at St. Clair Square,Fairview Heights,IL,62208,United States,(618)  628-3502,38.595,-89.984,,,0
+Visionworks,,"421 North Cole Rd, Ste 102",Boise Town Square,Boise,ID,83704,United States,(208)  322-2933,43.61,-116.277,,,0
+Visionworks,,"3500 Washtenaw Ave, Ste C",Washtenaw Commons,Ann Arbor,MI,48104,United States,(734)  975-9371,42.255268,-83.690114,,,0
+Visionworks,,42400 Ford Rd ,Canton Corners,Canton,MI,48187,United States,(734)  981-9276,42.323125,-83.45935700000001,,,0
+Visionworks,,875 N Randall Rd,Batavia,Batavia,IL,60510,United States,(630)  406-7186,41.85,-88.313,,,0
+Visionworks,,384 S Randall Rd,South Elgin Crossing,South Elgin,IL,60177,United States,(847)  695-3354,41.983,-88.342,,,0
+Visionworks Doctors of Optometry,,1262 Volunteer Pwy,Volunteer Pkwy,Bristol,TN,37620,United States,(423)  989-3737,36.565,-82.206,,,0
+Visionworks,,4910 B Cutler Ave NE,Pavilions at San Mateo,Albuquerque,NM,87110,United States,(505)  888-5111,35.101,-106.57,,,0
+Visionworks,,"8001 Wyoming Blvd, Ste C-1",Paseo Village,Albuquerque,NM,87113,United States,(505)  797-1996,35.175,-106.561,,,0
+Visionworks,,"190 E Stacy Rd, Ste 204",The Village at Allen,Allen,TX,75002,United States,(972)  678-1610,33.129,-96.655,,,0
+Visionworks,,"8880 State Hwy 121, Ste 140",McKinney Towne Crossing,McKinney,TX,75070,United States,(214)  383-2531,33.127,-96.73,,,0
+Visionworks,,"3460 W FM 544, Ste 550",Woodbridge Crossing,Wylie,TX,75098,United States,(972)  442-1649,33.011,-96.596,,,0
+Visionworks,,"2956 I-45 North, Ste 700",Conroe Marketplace Shopping Center,Conroe,TX,77303,United States,(936)  441-1215,30.348,-95.483,,,0
+Visionworks,,"1201 Lake Woodlands Dr, Ste 1000",The Woodlands,The Woodlands,TX,77380,United States,(281)  362-9999,30.164,-95.455,,,0
+Visionworks,,"3702 Frederick Blvd, #12",East Hills Shopping Center,Saint Joseph,MO,64506,United States,(816)  233-9898,39.774,-94.801,,,0
+Visionworks,,"6001 W Waco Dr, #612",Richland Mall,Waco,TX,76710,United States,(254)  751-0010,31.514,-97.187,,,0
+Visionworks,,11383 W 95th St,Oak Park Mall,Overland Park,KS,66214,United States,(913)  894-4708,38.956,-94.718,,,0
+Visionworks,,5746 Antioch Rd,Merriam Town Center,Merriam,KS,66202,United States,(913)  722-0558,39.024,-94.686,,,0
+Visionworks,,"8600 Ward Pkwy, #710",Ward Parkway Center,Kansas City,MO,64114,United States,(816)  523-8882,38.969,-94.607,,,0
+Visionworks,,"1703 Village West Parkway, Ste 104",Legends Outlets,Kansas City,KS,66111,United States,(913)  299-8513,39.1241259,-94.82445100000001,,,0
+Visionworks,,2530 Green Oaks Rd,Ridgmar Mall,Fort Worth,TX,76116,United States,(817)  763-5584,32.74,-97.435,,,0
+Visionworks,,"1101 Melbourne Rd, #3091",North East Mall,Hurst,TX,76053,United States,(817)  284-2717,32.831,-97.199,,,0
+Visionworks Doctors of Optometry,,1008 Indian Trail Dr,Indian Trail Drive,Kingsport,TN,37660,United States,(423)  247-2020,36.548,-82.514,,,0
+Visionworks Doctors of Optometry,,3101 Browns Mill Rd Suite 1,Shops at Franklin,Johnson City,TN,37604,United States,(423)  282-1100,36.357,-82.396,,,0
+Visionworks,,"131 Glensford Dr, #105",Glensford Commons,Fayetteville,NC,28314,United States,(910)  860-1035,35.068,-78.959,,,0
+Visionworks,,4001 West 41st Street #952,Empire Mall,Sioux Falls,SD,57106,United States,(605)  361-4398,43.514,-96.774,,,0
+Visionworks Doctors of Optometry,,"1950 Greyhound Pass, Ste 2",Village Park Plaza,Carmel,IN,46033,United States,(317)  569-0860,40.005,-86.124,,,0
+Visionworks Doctors of Optometry,,11781 Commercial Dr,Fishers Corner Shoppes II,Fishers,IN,46038,United States,(317)  913-0735,39.96,-86.013,,,0
+Visionworks Doctors of Optometry,,"14139 Towne Center Blvd, No 550",Hamilton Town Center,Noblesville,IN,46060,United States,(317)  770-1018,39.994,-85.933,,,0
+Visionworks Doctors of Optometry,,"6020 E 82nd St, Space 810",Castleton Square Mall,Indianapolis,IN,46250,United States,(317)  842-2018,39.909,-86.065,,,0
+Visionworks Doctors of Optometry,,"9893 N Michigan Rd, Ste 100",West Carmel Marketplace,Carmel,IN,46032,United States,(317)  872-3451,39.932,-86.232,,,0
+Visionworks,,5509 Urbana Pike,Urbana Pike,Frederick,MD,21704,United States,(301)  662-0660,39.381,-77.4,,,0
+Visionworks Doctors of Optometry,,"1607 Village Market Blvd SE, Ste 124",Village at Leesburg,Leesburg,VA,20175,United States,(703)  443-1379,39.09,-77.526,,,0
+Visionworks,,3316 Silas Creek Pkwy,Silas Creek Crossing,Winston Salem,NC,27103,United States,(336)  765-6003,36.072,-80.297,,,0
+Visionworks,,1011 South Main Street,,Kernersville,NC,27284,United States,(336)  993-0461,36.108014,-80.096843,,,0
+Visionworks,,1600 Highwoods Blvd,Jefferson Village,Greensboro,NC,27410,United States,(336)  834-3137,36.112,-79.879,,,0
+Visionworks,,"63455 N Hwy 97, Ste 75",Cascade Village,Bend,OR,97703,United States,(541)  389-5207,44.102,-121.302,,,0
+Visionworks,,4511 N Midkiff Rd,Midland Park Mall,Midland,TX,79705,United States,(432)  694-2244,32.031,-102.131,,,0
+Visionworks,,3800 State Rd 16,Valley View Mall,La Crosse,WI,54603,United States,(608)  781-8215,43.8687089,-91.1958826,,,0
+Visionworks,,"5725 Johnston St, Box 2307",Acadiana Mall,Lafayette,LA,70503,United States,(337)  989-2020,30.172,-92.062,,,0
+Visionworks,,"2000 Coastal Grand Circle, Space 515",Coastal Grand Mall,Myrtle Beach,SC,29577,United States,(843)  839-4674,33.701,-78.922,,,0
+Visionworks,,23360 Eureka Rd,Taylor Retail Plaza,Taylor,MI,48180,United States,(734)  287-0024,42.198,-83.261,,,0
+Visionworks,,"3456 Fairlane Dr, Unit 104",Fairlane Green,Allen Park,MI,48101,United States,(313)  982-3848,42.28,-83.208,,,0
+Visionworks Doctors of Optometry,,8125 Sudley Rd,West Gate Shopping Center,Manassas,VA,20109,United States,(703)  330-0090,38.78,-77.51,,,0
+Visionworks,,"6909 North Loop 1604 E, Ste 1114",Rolling Oaks Mall,San Antonio,TX,78247,United States,(210)  651-5566,29.598,-98.351,,,0
+Visionworks,,8222 Agora Pkwy,Forum at Olympia Parkway,Live Oak,TX,78154,United States,(210)  657-6270,29.569,-98.329,,,0
+Visionworks,,"601 E Expressway 83, Ste 100",Valley Crossing Shopping Center,Weslaco,TX,78596,United States,(956)  969-2815,26.173,-97.986,,,0
+Visionworks,,"2000 S Expressway, #83, Ste F09",Valle Vista Mall,Harlingen,TX,78552,United States,(956)  428-7991,26.183,-97.719,,,0
+Visionworks,,2200 S 10th St,La Plaza Mall,McAllen,TX,78503,United States,(956)  630-0040,26.187,-98.233,,,0
+Visionworks,,"4000 N 10th St, Ste D",Sun Plaza,McAllen,TX,78504,United States,(956)  631-7680,26.239,-98.224,,,0
+Visionworks,,"5488 South Padre Island Dr, #1308",La Palmera,Corpus Christi,TX,78411,United States,(361)  993-6025,27.722,-97.389,,,0
+Visionworks,,"4747 South Padre Island Dr, Ste 101",Stripes Center,Corpus Christi,TX,78411,United States,(361)  853-3741,27.714,-97.385,,,0
+Visionworks,,2146 Cove Blvd,Panama City Mall,Panama City,FL,32405,United States,(850)  769-0100,30.187,-85.65,,,0
+Visionworks,,N 95 W 18437 County Line Rd,Crossroads Shopping Center,Menomonee Falls,WI,53051,United States,(262)  532-0570,43.193,-88.232,,,0
+Visionworks,,7425 W Appleton Ave,W. Appleton Ave.,Milwaukee,WI,53216,United States,(414)  464-5440,43.09,-88.005,,,0
+Visionworks,,16025 W Bluemound Rd,Shops on Bluemond,Brookfield,WI,53005,United States,(262)  785-0490,43.036,-88.134,,,0
+Visionworks,,2500 N Mayfair Rd,Mayfair Mall  ,Wauwatosa,WI,53226,United States,(414)  453-2866,43.051,-88.041,,,0
+Visionworks,,825 W Moreland Blvd,Moreland Plaza,Waukesha,WI,53188,United States,(262)  542-9610,43.025,-88.242,,,0
+Visionworks,,2761 S 108th St,South 108th St,West Allis,WI,53227,United States,(414)  321-2425,42.995,-88.047,,,0
+Visionworks,,11340 N Pt Washington Rd,N. Port Washington Rd,Mequon,WI,53092,United States,(262)  240-0455,43.224,-87.924,,,0
+Visionworks,,4000 N Oakland Ave,N. Oakland Ave.,Shorewood,WI,53211,United States,(414)  961-7700,43.089,-87.888,,,0
+Visionworks,,5300 S 76th St,Southridge,Greendale,WI,53129,United States,(414)  421-6450,42.964,-88.008,,,0
+Visionworks,,3500 S 27th St,Southgate Mall,Milwaukee,WI,53221,United States,(414)  817-9100,42.991,-87.943,,,0
+Visionworks,,203-A E Wisconsin Ave,Downtown Oconomowoc,Oconomowoc,WI,53066,United States,(262)  567-2960,43.11,-88.497,,,0
+Visionworks,,"1019 W University Ave, Ste 605, Room D11",Wolf Ranch Town Center,Georgetown,TX,78628,United States,(512)  868-2641,30.632,-97.694,,,0
+Visionworks,,"2601 S IH-35, Bldg C #100",Boardwalk Shopping Center,Round Rock,TX,78664,United States,(512)  238-6887,30.507,-97.686,,,0
+Visionworks,,1623 Beacon St,Washington Square,Brookline,MA,02445,United States,(617)  739-2707,42.333,-71.12,,,0
+Visionworks,,100 State St,,Boston,MA,02109,United States,(617)  742-2076,42.359,-71.055,,,0
+Visionworks,,One Brattle Square,,Cambridge,MA,02138,United States,(617)  547-6080,42.373,-71.121,,,0
+Visionworks,,149 University Ave,University Station ,Westwood,MA,02090,United States,(781)  326-2051,42.211,-71.15,,,0
+Visionworks,,1 Scammel St,Pilgrim Plaza,Quincy,MA,02169,United States,(617)  773-1353,42.251,-70.989,,,0
+Visionworks,,"1 Highland Ave, #3B",Town Line Plaza,Malden,MA,02148,United States,(781)  321-9039,42.415,-71.079,,,0
+Visionworks,,"250 Granite St, Space 1041C",South Shore Plaza,Braintree,MA,02184,United States,(781)  843-0586,42.208,-71.004,,,0
+Visionworks,,"1201 Broadway, Ste S223",Square One Mall,Saugus,MA,01906,United States,(781)  233-2073,42.461,-71.027,,,0
+Visionworks,,90 Middlesex Turnpike,Middlesex Marketplace,Burlington,MA,01803,United States,(781)  229-0434,42.478,-71.216,,,0
+Visionworks,,"200 Westgate Dr, Space E133",Westgate Mall,Brockton,MA,02301,United States,(508)  587-9700,42.095,-71.052,,,0
+Visionworks,,139 Endicott St,Endicott Plaza,Danvers,MA,01923,United States,(978)  777-4700,42.55,-70.933,,,0
+Visionworks,,700 Boston Rd,Towne Plaza,Billerica,MA,01821,United States,(978)  667-0481,42.563,-71.271,,,0
+Visionworks,,75 Washington St,Pembroke Point Plaza,Pembroke,MA,02359,United States,(781)  826-5117,42.104,-70.804,,,0
+Visionworks,,"Burnsville Center, #2036",Burnsville Center,Burnsville,MN,55306,United States,(952)  435-5011,44.733,-93.294,,,0
+Visionworks,,16 Signal Hills Center,Signal Hills Center,West St Paul,MN,55118,United States,(651)  451-7232,44.91,-93.085,,,0
+Visionworks,,2116 Ford Pkwy,Highland,St Paul,MN,55116,United States,(651)  699-1130,44.918,-93.19,,,0
+Visionworks,,"1785 Radio Dr, #B",City Centre East,Woodbury,MN,55125,United States,(651)  501-0920,44.924,-92.933,,,0
+Visionworks,,1045 Southdale Center,Southdale,Edina,MN,55435,United States,(952)  926-3900,44.881,-93.325,,,0
+Visionworks,,3001 Hennepin Ave S,Calhoun Square,Minneapolis,MN,55408,United States,(612)  822-4421,44.948,-93.298,,,0
+Visionworks,,733 Marquette Ave,Skyway,Minneapolis,MN,55402,United States,(612)  332-6656,44.976,-93.271,,,0
+Visionworks,,8251 Flying Cloud Dr,Eden Prairie Center,Eden Prairie,MN,55344,United States,(952)  829-7812,44.855,-93.427,,,0
+Visionworks,,501 Rosedale Center,Rosedale Center,Roseville,MN,55113,United States,(651)  631-8900,45.014,-93.17,,,0
+Visionworks,,2033 Maplewood Mall,Maplewood Mall,Maplewood,MN,55109,United States,(651)  777-0330,45.032,-93.022,,,0
+Visionworks,,1960 Market Dr,Stillwater Marketplace,Stillwater,MN,55082,United States,(651)  439-3049,45.037,-92.84,,,0
+Visionworks,,"12701 Wayzata, Blvd #249",Ridgedale,Minnetonka,MN,55305,United States,(952)  545-6446,44.971,-93.44,,,0
+Visionworks,,"5870 E Broadway Blvd, Space 164",Park Place,Tucson,AZ,85711,United States,(520)  745-0229,32.221,-110.868,,,0
+Visionworks,,"4631 N Oracle Rd, #175",Oracle Road,Tucson,AZ,85705,United States,(520)  408-1200,32.275,-110.986,,,0
+Visionworks,,5271 S Calle Santa Cruz,Tucson Spectrum,Tucson,AZ,85714,United States,(520)  294-3840,32.155,-110.987,,,0
+Visionworks,,4600 W Kellogg,Towne West Square,Wichita,KS,67209,United States,(316)  946-5939,37.677,-97.397,,,0
+Visionworks,,7700 E Kellogg,Towne East Square,Wichita,KS,67207,United States,(316)  681-1171,37.679,-97.249,,,0
+Visionworks,,"10,000 Coors Bypass, #A201",Cottonwood Mall,Albuquerque,NM,87114,United States,(505)  897-2020,35.195,-106.665,,,0
+Visionworks,,"1601 Village Pkwy, Ste 160",Shops at Highland Village,Highland Village,TX,75077,United States,(972)  317-1094,33.074,-97.084,,,0
+Visionworks,,2401 S Stemmons Fwy,Vista Ridge Mall,Lewisville,TX,75067,United States,(972)  315-3288,33.006,-96.972,,,0
+Visionworks,,"1319 W State Hwy 114, #312",Grapevine Town Center,Grapevine,TX,76051,United States,(817)  421-6067,32.928,-97.09,,,0
+Visionworks,,"7805 N MacArthur Blvd, #100",MacArthur Park,Irving,TX,75063,United States,(214)  574-5175,32.913,-96.959,,,0
+Visionworks,,2215 South Loop 288,Denton Town Center,Denton,TX,76205,United States,(940)  484-7156,33.187,-97.106,,,0
+Visionworks,,3626 Irving Mall,Irving Mall,Irving,TX,75062,United States,(972)  258-2424,32.841,-96.994,,,0
+Visionworks,,"8436 Denton Hwy 377, Ste 210",Watauga Towne Shopping Center,Watauga,TX,76148,United States,(817)  427-8746,32.893,-97.258,,,0
+Visionworks,,"2601 Preston Rd, Ste 1126",Stonebriar Centre,Frisco,TX,75034,United States,(972)  731-8507,33.099,-96.811,,,0
+Visionworks,,"4909 W Park Blvd, #135",Preston Towne Crossing,Plano,TX,75093,United States,(972)  867-8061,33.027,-96.792,,,0
+Visionworks,,9549 Sage Meadow Trail,Alliance Town Center,Fort Worth,TX,76177,United States,(817)  750-0383,32.913,-97.314,,,0
+Visionworks,,"8687 North Central Expwy, Ste 2332",Northpark Center,Dallas,TX,75225,United States,(214)  691-8649,32.867,-96.773,,,0
+Visionworks,,810 N Central Expressway,Parkway Crossing,Plano,TX,75074,United States,(972)  422-1187,33.011,-96.707,,,0
+Visionworks,,"6243 Retail Rd, Ste 800",Timbercreek Crossing,Dallas,TX,75231,United States,(214)  750-4261,32.862,-96.754,,,0
+Visionworks,,"6465 E Mockingbird, Ste 308",Hillside Village Shopping Center,Dallas,TX,75214,United States,(214)  826-6800,32.837,-96.752,,,0
+Visionworks,,652 Great Northern Mall,Great Northern Mall,North Olmstead,OH,44070,United States,(440)  734-4896,41.417,-81.906,,,0
+Visionworks,,3547 Midway Mall,Midway Mall,Elyria,OH,44035,United States,(440)  324-4833,41.395,-82.108,,,0
+Visionworks,,4762 Ridge Rd,Ridge Park Square,Brooklyn,OH,44144,United States,(216)  398-8607,41.425,-81.735,,,0
+Visionworks,,316 Southpark Center,Westfield Southpark,Strongsville,OH,44136,United States,(440)  238-2630,41.31,-81.824,,,0
+Visionworks,,"701 N Congress Ave, Ste 2",N Congress Ave,Boynton Beach,FL,33435,United States,(561)  732-5664,26.535,-80.091,,,0
+Visionworks,,"1703 Palm Beach Lakes Blvd, Ste B01",Palm Beach Outlets,West Palm Beach,FL,33401,United States,(561)  689-8236,26.724,-80.084,,,0
+Visionworks,,"9982 Glades Rd, Ste G 1",Westwinds of Boca,Boca Raton,FL,33434,United States,(561)  558-9965,26.368,-80.203,,,0
+Visionworks,,3321 W Hillsboro Blvd,Deerfield Commons,Deerfield Beach,FL,33442,United States,(954)  480-9232,26.318,-80.15,,,0
+Visionworks,,4180 N State Road 7,Turtle Crossing,Coral Springs,FL,33073,United States,(954)  227-3285,26.298,-80.203,,,0
+Visionworks,,2471 N Federal Hwy,Pompano Beach ,Pompano Beach,FL,33064,United States,(954)  946-9022,26.2622024,-80.0999701,,,0
+Visionworks,,"3111 S 31st St, Space 3303",Temple Mall,Temple,TX,76502,United States,(254)  771-3994,31.098,-97.343,,,0
+Visionworks,,"26300 Cedar Rd, Ste 2005",Beachwood Place,Beachwood,OH,44122,United States,(216)  514-0200,41.499,-81.494,,,0
+Visionworks,,691 Richmond Rd,Richmond Town Center,Richmond Heights,OH,44143,United States,(440)  461-3792,41.542,-81.493,,,0
+Visionworks,,921 N 10th St Suite B,The Landing ,Renton,WA,98057,United States,(425)  255-1022,47.497787,-122.202965,,,0
+Visionworks,,28150 Willet Way,The Shops at Wiregrass,Wesley Chapel,FL,33543,United States,(813)  907-2844,28.188011,-82.347701,,,0
+Visionworks,,13217 Cortez Blvd,Coastal Landing,Brooksville,FL,34613,United States,(352)  597-8963,28.533761,-82.507447,,,0
+Visionworks,,"4645 Casey Boulevard, Ste 130",Settlers Market at New Town,Williamsburg,VA,23188,United States,(757)  259-4685,37.277,-76.75,,,0
+Visionworks,,336 W Prien Lake Rd,Prien Lake Mall,Lake Charles,LA,70601,United States,(337)  474-3395,30.200432,-93.225492,,,0
+Visionworks,,8748 N Dixson Ave,Zona Rosa,Kansas City,MO,64153,United States,(816)  505-1346,39.103,-94.583,,,0
+Visionworks,,8505 North Church Rd,Church Road,Kansas City,MO,64157,United States,(816)  415-3163,39.24631,-94.458003,,,0
+Visionworks,,198 Colony Pl,Old Colony Place,Plymouth,MA,02360,United States,(508)  732-0196,41.953,-70.714,,,0
+Visionworks,,2659 A S Woodland Blvd,West Volusia Regional Shopping Center,Deland,FL,32720,United States,(386)  736-3554,28.981,-81.299,,,0
+Visionworks,,"120 Fifth Ave Pl, #M-110",Fifth Ave Place,Pittsburgh,PA,15222,United States,(412)  471-1306,40.442,-80.006,,,0
+Empire Visionworks,,"3900 Vestal Pkwy E, P.O. Box 677",,Vestal,NY,13850,United States,(607)  729-1212,42.079,-76.019,,,0
+Visionworks,,"2421 Cranberry Hwy, Ste 210",Wareham Crossing,Wareham,MA,02571,United States,(508)  273-0107,41.776,-70.745,,,0
+Visionworks,,"325 State Rd, Route 6",,Dartmouth,MA,02747,United States,(508)  996-3364,41.637,-70.964,,,0
+Visionworks,,"212 Northtown Dr, Ste H7A",Northtown Mall,Blaine,MN,55434,United States,(763)  784-3221,45.129,-93.261,,,0
+Visionworks,,765 Haywood Rd,Haywood Road,Greenville,SC,29607,United States,(864)  297-7990,34.852,-82.336,,,0
+Visionworks,,10317 S State St,South Town Plaza,Sandy,UT,84070,United States,(801)  572-4810,40.564,-111.89,,,0
+Visionworks,,"148 E Winchester, Area C-D",The Shoppes at Fashion Place,Murray,UT,84107,United States,(801)  269-8804,40.632535,-111.887382,,,0
+Visionworks,,"1000 Turtle Creek Dr, #450",Turtle Creek Mall,Hattiesburg,MS,39402,United States,(601)  268-1117,31.3266101,-89.376045,,,0
+Visionworks,,"One W FlatIron Dr, Ste 2026",Flatiron Crossing,Broomfield,CO,80021,United States,(303)  469-0857,39.933,-105.132,,,0
+Visionworks,,9410 Sheridan Blvd,Westminster ,Westminster,CO,80031,United States,(303)  429-1382,39.868,-105.053,,,0
+Visionworks,,"1242 S Hover Street, Ste C200",Village at the Peaks ,Longmont,CO,80501,United States,(303)  678-2985,40.144,-105.131,,,0
+Visionworks,,"7305 E 35th Ave, Ste 180",Quebec Square,Denver,CO,80238,United States,(303)  320-0222,39.766,-104.901,,,0
+Visionworks,,"14500 W Colfax Ave, #524",Colorado Mills,Lakewood,CO,80401,United States,(303)  271-0354,39.732,-105.159,,,0
+Visionworks,,"355 S Wadsworth Blvd, Ste D",Lakewood City Commons,Lakewood,CO,80226,United States,(720)  962-6906,39.709,-105.082,,,0
+Visionworks,,"545 S Broadway, Ste 500 B-1",Broadway Market Place,Denver,CO,80209,United States,(720)  570-4338,39.706,-104.988,,,0
+Visionworks,,13955 E Mississippi,Aurora,Aurora,CO,80012,United States,(303)  695-4999,39.697,-104.826,,,0
+Visionworks,,"8501 W Bowles, Ste 1050",Southwest Plaza,Littleton,CO,80123,United States,(303)  948-3332,39.611,-105.095,,,0
+Visionworks,,"3138 SE Military Dr, Ste 112",City Base Landing Shopping Ctr.,San Antonio,TX,78223,United States,(210)  359-8937,29.352,-98.436,,,0
+Visionworks Doctors of Optometry,,5220 Frederica St,Southgate,Owensboro,KY,42301,United States,(270)  684-1174,37.717,-87.126,,,0
+Visionworks,,"215 Adams Dr, Ste 201",Weatherford Ridge,Weatherford,TX,76086,United States,(817)  594-0530,32.732,-97.788,,,0
+Visionworks,,1900 S Commons,The Commons at Federal Way,Federal Way,WA,98003,United States,(253)  529-7756,47.314279,-122.307757,,,0
+Empire Visionworks,,5006 State Hwy 23,Southside Mall,Oneonta,NY,13820,United States,(607)  436-9200,42.462,-75.051,,,0
+Visionworks,,"273 Loudon Rd, Ste 7",Loudon Road,Concord,NH,03301,United States,(603)  224-0418,43.224,-71.491,,,0
+Visionworks,,"4750 N Division, Space 282",Northtown Mall,Spokane,WA,99207,United States,(509)  483-2020,47.703,-117.409,,,0
+Visionworks,,"318 Mall Blvd, Ste 600, Unit A",Market Walk Shopping Center,Savannah,GA,31406,United States,(912)  356-3833,32.002,-81.111,,,0
+Visionworks,,"276 Pooler Pkwy, Ste B",Village on Pooler Parkway,Pooler,GA,31322,United States,(912)  330-8884,32.14,-81.252,,,0
+Visionworks,,"2001 W Lincoln Ave, Ste 52",Westridge Mall,Fergus Falls,MN,56537,United States,(218)  736-2636,46.288,-96.11,,,0
+Visionworks,,"5307 Highway 153, Ste 101",The Meadows,Hixson,TN,37343,United States,(423)  877-3309,35.128,-85.243,,,0
+Empire Visionworks,,722 S Meadow St,Threshold Plaza,Ithaca,NY,14850,United States,(607)  273-3300,42.447,-76.491,,,0
+Visionworks Doctors of Optometry,,"377 West Jackson St, #D-1",Jackson Plaza,Cookeville,TN,38501,United States,(931)  525-1268,36.157,-85.517,,,0
+Visionworks,,12633 Stone Village Way,Stonehenge Village,Midlothian,VA,23113,United States,(804)  594-7030,37.502495,-77.627208,,,0
+Visionworks Doctors of Optometry,,841 Industrial Blvd,Colonial Towne Park,Smyrna,TN,37167,United States,(615)  220-6108,35.98,-86.567,,,0
+Visionworks Doctors of Optometry,,5304-J Mt View Rd,Hickory,Antioch,TN,37013,United States,(615)  731-2701,36.048,-86.649,,,0
+Visionworks Doctors of Optometry,,"115 Mall Circle Dr, Ste A",Murfrees,Murfreesboro,TN,37129,United States,(615)  895-7090,35.847,-86.421,,,0
+Visionworks Doctors of Optometry,,"8113 Moores Lane, Ste 1800",Cool Springs,Brentwood,TN,37027,United States,(615)  309-5050,35.966,-86.801,,,0
+Visionworks Doctors of Optometry,,"20 Old Pleasant Grove Rd, Ste 200",The Paddocks at Mt. Juliet,Mt  Juliet,TN,37122,United States,(615)  758-3833,36.176,-86.514,,,0
+Visionworks,,"1800 Galleria Blvd, #1330",Cool Springs Galleria,Franklin,TN,37067,United States,(615)  771-7382,35.958,-86.813,,,0
+Visionworks Doctors of Optometry,,"3904 Hillsboro Pike, Ste C",Greenhills,Nashville,TN,37215,United States,(615)  292-2040,36.106,-86.814,,,0
+Visionworks Doctors of Optometry,,"6800 Charlotte Pike, Ste 110",Nashville West,Nashville,TN,37209,United States,(615)  354-5807,36.135,-86.888,,,0
+Visionworks Doctors of Optometry,,1701 Gallatin Rd,Rivergate,Madison,TN,37115,United States,(615)  868-2000,36.294,-86.701,,,0
+Visionworks,,"1000 Rivergate Pkwy, #1560",Rivergate Mall,Goodlettsville,TN,37072,United States,(615)  859-7447,36.305,-86.697,,,0
+Visionworks Doctors of Optometry,,"254 Indian Lake Blvd, Ste 100",The Crossing at Indian Lake Village,Hendersonville,TN,37075,United States,(615)  822-0446,36.326,-86.594,,,0
+Visionworks,,2 B Haw Creek Lane,Asheville Shopping Center,Asheville,NC,28805,United States,(828)  298-0207,35.605,-82.486,,,0
+Visionworks,,"6002 Slide Rd, Ste SP H02",South Plains Mall,Lubbock,TX,79414,United States,(806)  795-2495,33.539317,-101.925752,,,0
+Visionworks,,"5546 W Broadway, #135",Crystal Gallery Mall,Crystal,MN,55428,United States,(763)  537-8896,45.054,-93.365,,,0
+Visionworks Doctors of Optometry,,1150 Vann Drive,The Columns,Jackson,TN,38305,United States,(731)  668-3806,35.658,-88.874,,,0
+Visionworks Doctors of Optometry,,3571 Springhurst Blvd,Springhurst Town Center,Louisville,KY,40241,United States,(502)  339-7323,38.299,-85.56,,,0
+Visionworks Doctors of Optometry,,"13210 Shelbyville Rd, Ste 101",,Middletown,KY,40223,United States,(502)  244-9198,38.242,-85.511,,,0
+Visionworks Doctors of Optometry,,1001 Breckinridge Lane,Dupont,Louisville,KY,40207,United States,(502)  893-2015,38.233,-85.638,,,0
+Visionworks Doctors of Optometry,,1030 Veterans Pkwy,Waterford Park South,Clarksville,IN,47129,United States,(812)  282-2020,38.326,-85.765,,,0
+Visionworks Doctors of Optometry,,100 W Market St,West Market St,Louisville,KY,40202,United States,(502)  587-8488,38.254,-85.752,,,0
+Visionworks Doctors of Optometry,,2202 State St,Wesley Commons,New Albany,IN,47150,United States,(812)  941-0476,38.305,-85.84,,,0
+Visionworks,,"7850 Mentor Ave, #368",Great Lakes Mall,Mentor,OH,44060,United States,(440)  974-6487,41.658,-81.361,,,0
+Visionworks,,2735 West Hwy 54,McIntosh Village,Peachtree City,GA,30269,United States,(678)  364-0340,33.3968496,-84.5953184,,,0
+Visionworks,,324 Newnan Crossing Bypass,Ashley Park,Newnan,GA,30265,United States,(678)  423-3927,33.389,-84.763,,,0
+Visionworks,,165 Pavilion Pkwy,Fayette Pavilion,Fayetteville,GA,30214,United States,(678)  817-4875,33.48,-84.447,,,0
+Visionworks,,"323 N W State Rd, Ste A",The Meadows,American Fork,UT,84003,United States,(801)  763-9898,40.383,-111.815,,,0
+Visionworks,,"575 East University Parkway, Ste A 4",University Mall,Orem,UT,84097,United States,(801)  225-1426,40.275,-111.68,,,0
+Visionworks,,1076 Town East Mall,Town East Mall,Mesquite,TX,75150,United States,(972)  613-8260,32.809,-96.627,,,0
+Visionworks,,"2665 Market Center Dr, #100",Rockwall Market,Rockwall,TX,75032,United States,(972)  772-7851,32.898,-96.465,,,0
+Visionworks,,"485 Cedar Sage, Space J13",Firewheel Town Center,Garland,TX,75040,United States,(972)  530-2700,32.953,-96.61,,,0
+Visionworks,,"3977 S Arizona Avenue, Ste 5",Paseo Lindo,Chandler,AZ,85248,United States,(480)  802-0199,33.248406,-111.840682,,,0
+Visionworks,,"2156 E Williams Field Rd, Ste 104",San Tan Village,Gilbert,AZ,85296,United States,(480)  814-2583,33.309,-111.744,,,0
+Visionworks,,"21227 S Ellsworth Loop Road, Ste 102",QC District,Queen Creek,AZ,85142,United States,(480)  987-3097,33.255892,-111.639145,,,0
+Visionworks,,"6555 E Southern Ave, #2410",Superstition Springs,Mesa,AZ,85206,United States,(480)  985-7239,33.394,-111.689,,,0
+Visionworks,,1826 S Signal Butte Road Suite 101,Superstition Gateway,Mesa,AZ,85209,United States,(480)  354-9504,33.382059,-111.601093,,,0
+Visionworks,,"7000 E Mayo Blvd, Bldg 4",North Scottsdale,Phoenix,AZ,85054,United States,(480)  513-3106,33.656,-111.93,,,0
+Visionworks,,5151 Dressler Rd NW,Belden Village Commons,Canton,OH,44718,United States,(330)  497-7406,40.854,-81.461,,,0
+Visionworks,,"2000 Brittain Rd, Ste 601",Chapel Hill ,Akron,OH,44310,United States,(330)  633-6446,41.115,-81.469,,,0
+Visionworks,,1600 N Riverside Ave,Rogue Valley Mall,Medford,OR,97501,United States,(541)  776-6966,42.343,-122.877,,,0
+Empire Visionworks,,Route 30 N,Polar Plaza,Amsterdam,NY,12010,United States,(518)  843-5353,42.939,-74.189,,,0
+Visionworks,,950-A NW Blue Pkwy,Summit Fair,Lees Summit,MO,64086,United States,(816)  246-1327,38.933,-94.402,,,0
+Visionworks,,"18813 E 39th St S, Ste 1004",Independence Center,Independence,MO,64057,United States,(816)  795-0011,39.046,-94.358,,,0
+Visionworks,,741 N Alafaya Trail,Waterford Lakes Shopping Center,Orlando,FL,32828,United States,(407)  658-0375,28.555722,-81.203768,,,0
+Visionworks,,"700 S Telshor, #1536",Mesilla Valley Mall,Las Cruces,NM,88001,United States,(575)  522-8244,32.309,-106.742,,,0
+Visionworks,,1600 Miller Trunk Hwy,Miller Hill Mall,Duluth,MN,55811,United States,(218)  727-6838,46.805,-92.16,,,0
+Visionworks,,99 E Main Rd,Aquidneck Centre,Middletown,RI,02842,United States,(401)  848-7400,41.517,-71.276,,,0
+Empire Visionworks,,"5716 S Transit Rd, Ste 600",Home Depot Plaza,Lockport,NY,14094,United States,(716)  433-0504,43.171,-78.69,,,0
+Empire Visionworks,,"6660 4th Section Rd, Ste 3",,Brockport,NY,14420,United States,(585)  637-3300,43.2,-77.946,,,0
+Visionworks,,4555 14th St W,Cortez Plaza,Bradenton,FL,34207,United States,(941)  755-0143,27.459,-82.575,,,0
+Visionworks,,6527 S Tamiami Trail,Sarasota Pavilion Shopping Center,Sarasota,FL,34231,United States,(941)  924-9375,27.26,-82.522,,,0
+Visionworks,,11025 Carolina Place Pkwy,Carolina Place Mall,Pineville,NC,28134,United States,(704)  341-7800,35.082,-80.877,,,0
+Visionworks,,3319 Pineville-Matthews Rd,The Arboretum,Charlotte,NC,28226,United States,(704)  542-5069,35.097,-80.784,,,0
+Visionworks,,4456 Randolph Rd,Cotswold,Charlotte,NC,28211,United States,(704)  365-6277,35.177,-80.799,,,0
+Visionworks,,"2929 Turner Hill Rd, Space 2625",The Mall at Stonecrest,Lithonia,GA,30038,United States,(770)  482-5050,33.698,-84.09,,,0
+Visionworks,,"4153 LaVista Rd, Ste C",Shoppes at Lavista,Tucker,GA,30084,United States,(770)  939-8828,33.849,-84.236,,,0
+Visionworks,,"1905 Scenic Hwy, Ste 1130",Presidential Market,Snellville,GA,30078,United States,(678)  344-9954,33.877,-84.015,,,0
+Visionworks,,"2131 Pleasant Hill Rd NW, Ste 152",Mall Corners,Duluth,GA,30096,United States,(678)  475-0500,33.957,-84.135,,,0
+Visionworks,,1245 Cumberland Mall,Cumberland Mall,Altanta,GA,30339,United States,(770)  434-0440,33.879,-84.471,,,0
+Visionworks,,"3360 Shelby Lane, Ste 1010",Camp Creek Marketplace,East Point,GA,30344,United States,(404)  344-0274,33.657,-84.502,,,0
+Visionworks,,1862 Jonesboro Rd,Henry Town Center,McDonough,GA,30253,United States,(678)  432-1584,33.466,-84.218,,,0
+Visionworks,,7300 North Point Parkway Ste 122,North Point Village,Alpharetta,GA,30022,United States,(770)  752-0763,34.042251,-84.30191,,,0
+Visionworks,,"11720 Medlock Bridge Rd, Ste 140",Johns Creek Village,Johns Creek,GA,30097,United States,(770)  495-7898,34.067,-84.17,,,0
+Visionworks,,"3333 Buford Dr, Ste 1030",Mall of Georgia,Buford,GA,30519,United States,(678)  546-0024,34.064,-83.984,,,0
+Visionworks,,"400 N Center St, #187",Townmall of Westminster,Westminster,MD,21157,United States,(410)  751-6375,39.579,-76.983,,,0
+Visionworks,,2745 Watson Blvd,Warner Robins Station,Warner Robins,GA,31093,United States,(478)  953-1993,32.618,-83.676,,,0
+Visionworks,,"5080 Riverside Dr, Ste 326",Shoppes at River Crossing,Macon,GA,31210,United States,(478)  477-0323,32.926,-83.715,,,0
+Visionworks,,"3111 Midwestern Pkwy, Ste 256-A",Sikes Center,Wichita Falls,TX,76308,United States,(940)  691-4525,33.868,-98.522,,,0
+Visionworks,,"917 N Promenade Pkwy, Ste 101",Promenade at Casa Grande,Casa Grande,AZ,85194,United States,(520)  836-8946,32.882,-111.682,,,0
+Visionworks,,"1530 Market Place Blvd, Ste D",Cumming Station,Cumming,GA,30041,United States,(678)  513-8541,34.187,-84.132,,,0
+Visionworks,,"160 Creekside Way, Ste 202",New Braunfels Town Center at Creekside,New Braunfels,TX,78130,United States,(830)  620-9469,29.727,-98.071,,,0
+Visionworks,,"2100 S W Young Dr, #1000",Killeen Mall,Killeen,TX,76543,United States,(254)  690-1313,31.095,-97.721,,,0
+Visionworks,,10953 Westheimer,Westchase Shopping Center,Houston,TX,77042,United States,(713)  334-4169,29.737,-95.569,,,0
+Visionworks,,248 Memorial City,Memorial City Mall,Houston,TX,77024,United States,(713)  468-6648,29.782,-95.539,,,0
+Visionworks,,"1000 West Oaks Mall, Space 136",West Oaks Mall,Houston,TX,77082,United States,(281)  589-1666,29.735,-95.648,,,0
+Visionworks,,225 Cypresswood Court,Cypress Court,Spring,TX,77388,United States,(281)  288-4225,30.052,-95.434,,,0
+Empire Visionworks,,809 Canandaigua Rd,Pyramid Mall,Geneva,NY,14456,United States,(315)  781-1162,42.856,-77.012,,,0
+Visionworks,,"900 Commons Dr, Ste 604",Wiregrass Commons Mall,Dothan,AL,36303,United States,(334)  794-9666,31.254,-85.423,,,0
+Visionworks,,"3265 W Market St, Rm 632",Summit Mall,Akron,OH,44333,United States,(330)  864-7708,41.134,-81.618,,,0
+Visionworks Doctors of Optometry,,"231 New Byhalia Rd, Ste 100",Poplar Square Shopping Center,Collierville,TN,38017,United States,(901)  854-6798,35.047,-89.689,,,0
+Visionworks,,"91 Point Judith Rd, Ste 2",Salt Pond Shopping Center,Narragansett,RI,02882,United States,(401)  782-2100,41.43,-71.482,,,0
+Visionworks,,9078 Westview Rd,Park Meadow,Littleton,CO,80124,United States,(303)  662-8977,39.565,-104.884,,,0
+Visionworks,,8081 Wedgewood Lane N,,Maple Grove,MN,55369,United States,(763)  416-3795,45.101,-93.45,,,0
+Visionworks,,671 Dawsonville Highway,Gainesville,Gainesville,GA,30501,United States,(770)  297-3583,34.295,-83.851,,,0
+Visionworks,,7800 N Navarro,Victoria Mall,Victoria,TX,77904,United States,(361)  572-8256,28.869,-96.994,,,0
+Visionworks,,9480 Arlington Expressway,Regency,Jacksonville,FL,32225,United States,(904)  721-7665,30.321,-81.552,,,0
+Visionworks,,"4890 Big Island Dr, Ste 1",The Markets at Town Center,Jacksonville,FL,32246,United States,(904)  642-5658,30.253,-81.53,,,0
+Visionworks,,"2370 N Expressway, Space 1532",Sunrise Mall,Brownsville,TX,78526,United States,(956)  544-6405,25.946,-97.504,,,0
+Visionworks Doctors of Optometry,,"500 Winchester Ave, Ste 810",Ashland Town Center,Ashland,KY,41101,United States,(606)  324-3672,38.484,-82.653,,,0
+Empire Visionworks,,201 Market St,Potsdam Plaza,Potsdam,NY,13676,United States,(315)  265-7872,44.669,-74.987,,,0
+Visionworks,,"705 SW 19th Street, Ste 160",Shoppes on 19th Avenue,Moore,OK,73160,United States,(405)  790-0399,35.3197952,-97.5029113,,,0
+Visionworks,,3539 W Main St,Sooner Mall,Norman,OK,73072,United States,(405)  360-6400,35.218,-97.49,,,0
+Visionworks,,"3902 13th Ave S, Ste 406",West Acres Shopping Center   ,Fargo,ND,58103,United States,(701)  277-9555,46.859,-96.849,,,0
+Visionworks,,"2407 S College Ave, Unit 300",University Center,Fort Collins,CO,80525,United States,(970)  484-3787,40.556,-105.077,,,0
+Visionworks,,"2155 Greeley Mall, Ste B",Greeley Mall,Greeley,CO,80631,United States,(970)  356-1161,40.391,-104.712,,,0
+Visionworks Doctors of Optometry,,2141 Sagamore Pkwy South,Teal Plaza Outlet,Lafayette,IN,47905,United States,(765)  446-8010,40.3963449,-86.85627469999997,,,0
+Visionworks,,"3301 Coral Way, Ste 102A",Miracle Marketplace,Miami,FL,33145,United States,(305)  443-7276,25.75,-80.25,,,0
+Visionworks,,"3401 N Miami Ave, Ste 102",Shops at Midtown Miami,Miami,FL,33127,United States,(305)  571-1956,25.81,-80.195,,,0
+Visionworks,,6702 Bird Rd,Bird-Ludlum Shopping Center,Miami,FL,33155,United States,(305)  661-1567,25.733,-80.303,,,0
+Visionworks,,13601 S Dixie Hwy,Colonial Palms Plaza,Miami,FL,33176,United States,(305)  378-8800,25.643,-80.334,,,0
+Visionworks,,"10071 West Flagler, Ste C 100",Fontainebleau Square,Miami,FL,33174,United States,(305)  552-5702,25.769,-80.361,,,0
+Visionworks,,11662 N Kendall Dr,Crossroads Shopping Center,Miami,FL,33176,United States,(305)  279-6264,25.686,-80.384,,,0
+Visionworks,,620 W 49th St,Palm Springs Mile Shopping Center,Hialeah,FL,33012,United States,(305)  828-9426,25.867,-80.296,,,0
+Visionworks,,"13550 SW 120th St, Ste 410A",London Square,Miami,FL,33186,United States,(305)  235-7282,25.656,-80.416,,,0
+Visionworks,,1610 NE 163rd St,NE 163rd Street,North Miami Beach,FL,33162,United States,(305)  945-7301,25.926,-80.182,,,0
+Visionworks,,897 NE 8th St,Homestead Town Center,Homestead,FL,33030,United States,(305)  247-2941,25.477,-80.465,,,0
+Visionworks,,12208 Pines Blvd,Pembroke Pines Crossings,Pembroke Pines,FL,33026,United States,(954)  441-1167,26.008,-80.309,,,0
+Visionworks,,"3456 Wrightsboro Rd, Unit C",,Augusta,GA,30909,United States,(706)  733-4786,33.467,-82.082,,,0
+Visionworks,,255 W Canfield Ave,Silver Lake Plaza,Coeur D Alene,ID,83815,United States,(208)  772-6193,47.733,-116.79,,,0
+Visionworks Doctors of Optometry,,2608 Scottsville Rd,Scottsville Rd,Bowling Green,KY,42104,United States,(270)  782-2025,36.951,-86.425,,,0
+Visionworks,,"7701 W Interstate I-40, #102",Westgate Mall,Amarillo,TX,79121,United States,(806)  359-1641,35.193,-101.755,,,0
+Visionworks,,5953 W Park Ave Suite 1031,Southland Mall,Houma,LA,70364,United States,(985)  868-0699,29.634,-90.756,,,0
+Visionworks,,"200 Western Ave, Ste D 5",Faribo Mall,Faribault,MN,55021,United States,(507)  334-7941,44.292,-93.303,,,0
+Visionworks,,3100 Highway 365,Central Mall,Port Arthur,TX,77640,United States,(409)  727-5229,29.948,-93.989,,,0
+Visionworks,,"8561 Concord Mills Blvd, Ste B",Concord Mills Shops,Concord,NC,28027,United States,(704)  979-8234,35.373,-80.724,,,0
+Visionworks,,"8204 Ikea Blvd, Ste 3A",Belgate Shopping Center,Charlotte,NC,28262,United States,(704)  921-2666,35.295,-80.762,,,0
+Visionworks,,"300 Monticello Ave, Space 263",Macarthur Center,Norfolk,VA,23510,United States,(757)  622-0105,36.849126,-76.287982,,,0
+Visionworks,,"1780 Stirling Rd, Ste 101",,Dania Beach,FL,33004,United States,(954)  920-6656,26.049,-80.159,,,0
+Visionworks,,805 S University Dr,Fountains Shopping Center,Plantation,FL,33324,United States,(954)  473-2761,26.112,-80.251,,,0
+Visionworks,,2131 N Federal Highway,Ft. Lauderdale,Ft Lauderdale,FL,33305,United States,(954)  565-8308,26.153,-80.119,,,0
+Visionworks,,"18500 Veterans Blvd, Ste 4",Heritage Plaza,Port Charlotte,FL,33954,United States,(941)  743-9499,27.013,-82.146,,,0
+Empire Visionworks,,1663 E Henrietta Rd,,Rochester,NY,14623,United States,(585)  424-7400,43.0881,-77.610317,,,0
+Visionworks,,"4150 Southwest Dr, #100",The Plaza-Park Central,Abilene,TX,79606,United States,(325)  692-9440,32.412,-99.777,,,0
+Visionworks,,"1105 Walnut Street, Ste H0158",Cary Towne Center,Cary,NC,27511,United States,(919)  465-0354,35.7737833,-78.75784340000001,,,0
+Visionworks,,"5517 S Williamson Blvd, Ste 310",The Pavilion at Port Orange,Port Orange,FL,32128,United States,(386)  322-4304,29.107,-81.033,,,0
+Visionworks,,12320 S Cleveland Ave,South Cleveland,Fort Myers,FL,33907,United States,(239)  936-5591,26.563,-81.873,,,0
+Visionworks,,"10600 Tamiami Trail N, Ste 600",Granada Shoppes,Naples,FL,34108,United States,(239)  513-1083,26.268,-81.801,,,0
+Visionworks,,"2275 Pine Ridge Rd, Ste 112-113",Ross Plaza,Naples,FL,34109,United States,(239)  513-1018,26.212,-81.771,,,0
+Visionworks,,2190 9th St N,9th Street North,Naples,FL,34102,United States,(239)  263-3223,26.174,-81.799,,,0
+Visionworks,,1315 N Academy Blvd,Rustic Hills,Colorado Springs,CO,80909,United States,(719)  597-6987,38.852,-104.757,,,0
+Visionworks,,7238 N Academy,N Academy Blvd,Colorado Springs,CO,80920,United States,(719)  592-9991,38.9375067,-104.7991586,,,0
+Visionworks Doctors of Optometry,,"3695 Nicholasville Rd, Ste 150",,Lexington,KY,40503,United States,(859)  273-4443,37.985,-84.528,,,0
+Visionworks Doctors of Optometry,,"2312 Sir Barton Way, Ste 170",Hamburg Pavilion,Lexington,KY,40509,United States,(859)  543-8383,38.024,-84.422,,,0
+Visionworks Doctors of Optometry,,"111 Jett Blvd, Ste 100",Frankfort Parkside ,Frankfort,KY,40601,United States,(502)  695-6310,38.176,-84.816,,,0
+Visionworks Doctors of Optometry,,450 Connector Road,Cherry Blossom,Georgetown,KY,40324,United States,(502)  868-9870,38.229162,-84.535308,,,0
+Empire Visionworks,,2590 Ridge Rd W,Buckman's Plaza,Rochester,NY,14626,United States,(585)  227-7150,43.211,-77.698,,,0
+Empire Visionworks,,525 Titus Ave,Irondequoit,Rochester,NY,14617,United States,(585)  544-6900,43.21,-77.602,,,0
+Empire Visionworks,,3246 Monroe Ave,Pittsford,Rochester,NY,14618,United States,(585)  385-4980,43.116,-77.556,,,0
+Visionworks,,"223 Faith Rd, Space I",Innes Street Market,Salisbury,NC,28146,United States,(704)  636-7789,35.654,-80.458,,,0
+Visionworks,,"5164 Meadowood Mall Circle, Space F109",Meadowood Mall,Reno,NV,89502,United States,(775)  829-8366,39.476,-119.785,,,0
+Visionworks,,19166 Freeport St,Elk Park Center,Elk River,MN,55330,United States,(763)  441-0741,45.32,-93.563,,,0
+Visionworks,,15795 E Arapahoe Rd,Centennial Center,Centennial,CO,80016,United States,(303)  680-1987,39.596,-104.804,,,0
+Visionworks,,6252 S Central St,Southlands,Aurora,CO,80016,United States,(303)  693-0333,39.603,-104.706,,,0
+Visionworks,,"750 Sunland Park Dr, Space D10",Sunland Park Mall,El Paso,TX,79912,United States,(915)  842-9985,31.859,-106.547,,,0
+Visionworks,,2506 N Monroe St,North Monroe St,Tallahassee,FL,32303,United States,(850)  385-0103,30.474,-84.294,,,0
+Empire Visionworks,,50 Cobblestone Court Dr,Cobblestone Court,Victor,NY,14564,United States,(585)  425-1770,42.983,-77.409,,,0
+Empire Visionworks,,"1028 Ridge Rd, Ste 104",,Webster,NY,14580,United States,(585)  872-2200,43.213,-77.455,,,0
+Visionworks,,4514 Oleander Dr,Oleander Pointe Shopping Center,Wilmington,NC,28403,United States,(910)  392-5522,34.21,-77.888,,,0
+Visionworks,,"4650 N Highway 89, Space C-2",Flagstaff Mall,Flagstaff,AZ,86004,United States,(928)  526-1911,35.201,-111.639,,,0
+Visionworks,,"8401 Gateway Blvd W, Space P05A",Cielo Vista Mall,El Paso,TX,79925,United States,(915)  881-1387,31.774,-106.379,,,0
+Visionworks,,560 Millcreek Mall,Millcreek Mall,Erie,PA,16565,United States,(814)  868-8540,42.069107,-80.09832,,,0
+Visionworks,,"1810 Cumming Hwy, Space F-1010",Canton Marketplace,Canton,GA,30114,United States,(770)  704-9666,34.237,-84.461,,,0
+Visionworks,,50 Main Street Market Place SE Ste 100,Main Street Marketplace,Cartersville,GA,30121,United States,(770)  382-6379,34.173252,-84.779252,,,0
+Visionworks,,"400 Barrett Parkway, Ste 158",Town Center at Cobb,Kennesaw,GA,30144,United States,(770)  429-1660,34.018,-84.562,,,0
+Visionworks,,"4373 Jimmy Lee Smith Pkwy, Ste 101",Paulding Commons,Hiram,GA,30141,United States,(770)  943-2220,33.892,-84.755,,,0
+Visionworks,,"4101 E 42nd St, Ste 100",Music City Mall,Odessa,TX,79762,United States,(432)  367-1600,31.897,-102.338,,,0
+Visionworks,,"5300 San Dario St, 136A",Mall Del Norte,Laredo,TX,78041,United States,(956)  726-4335,27.551,-99.501,,,0
+Visionworks,,4206 N Freeway,North Freeway,Pueblo,CO,81008,United States,(719)  253-2538,38.313,-104.614,,,0
+Empire Visionworks,,140 Route 104,Oswego Plaza,Oswego,NY,13126,United States,(315)  342-0727,43.461,-76.489,,,0

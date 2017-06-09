@@ -1,0 +1,12 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Chicago,,600 N Michigan Avenue at Ontario,,Chicago,IL,60611,United States,312-276-2500,41.89334,-87.6242,Mon - Thu:11:00AM - 11:30PM; Fri:11:00AM - 12:30AM; Sat:9:00AM - 12:30AM; Sun:9:00AM - 11:30PM; ,,0
+Austin,,11506 Century Oaks Terrace,Suite 128,Austin,TX,78758,United States,512-873-7477,30.4017957142857,-97.7261906122449,Mon - Thu:11:30AM - 11:00PM; Fri:11:30AM - 12:00AM; Sat:10:00AM - 12:00AM; Sun:10:00AM - 10:00PM; ,,0
+Dallas,,13420 N Dallas Parkway,,Dallas,TX,75240,United States,972-385-3114,32.9313397661676,-96.8213465827268,Mon - Thu:11:00AM - 11:00PM; Fri:11:00AM - 12:00AM; Sat:10:00AM - 12:00AM; Sun:10:00AM - 10:00PM; ,,0
+Houston,,5000 Westheimer Road,,Houston,TX,77056,United States,713-626-1700,29.74083,-95.46134,Mon - Thu:11:00AM - 11:00PM; Fri:11:00AM - 12:00AM; Sat:10:00AM - 12:00AM; Sun:10:00AM - 11:00PM; ,,0
+King of Prussia,,160 N Gulph Road,Suite 2395,King of Prussia,PA,19406,United States,610-768-1620,40.0860622,-75.395345,Mon - Thu:11:30AM - 11:00PM; Fri:11:30AM - 12:00AM; Sat:10:00AM - 12:00AM; Sun:10:00AM - 11:00PM; ,,0
+Cherry Hill,,2000 Route 38,Suite 1072,Cherry Hill,NJ,08002,United States,856-486-7232,39.93887,-75.02523,Mon - Thu:11:30AM - 11:00PM; Fri:11:30AM - 12:00AM; Sat:11:00AM - 12:00AM; Sun:10:00AM - 11:00PM; ,,0
+Paramus,,1 Garden State Plaza,#R1 Route,Paramus,NJ,07652,United States,201-909-0399,40.91475,-74.07902,Mon - Thu:11:30AM - 11:00PM; Fri:11:30AM - 12:00AM; Sat:11:00AM - 12:00AM; Sun:10:00AM - 11:00PM; ,,0
+Garden City,,630 Old Country Road,,Garden City,NY,11530,United States,516-741-0096,40.740701,-73.615317,Mon - Thu:11:30AM - 11:00PM; Fri:11:30AM - 12:00AM; Sat:10:00AM - 12:00AM; Sun:10:00AM - 11:00PM; ,,0
+Aventura,,19575 Biscayne Boulevard,,Aventura,FL,33180,United States,305-932-9113,25.956672,-80.14678,Mon - Thu:11:30AM - 11:00PM; Fri:11:30AM - 12:00AM; Sat:11:00AM - 12:00AM; Sun:10:00AM - 11:00PM; ,,0
+Boca Raton,,6000 Glades Road,Suite 1016,Boca Raton,FL,33431,United States,561-392-2141,26.3686,-80.13722,Mon - Thu:11:30AM - 11:00PM; Fri:11:30AM - 12:00AM; Sat:11:00AM - 12:00AM; Sun:10:00AM - 11:00PM; ,,0
+Sunrise,,1780 Sawgrass Mills Circle,,Sunrise,FL,33323,United States,954-838-9711,26.14802,-80.32016,Mon - Thu:11:30AM - 11:00PM; Fri:11:30AM - 12:00AM; Sat:11:00AM - 12:00AM; Sun:10:00AM - 11:00PM; ,,0

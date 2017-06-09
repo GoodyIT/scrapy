@@ -1,0 +1,62 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+"SPRINGFIELD, MO",,2867 East Sunshine Street,,Springfield,MO,65804,United States,(417)-882-2006,37.181142,-93.237083,Mon-Fri:7:30-6:00; ,,0
+MOBERLY,,529 East Highway 24,,Moberly,MO,65270,United States,(660)-269-7991,39.442702,-92.428948,Mon-Fri:7:30-6:00; ,,0
+O'FALLON NORTH,,1000 N. Main Street,,O'Fallon,MO,63366,United States,(636)-281-0560,38.82218,-90.69915,Mon-Fri:7:30-7:00; ,,0
+CAPE-TOWN PLAZA,,170 S. Kingshighway,,Cape Girardeau,MO,63703,United States,(573)-335-8585,37.30311,-89.55103,Mon-Fri:7:30-5:30; ,,0
+"ARNOLD, MO",,301 Plaza Way,,Arnold,MO,63010,United States,(636)-287-6625,38.41350,-90.39154,Mon-Fri:7:30-5:30; ,,0
+CAPE-NORTH KINGSHIGHWAY,,1638 N. Kingshighway,,Cape Girardeau,MO,63701,United States,(573)-339-0019,37.33063,-89.56942,Mon-Fri: 7:30-5:30; ,,0
+"PARK HILLS, MO",,1511 St. Joe Drive,,Park Hills,MO,63601,United States,(573)-431-2453,37.86689,-90.50549,Mon-Fri:7:30-5:30; ,,0
+"ROLLA, MO",,2311 Bishop Street,,Rolla,MO,65401,United States,(573)-364-3619,37.96452,-91.76596,Mon-Fri:7:30-5:30; ,,0
+"ANNA, IL",,161 East Vienna Street,,Anna,IL,62906,United States,(618)-833-2129,37.45953,-89.24256,Mon-Fri:7:30-5:30; ,,0
+"PADUCAH-LONE OAK, KY",,2854 Lone Oak Road,,Lone Oak,KY,42001,United States,(270)-554-2662,37.03899,-88.66123,Mon-Fri:7:30-5:30; ,,0
+"SIKESTON, MO",,901 South Kingshighway,,Sikeston,MO,63801,United States,(573)-472-0232,36.86722,-89.58576,Mon-Fri:7:30-5:30; ,,0
+"METROPOLIS, IL",,1503 East Fifth Street,,Metropolis,IL,62960,United States,(618)-524-7939,37.14911,-88.71336,Mon-Fri:7:30-5:30; ,,0
+"CARBONDALE, IL",,610 East Main Street,,Carbondale,IL,62901,United States,(618)-457-0309,37.72821,-89.20760,Mon-Fri:7:30-5:30; ,,0
+"IRONTON, MO",,138 South Knob Street,,Ironton,MO,63650,United States,(573)-546-3893,37.59881,-90.62663,Mon-Fri:7:30-5:30; ,,0
+"DESOTO, MO",,610 South Main Street,,DeSoto,MO,63020,United States,(636)-586-6123,38.13386,-90.55609,Mon-Fri:7:30-5:30; ,,0
+"FESTUS, MO",,301 Festus Centre Drive,,Festus,MO,63028,United States,(636)-937-3674,38.21317,-90.39249,Mon-Fri:7:30-5:30; ,,0
+"MURPHYSBORO, IL",,801 Walnut Street,,Murphysboro,IL,62966,United States,(618)-687-4525,37.76421,-89.33306,Mon-Fri:7:30-5:30; ,,0
+"MAYFIELD, KY",,"1102 Paris Road, Suite 30",,Mayfield,KY,42066,United States,(270)-251-3031,36.72538,-88.62882,Mon-Fri:7:30-5:30; ,,0
+"POPLAR BLUFF, MO",,1036 West Pine Street,,Poplar Bluff,MO,63901,United States,(573)-785-3938,36.75823,-90.40539,Mon-Fri:7:30-5:30; ,,0
+PADUCAH-HINKLEVILLE RD.,,5155 Hinkleville Rd.,,Paducah,KY,42001,United States,(270)-442-2828,37.07566,-88.69036,Mon-Fri:7:30-5:30; ,,0
+"COLUMBIA, MO",,806 Smiley Lane,,Columbia,MO,65202,United States,(573)-876-8000,38.99286,-92.32695,Mon-Fri:7:30-6:00; ,,0
+"MARION, IL",,1207 Enterprise Way,,Marion,IL,62959,United States,(618)-997-5211,37.74036,-88.93801,Mon-Fri:7:30-5:30; ,,0
+"DEXTER, MO",,717 Business Hwy. 60,,Dexter,MO,63841,United States,(573)-624-2555,36.80220,-89.96780,Mon-Fri:7:30-5:30; ,,0
+"POCAHONTAS, AR",,2111 Highway 67 South,,Pocahontas,AR,72455,United States,(870)-892-4683,36.24375,-90.95839,Mon-Fri:7:30-5:30; ,,0
+PADUCAH-IRVIN COBB,,3033 Irvin Cobb Drive,,Paducah,KY,42003,United States,(270)-442-6182,37.05584,-88.57262,Mon-Fri:7:30-5:30; ,,0
+"FREDERICKTOWN, MO",,600 Lincoln Drive,,Fredericktown,MO,63645,United States,(573)-783-6689,37.56806,-90.28518,Mon-Fri:7:30-5:30; ,,0
+"FARMINGTON, MO",,747 Weber Road,,Farmington,MO,63640,United States,(573)-760-1500,37.79158,-90.43276,Mon-Fri:7:30-5:30; ,,0
+"PERRYVILLE, MO",,1319 W. St. Joseph Street,,Perryville,MO,63775,United States,(573)-547-2004,37.72641,-89.88232,Mon-Fri:8:00-5:30; ,,0
+"SEARCY, AR",,2808 East Race Street,,Searcy,AR,72143,United States,(501)-279-2717,35.25052,-91.70504,Mon-Fri:7:30-5:30; ,,0
+"DUQUOIN, IL",,417 South Washington,,DuQuoin,IL,62832,United States,(618)-542-2777,38.00549,-89.23636,Mon-Fri:7:30-5:30; ,,0
+CAPE-SIEMERS DR.,,433 Siemers Drive,,Cape Girardeau,MO,63703,United States,(573)-332-0040,37.29184,-89.57791,Mon-Fri:7:30-5:30; ,,0
+"JONESBORO, AR",,1404 South Caraway,,Jonesboro,AR,72401,United States,(870)-932-4343,35.827712,-90.677466,Mon-Fri:7:30-5:30; ,,0
+"ST. PETERS, MO",,7878 Mexico Road,,St. Peters,MO,63376,United States,(636)-397-6333,38.787181,-90.661994,Mon-Fri:7:30-7:00; ,,0
+"MANCHESTER, MO",,105 Baxter Road,,Manchester,MO,63011,United States,(636)-256-2989,38.59467,-90.52323,Mon-Fri:7:30-7:00; ,,0
+ST. CHARLES-SOUTH,,2550 Old Highway 94 South,,St. Charles,MO,63303,United States,(636)-939-9494,38.75578,-90.54792,Mon-Fri:7:30-7:00; ,,0
+ST. CHARLES-WEST CLAY,,2498 West Clay,,St. Charles,MO,63301,United States,(636)-940-9898,38.78422,-90.51367,Mon-Fri:7:30-6:00; ,,0
+"STE. GENEVIEVE, MO",,210 Plaza Drive,,Ste. Genevieve,MO,63670,United States,(573)-883-8833,37.96753,-90.05469,Mon-Fri:8:00-5:30; ,,0
+"CHARLESTON, MO",,1325 South Main Street,,Charleston,MO,63834,United States,(573)-683-2442,36.90993,-89.35009,Mon-Fri:7:30-5:30; ,,0
+"MALDEN, MO",,1208 North Douglas,,Malden,MO,63863,United States,(573)-276-6001,36.57282,-89.97058,Mon-Fri:7:30-5:30; ,,0
+"BENTON, IL",,702 West Main Street,,Benton,IL,62812,United States,(618)-435-3900,37.99679,-88.92914,Mon-Fri:7:30-5:30; ,,0
+"JACKSON, MO",,312 West Washington Avenue,,Jackson,MO,63755,United States,(573)-243-0088,37.38378,-89.67006,Mon-Fri:7:30-5:30; ,,0
+"BENTON, KY",,395 Ash St.,,Benton,KY,42025,United States,(270)-527-5008,36.86778,-88.35988,Mon-Fri:7:30-5:30; ,,0
+"KENNETT, MO",,420 Independence Avenue,,Kennett,MO,63857,United States,(573)-888-6300,36.24037,-90.03324,Mon-Fri:7:30-5:30; ,,0
+"TROY, MO",,105 King Dr.,,Troy,MO,63379,United States,(636)-528-6222,38.98644,-90.97511,Mon-Fri:7:30-5:30; ,,0
+"POTOSI, MO",,703 East High Street,,Potosi,MO,63664,United States,(573)-436-2777,37.92997,-90.77841,Mon-Fri:7:30-5:30; ,,0
+"PIEDMONT, MO",,920 South Main Street,,Piedmont,MO,63957,United States,(573)-223-2050,37.14733,-90.70020,Mon-Fri:7:30-5:30; ,,0
+"DESLOGE, MO",,338 North State Street,,Desloge,MO,63601,United States,(573)-431-1991,37.87658,-90.51221,Mon-Fri:7:30-5:30; ,,0
+"LAKE ST. LOUIS, MO",,8625 Highway N,,Lake St. Louis,MO,63367,United States,(636)-561-1500,38.76196,-90.79960,Mon-Fri:7:30-7:00; ,,0
+"CHESTERFIELD, MO",,17520 Chesterfield Airport Rd.,,Chesterfield,MO,63005,United States,(636)-536-2007,38.66828,-90.61418,Mon-Fri:7:30-7:00; ,,0
+"SCOTT CITY, MO",,2600 Main Street,,Scott City,MO,63780,United States,(573)-264-1500,37.21426,-89.54198,Mon-Fri:7:30-5:30; ,,0
+"SPARTA, IL",,1310 North Market Street,,Sparta,IL,62286,United States,(618)-443-5300,38.13896,-89.70352,Mon-Fri:8:00-5:30; ,,0
+O'FALLON-HWY. K,,2418 Highway K,,O'Fallon,MO,63366,United States,(636)-379-8100,38.77537,-90.69907,Mon-Fri:7:30-7:00; ,,0
+"FULTON, MO",,100 W. Fourth St.,,Fulton,MO,65251,United States,(573)-642-4188,38.84669,-91.94895,Mon-Fri:7:30-5:30; ,,0
+"JEFFERSON CITY, MO",,1401 Missouri Blvd.,,Jefferson City,MO,65109,United States,(573)-638-0640,38.578187,-92.193221,Mon-Fri:7:30-5:30; ,,0
+"COLUMBIA, MO",,419 E. Broadway,,Columbia,MO,65201,United States,(573)-449-3896,38.952048,-92.33213,Mon-Fri:7:30-5:30; ,,0
+"COLUMBIA, MO",,1005 N. Fairview,,Columbia,MO,65203,United States,(573)-446-1515,38.967,-92.379085,Mon-Fri:7:30-5:30; ,,0
+"MEXICO, MO",,214 E. Promenade,,Mexico,MO,65265,United States,(573)-581-6900,39.171062,-91.881427,Mon-Fri:7:30-5:30; ,,0
+"CAVE SPRINGS, MO (ST. PETERS)",,4080 Mexico Rd.,,St. Peters,MO,63376,United States,(636)-447-1772,38.793095,-90.571217,M-F 7:30-7:00; ,,0
+"COLUMBIA, MO",,1415 Grindstone Plaza Dr.,,Columbia,MO,65201,United States,(573)-397-4787,38.914332,-92.318484,Mon-Fri:7:30-5:30; ,,0
+"MOUNT VERNON, IL",,403 South 42nd St.,,Mount Vernon,IL,62864,United States,(618)-360-1006,38.310042,-88.942188,Mon-Fri:7:30-5:30; ,,0
+"WARRENTON, MO",,907 North Steinhagen Rd.,,Warrenton,MO,63383,United States,(636)-377-4447,38.821095,-91.136196,Mon-Fri:7:30-7:00; ,,0

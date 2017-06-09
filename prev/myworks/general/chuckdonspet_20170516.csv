@@ -1,0 +1,37 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Elk River,,19230 Freeport Street NW,,Elk River,MN,55330,United States,763-241-0908,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Coon Rapids,,12465 Suite C Riverdale Blvd NW,,Coon Rapids,MN,55433,United States,763-746-5156,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Forest Lake,,1960 Broadway Ave. West,,Forest Lake,MN,55025,United States,651-982-1897,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 9am-5pm; ,,0
+Maple Grove,,8115 Wedgewood Lane,Suite 1,Maple Grove,MN,55369,United States,763-416-4877,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Blaine,,4255 Pheasant Ridge Drive,Suite 304,Blaine,MN,55449,United States,763-253-4138,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Plymouth,,3525 Vicksburg Lane N,#300,Plymouth,MN,55447,United States,763-559-0146,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Wayzata,,1147 Wayzata Blvd. E,,Wayzata,MN,55391,United States,952-746-9483,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Roseville,,1661 County Road C West,,Roseville,MN,55113,United States,651-287-0986,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Minneapolis-Northeast,,335 Central Avenue SE,,Minneapolis,MN,55414,United States,612-455-0561,,,Mon-Fri: 9am-8pm; Sat: 9am-6pm; Sun: 11am-5pm; ,,0
+Mahtomedi,,910 Wildwood Road,,Mahtomedi,MN,55115,United States,651-747-8709,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-5pm; ,,0
+Minnetonka,,4723 County Road 101,,Minnetonka,MN,55345,United States,952-746-3733,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Minneapolis-Calhoun,,3246 West Lake Street,,Minneapolis,MN,55416,United States,612-926-8161,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 9am-7pm; ,,0
+Chanhassen,,7818 Market Blvd,,Chanhassen,MN,55317,United States,952-283-3503,,,Mon-Fri: 9am - 9pm; Sat: 9am - 7pm; Sun: 10am - 6pm; ,,0
+St. Paul-Highland Park,,2114 Ford Parkway,,St. Paul,MN,55116,United States,651-699-5225,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Edina,,6821 York Avenue South,Yorkdale Shoppes,Edina,MN,55435,United States,952-746-1809,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Woodbury,,265 Radio Drive,Suite G,Woodbury,MN,55125,United States,651-209-1757,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Bloomington,,8537 Lyndale Avenue South,,Bloomington,MN,55420,United States,952-345-7099,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Shakopee,,1270 E Vierling Drive,,Shakopee,MN,55379,United States,952-445-2487,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Hudson,,2312 Crest View Drive,Suite B,Hudson,MN,54016,United States,715-338-3535,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-5pm; ,,0
+Eagan,,1254 Town Centre Drive,,Eagan,MN,55123,United States,651-454-3458,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Frisco,,226 Lusher Court,,Frisco,MN,80443,United States,970-485-7010,,,Mon-Fri: 10am - 7pm; Sat: 10am - 7pm; Sun: 10am - 6pm; ,,0
+Longmont,,1250 S. Hover Street,Shops Suite 260,Longmont,MN,80501,United States,720-354-4940,,,Mon-Fri: 9am - 9pm; Sat: 9am - 7pm; Sun: 10am - 6pm; ,,0
+Savage,,14109 Highway 13,,Savage,MN,55378,United States,952-226-3100,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Cottage Grove,,8711 East Point Douglas Road,,Cottage Grove,MN,55016,United States,651-458-1943,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Rosemount,,3852 150th St. W,,Rosemount,MN,55068,United States,651-423-3774,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Lakeville,,7397 179th Street West,,Lakeville,MN,55044,United States,952-432-0026,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Westminster,,4550 Main Street,Unit 300,Westminster,MN,80031,United States,720-772-3059,,,Mon-Fri: 9am - 9pm; Sat: 9am - 7pm; Sun: 10am - 6pm; ,,0
+Northfield,,1500 Clinton Lane,Suite A,Northfield,MN,55057,United States,507-664-9537,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-5pm; ,,0
+Lakewood,,1535 S. Kipling Parkway,Lochwood Square,Lakewood,MN,80232,United States,303-996-0855,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Red Wing,,3249 S. Service Drive #300,,Red Wing,MN,55066,United States,651-385-9111,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-5pm; ,,0
+Denver-Cherry Creek,,201 University Ave.,Unit 113,Denver,MN,80206,United States,720-496-2668,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Littleton,,9868 W. Belleview Ave.,,Littleton,MN,80123,United States,303-586-5995,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Centennial-The Streets of SouthGlenn,,2253 E Briarwood Avenue,The Streets at SouthGlenn Shopping Center,Centennial,MN,80122,United States,303-862-3414,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Highlands Ranch,,4008 Red Cedar Drive,Suite D2,Highlands Ranch,MN,80129,United States,720-460-4568,,,Mon-Fri: 9am-9pm; Sat: 9am-6pm; Sun: 10am-6pm; ,,0
+Aurora,,6380 S. Parker Road,Suite 107,Aurora,MN,80016,United States,303-577-1198,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0
+Castle Rock,,4765 Front Street,,Castle Rock,MN,80104,United States,720-359-2430,,,Mon-Fri: 9am-9pm; Sat: 9am-7pm; Sun: 10am-6pm; ,,0

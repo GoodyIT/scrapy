@@ -1,0 +1,175 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+WESTERN DENTAL - Costa Mesa,2905,534 W 19th St,,Costa Mesa,CA,,United States,949-610-0578,33.643861,-117.920334,,,0
+WESTERN DENTAL - Santa Ana,2732,500 N Main St,,Santa Ana,CA,,United States,714-361-2132,33.749086,-117.867781,,,0
+WESTERN DENTAL - Santa Ana,2681,2701 W 1st St,,Santa Ana,CA,46112,United States,714-361-2140,33.74552,-117.905561,,,0
+WESTERN DENTAL - Westminster,3722,8001 Westminster Blvd,,Westminster,CA,50899,United States,714-230-0009,33.759538,-117.989265,,,0
+WESTERN DENTAL - Anaheim,2673,1696 W Katella Ave,,Anaheim,CA,,United States,714-481-0495,33.803077,-117.941222,,,0
+WESTERN DENTAL - Fullerton,8904,1620 S Harbor Blvd,,Fullerton,CA,,United States,714-294-7070,33.854523,-117.923697,,,0
+WESTERN DENTAL - Buena Park,2744,5971 Lincoln Ave,,Buena Park,CA,46116,United States,714-481-0517,33.832025,-118.028657,,,0
+WESTERN DENTAL - Corona,2899,617 N Main St,,Corona,CA,44982,United States,951-256-5540,33.888297,-117.564075,,,0
+WESTERN DENTAL - Long Beach,3080,1150 E Anaheim St,,Long Beach,CA,46149,United States,562-506-1419,33.782427,-118.178259,,,0
+WESTERN DENTAL - Whittier,3727,14880 Whittier Blvd,,Whittier,CA,,United States,562-567-9051,33.948908,-118.007443,,,0
+WESTERN DENTAL - Bellflower,2797,9755 Alondra Blvd,,Bellflower,CA,46113,United States,562-565-2914,33.889497,-118.125628,,,0
+WESTERN DENTAL - Bellflower,2803,15745 Bellflower Blvd,,Bellflower,CA,,United States,562-565-2684,33.889904,-118.125706,,,0
+WESTERN DENTAL - Long Beach,8907,4516 Atlantic Ave,,Long Beach,CA,40983,United States,562-437-0647,33.840292,-118.18444,,,0
+WESTERN DENTAL - Downey,2911,9906 E Imperial Hwy,,Downey,CA,45143,United States,562-382-6008,33.916925,-118.116323,,,0
+WESTERN DENTAL - Chino,2854,12400 Central Ave,,Chino,CA,46115,United States,909-270-4298,34.027892,-117.689571,,,0
+WESTERN DENTAL - La Puente,3050,835 N Hacienda Blvd,,La Puente,CA,43632,United States,626-923-6299,34.034386,-117.950121,,,0
+WESTERN DENTAL - Compton,2887,1821 N Long Beach Blvd,,Compton,CA,,United States,310-735-0607,33.908481,-118.209155,,,0
+WESTERN DENTAL - Claremont,2875,740 S Indian Hill Blvd,,Claremont,CA,,United States,909-962-6625,34.082316,-117.71909,,,0
+WESTERN DENTAL - Lomita,3074,1929 Pacific Coast Hwy,,Lomita,CA,40983,United States,310-602-7378,33.78972,-118.313177,,,0
+WESTERN DENTAL - Montebello,7347,2200 W Beverly Blvd,,Montebello,CA,47509,United States,323-483-7029,34.021043,-118.123147,,,0
+WESTERN DENTAL - El Monte,2935,11450 Valley Blvd,,El Monte,CA,,United States,626-532-1442,34.068941,-118.028446,,,0
+WESTERN DENTAL - Lake Elsinore,8545,31960 Mission Trail,,Lake Elsinore,CA,,United States,951-643-6099,33.656819,-117.297649,,,0
+WESTERN DENTAL - Maywood,3166,4487 E Slauson Ave,,Maywood,CA,,United States,323-476-3035,33.987431,-118.186122,,,0
+WESTERN DENTAL - Riverside,3362,3485 Madison St,,Riverside,CA,39674,United States,951-324-5752,33.936974,-117.404572,,,0
+WESTERN DENTAL - Huntington Park,3038,2630 E Gage Ave,,Huntington Park,CA,47274,United States,323-584-2198,33.981628,-118.22437,,,0
+WESTERN DENTAL - Los Angeles,3086,355 W Manchester Ave,,Los Angeles,CA,47590,United States,323-527-1133,33.96037,-118.279574,,,0
+WESTERN DENTAL - Los Angeles,3095,906 S Soto St,,Los Angeles,CA,47510,United States,323-406-5000,34.033807,-118.21567,,,0
+WESTERN DENTAL - Los Angeles,3091,4364 S Central Ave,,Los Angeles,CA,47310,United States,323-515-9000,34.004295,-118.256154,,,0
+WESTERN DENTAL - Rancho Cucamonga,3319,8678 19th St,,Rancho Cucamonga,CA,47513,United States,909-257-3388,34.132911,-117.616657,,,0
+WESTERN DENTAL - Hawthorne,3020,14248 Hawthorne Blvd,,Hawthorne,CA,46128,United States,310-844-0160,33.902141,-118.35187,,,0
+WESTERN DENTAL - Inglewood,8590,3561 W Century Blvd,,Inglewood,CA,44985,United States,323-483-7045,33.945767,-118.333493,,,0
+WESTERN DENTAL - Fontana,2970,10144 Sierra Ave,,Fontana,CA,47524,United States,909-770-7367,34.069516,-117.435932,,,0
+WESTERN DENTAL - Riverside,11458,3880 Chicago Ave,,Riverside,CA,50173,United States,951-643-6104,34.000081,-117.348671,,,0
+WESTERN DENTAL - Los Angeles,3099,1200 W Martin Luther King Jr Blvd,,Los Angeles,CA,47268,United States,323-601-1140,34.010719,-118.296085,,,0
+WESTERN DENTAL - Murrieta,3208,25155 Madison Ave,,Murrieta,CA,,United States,951-704-7002,33.556717,-117.200357,,,0
+WESTERN DENTAL - Moreno Valley,3202,23185 Hemlock Ave,,Moreno Valley,CA,43624,United States,951-571-8369,33.941332,-117.258376,,,0
+WESTERN DENTAL - Los Angeles,3128,1565 S Western Ave,,Los Angeles,CA,43626,United States,323-529-9053,34.043804,-118.309328,,,0
+WESTERN DENTAL - Los Angeles,3137,1535 S Western Ave,,Los Angeles,CA,,United States,323-529-9066,34.04425,-118.309776,,,0
+WESTERN DENTAL - Pasadena,2751,470 N Los Robles Ave,,Pasadena,CA,43626,United States,626-639-0135,34.154066,-118.141276,,,0
+WESTERN DENTAL - Los Angeles,3103,4165 Beverly Blvd,,Los Angeles,CA,47270,United States,323-331-9242,34.076452,-118.300058,,,0
+WESTERN DENTAL - Los Angeles,3141,4242 Beverly Blvd,,Los Angeles,CA,,United States,213-531-0194,34.076145,-118.301526,,,0
+WESTERN DENTAL - Temecula,3581,41115 Winchester Rd,,Temecula,CA,,United States,951-331-7016,33.524633,-117.160822,,,0
+WESTERN DENTAL - Rialto,3356,260 W Foothill Blvd,,Rialto,CA,44949,United States,909-546-7064,34.10708,-117.373806,,,0
+WESTERN DENTAL - Los Angeles,3124,6260 Santa Monica Blvd,,Los Angeles,CA,47333,United States,323-603-0285,34.090418,-118.326254,,,0
+WESTERN DENTAL - Los Angeles,3132,12420 Venice Blvd,,Los Angeles,CA,47272,United States,310-751-1055,34.002904,-118.434115,,,0
+WESTERN DENTAL - San Bernardino,3425,1199 North E St,,San Bernardino,CA,,United States,909-269-8472,34.121187,-117.293954,,,0
+WESTERN DENTAL - Oceanside,3238,3125 Vista Way,,Oceanside,CA,47621,United States,760-828-9223,33.182664,-117.326697,,,0
+WESTERN DENTAL - Redlands,3335,1715 W Redlands Blvd,,Redlands,CA,,United States,909-363-4415,34.062592,-117.213728,,,0
+WESTERN DENTAL - Burbank,2813,1107 N San Fernando Blvd,,Burbank,CA,,United States,818-531-0885,34.18817,-118.318779,,,0
+WESTERN DENTAL - San Bernardino,8928,2094 E Highland Ave,,San Bernardino,CA,40978,United States,909-388-2427,34.136161,-117.242088,,,0
+WESTERN DENTAL - Hemet,3032,3027 W Florida Ave,,Hemet,CA,,United States,951-306-3137,33.747351,-117.004074,,,0
+WESTERN DENTAL - North Hollywood,3226,12700 Sherman Way,,North Hollywood,CA,46163,United States,818-493-4315,34.200885,-118.409765,,,0
+WESTERN DENTAL - San Marcos,3496,169 S Rancho Santa Fe Rd,,San Marcos,CA,,United States,760-916-1191,33.146655,-117.199392,,,0
+WESTERN DENTAL - Panorama City,8554,8600 Van Nuys Blvd,,Panorama City,CA,43622,United States,747-201-6018,34.226435,-118.449057,,,0
+WESTERN DENTAL - San Fernando,3458,113 N Maclay Ave,,San Fernando,CA,,United States,818-493-4306,34.284661,-118.439729,,,0
+WESTERN DENTAL - San Fernando,3451,1101 Truman St,,San Fernando,CA,44992,United States,818-493-4312,34.284045,-118.44102,,,0
+WESTERN DENTAL - Banning,2791,887 W Ramsey St,,Banning,CA,,United States,951-572-5079,33.925699,-116.886234,,,0
+WESTERN DENTAL - Escondido,2941,1468 E Valley Pkwy,,Escondido,CA,46111,United States,760-705-3234,33.132994,-117.06218,,,0
+WESTERN DENTAL - Victorville,3679,15290 Bear Valley Rd,,Victorville,CA,46122,United States,760-493-3215,34.47095,-117.33016,,,0
+WESTERN DENTAL - Santa Clarita,3518,23130 Lyons Ave,,Santa Clarita,CA,,United States,661-219-0001,34.380102,-118.536826,,,0
+WESTERN DENTAL - Apple Valley,2724,19071 Bear Valley Rd,,Apple Valley,CA,,United States,760-810-4066,34.470725,-117.247747,,,0
+WESTERN DENTAL - Poway,3307,12649 Poway Rd,,Poway,CA,,United States,858-375-7401,32.953707,-117.057483,,,0
+WESTERN DENTAL - Palmdale,3256,510 W Rancho Vista Blvd,,Palmdale,CA,50208,United States,661-202-3052,34.601495,-118.138147,,,0
+WESTERN DENTAL - San Diego,3447,3802 Clairemont Mesa Blvd,,San Diego,CA,,United States,858-200-7308,32.828086,-117.205847,,,0
+WESTERN DENTAL - Simi Valley,3555,1397 E Los Angeles Ave,,Simi Valley,CA,,United States,805-426-6119,34.271893,-118.772354,,,0
+WESTERN DENTAL - Lancaster,3056,44407 Challanger Way,,Lancaster,CA,47267,United States,661-206-3983,34.689867,-118.112804,,,0
+WESTERN DENTAL - Palm Springs,3250,555 S Sunrise Way,,Palm Springs,CA,,United States,760-904-5486,33.815722,-116.528694,,,0
+WESTERN DENTAL - San Diego,3443,2948 University Ave,,San Diego,CA,46163,United States,619-684-6190,32.748593,-117.13039,,,0
+WESTERN DENTAL - San Diego,3436,4123 University Ave,,San Diego,CA,46129,United States,619-684-9432,32.749524,-117.106171,,,0
+WESTERN DENTAL - El Cajon,2917,583 N 2nd St,,El Cajon,CA,,United States,619-212-8010,32.801723,-116.935603,,,0
+WESTERN DENTAL - Cathedral City,2819,69160 E Ramon Rd,,Cathedral City,CA,,United States,760-904-5846,33.81617,-116.455323,,,0
+WESTERN DENTAL - National City,3220,1539 E Plaza Blvd,,National City,CA,50172,United States,619-419-1248,32.677157,-117.089618,,,0
+WESTERN DENTAL - Chula Vista,2869,1101 Broadway,,Chula Vista,CA,47520,United States,619-210-0344,32.609991,-117.08104,,,0
+WESTERN DENTAL - Oxnard,3244,455 South C St,,Oxnard,CA,,United States,805-200-5324,34.197904,-119.181252,,,0
+WESTERN DENTAL - Indio,3044,81735 US Highway 111,,Indio,CA,,United States,760-238-4533,33.710624,-116.238474,,,0
+WESTERN DENTAL - Ventura,3744,2750 E Main St,,Ventura,CA,43750,United States,805-626-3255,34.273314,-119.259713,,,0
+WESTERN DENTAL - Goleta,3004,5680 Calle Real,,Goleta,CA,,United States,805-979-3037,34.441572,-119.822384,,,0
+WESTERN DENTAL - Bakersfield,2787,4409 Ming Ave,,Bakersfield,CA,,United States,661-282-2598,35.338959,-119.051374,,,0
+WESTERN DENTAL - Bakersfield,2773,4401 Ming Ave,,Bakersfield,CA,47776,United States,661-282-2456,35.339314,-119.051169,,,0
+WESTERN DENTAL - Bakersfield,2779,1201 24th St,,Bakersfield,CA,,United States,661-281-0148,35.380249,-119.015592,,,0
+WESTERN DENTAL - Bakersfield,2783,3401 Coffee Rd,,Bakersfield,CA,,United States,661-695-3044,35.390924,-119.0926,,,0
+WESTERN DENTAL - El Centro,2923,1450 N Imperial Ave,,El Centro,CA,,United States,760-679-5048,32.805751,-115.570363,,,0
+WESTERN DENTAL - Delano,6681,730 Woollomes Ave,,Delano,CA,49971,United States,661-370-4401,35.746325,-119.245054,,,0
+WESTERN DENTAL - Santa Maria,3530,2205 S Broadway,,Santa Maria,CA,,United States,805-863-9430,34.920732,-120.436798,,,0
+WESTERN DENTAL - Porterville,3301,1213 W Henderson Ave,,Porterville,CA,,United States,559-306-3240,36.080245,-119.04424,,,0
+WESTERN DENTAL - Tulare,3599,1111 E Tulare Ave,,Tulare,CA,,United States,559-358-3093,36.209423,-119.330575,,,0
+WESTERN DENTAL - Visalia,3709,1230 S Mooney Blvd,,Visalia,CA,47515,United States,559-802-4299,36.319651,-119.313427,,,0
+WESTERN DENTAL - Visalia,3692,828 S Mooney Blvd,,Visalia,CA,,United States,559-802-4300,36.323468,-119.31352,,,0
+WESTERN DENTAL - Hanford,3010,210 N 11th Ave,,Hanford,CA,45046,United States,559-772-3418,36.325533,-119.655464,,,0
+WESTERN DENTAL - Hanford,3016,1560 W Lacey Blvd,,Hanford,CA,,United States,559-772-3415,36.328292,-119.669895,,,0
+WESTERN DENTAL - Dinuba,11777,285 W. El Monte Way,,Dinuba,CA,,United States,559-334-3486,36.54613,-119.3969,,,0
+WESTERN DENTAL - Fresno,2980,4901 E Kings Canyon Rd,,Fresno,CA,50894,United States,559-490-1343,36.736109,-119.731609,,,0
+WESTERN DENTAL - Fresno,2988,4195 E Shields Ave,,Fresno,CA,,United States,559-490-1337,36.779932,-119.754764,,,0
+WESTERN DENTAL - Clovis,2881,751 W Shaw Ave,,Clovis,CA,,United States,559-321-0054,36.808667,-119.725966,,,0
+WESTERN DENTAL - Fresno,2974,1255 W Shields Ave,,Fresno,CA,,United States,559-490-1326,36.779152,-119.826186,,,0
+WESTERN DENTAL - Fresno,2984,3077 W Shaw Ave,,Fresno,CA,,United States,559-490-1327,36.808044,-119.846175,,,0
+WESTERN DENTAL - Madera,3146,1100 N Gateway Dr,,Madera,CA,,United States,559-363-4160,36.975055,-120.075148,,,0
+WESTERN DENTAL - Merced,3172,1124 W Olive Ave,,Merced,CA,,United States,209-205-4288,37.318968,-120.48714,,,0
+WESTERN DENTAL - Salinas,3417,921 S Main St,,Salinas,CA,,United States,831-998-9427,36.663341,-121.657301,,,0
+WESTERN DENTAL - Salinas,3411,1229 N Main St,,Salinas,CA,47777,United States,831-998-9433,36.700422,-121.652399,,,0
+WESTERN DENTAL - Salinas,3421,1293 N Davis Rd,,Salinas,CA,47777,United States,831-998-9423,36.701279,-121.667198,,,0
+WESTERN DENTAL - Gilroy,2992,780 1st St,,Gilroy,CA,45113,United States,408-796-3110,37.013076,-121.586159,,,0
+WESTERN DENTAL - Turlock,3605,703 N Golden State Blvd,,Turlock,CA,,United States,209-216-4198,37.500149,-120.851327,,,0
+WESTERN DENTAL - Watsonville,3715,1895 Main St,,Watsonville,CA,,United States,831-274-3214,36.91782,-121.78118,,,0
+WESTERN DENTAL - Peoria,3262,8392 W Thunderbird Rd,,Peoria,AZ,40635,United States,623-255-3348,33.610463,-112.23983,,,0
+WESTERN DENTAL - Phoenix,3291,1820 N 75th Ave,,Phoenix,AZ,,United States,623-255-3607,33.468314,-112.22093,,,0
+WESTERN DENTAL - Glendale,2998,5929 W Peoria Ave,,Glendale,AZ,40633,United States,623-432-3386,33.581509,-112.186719,,,0
+WESTERN DENTAL - Modesto,3198,1720 E Hatch Rd,,Modesto,CA,,United States,209-241-5905,37.609013,-120.965286,,,0
+WESTERN DENTAL - Phoenix,3268,13651 N 35th Ave,,Phoenix,AZ,,United States,602-281-7994,33.610569,-112.133267,,,0
+WESTERN DENTAL - Phoenix,3282,3425 W Thunderbird Rd,,Phoenix,AZ,,United States,602-281-9456,33.610521,-112.130988,,,0
+WESTERN DENTAL - Phoenix,3278,3155 W Indian School Rd,,Phoenix,AZ,40632,United States,602-281-9516,33.494627,-112.127303,,,0
+WESTERN DENTAL - Santa Cruz,3524,1107 Ocean St,,Santa Cruz,CA,,United States,831-227-2160,36.98227,-122.022566,,,0
+WESTERN DENTAL - Modesto,3188,2045 W Briggsmore Ave,,Modesto,CA,,United States,209-241-5510,37.669377,-121.0316,,,0
+WESTERN DENTAL - Modesto,3194,1705 Prescott Rd,,Modesto,CA,49953,United States,209-241-5900,37.670508,-121.031692,,,0
+WESTERN DENTAL - Phoenix,3286,530 E McDowell Rd,,Phoenix,AZ,40631,United States,602-281-9540,33.466309,-112.065451,,,0
+WESTERN DENTAL - Phoenix,3274,4550 E Thomas Rd,,Phoenix,AZ,,United States,602-281-7072,33.480505,-111.982829,,,0
+WESTERN DENTAL - Tempe,3587,1080 W Elliot Rd,,Tempe,AZ,40631,United States,480-845-6644,33.349526,-111.956222,,,0
+WESTERN DENTAL - San Jose,3482,1871 Camden Ave,,San Jose,CA,47887,United States,408-796-3109,37.26206,-121.922641,,,0
+WESTERN DENTAL - San Jose,3486,1110 S King Rd,,San Jose,CA,43620,United States,408-216-2095,37.339945,-121.842025,,,0
+WESTERN DENTAL - San Jose,3475,48 E Santa Clara St,,San Jose,CA,46888,United States,408-216-2093,37.336451,-121.889565,,,0
+WESTERN DENTAL - Manteca,3160,1332 E Yosemite Ave,,Manteca,CA,,United States,209-923-6205,37.797288,-121.195044,,,0
+WESTERN DENTAL - Manteca,3153,1160 W Yosemite Ave,,Manteca,CA,,United States,209-923-6207,37.797042,-121.234597,,,0
+WESTERN DENTAL - Chandler,2826,3170 N Arizona Ave,,Chandler,AZ,41024,United States,480-281-5474,33.352575,-111.842118,,,0
+WESTERN DENTAL - Santa Clara,3510,2825 El Camino Real,,Santa Clara,CA,,United States,408-343-4167,37.352724,-121.978383,,,0
+WESTERN DENTAL - Mesa,3184,1161 E Main St,,Mesa,AZ,,United States,480-281-5475,33.414343,-111.805985,,,0
+WESTERN DENTAL - Mesa,3178,1143 E Main St,,Mesa,AZ,41024,United States,480-281-0027,33.414976,-111.805551,,,0
+WESTERN DENTAL - Tracy,3593,2313 N Corral Hollow Rd,,Tracy,CA,,United States,209-221-4227,37.752448,-121.453276,,,0
+WESTERN DENTAL - Stockton,3567,678 N Wilson Way,,Stockton,CA,45037,United States,209-235-0226,37.962607,-121.272988,,,0
+WESTERN DENTAL - Livermore,3062,2177 Las Positas Ct,,Livermore,CA,,United States,925-273-6016,37.69716,-121.774049,,,0
+WESTERN DENTAL - Fremont,2740,38780 Paseo Padre Pkwy,,Fremont,CA,,United States,510-789-0899,37.555352,-121.983754,,,0
+WESTERN DENTAL - Fremont,3858,3055 Mowry Ave,,Fremont,CA,,United States,510-789-0895,37.555294,-121.98356,,,0
+WESTERN DENTAL - Casa Grande,8617,1348 E Florence Blvd,,Casa Grande,AZ,42993,United States,520-293-9797,32.880069,-111.728369,,,0
+WESTERN DENTAL - Stockton,3573,1407 W March Lane,,Stockton,CA,,United States,209-235-0225,37.989204,-121.322464,,,0
+WESTERN DENTAL - Stockton,3577,7860 West Lane,,Stockton,CA,,United States,209-235-0295,38.020433,-121.294069,,,0
+WESTERN DENTAL - Redwood City,3341,975 Veterans Blvd,,Redwood City,CA,,United States,650-480-5465,37.490474,-122.227105,,,0
+WESTERN DENTAL - Lodi,3068,320 S Cherokee Lane,,Lodi,CA,42696,United States,209-371-0709,38.13048,-121.26028,,,0
+WESTERN DENTAL - Hayward,3026,123 W Jackson St,,Hayward,CA,,United States,510-731-0057,37.654099,-122.089271,,,0
+WESTERN DENTAL - San Mateo,3502,4100 S El Camino Real,,San Mateo,CA,,United States,650-235-1476,37.530679,-122.28988,,,0
+WESTERN DENTAL - San Leandro,3490,14895 E 14th St,,San Leandro,CA,,United States,510-877-4161,37.705897,-122.130252,,,0
+WESTERN DENTAL - Antioch,2769,4518 Lone Tree Way,,Antioch,CA,,United States,925-529-8293,37.965831,-121.780889,,,0
+WESTERN DENTAL - Antioch,2765,2500 Sycamore Dr,,Antioch,CA,,United States,925-206-3609,38.006614,-121.833697,,,0
+WESTERN DENTAL - Antioch,2759,2590 Sycamore Dr,,Antioch,CA,,United States,925-206-3555,38.006635,-121.833617,,,0
+WESTERN DENTAL - Oakland,11403,3405 International Blvd,,Oakland,CA,,United States,510-469-2016,37.776328,-122.223558,,,0
+WESTERN DENTAL - Pittsburg,3295,2120 Railroad Ave,,Pittsburg,CA,,United States,925-203-3079,38.015333,-121.890567,,,0
+WESTERN DENTAL - Oakland,3232,1530 Broadway,,Oakland,CA,50027,United States,510-285-0420,37.805728,-122.270096,,,0
+WESTERN DENTAL - Concord,2893,1821 Concord Ave,,Concord,CA,44983,United States,925-808-7066,37.978125,-122.037745,,,0
+WESTERN DENTAL - San Francisco,3464,2776 Mission Street,,San Francisco,CA,,United States,415-285-9847,37.752694,-122.418665,,,0
+WESTERN DENTAL - Berkeley,2807,115 Berkeley Sq,,Berkeley,CA,,United States,510-982-0300,37.871134,-122.268041,,,0
+WESTERN DENTAL - Sacramento,3407,8324 Elk Grove Florin Rd,,Sacramento,CA,,United States,916-509-3350,38.45507,-121.37205,,,0
+WESTERN DENTAL - El Cerrito,2929,11299 San Pablo Ave,,El Cerrito,CA,,United States,510-778-7437,37.920175,-122.315115,,,0
+WESTERN DENTAL - Sacramento,3391,4401 Florin Rd,,Sacramento,CA,42696,United States,916-384-0950,38.496457,-121.455061,,,0
+WESTERN DENTAL - Rancho Cordova,3313,10321 Folsom Blvd,,Rancho Cordova,CA,,United States,916-384-0943,38.587329,-121.30712,,,0
+WESTERN DENTAL - Sacramento,3395,5501 Stockton Blvd,,Sacramento,CA,50207,United States,916-384-1420,38.525937,-121.442121,,,0
+WESTERN DENTAL - Sacramento,3375,1355 Florin Rd,,Sacramento,CA,50919,United States,916-384-0970,38.496141,-121.504236,,,0
+WESTERN DENTAL - Folsom,2959,1016 Riley St,,Folsom,CA,,United States,916-605-0468,38.670623,-121.167472,,,0
+WESTERN DENTAL - Sacramento,3385,1701 Watt Ave,,Sacramento,CA,,United States,916-576-1900,38.596146,-121.383117,,,0
+WESTERN DENTAL - Vallejo,3652,3587 Sonoma Blvd,,Vallejo,CA,,United States,707-561-9213,38.12275,-122.255853,,,0
+WESTERN DENTAL - Fairfield,2947,2440 N Texas St,,Fairfield,CA,,United States,707-430-0148,38.274683,-122.033581,,,0
+WESTERN DENTAL - Sacramento,3381,5261 Elkhorn Blvd,,Sacramento,CA,50174,United States,916-576-1767,38.686994,-121.342021,,,0
+WESTERN DENTAL - Sacramento,3399,5247 Elkhorn Blvd,,Sacramento,CA,45020,United States,916-576-1765,38.68691,-121.342102,,,0
+WESTERN DENTAL - Vacaville,3646,791 E Monte Vista Ave,,Vacaville,CA,,United States,707-301-4096,38.359069,-121.982147,,,0
+WESTERN DENTAL - Sacramento,3403,3645 Northgate Blvd,,Sacramento,CA,42883,United States,916-576-1403,38.631996,-121.476002,,,0
+WESTERN DENTAL - Roseville,3368,9450 Fairway Dr,,Roseville,CA,50026,United States,916-380-3866,38.784068,-121.271349,,,0
+WESTERN DENTAL - Napa,3214,1260 Trancas St,,Napa,CA,,United States,707-536-0781,38.323017,-122.299979,,,0
+WESTERN DENTAL - Tucson,2703,3922 N Oracle Rd,,Tucson,AZ,40849,United States,520-917-2041,32.278056,-110.978069,,,0
+WESTERN DENTAL - Tucson,6688,2901 E Broadway Blvd,,Tucson,AZ,,United States,520-917-7516,32.221859,-110.929058,,,0
+WESTERN DENTAL - Reno,3347,8040 S Virginia St,,Reno,NV,,United States,775-332-1266,39.454433,-119.777853,,,0
+WESTERN DENTAL - Tucson,2687,7701 E Broadway Blvd,,Tucson,AZ,,United States,520-917-2045,32.221486,-110.827086,,,0
+WESTERN DENTAL - Sparks,3561,685 E Prater Way,,Sparks,NV,,United States,775-332-1269,39.541335,-119.734486,,,0
+WESTERN DENTAL - Santa Rosa,3542,1240 Farmers Lane,,Santa Rosa,CA,,United States,707-536-0225,38.439641,-122.686926,,,0
+WESTERN DENTAL - Santa Rosa,3548,4100 Montgomery Dr,,Santa Rosa,CA,,United States,707-536-0761,38.45427,-122.67219,,,0
+WESTERN DENTAL - Yuba City,3735,727 Colusa Ave,,Yuba City,CA,,United States,530-216-5022,39.141942,-121.625419,,,0
+WESTERN DENTAL - Chico,2841,2471 Cohasset Rd,,Chico,CA,42695,United States,530-961-9288,39.760265,-121.843741,,,0
+WESTERN DENTAL - Redding,3325,1350 Churn Creek Rd,,Redding,CA,46114,United States,530-510-4623,40.587085,-122.351337,,,0

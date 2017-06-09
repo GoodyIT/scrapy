@@ -1,0 +1,35 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+,,1572 Pitkin Avenue,,,NY,11212,United States,(718)345-1117,40.6687277,-73.91563839999999,,,0
+,,422 Knickerbocker Avenue,,,NY,11237,United States,(718)455-2454,40.6993118,-73.91986899999999,,,0
+,,60 Graham Avenue,,,NY,11206,United States,(718)388-1255,40.70293969999999,-73.9421109,,,0
+,,162-21 Jamaica Avenue,,,NY,11432,United States,(718)297-1919,40.70479599999999,-73.7969284,,,0
+,,686 Oak Tree Road,,South Plainfield,NJ,07080,United States,(908)754-1770,40.5772357,-74.39076759999999,,,0
+,,3127 Kennedy Blvd.,,North Bergen,NJ,07047,United States,(201)770-2601,40.7760363,-74.0360469,,,0
+,,100 Broad Street,,Elizabeth,NJ,07201,United States,(908)351-3488,40.6655848,-74.2152225,,,0
+,,233 Route 18 South,,East Brunswick,NJ,08816,United States,(732)745-5500,40.4648838,-74.4072648,,,0
+Brass Mill Center,,495 Union Street,,Waterbury,CT,06706,United States,(203)755-8502,41.5492151,-73.02510610000002,,,0
+Lafayette Square Mall,,3919 Lafayette Road,,Indianapolis,IN,46254,United States,(317)347-0478,39.8283895,-86.236538,,,0
+Felbram Plaza North,,3700 South East Street,,Indianapolis,IN,46227,United States,(317)786-6231,39.7125114,-86.1508142,,,0
+Esquire Plaza,,8311 Pendleton Pike,,Indianapolis,IN,46226,United States,(317)897-0636,39.839355,-86.020224,,,0
+Broadway Place,,6069 Broadway,,Merrillville,IN,46410,United States,(219)980-0270,41.5082859,-87.3327789,,,0
+Beltway Plaza Mall,,6252 Greenbelt Road,,Greenbelt,MD,20770,United States,(301)446-1710,38.9968307,-76.904865,,,0
+The Capital Center,,1000 Capital Center Blvd.,,Upper Marlboro,MD,20774,United States,(301)324-8501,38.9036306,-76.84892769999999,,,0
+Eastpoint Mall,,7839 Eastpoint Mall,,Baltimore,MD,21224,United States,(410)285-9340,39.2931392,-76.50981589999999,,,0
+Reisterstown Road Plaza,,6790 Reisterstown Road,,Baltimore,MD,21215,United States,(410)585-0391,39.357767,-76.7073549,,,0
+Victory Crossing Shopping Center,,4020 Victory Boulevard,,Portsmouth,VA,23701,United States,(757)405-1410,36.8102757,-76.3554929,,,0
+Circle Plaza,,449-B East Belt  Boulevard,,Richmond,VA,23224,United States,(804)233-0417,37.504865,-77.47373639999999,,,0
+Chesapeake Crossing Shopping Center,,1971 South Military Highway,,Chesapeake,VA,23320,United States,(757)494-1825,36.7880236,-76.2550435,,,0
+Camp Creek Marketplace,,3755 Carmia Drive,,Atlanta,GA,30331,United States,(404)349-4962,33.6560491,-84.5072406,,,0
+Southlake Pavillion,,1906 Mount Zion Road,,Morrow,GA,30260,United States,(770)472-3665,33.5684804,-84.327574,,,0
+Plaza Fiesta,,4166 Buford Highway NE,,Atlanta,GA,30345,United States,(404)329-1885,33.8633926,-84.30740600000001,,,0
+Eastland Center,,18000 Vernier Road,,Harper Woods,MI,48225,United States,(313)527-1870,42.4474778,-82.93535299999999,,,0
+Great Western Shopping Center,,3400 North Blvd.,,Columbus,OH,43204,United States,(614)351-8378,39.9578143,-83.0917419,,,0
+Northern Lights,,3515B Cleveland Avenue,,Columbus,OH,43224,United States,(614)261-4577,40.0396262,-82.964255,,,0
+Westown Shopping Plaza,,10950 Lorain Avenue,,Cleveland,OH,44111,United States,(216)941-4634,41.4660246,-81.7622217,,,0
+Manhattan Plaza,,701 East Manhattan Boulevard,,Toledo,OH,43608,United States,(419)729-4863,41.6883837,-83.5297776,,,0
+Town & Country Shopping Center,,3776 East Broad Street,,Whitehall,OH,43213,United States,(614)235-1370,39.9742008,-82.90030759999999,,,0
+Southland Shopping Center,,1339 South Byrne Road,,Toledo,OH,43614,United States,(419)382-3820,41.61416029999999,-83.6257777,,,0
+River Oaks Center,,Calumet City,,Calumet City,IL,60409,United States,(708)862-1063,41.5980791,-87.56145409999999,,,0
+Matteson Plaza,,4055 West Lincoln Highway,,Matteson,IL,60443,United States,(708)748-6530,41.504378,-87.7164729,,,0
+Irving Mall,,3634 Irving Mall Road,,Irving,TX,75062,United States,(972)570-0620,32.8397704,-96.9962987,,,0
+White Rock Marketplace,,11255 Garland Road,,Dallas,TX,75218,United States,(214)660-8932,32.8486857,-96.6868521,,,0

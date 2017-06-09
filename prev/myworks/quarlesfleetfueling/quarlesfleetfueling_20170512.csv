@@ -1,0 +1,115 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Fredericksburg,,271 Warrenton Rd.,,Fredericksburg,VA,22405,United States,,38.33297729,-77.483497619629,,,0
+Fredericksburg,,11913 Tidewater Trail,,Fredericksburg,VA,22408,United States,,38.28335953,-77.453727722168,,,0
+Waldorf,,12090 Acton Ln.,,Waldorf,MD,20601,United States,,38.63476639,-76.893806457520,,,0
+Front Royal,,195 Commerce Ave.,,Front Royal,VA,22630,United States,,38.92182549,-78.190567016602,,,0
+Broadway,,295 N. Timber Way,,Broadway,VA,22815,United States,,38.61463119,-78.785980224609,,,0
+Harrisonburg,,3410 South Main St.,,Harrisonburg,VA,22802,United States,,38.40269765,-78.910469055176,,,0
+Waynesboro,,790 South Delphine Ave.,,Waynesboro,VA,22980,United States,,38.05516499,-78.886718750000,,,0
+Roanoke,,1568 Granby St. NE,,Roanoke,VA,24012,United States,,37.29829572,-79.901939392090,,,0
+Salem,,2319 West Main St.,,Salem,VA,24153,United States,,37.28813934,-80.067764282227,,,0
+Lynchburg,,3121 Odd Fellows Road,,Lynchburg,VA,24501,United States,,37.37869338,-79.153678894043,,,0
+Roanoke,,2213 Shenandoah Ave. NW,,Roanoke,VA,24019,United States,,37.28265406,-79.974456787109,,,0
+Newington,,8219 Terminal Rd,,Newington,VA,22079,United States,,38.73053631,-77.192329406738,,,0
+Fairfax,,8902 Lee Hwy,,Fairfax,VA,22031,United States,,38.87337136,-77.251968383789,,,0
+Beltsville,,11450 Baltimore Ave,,Beltsville,MD,20705,United States,,39.04129537,-76.904663085938,,,0
+Jessup,,7410 Washington Blvd,,Jessup,MD,21075,United States,,39.18212451,-76.767166137695,,,0
+Woodbridge,,14501 Jefferson Davis Hwy,,Woodbridge,VA,22191,United States,,38.63789222,-77.268074035645,,,0
+Upper Marlboro,,8331 Old Marlboro Pike,,Forestville,MD,20772,United States,,38.83516065,-76.862182617188,,,0
+Bladensburg,,4201 Kenilworth Ave,,Bladensburg,MD,21230,United States,,38.94264283,-76.933677673340,,,0
+Baltimore,,2900 Washington Blvd,,Baltimore,MD,21230,United States,,39.26202705,-76.657966613770,,,0
+Woodbridge,,13300 Occoquan Rd,,Woodbridge,VA,22191,United States,,38.66350228,-77.253639221191,,,0
+Baltimore,,2749 Hawkins Point Rd,,Baltimore,MD,21226,United States,,39.20342952,-76.564697265625,,,0
+Rockville,,2 Southlawn Court,,Rockville,MD,20850,United States,,39.10251235,-77.131034851074,,,0
+Capitol Heights,,200 Milky Way,,Capitol Heights,MD,20743,United States,,38.88564471,-76.858665466309,,,0
+Baltimore,,7300 Rolling Mill Rd,,Baltimore,MD,21124,United States,,39.30036808,-76.519897460938,,,0
+Salisbury,,1702 Northwood Dr.,,Salisbury,MD,21801,United States,,38.38577114,-75.586044311523,,,0
+Baltimore,,1225 Chesapeake Ave.,,Baltimore,MD,21226,United States,,39.23707074,-76.589065551758,,,0
+New Castle,,1550 Matassino Rd.,,New Castle,DE,19720,United States,,39.69171949,-75.577392578125,,,0
+Glen Burnie,,508 Digiulian Blvd.,,Glen Burnie,MD,21061,United States,,39.16031666,-76.670425415039,,,0
+Clinton,,6801 Old Alexandria Ferry Rd,,Clinton,MD,20735,United States,,38.78331794,-76.889335632324,,,0
+Landover,,3701 Pennsy Dr,,Landover,MD,20785,United States,,38.94146109,-76.872406005859,,,0
+Gaithersburg,,19210 Woodfield Rd,,Gaithersburg,MD,20879,United States,,39.17166572,-77.153976440430,,,0
+Levittown,,56 Runway Rd,,Levittown,PA,19057,United States,,40.12981471,-74.847236633301,,,0
+Sharon Hill,,1252 Calcon Hook Rd,,Sharon Hill,PA,19079,United States,,39.89764954,-75.263648986816,,,0
+Allentown,,1046 N. Godfrey St.,,Allentown,PA,18109,United States,,40.62577143,-75.446403503418,,,0
+Martinsburg,,1100 Winchester Ave,,Martinsburg,WV,25401,United States,,39.44276925,-77.981811523438,,,0
+Winchester,,151 Ryco Lane,,Winchester,VA,22602,United States,,39.15717067,-78.149269104004,,,0
+Hagerstown,,113 E Oak Ridge Dr,,Hagerstown,MD,21740,United States,,39.61154271,-77.726867675781,,,0
+Hagerstown,,16120 Business Pkwy,,Hagerstown,MD,21740,United States,,39.63641501,-77.811805725098,,,0
+Winchester,,150 Park Center Dr,,Winchester,VA,22603,United States,,39.20926276,-78.145851135254,,,0
+Frederick,,4610 Wedgewood Blvd,,Frederick,MD,21704,United States,,39.36324884,-77.424232482910,,,0
+Frederick,,1577 Tilco Dr,,Frederick,MD,21703,United States,,39.39738044,-77.384956359863,,,0
+Chambersburg,,875 South Main St.,,Chambersburg,PA,17201,United States,,39.92541686,-77.664161682129,,,0
+Warrenton,,81 Broadview Ave,,Warrenton,VA,20186,United States,,38.7195539,-77.806556701660,,,0
+Sterling,,45149 Old Ox Rd,,Sterling,VA,22170,United States,,38.97908355,-77.438919067383,,,0
+Manassas,,8001 Wellingford Dr,,Manassas,VA,20109,United States,,38.78365571,-77.555068969727,,,0
+Manassas Park,,9099 Owens Court,,Manassas Park,VA,20111,United States,,38.77235453,-77.443168640137,,,0
+Chantilly,,14060 Willard Rd,,Chantilly,VA,20153,United States,,38.88636792,-77.432479858398,,,0
+Culpeper,,15427 Brandy Rd,,Culpeper,VA,22701,United States,,38.48691496,-77.962547302246,,,0
+Culpeper,,1314 Orange Road,,Culpeper,VA,22701,United States,,38.51169586,-77.992797851562,,,0
+Ruckersville,,74 Carpenters Mill Rd,,Ruckersville,VA,22968,United States,,38.22780065,-78.371749877930,,,0
+Greensboro,,6371 Burnt Poplar Rd,,Greensboro,NC,27409,United States,,36.07342259,-79.934234619141,,,0
+Apex,,2540 Schieffelin Rd,,Apex,NC,27501,United States,,35.72395754,-78.827934265137,,,0
+Kernersville,,159 Clayton Forest Rd.,,Kernersville,NC,27284,United States,,36.08842448,-80.065452575684,,,0
+Raleigh,,6321 Limousine Dr,,Raleigh,NC,27617,United States,,35.90014945,-78.758781433105,,,0
+Garner,,1557 Mechanical Blvd.,,Garner,NC,27529,United States,,35.72383434,-78.643135070801,,,0
+Wilmington,,51 Export Drive,,Wilmington,NC,28405,United States,,34.28944243,-77.906333923340,,,0
+Wilmington,,6631 Amsterdam Way,,Wilmington,NC,28405,United States,,34.26294991,-77.841537475586,,,0
+Wilmington,,3601 Frederickson Rd,,Wilmington,NC,28401,United States,,34.2908136,-77.977066040039,,,0
+Selma,,4186 Buffalo Rd,,Selma,NC,27576,United States,,35.5522919,-78.299110412598,,,0
+Raleigh,,1325 Hodges Street,,Raleigh,NC,27604,United States,,35.8130778,-78.614448547363,,,0
+Fayetteville,,2881 Bridgewood,,Fayetteville,NC,28306,United States,,34.9988993,-78.895545959473,,,0
+Greensboro,,7301 Cessna Drive,,Greensboro,NC,27409,United States,,36.08367574,-79.953102111816,,,0
+Greensboro,,210 W. Meadowview Dr.,,Greensboro,NC,27406,United States,,36.03991218,-79.794708251953,,,0
+High Point,,1210 East Trinity,,High Point,NC,27260,United States,,35.92588329,-80.015403747559,,,0
+Kernersville,,765 Indeneer Dr,,Kernersville,NC,27284,United States,,36.10143444,-80.062690734863,,,0
+Raleigh,,1061 Corporation Pkwy,,Raleigh,NC,27613,United States,,35.79226037,-78.568817138672,,,0
+Raleigh,,3350 Durham Dr.,,Raleigh,NC,27603,United States,,35.72876636,-78.645484924316,,,0
+Raleigh,,8711 Fleet Service Dr.,,Raleigh,NC,27613,United States,,35.88177881,-78.571876525879,,,0
+Rocky Mount,,2483 N. Church St.,,Rocky Mount,NC,27804,United States,,35.97470618,-77.784103393555,,,0
+Winston Salem,,2521 Empire Drive,,Winston Salem,NC,27103,United States,,36.0432186,-80.321426391602,,,0
+Youngsville,,160 Jeffrey Way,,Youngsville,NC,27596,United States,,36.03298684,-78.493812561035,,,0
+Richmond,,4110 West Clay St,,Richmond,VA,23230,United States,,37.57637605,-77.483932495117,,,0
+Sandston,,6050 Audobon Dr,,Sandston,VA,23150,United States,,37.52523778,-77.325019836426,,,0
+Ashland,,10437 Success St.,,Ashland,VA,23005,United States,,37.73047224,-77.469253540039,,,0
+Richmond,,211 Maury Street,,Richmond,VA,23224,United States,,37.52258934,-77.433471679688,,,0
+Norfolk,,4545 Progress Rd,,Norfolk,VA,23501,United States,,36.86396739,-76.233169555664,,,0
+Chesapeake,,4021 Holland Blvd.,,Chesapeake,VA,23323,United States,,36.77888297,-76.377929687500,,,0
+Hampton,,220 Aberdeen Rd,,Hampton,VA,23661,United States,,37.00565609,-76.402603149414,,,0
+Chester,,12320 Old Stage Rd.,,Chester,VA,23836,United States,,37.36012316,-77.397911071777,,,0
+Virginia Beach,,617 Wesley Dr.,,Virginia Beach,VA,23423,United States,,36.83534213,-76.062652587891,,,0
+Troy,,141 Zion Park Rd.,,Troy,VA,22974,United States,,37.96725158,-78.214614868164,,,0
+Midlothian,,12701 Spectrim Lane,,Midlothian,VA,23112,United States,,37.45539817,-77.629295349121,,,0
+Chesapeake,,3741 South Military Hwy,,Chesapeake,VA,23320,United States,,36.77234667,-76.369369506836,,,0
+Hampton,,1802 W. Pembroke Ave.,,Hampton,VA,23661,United States,,37.01364936,-76.385757446289,,,0
+Portsmouth,,2401 Turnpike Rd.,,Portsmouth,VA,23704,United States,,36.83129107,-76.329620361328,,,0
+Newport News,,651 Turnberry Blvd.,,Newport News,VA,23608,United States,,37.13616734,-76.516014099121,,,0
+Petersburg,,699 East Bank St.,,Petersburg,VA,23803,United States,,37.23286681,-77.393829345703,,,0
+Chesterfield,,3904 Bellson Park Rd.,,Chesterfield,VA,23112,United States,,37.429841,-77.612831115723,,,0
+Glen Allen,,8414 Brook Road,,Glen Allen,VA,23060,United States,,37.63672555,-77.459274291992,,,0
+Charlottesville,,1176 River Rd.,,Charlottesville,VA,22901,United States,,38.038522,-78.456428527832,,,0
+Richmond,,1643 Commerce Rd.,,Richmond,VA,23234,United States,,37.50276991,-77.431167602539,,,0
+Doswell,,16424 Washington Hwy,,Doswell,VA,23048,United States,,37.86017583,-77.463737487793,,,0
+Richmond,,1802 Ellen Rd.,,Richmond,VA,23230,United States,,37.57461605,-77.465492248535,,,0
+Richmond,,1625 N. Hamilton St.,,Richmond,VA,23230,United States,,37.57091901,-77.478164672852,,,0
+Chesterfield,,11101 Ironbridge Rd.,,Chesterfield,VA,23832,United States,,37.39900668,-77.511520385742,,,0
+Ashland,,10380 Leadbetter Rd.,,Ashland,VA,23005,United States,,37.6931413,-77.441474914551,,,0
+Powhatan,,3366 Anderson Hwy.,,Powhatan,VA,23140,United States,,37.5109716,-77.775444030762,,,0
+Rockville,,2130 Ashland Rd.,,Rockville,VA,23146,United States,,37.6968361,-77.660530090332,,,0
+Richmond,,11001 Trade Rd.,,Richmond,VA,23236,United States,,37.50049327,-77.599472045898,,,0
+Richmond,,5101 Robins Rd.,,Richmond,VA,23231,United States,,37.51687722,-77.348106384277,,,0
+Richmond,,9150 Burge Ave.,,Richmond,VA,23237,United States,,37.40212648,-77.423011779785,,,0
+Gum Spring,,300 Cross County Rd. Rte 522,,Gum Spring,VA,23065,United States,,37.79507203,-77.933883666992,,,0
+Manquin,,1418 Richmond Hwy.,,Manquin,VA,23106,United States,,37.69695853,-77.169006347656,,,0
+Varina,,3275 New Market Rd.,,Varina,VA,23231,United States,,37.4337557,-77.330108642578,,,0
+Bealeton,,11432 Luck Stone Rd,,Bealeton,VA,22712,United States,,38.56560254,-77.759666442871,,,0
+Fredericksburg,,440 Kings Hwy,,Fredericksburg,VA,22405,United States,,38.28700311,-77.437393188477,,,0
+Leesburg,,42708 Cochran Mill,,Leesburg,VA,20175,United States,,39.0834142,-77.516387939453,,,0
+Fredericksburg,,4901 Massaponax Church,,Fredericksburg,VA,22407,United States,,38.19485617,-77.503639221191,,,0
+Fredericksburg,,14 Utah Place,,Fredericksburg,VA,22405,United States,,38.38898777,-77.440933227539,,,0
+Fredericksburg,,4804 Jefferson Davis Hwy,,Fredericksburg,VA,22408,United States,,38.25950992,-77.496238708496,,,0
+Fredericksburg,,4907 Plank Rd.,,Fredericksburg,VA,22407,United States,,38.29016094,-77.546173095703,,,0
+Staunton,,1205-B Richmond Ave.,,Staunton,VA,24401,United States,,38.14957744,-79.071693420410,,,0
+Staunton,,495 Statler Blvd.,,Staunton,VA,24401,United States,,38.15724186,-79.062904357910,,,0
+Fairfield,,5788 N. Lee Hwy,,Fairfield,VA,24435,United States,,37.88248581,-79.283149719238,,,0

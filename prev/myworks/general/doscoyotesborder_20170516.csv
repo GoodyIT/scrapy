@@ -1,0 +1,11 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+San Ramon ,1250,3191 Crow Canyon Place ,,San Ramon ,CA,94583,United States,(925) 242-1100,,,,,0
+The Willows Shopping Center ,1161,1975 Diamond Blvd Suite B-150 ,,Concord ,CA,94520,United States,(925) 676-0400,,,,,0
+R15 ,1073,1800 15th St Suite D ,,Sacramento ,CA,95811,United States,(916) 382-4845,,,,,0
+North Davis at The Marketplace ,222,1411 W. Covell Boulevard ,,Davis ,Ca,95616,United States,(530) 753-0922,,,,,0
+Market Square at Arden Fair ,221,1735 Arden Way # 230 ,,Sacramento ,Ca,95815,United States,(916) 927-0377,,,,,0
+Roseville at Rocky Ridge Town Center ,220,2030 Douglas Blvd # 4 ,,Roseville ,Ca,95661,United States,(916) 772-0775,,,,,0
+South Davis at Oakshade Town Center ,219,2191 Cowell Blvd ,,Davis ,Ca,95616,United States,(530) 758-1400,,,,,0
+Folsom at The Red Bull Center ,218,13385 Folsom Boulevard # 100 ,,Folsom ,Ca,95630,United States,(916) 351-9750,,,,,0
+Elk Grove at the Market Place ,217,8519 Bond Rd. # 100 ,,Elk Grove ,Ca,95624,United States,(916) 687-3790,,,,,0
+East Sacramento ,7,6450 Folsom Blvd. # 110 ,,Sacramento ,CA,95819,United States,(916) 452-5696,,,,,0

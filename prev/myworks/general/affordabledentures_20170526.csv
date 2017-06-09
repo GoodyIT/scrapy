@@ -1,0 +1,230 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+"Pell City, Alabama Affordable Dentures",1,402 Cogswell Ave.,,Pell City,AL,35125,United States,205-386-5198,33.5884627,-86.3125492,,,0
+"Albertville, Alabama Affordable Dentures",2,3487 U.S. 431,,Albertville,AL,35950,United States,256-369-9998,34.2353907,-86.1655013,,,0
+"Madison-Huntsville, Alabama Affordable Dentures",3,15048 Alabama Hwy 20,,Madison,AL,35756,United States,256-274-8203,34.6403586,-86.8485906,,,0
+"Montgomery, Alabama Affordable Dentures",4,5011 Business Park Drive,,Montgomery,AL,36116,United States,334-219-2749,32.316778,-86.231731,,,0
+"Dothan, Alabama Affordable Dentures",5,2729 Ross Clark Circle,,Dothan,AL,36301,United States,334-431-3820,31.2089129,-85.4255707,,,0
+"Florence, Alabama Affordable Dentures & Implants",6,1603 North Wood Avenue,,Florence,AL,35630,United States,256-297-1966,34.8227082,-87.6820392,,,0
+"Tuscaloosa, Alabama Affordable Dentures & Implants",7,1516 Skyland Boulevard East,,Tuscaloosa,AL,35405,United States,205-286-2749,33.169164,-87.5182962,,,0
+"Conway, Arkansas Affordable Dentures",8,1105 Collier Drive,,Conway,AR,72032,United States,501-226-4463,35.093679,-92.42328,,,0
+"Little Rock, Arkansas Affordable Dentures & Implants",9,10912 Colonel Glenn Road Suite 3500,,Little Rock,AR,72204,United States,501-226-4501,34.718935,-92.354255,,,0
+"Phoenix, Arizona Affordable Dentures & Implants",10,2316 W. Bethany Home Road Suite 101,,Phoenix,AZ,85015,United States,602-730-7875,33.5246482,-112.109671,,,0
+"Sun City, Arizona Affordable Dentures & Implants",11,10918 West Bell Road,,Sun City,AZ,85351,United States,623-688-5096,33.6391399,-112.2922388,,,0
+"Mesa, Arizona Affordable Dentures & Implants",12,1859 S. Stapley Drive Suite 104,,Mesa,AZ,85204,United States,480-400-9205,33.3799121,-111.8062972,,,0
+"Tucson, Arizona Affordable Dentures",13,3782 South 16th Avenue,,Tucson,AZ,85713,United States,520-375-9626,32.1792159,-110.9817506,,,0
+"Yuba City, California Affordable Dentures & Implants",14,"1054 Harter Road Suite 5, Yuba City Marketplace",,Yuba City,CA,95993,United States,530-314-8112,39.142318,-121.651586,,,0
+"Tracy, California Affordable Dentures & Implants",15,2425 Naglee Road,,Tracy,CA,95304,United States,209-542-9742,37.7566429,-121.4627929,,,0
+"Roseville, California Affordable Dentures & Implants",16,1740 Santa Clara Drive Suite 100B,,Roseville,CA,95661,United States,916-432-3803,38.746436,-121.261468,,,0
+"Sacramento-Florin, California Affordable Dentures & Implants",17,6035 Florin Road Suite 400,,Sacramento,CA,95823,United States,916-542-0985,38.4977279,-121.4353227,,,0
+"Redding, California Affordable Dentures",18,"1627 Hilltop Drive Suite A, Hilltop Shopping Center",,Redding,CA,96002,United States,530-206-0458,40.5836046,-122.3556736,,,0
+"El Cajon, California Affordable Dentures",19,181 Fletcher Parkway,,El Cajon,CA,92020,United States,619-333-8778,32.8075638,-116.964244,,,0
+"Vallejo, California Affordable Dentures",20,"125 Plaza Drive Suite 407, Gateway Plaza",,Vallejo,CA,94591,United States,707-998-5001,38.1321393,-122.2206652,,,0
+"Fresno, California Affordable Dentures",21,3818 W. Shaw Avenue,,Fresno,CA,93711,United States,559-402-0864,36.8083451,-119.8598808,,,0
+"Windsor-Santa Rosa, California Affordable Dentures & Implants",22,6580 Hembree Lane Suite 255,,Windsor,CA,95492,United States,707-266-6956,38.5268522,-122.7895881,,,0
+"Bakersfield, California Affordable Dentures & Implants",23,600 Coffee Road Suite Q,,Bakersfield,CA,93309,United States,661-338-2927,35.3594961,-119.0609135,,,0
+"Redlands, California Affordable Dentures & Implants",24,9946 Alabama Street Redlands Town Centre,,Redlands,CA,92374,United States,909-242-8334,34.07259,-117.2102498,,,0
+"Fort Collins, Colorado Affordable Dentures & Implants",25,4619 S. Mason St Unit C1,,Fort Collins,CO,80525,United States,970-368-3924,40.5223561,-105.0802639,,,0
+"Aurora, Colorado Affordable Dentures & Implants",26,12293 E Iliff Ave Unit A,,Aurora,CO,80014,United States,303-720-7625,39.6753928,-104.844772,,,0
+"Colorado Springs, Colorado Affordable Dentures & Implants",27,2110 Southgate Road Suite 200,,Colorado Springs,CO,80906,United States,719-286-9796,38.8022459,-104.8185098,,,0
+"Northglenn, Colorado Affordable Dentures & Implants",28,680 East 120th Avenue Suite D,,Northglenn,CO,80233,United States,303-416-5070,39.9128462,-104.9790146,,,0
+"Lakewood, Colorado Affordable Dentures & Implants",29,437 S. Wadsworth Blvd. Suite C.,,Lakewood,CO,80226,United States,303-848-4994,39.708352,-105.081871,,,0
+"Pensacola, Florida Affordable Dentures",30,"8102 North Davis Highway Ste 14, Ferry Pass Plaza",,Pensacola,FL,32514,United States,850-665-2273,30.5121308,-87.2189962,,,0
+"Fort Myers, Florida Affordable Dentures",31,4329 S. Cleveland Ave. Ste 250,,Fort Myers,FL,33901,United States,239-214-7912,26.598961,-81.870901,,,0
+"Gainesville, Florida Affordable Dentures",32,9200 NW 39th Ave. Ste 200,,Gainesville,FL,32606,United States,352-231-8524,29.6917717,-82.4402687,,,0
+"West Ocoee-Orlando, Florida Affordable Dentures & Implants",33,1163 Blackwood Avenue,,Ocoee,FL,34761,United States,407-966-4503,28.5491893,-81.5295599,,,0
+"Tampa, Florida Affordable Dentures & Implants",34,14936 North Florida Avenue Ste 101,,Tampa,FL,33613,United States,813-337-7738,28.0865047,-82.4599552,,,0
+"West Palm Beach, Florida Affordable Dentures",35,6076 Okeechobee Boulevard Suite 20,,West Palm Beach,FL,33417,United States,561-768-5672,26.7053666,-80.1366431,,,0
+"Port St. Lucie, Florida Affordable Dentures",36,9140 S. Federal Hwy.,,Port St. Lucie,FL,34952,United States,772-202-9988,27.2996077,-80.3051068,,,0
+"Sarasota, Florida Affordable Dentures & Implants",37,4015 Cattlemen Road,,Sarasota,FL,34233,United States,941-677-5838,27.2965352,-82.4515297,,,0
+"West Melbourne, Florida Affordable Dentures & Implants",38,1529 W. New Haven Ave.,,West Melbourne,FL,32904,United States,321-300-1739,28.0776038,-80.6459712,,,0
+"Jacksonville, Florida Affordable Dentures & Implants",39,10503 San Jose Blvd #10,,Jacksonville,FL,32257,United States,904-677-8858,30.1865991,-81.6267878,,,0
+"Lakeland, Florida Affordable Dentures & Implants",40,3615 S. Florida Avenue Suite 1230,,Lakeland,FL,33803,United States,863-216-8579,27.998589,-81.959599,,,0
+"Fort Lauderdale-Pembroke Pines, Florida Affordable Dentures",41,8393 Pines Blvd.,,Pembroke Pines,FL,33024,United States,954-271-1623,26.0103329,-80.2546655,,,0
+"Daytona Beach, Florida Affordable Dentures",42,1116-B Beville Road,,Daytona Beach,FL,32114,United States,386-310-1654,29.174738,-81.0302167,,,0
+"Avon Park, Florida Affordable Dentures & Implants",43,1036 US Highway 27,,Avon Park,FL,33825,United States,863-342-4868,27.6072135,-81.5143676,,,0
+"Weeki Wachee, Florida Affordable Dentures & Implants",44,6278 Commercial Way,,Weeki Wachee,FL,34613,United States,352-678-5097,28.5214775,-82.5680772,,,0
+"Panama City, Florida Affordable Dentures",45,617 W. 23rd Street,,Panama City,FL,32405,United States,850-633-4889,30.1881498,-85.6708356,,,0
+"Leesburg, Florida Affordable Dentures & Implants",46,705 N. 14th St. Suite 101,,Leesburg,FL,34748,United States,352-508-6770,28.8186006,-81.8875032,,,0
+"Tallahassee, Florida Affordable Dentures",47,2810 Sharer Road Suite 17,,Tallahassee,FL,32312,United States,850-389-4201,30.4785926,-84.2971907,,,0
+"Stockbridge, Georgia Affordable Dentures & Implants",48,3576 Georgia 138 Suite C,,Stockbridge,GA,30281,United States,678-212-1230,33.5505801,-84.2734278,,,0
+"Commerce, Georgia Affordable Dentures & Implants",49,287 Steven B Tanger Blvd,,Commerce,GA,30529,United States,706-391-8215,34.2540844,-83.4673022,,,0
+"Covington, Georgia Affordable Dentures & Implants",50,2579 Access Road,,Covington,GA,30016,United States,770-450-4056,33.619729,-83.933261,,,0
+"Augusta, Georgia Affordable Dentures",51,1332 Augusta West Parkway,,Augusta,GA,30909,United States,706-383-7633,33.4689697,-82.0856125,,,0
+"Carrollton, Georgia Affordable Dentures & Implants",52,2310 Bankhead Hwy,,Carrollton,GA,30116,United States,770-648-2812,33.6149163,-84.9984392,,,0
+"Columbus, Georgia Affordable Dentures & Implants",53,2018 Auburn Avenue,,Columbus,GA,31906,United States,706-314-8929,32.4815035,-84.9461065,,,0
+"Cartersville, Georgia Affordable Dentures & Implants",54,210 Cherokee Place,,Cartersville,GA,30121,United States,678-573-9013,34.1718897,-84.7826194,,,0
+"Valdosta, Georgia Affordable Dentures & Implants",55,282 Norman Drive,,Valdosta,GA,31601,United States,229-474-6313,30.8254337,-83.3173176,,,0
+"Macon, Georgia Affordable Dentures",56,4196 Cavalier Drive,,Macon,GA,31220,United States,478-607-2742,32.830336,-83.733058,,,0
+"Savannah, Georgia Affordable Dentures",57,1028 US Highway 80 E,,Pooler,GA,31322,United States,912-342-0164,32.1216246,-81.2652527,,,0
+"LaGrange, Georgia Affordable Dentures & Implants",58,1300 Lafayette Parkway Suite E,,LaGrange,GA,30241,United States,706-403-2506,33.040242,-84.9970104,,,0
+"Albany, Georgia Affordable Dentures",59,1104 North Westover Boulevard Suite 6A,,Albany,GA,31707,United States,229-256-2265,31.6171386,-84.2128939,,,0
+"Cedar Rapids, Iowa Affordable Dentures & Implants",60,3135 Wiley Blvd. SW Suite 104,,Cedar Rapids,IA,52404,United States,319-483-6428,41.9471349,-91.7207386,,,0
+"Sioux City, Iowa Affordable Dentures",61,3110 Sunnybrook Court,,Sioux City,IA,51106,United States,712-248-1034,42.453557,-96.331734,,,0
+"West Des Moines, Iowa Affordable Dentures",62,1420 22nd Street,,West Des Moines,IA,50266,United States,515-650-1242,41.5923288,-93.7361908,,,0
+"Boise, Idaho Affordable Dentures & Implants",63,1410 South Entertainment Ave,,Boise,ID,83709,United States,208-391-2525,43.5921687,-116.2806921,,,0
+"Oak Park - Chicago, Illinois Affordable Dentures & Implants",64,"2700 N. Narragansett Ave Suite F-3, The Brickyard",,Chicago,IL,60639,United States,708-393-4545,41.9295102,-87.7868414,,,0
+"East Moline, Illinois Affordable Dentures & Implants",65,623 Avenue of the Cities,,East Moline,IL,61244,United States,309-518-4852,41.490668,-90.4465337,,,0
+"Forsyth-Decatur, Illinois Affordable Dentures",66,138 Lucile Ave,,Forsyth,IL,62535,United States,217-619-0053,39.9194956,-88.9547241,,,0
+"Alton, Illinois Affordable Dentures & Implants",67,217 East Center Drive,,Alton,IL,62002,United States,618-619-2667,38.9234048,-90.17254,,,0
+"Peoria, Illinois Affordable Dentures",68,2807 W Townline Rd,,Peoria,IL,61615,United States,309-795-6037,40.7978067,-89.6308875,,,0
+"Rockford, Illinois Affordable Dentures & Implants",69,7318 Argus Dr,,Rockford,IL,61107,United States,815-207-8759,42.2713425,-88.9739409,,,0
+"Orland Park, IL, Illinois Affordable Dentures & Implants",70,15800 South Harlem Avenue,,Orland Park,IL,60462,United States,708-658-3356,41.602375,-87.7940287,,,0
+"Merrillville, Indiana Affordable Dentures",71,1613 East 80th Street,,Merrillville,IN,46410,United States,219-525-1624,41.4723906,-87.3155329,,,0
+"Bloomington, Indiana Affordable Dentures",72,3800 Industrial Blvd.,,Bloomington,IN,47403,United States,812-399-0066,39.1438398,-86.5806169,,,0
+"Franklin, Indiana Affordable Dentures & Implants",73,160 Holiday Place,,Franklin,IN,46131,United States,317-207-6547,39.4825609,-86.01602,,,0
+"Muncie, Indiana Affordable Dentures & Implants",74,5081 W Hessler Rd.,,Muncie,IN,47304,United States,765-328-4057,40.218113,-85.44542,,,0
+"Mishawaka-South Bend, Indiana Affordable Dentures",75,165 W University Dr,,Mishawaka,IN,46545,United States,574-400-8654,41.7203522,-86.1789576,,,0
+"Evansville, Indiana Affordable Dentures & Implants",76,619 N. Burkhardt Road Suite A,,Evansville,IN,47715,United States,812-214-1121,37.9824119,-87.473284,,,0
+"Terre Haute, Indiana Affordable Dentures",77,5404 East Bill Farr Drive,,Terre Haute,IN,47803,United States,812-645-1128,39.4377757,-87.3345709,,,0
+"Fort Wayne, Indiana Affordable Dentures",78,7810 West Jefferson Blvd.,,Fort Wayne,IN,46804,United States,260-216-0050,41.03901,-85.244369,,,0
+"Lafayette, Indiana Affordable Dentures",79,3861 State Road 26 East,,Lafayette,IN,47905,United States,765-263-4134,40.4164818,-86.8352402,,,0
+"Topeka, Kansas Affordable Dentures",80,5801 SW 21st Street,,Topeka,KS,66604,United States,785-693-2611,39.027996,-95.752416,,,0
+"Wichita, Kansas Affordable Dentures",81,4805 W. Central Ave.,,Wichita,KS,67212,United States,316-453-9831,37.6943323,-97.3988905,,,0
+"Bowling Green, Kentucky Affordable Dentures",82,2425 Scottsville Road Suite 120,,Bowling Green,KY,42104,United States,270-238-0940,36.9540266,-86.4266788,,,0
+"Hopkinsville, Kentucky Affordable Dentures",83,1870 Peartree Lane,,Hopkinsville,KY,42240,United States,270-874-1055,36.8493258,-87.4646057,,,0
+"Richmond, Kentucky Affordable Dentures",84,115 North Keeneland Drive,,Richmond,KY,40475,United States,859-605-4031,37.7764901,-84.3190005,,,0
+"Shepherdsville-Louisville, Kentucky Affordable Dentures",85,385 Brenton Way,,Shepherdsville,KY,40165,United States,502-694-7382,37.9883991,-85.7157924,,,0
+"Morehead, Kentucky Affordable Dentures & Implants",86,276 Kroger Center Drive,,Morehead,KY,40351,United States,606-488-0032,38.1944742,-83.4805671,,,0
+"Marlon Hanley, DDS, a Professional Dental Corporation",87,1539 Martin Luther King Blvd Suite 112,,Houma,LA,70360,United States,985-441-9723,29.607374,-90.7503379,,,0
+"Scott-Lafayette, Louisiana Affordable Dentures & Implants",88,2149 W. Willow Street,,Scott,LA,70583,United States,337-327-8046,30.2431769,-92.0652235,,,0
+"Shreveport, Louisiana Affordable Dentures & Implants",89,416 Ashley Ridge Blvd,,Shreveport,LA,71106,United States,318-268-3063,32.416969,-93.732754,,,0
+"Monroe, Louisiana Affordable Dentures",90,3340 Sterlington Road,,Monroe,LA,71203,United States,318-367-0118,32.5568128,-92.0758431,,,0
+"Baton Rouge, Louisiana Affordable Dentures & Implants",91,3203 S. Sherwood Forest Blvd,,Baton Rouge,LA,70816,United States,225-250-1376,30.4240762,-91.051461,,,0
+"Pineville, Louisiana Affordable Dentures & Implants",92,249 Lofton Drive,,Pineville,LA,71360,United States,318-461-4034,31.3418542,-92.2848126,,,0
+"Metairie, Louisiana Affordable Dentures",93,8847 Veterans Memorial Blvd Suite 8,,Metairie,LA,70003,United States,504-230-0329,30.0071465,-90.2263696,,,0
+"Covington, Louisiana Affordable Dentures & Implants",94,5207 Pinnacle Parkway,,Covington,LA,70433,United States,985-205-3171,30.4447974,-90.131435,,,0
+"Lake Charles, Louisiana Affordable Dentures",95,3437 Derek Drive Lake Charles Power Center,,Lake Charles,LA,70607,United States,337-409-0159,30.1960624,-93.1743284,,,0
+"Salisbury, Maryland Affordable Dentures & Implants",96,601 East Naylor Mill Road Suite E,,Salisbury,MD,21804,United States,410-870-9980,38.4079959,-75.5631493,,,0
+"Jessup, Maryland Affordable Dentures & Implants",97,7351 Assateague Drive Suite 480,,Jessup,MD,20794,United States,443-440-5883,39.169516,-76.785402,,,0
+"Towson, Maryland Affordable Dentures & Implants",98,913 Taylor Avenue,,Towson,MD,21286,United States,410-670-5010,39.3862508,-76.5787212,,,0
+"Clinton, Maryland Affordable Dentures & Implants",99,9009 Woodyard Rd. Unit 103,,Clinton,MD,20735,United States,301-363-4557,38.7663147,-76.8936633,,,0
+"Kalamazoo, Michigan Affordable Dentures & Implants",100,5017 West Main Street,,Kalamazoo,MI,49009,United States,269-338-0541,42.2962833,-85.6486084,,,0
+"Grandville, Michigan Affordable Dentures & Implants",101,4485 Canal Ave. SW Suite C600,,Grandville,MI,49418,United States,616-675-1543,42.8825139,-85.7751218,,,0
+"Rochester, Minnesota Affordable Dentures & Implants",102,"3434 55th Street NW Suite 100, Northwest Plaza",,Rochester,MN,55901,United States,507-299-0658,44.0795703,-92.5114406,,,0
+"Duluth, Minnesota Affordable Dentures",103,4310 Menard Drive Suite 300,,Duluth,MN,55811,United States,218-308-8775,46.8234463,-92.1835375,,,0
+"Brooklyn Park-Minneapolis, Minnesota Affordable Dentures",104,8066 Brooklyn Blvd,,Brooklyn Park,MN,55445,United States,763-200-5397,45.0964737,-93.3796805,,,0
+"West St. Paul, MN Affordable Dentures & Implants",105,2055 South Robert Street,,West St Paul,MN,55118,United States,651-347-6595,44.8847374,-93.0805774,,,0
+"St. Louis, Missouri Affordable Dentures & Implants",106,9960 Kennerly Road,,St. Louis,MO,63128,United States,314-527-4067,38.5074378,-90.3755407,,,0
+"Cape Girardeau, Missouri Affordable Dentures & Implants",107,2439 Bloomfield Road,,Cape Girardeau,MO,63703,United States,573-653-3002,37.298075,-89.555316,,,0
+"St. Charles, Missouri Affordable Dentures",108,3865 Mexico Road,,St. Charles,MO,63303,United States,636-422-0197,38.7909885,-90.5643712,,,0
+"Columbia, Missouri Affordable Dentures & Implants",109,3200 Penn Terrace Suite 119,,Columbia,MO,65202,United States,573-417-4162,38.9659127,-92.2851817,,,0
+"St. Joseph, Missouri Affordable Dentures & Implants",110,1409 North Belt Highway,,Saint Joseph,MO,64506,United States,816-336-1043,39.7770257,-94.8032021,,,0
+"Independence, Missouri Affordable Dentures &  Implants",111,19401 E. Valley View Parkway,,Independence,MO,64055,United States,816-470-0094,39.037315,-94.350864,,,0
+"Sullivan, Missouri Affordable Dentures",112,400 Cumberland Way Suite A,,Sullivan,MO,63080,United States,573-213-4272,38.2171606,-91.156702,,,0
+"Flowood-Jackson, Mississippi Affordable Dentures & Implants",113,128 Riverview Drive,,Flowood,MS,39232,United States,601-871-0283,32.3296803,-90.1286215,,,0
+"Meridian, Mississippi Affordable Dentures",114,519 Bonita Lakes Dr Suite B,,Meridian,MS,39301,United States,601-557-0269,32.3615751,-88.6740737,,,0
+"Tupelo, Mississippi Affordable Dentures",115,837 S. Gloster Street,,Tupelo,MS,38801,United States,662-367-0198,34.241627,-88.7180602,,,0
+"Hattiesburg, Mississippi Affordable Dentures & Implants",116,4600 Hardy Street Suite 31-A,,Hattiesburg,MS,39402,United States,601-620-0771,31.3222292,-89.3586595,,,0
+"Gulfport, Mississippi Affordable Dentures",117,505 Cowan Road,,Gulfport,MS,39507,United States,228-591-1694,30.3924707,-89.0268368,,,0
+"Kannapolis, North Carolina Affordable Dentures & Implants",118,2225 Roxie Street NE,,Kannapolis,NC,28083,United States,704-909-6269,35.465098,-80.5947584,,,0
+"Rockingham, North Carolina Affordable Dentures",119,784 US-74 Bus,,Rockingham,NC,28379,United States,910-557-0571,34.913216,-79.730957,,,0
+"Charlotte, North Carolina Affordable Dentures & Implants",120,2842 Boyer Street,,Charlotte,NC,28208,United States,704-269-6675,35.227947,-80.923897,,,0
+"Moyock, North Carolina Affordable Dentures",121,107 Lazy Corner Road,,Moyock,NC,27958,United States,252-558-0265,36.531118,-76.185052,,,0
+"Asheville, North Carolina Affordable Dentures & Implants",122,1445 Tunnel Road,,Asheville,NC,28805,United States,828-619-0963,35.5842778,-82.4618629,,,0
+"Colfax, North Carolina Affordable Dentures",123,3911 Teamsters Place,,Colfax,NC,27235,United States,336-546-6112,36.09324,-79.994421,,,0
+"Fayetteville, North Carolina Affordable Dentures",124,3055 Sanderosa Road,,Fayetteville,NC,28312,United States,910-212-6227,35.080156,-78.785499,,,0
+"Durham-Raleigh, North Carolina Affordable Dentures",125,5606 Apex Highway,,Durham,NC,27713,United States,919-371-8983,35.88714,-78.895683,,,0
+"Kinston, North Carolina Affordable Dentures",126,1400 Industrial Drive,,Kinston,NC,28504,United States,252-368-4203,35.2621619,-77.668365,,,0
+"Conover, North Carolina Affordable Dentures & Implants",127,211 Rock Barn Road NE,,Conover,NC,28613,United States,828-538-4633,35.706067,-81.209563,,,0
+"Wilmington, North Carolina Affordable Dentures",128,2253 Carolina Beach Road,,Wilmington,NC,28401,United States,910-212-6193,34.199232,-77.938309,,,0
+"Bellevue-Omaha, Nebraska Affordable Dentures",129,3602 Edgerton Drive,,Bellevue,NE,68123,United States,402-819-1003,41.1437451,-95.9674,,,0
+"Lincoln, Nebraska Affordable Dentures & Implants",130,7120 South 82nd Street,,Lincoln,NE,68516,United States,402-512-1329,40.7391928,-96.6083619,,,0
+"Ewing, New Jersey Affordable Dentures & Implants",131,21 Scotch Rd,,Ewing,NJ,08628,United States,609-435-3208,40.2654267,-74.8027479,,,0
+"Mount Ephraim-Audubon, New Jersey Affordable Dentures",132,800 E Black Horse Pike,,Mt Ephraim,NJ,08059,United States,856-254-3560,39.8918264,-75.0905008,,,0
+"Vineland, New Jersey Affordable Dentures & Crowns",133,60 W LANDIS AVE  Suite A2,,Vineland,NJ,08360,United States,856-491-4412,39.4874495,-75.0380408,,,0
+"Albuquerque, New Mexico Affordable Dentures",134,4821 Alexander Blvd. NE,,Albuquerque,NM,87107,United States,505-312-9925,35.1377944,-106.6159818,,,0
+"Las Vegas, Nevada Affordable Dentures & Implants",135,2605 S Decatur Blvd. Suite 116,,Las Vegas,NV,89102,United States,702-664-1722,36.165258,-115.2088843,,,0
+"Albany, New York Affordable Dentures & Implants",136,1554 Central Avenue,,Albany,NY,12205,United States,518-293-2628,42.714957,-73.830434,,,0
+"Vestal-Binghamton, New York Affordable Dentures & Implants",137,1101 Bunn Hill Road,,Vestal,NY,13850,United States,607-366-0009,42.0943621,-75.9753972,,,0
+"Rochester, New York Affordable Dentures & Implants",138,4417-A Dewey Ave,,Rochester,NY,14616,United States,585-268-6156,43.2519734,-77.6468078,,,0
+"Cincinnati-Norwood, Ohio Affordable Dentures & Implants",139,3252 Highland Avenue,,Cincinnati,OH,45213,United States,513-334-0178,39.1695741,-84.4267031,,,0
+"Canton, Ohio Affordable Dentures & Implants",140,2737 Maret Place NE,,Canton,OH,44705,United States,330-249-3015,40.8364263,-81.3319907,,,0
+"Akron, Ohio Affordable Dentures & Implants",141,2863 Arlington Road Suite 12,,Akron,OH,44312,United States,330-235-1352,40.993865,-81.491148,,,0
+"Huber Heights, Ohio Affordable Dentures & Implants",142,8296 Old Troy Pike,,Huber Heights,OH,45424,United States,937-303-4378,39.8747676,-84.1372829,,,0
+"St. Clairsville, Ohio Affordable Dentures",143,68379 Stewart Drive,,St. Clairsville,OH,43950,United States,740-739-4232,40.075898,-80.86742,,,0
+"Dayton-Miamisburg, Ohio Affordable Dentures",144,233 North Springboro Pike,,Dayton,OH,45449,United States,937-314-1026,39.6415366,-84.2248749,,,0
+"Forest Park-Cincinnati, Ohio Affordable Dentures & Implants",145,1173 Smiley Avenue,,Cincinnati,OH,45240,United States,513-268-0189,39.2956686,-84.5203174,,,0
+"Zanesville, Ohio Affordable Dentures & Implants",146,305 Sunrise Center Drive,,Zanesville,OH,43701,United States,740-201-1410,39.9454465,-81.9798208,,,0
+"Mansfield, Ohio Affordable Dentures & Implants",147,2010 August Drive Suite 106,,Ontario,OH,44906,United States,567-369-4042,40.7626319,-82.5894847,,,0
+"Mentor, Ohio Affordable Dentures & Implants",148,9114 Mentor Avenue,,Mentor,OH,44060,United States,440-574-7310,41.6748561,-81.3133886,,,0
+"Brook Park, Ohio Affordable Dentures & Implants",149,5859 Smith Road,,Brook Park,OH,44142,United States,216-539-8994,41.4052066,-81.8025074,,,0
+"Lima, Ohio Affordable Dentures",150,1951 Bellefontaine Rd,,Lima,OH,45804,United States,419-580-1063,40.728862,-84.070139,,,0
+"Chillicothe, Ohio Affordable Dentures & Implants",151,51 North Plaza Blvd.,,Chillicothe,OH,45601,United States,740-325-3088,39.3504514,-82.9783962,,,0
+"Columbus, Ohio Affordable Dentures & Implants",152,5609 Trabue Road,,Columbus,OH,43228,United States,614-254-5937,39.98016,-83.146505,,,0
+"Poland-Boardman, Ohio Affordable Dentures",153,1060 Tiffany South,,Poland,OH,44514,United States,330-532-8919,41.020021,-80.630448,,,0
+"Sylvania-Toledo, Ohio Affordable Dentures & Implants",154,6411 River Crossings,,Sylvania,OH,43560,United States,419-580-1101,41.714475,-83.69823,,,0
+"Tulsa, Oklahoma Affordable Dentures & Implants",155,7458 S. Olympia Avenue,,Tulsa,OK,74132,United States,918-559-5070,36.0562377,-96.0036821,,,0
+"Midwest City, Oklahoma Affordable Dentures & Implants",156,5301 Main Street Suite 111,,Del City,OK,73115,United States,405-256-2732,35.443628,-97.4248516,,,0
+"Oklahoma City, Oklahoma Affordable Dentures & Implants",157,3627 Northwest Expressway,,Oklahoma City,OK,73112,United States,405-265-6203,35.5343722,-97.5824407,,,0
+"Springfield, Oregon Affordable Dentures & Implants",158,3314 Gateway St,,Springfield,OR,97477,United States,541-368-7537,44.0814233,-123.0416282,,,0
+"Wilsonville, Oregon Affordable Dentures & Implants",159,8229 SW Wilsonville Road Suite 6AB,,Wilsonville,OR,97070,United States,503-831-8817,45.3052078,-122.762914,,,0
+"Erie, Pennsylvania Affordable Dentures & Implants",160,"7200 Peach Street, Unit 340,",,Erie,PA,16509,United States,814-806-1112,42.0531386,-80.0866173,,,0
+"Harrisburg, Pennsylvania Affordable Dentures & Implants",161,4339 Union Deposit Road,,Harrisburg,PA,17111,United States,717-745-6870,40.2792861,-76.811773,,,0
+"Philadelphia, Pennsylvania Affordable Dentures & Implants",162,2119 Cottman Avenue,,Philadelphia,PA,19149,United States,215-987-5331,40.0500595,-75.0628579,,,0
+"Greenville-Providence, Rhode Island Affordable Dentures",163,445 Putnam Pike,,Greenville,RI,02828,United States,401-218-0026,41.8710136,-71.5288205,,,0
+"Anderson, South Carolina Affordable Dentures",164,3004 North Main Street,,Anderson,SC,29621,United States,864-261-1889,34.534763,-82.665455,,,0
+"Greenville, South Carolina Affordable Dentures & Implants",165,3903 Augusta Road,,Greenville,SC,29605,United States,864-970-0404,34.7992042,-82.3793388,,,0
+"Greenwood, South Carolina Affordable Dentures",166,1431 Highway 72,,Greenwood,SC,29649,United States,864-492-1842,34.2147305,-82.1548475,,,0
+"North Charleston, South Carolina Affordable Dentures & Implants",167,5711 Rivers Avenue,,North Charleston,SC,29406,United States,843-593-0403,32.898779,-80.017741,,,0
+"Myrtle Beach, South Carolina Affordable Dentures",168,1267 38th Avenue North Ste 219,,Myrtle Beach,SC,29577,United States,843-491-5963,33.7253167,-78.8674567,,,0
+"Columbia, South Carolina Affordable Dentures",169,2123 Broad River Road,,Columbia,SC,29210,United States,803-702-4036,34.037916,-81.092965,,,0
+"Rock Hill, South Carolina Affordable Dentures",170,2441 N. Cherry Road,,Rock Hill,SC,29732,United States,803-398-5561,34.9695425,-80.9926531,,,0
+"Bluff City, Tennessee Affordable Dentures & Implants",171,4516 Highway 11 East,,Bluff City,TN,37618,United States,423-815-9798,36.466208,-82.285561,,,0
+"Loudon-Lenoir City, Tennessee Affordable Dentures",172,16374 Hotchkiss Valley Rd East,,Loudon,TN,37774,United States,865-229-6158,35.7657151,-84.3602608,,,0
+"Cookeville, Tennessee Affordable Dentures",173,1640 Salem Rd,,Cookeville,TN,38506,United States,931-400-2442,36.1282042,-85.4794442,,,0
+"Chattanooga, Tennessee Affordable Dentures",174,7611 Hamilton Park Drive,,Chattanooga,TN,37421,United States,423-207-3552,35.057376,-85.135807,,,0
+"Burns-Dickson, Tennessee Affordable Dentures",175,201 Gum Branch Road,,Burns,TN,37029,United States,615-549-8568,36.021192,-87.33371,,,0
+"Memphis, Tennessee Affordable Dentures",176,3481 Poplar Avenue,,Memphis,TN,38111,United States,901-286-5713,35.1269056,-89.946462,,,0
+"Nashville, Tennessee Affordable Dentures & Implants",177,932 Allen Road,,Nashville,TN,37214,United States,615-549-8576,36.150725,-86.663721,,,0
+"Morristown, Tennessee Affordable Dentures",178,219 E. Morris Blvd,,Morristown,TN,37813,United States,423-449-9913,36.2132735,-83.2900787,,,0
+"Shelbyville, Tennessee Affordable Dentures & Implants",179,1872 N. Main Street,,Shelbyville,TN,37160,United States,931-400-2450,35.5137501,-86.4556075,,,0
+"Jackson, Tennessee Affordable Dentures",180,2419 Christmasville Cove,,Jackson,TN,38305,United States,731-681-2459,35.6766949,-88.7846333,,,0
+"Amarillo, Texas Affordable Dentures & Implants",181,2207 S. Western Street Suite 40,,Amarillo,TX,79109,United States,806-370-7881,35.1888852,-101.8832299,,,0
+"Conroe, Texas Affordable Dentures & Implants",182,3828 West Davis Street Suite 310,,Conroe,TX,77304,United States,936-242-8173,30.327651,-95.496768,,,0
+"Corpus Christi, Texas Affordable Dentures & Implants",183,4300 S. Padre Island Drive Unit 4-1,,Corpus Christi,TX,78411,United States,361-482-0709,27.719228,-97.3923913,,,0
+"Tyler, Texas Affordable Dentures & Implants",184,3081 State Highway 31 East,,Tyler,TX,75702,United States,903-231-4353,32.3478911,-95.2596516,,,0
+"Friendswood, Texas Affordable Dentures & Implants",185,19012 Gulf Freeway Suite A,,Friendswood,TX,77546,United States,281-407-9301,29.5435588,-95.1451733,,,0
+"New Braunfels, Texas Affordable Dentures & Crowns",186,614 S. Walnut Avenue,,New Braunfels,TX,78130,United States,830-476-3038,29.6860333,-98.1260608,,,0
+"Sugar Land, Texas Affordable Dentures",187,16754 Southwest Freeway Suite D,,Sugar Land,TX,77479,United States,281-407-8615,29.5918892,-95.6350936,,,0
+"Cedar Hill, Texas Affordable Dentures & Implants",188,241 Farm to Market Road 1382 Suite 319,,Cedar Hill,TX,75104,United States,972-441-4876,32.5978445,-96.9392674,,,0
+"Fort Worth, Texas Affordable Dentures & Implants",189,4750 Bryant Irvin Road Suite 802,,Fort Worth,TX,76132,United States,817-668-6674,32.6802718,-97.4164207,,,0
+"San Angelo, Texas Affordable Dentures",190,3111 Southwest Boulevard,,San Angelo,TX,76904,United States,325-262-4464,31.4334242,-100.4923203,,,0
+"Abilene, Texas Affordable Dentures",191,4150 South Danville Dr Suite 3,,Abilene,TX,79605,United States,325-268-0477,32.403545,-99.759686,,,0
+"Sherman, Texas Affordable Dentures & Implants",192,734 E Hwy 82,,Sherman,TX,75090,United States,430-222-0236,33.6695391,-96.6082567,,,0
+"Arlington, Texas Affordable Dentures & Implants",193,2111 N. Collins St Suite 203,,Arlington,TX,76011,United States,817-612-4431,32.7676559,-97.0955473,,,0
+"Texarkana, Texas Affordable Dentures & Implants",194,2700 Richmond Road Ste 21,,Texarkana,TX,75503,United States,903-488-5219,33.4598235,-94.0895408,,,0
+"San Antonio, Texas Affordable Dentures & Implants",195,8069 Callaghan Rd,,San Antonio,TX,78230,United States,210-570-9694,29.5130647,-98.5507756,,,0
+"Wichita Falls, Texas Affordable Dentures",196,2925 Southwest Pkwy Suite 500,,Wichita Falls,TX,76308,United States,940-488-4327,33.8577198,-98.5407767,,,0
+"Lubbock, Texas Affordable Dentures",197,2811 S. Loop 289 Unit #12,,Lubbock,TX,79423,United States,806-340-7264,33.5283153,-101.8779257,,,0
+"Denton, Texas Affordable Dentures & Implants",198,2318 San Jacinto Blvd. Suite 104,,Denton,TX,76205,United States,940-580-2902,33.1921602,-97.1115777,,,0
+"Mesquite, Texas Affordable Dentures & Implants",199,18835 LBJ Freeway Suite A,,Mesquite,TX,75150,United States,972-619-9044,32.7999894,-96.6273872,,,0
+"Nacogdoches, Texas Affordable Dentures",200,3801 North St Suite 5,,Nacogdoches,TX,75965,United States,936-225-5445,31.6382479,-94.6546181,,,0
+"Austin, Texas Affordable Dentures & Implants",201,8316 Tuscany Way,,Austin,TX,78754,United States,512-400-0631,30.32991,-97.660099,,,0
+"Odessa, Texas Affordable Dentures & Implants",202,301 S.E. Loop 338,,Odessa,TX,79762,United States,432-201-1430,31.871307,-102.306178,,,0
+"Beaumont, Texas Affordable Dentures",203,3095 College St,,Beaumont,TX,77701,United States,409-422-7396,30.06784,-94.121124,,,0
+"Waco, Texas Affordable Dentures & Implants",204,1522 South New Road,,Waco,TX,76711,United States,254-633-2718,31.5116,-97.158497,,,0
+"Riverdale, Utah Affordable Dentures & Implants",205,4035 Riverdale Road Suite C,,Riverdale,UT,84405,United States,801-871-8313,41.1901045,-111.9817833,,,0
+"American Fork, Utah Affordable Dentures & Implants",206,484 N 950 W Suite C,,American Fork,UT,84003,United States,801-409-9695,40.3870431,-111.824356,,,0
+"Newport News, Virginia Affordable Dentures & Implants",207,12731 Jefferson Avenue,,Newport News,VA,23602,United States,757-932-3022,37.1347466,-76.5171689,,,0
+"Bedford, Virginia Affordable Dentures",208,819 Ole Turnpike Drive,,Bedford,VA,24523,United States,540-298-6653,37.3370283,-79.5455809,,,0
+"Rocky Gap, Virginia Affordable Dentures",209,12080 North Scenic Highway,,Rocky Gap,VA,24366,United States,276-546-8232,37.2376577,-81.1049621,,,0
+"Winchester, Virginia Affordable Dentures",210,150 Prosperity Dr.,,Winchester,VA,22602,United States,540-307-4148,39.119181,-78.199574,,,0
+"Chester, Virginia Affordable Dentures & Implants",211,11846 Perdue Springs Court,,Chester,VA,23831,United States,804-684-1025,37.3648768,-77.4182677,,,0
+"Harrisonburg, Virginia Affordable Dentures & Implants",212,1790 E. Market St Suite 82,,Harrisonburg,VA,22801,United States,540-208-4030,38.4325957,-78.8401404,,,0
+"Charlottesville, Virginia Affordable Dentures & Implants",213,1928 Rio Center,,Charlottesville,VA,22901,United States,434-607-4683,38.0875797,-78.4719646,,,0
+"Richmond, Virginia Affordable Dentures & Implants",214,1280 Concord Ave,,Richmond,VA,23228,United States,804-286-0014,37.6373848,-77.4622706,,,0
+"Woodbridge, Virginia Affordable Dentures & Implants",215,14228 Smoketown Road,,Woodbridge,VA,22192,United States,703-794-2006,38.6805859,-77.3209555,,,0
+"South Hill, Virginia Affordable Dentures & Implants",216,1165 East Atlantic Street,,South Hill,VA,23970,United States,434-233-0238,36.7086469,-78.1072063,,,0
+"Suffolk, Virginia Affordable Dentures & Implants",217,2999 Corporate Lane Suite B11,,Suffolk,VA,23434,United States,757-655-7289,36.778761,-76.582196,,,0
+"Virginia Beach, Virginia Affordable Dentures & Crowns",218,"3980 Virginia Beach Blvd., Suite 103, Loehmann's Plaza",,Virginia Beach,VA,23452,United States,757-655-7292,36.8294903,-76.1028056,,,0
+"South Burlington, Vermont Affordable Dentures & Implants",219,1162 Williston Road,,South Burlington,VT,05403,United States,802-503-0968,44.468669,-73.177422,,,0
+"Spokane Valley, Washington Affordable Dentures & Implants",220,8901 E. Trent Avenue Suite 104,,Spokane Valley,WA,99212,United States,509-591-9959,47.6818115,-117.2849577,,,0
+"Tacoma, Washington Affordable Dentures",221,3801 South Steele Street Suite D,,Tacoma,WA,98409,United States,253-200-1280,47.222027,-122.468067,,,0
+"Yakima, Washington Affordable Dentures & Implants",222,102 N Fair Ave Suite 102,,Yakima,WA,98901,United States,509-828-4851,46.6074351,-120.4892205,,,0
+"Pleasant Prairie-Kenosha, Wisconsin Affordable Dentures",223,10347 77th Street Suite 630,,Pleasant Prairie,WI,53158,United States,262-612-3319,42.5640581,-87.9320362,,,0
+"Madison, Wisconsin Affordable Dentures",224,6668 Odana Road,,Madison,WI,53719,United States,608-352-4437,43.0562219,-89.4957146,,,0
+"Milwaukee, Wisconsin Affordable Dentures & Implants",225,6015 W. Forest Home Ave Unit #1,,Milwaukee,WI,53220,United States,414-892-7695,42.9753109,-87.9884149,,,0
+"Eau Claire, Wisconsin Affordable Dentures",226,4850 Keystone Crossing,,Eau Claire,WI,54701,United States,715-502-2784,44.7709756,-91.4314213,,,0
+"Green Bay, Wisconsin Affordable Dentures",227,1800-C W. Mason Street,,Green Bay,WI,54303,United States,920-397-5609,44.52514,-88.075645,,,0
+"Barboursville, West Virginia Affordable Dentures",228,"5187 Route 60 Bldg. 3, Ste 7",,Huntington,WV,25705,United States,304-409-2046,38.410811,-82.341968,,,0
+"Bridgeport, West Virginia Affordable Dentures & Implants",229,102 Tolley Drive,,Bridgeport,WV,26330,United States,304-402-3859,39.2817371,-80.277906,,,0

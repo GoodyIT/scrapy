@@ -1,0 +1,79 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Wal-Mart Headquarters,,702 SW 8th St,,Bentonville,AR,72716,United States,,36.3656,-94.2181,,,0
+Private: State Farm #1,,1 State Farm Plaza,,B-4 Bloomington,IL,61710,United States,(309) 261 - 5483,40.4773,-88.9552,,,0
+Private: State Farm #2,,3 State Farm Plaza,,Building P Bloomington,IL,61704,United States,(309) 766 - 3909,40.4573,-88.9538,,,0
+Private: State Farm #3,,3 State Farm Plaza,,Building H Bloomington,IL,61704,United States,(309) 763-2426,40.4573,-88.9538,,,0
+Longview,,1009 Wal St,,Longview,TX,75605,United States,(903) 663-9500,32.5446,-94.7295,,,0
+Troup and the Loop,,3316 Troup Hwy,,Tyler,TX,75701,United States,(903) 593 - 1100,32.313,-95.2751,,,0
+Tyler #2,,6621 S.,,Broadway,Tyler,,United States,903-630-7820,32.2775,-95.3066,,,0
+Southaven,,6582 Getwell Rd Suite A,,Southaven,MS,38672,United States,(662) 655 - 1073,34.9564,-89.9367,,,0
+Ole Miss,,1801 Jackson Ave W,,Oxford,MS,38655,United States,(662) 638-0595,34.3656,-89.5539,,,0
+Woodlands Plaza,,3500 Villa Point,,Owensboro,KY,42303,United States,(270) 686 - 7505,37.7507,-87.0541,,,0
+Tupelo,,3356 N Gloster St,,Tupelo,MS,38804,United States,(662) 260-3026,34.3029,-88.7074,,,0
+St. Matthews,,285 N Hubbards Ln,,Louisville,KY,40207,United States,(502) 897 - 5323,38.258,-85.6391,,,0
+Starkville,,87-1 Cotton Mill Dr,,Starkville,MS,39759,United States,(662) 268 - 6210,33.457,-88.8039,,,0
+Providence Marketplace,,401 S Mt Juliet Rd #355 Mount,,Juliet,TN,37122,United States,(615) 758 - 0898,36.1642,-86.5079,,,0
+Middletown,,12915 Shelbyville Rd,,Louisville,KY,40243,United States,(502) 365-1424,38.2442,-85.5149,,,0
+Madison,,8044 HWY 72 West,,Madison,AL,25758,United States,(256) 858-1088,34.7521,-86.7511,,,0
+Memorial Parkway,,3002 Memorial Pkwy SW,,Huntsville,AL,35801,United States,(256) 489 - 7257,34.7042,-86.5888,,,0
+Regency Centre,,2380 Norman Ln,,Lexington,KY,40503,United States,(859) 277 - 2572,38.0046,-84.5197,,,0
+Green Oak Village Place,,9725 Village Pl Blvd,,Brighton,MI,48116,United States,(810) 227 - 2572,42.5283,-83.8278,,,0
+Hixson,,252 Northgate Mall,,Dr,Chattanooga,,United States,(423) 661-8600,35.1319,-85.2389,,,0
+Hamilton Corner,,2115 Gunbarrel Rd,,Chattanooga,TN,37421,United States,(423) 894 - 7144,35.034,-85.1544,,,0
+Ooltewah,,9032 Old Lee Highway,,Suite 120,TN,37363,United States,(423) 910-5167,35.0838,-85.0703,,,0
+Rochester Rd,,6892 Rochester Rd,,Troy,MI,48085,United States,(248) 828 - 2700,42.6215,-83.1299,,,0
+GM Renaissance Center,,100 Renaissance CenterSuite A106,,Detroit,MI,48243,United States,(313) 567 - 3701,42.3291,-83.0406,,,0
+Oak Ridge,,288 S Illinois Ave Oak,,Ridge,TN,37830,United States,(865) 272 - 3891,36.0069,-84.2578,,,0
+Romeo Commons,,18325 Hall Rd,,Macomb,MI,48044,United States,(586) 416 - 2800,42.6285,-82.9392,,,0
+Turkey Creek,,10919 Parkside Dr,,Knoxville,TN,37934,United States,(865) 671 - 2426,35.9036,-84.1468,,,0
+Cedar Bluff,,105 Moss Grove Blvd,,Knoxville,TN,37922,United States,(856) 394 - 6810,35.9089,-84.0919,,,0
+Clinton Highway,,6645 Clinton Hwy,,Knoxville,TN,37912,United States,(865) 859 - 9417,36.0064,-84.022,,,0
+Powell,,570 East Emory,,Rd,Powell,,United States, (865) 512-9137,36.0509,-83.9936,,,0
+West Town,,100 Jack Dance Dr,,Knoxville,TN,37919,United States,(865) 690 - 0486,35.927,-84.0433,,,0
+Fountain City,,5224 N Broadway St,,Knoxville,TN,37918,United States,(865) 688 - 1020,36.0335,-83.931,,,0
+Hamilton Crossing,,715 Louisville Rd,,Alcoa,TN,37701,United States,(865) 981 - 4306,35.7715,-83.9866,,,0
+Pigeon Forge,,2250 Parkway Pigeon,,Forge,TN,37863,United States,(865) 429 - 0991,35.8155,-83.5786,,,0
+Festival Plaza,,8015 Vaughn Rd,,Montgomery,AL,36116,United States,(334) 356 - 5430,32.339,-86.173,,,0
+Alpharetta,,5215 Windward Pkwy Suite A,,Alpharetta,GA,30004,United States,(770) 754-5822,34.0909,-84.2764,,,0
+Auburn University,,1310 Wilmore Dr Auburn,,University,AL,36849,United States,,32.6057,-85.4849,,,0
+Long Shoals Road,,26 Carl Alwin,,Place,Asheville,,United States,(828) 423-0904,35.4828,-82.5546,,,0
+Pelham Rd,,8595 Pelham Rd #500,,Greenville,SC,29615,United States,(864) 627-8301,34.8521,-82.2305,,,0
+Second Street Shoppes,,944 2nd St NE,,Hickory,NC,28601,United States,(828) 304 - 2485,35.7463,-81.3343,,,0
+Winslow Bay Commons,,688 Bluefield Rd,,Mooresville,NC,28117,United States,(704) 799 - 7403,35.5965,-80.8697,,,0
+Lowe's Headquarters,,1000 Lowes Blvd,,Mooresville,NC,28115,United States,(704) 757-1595,35.5418,-80.8539,,,0
+Rosedale Shopping Center,,14230 Reese Blvd W,,Huntersville,NC,28078,United States,(704) 875 - 7272,35.4084,-80.863,,,0
+Charlotte Airport - Terminal E,,5501 R C Josh Birmingham Parkway Suite 100,,Charlotte,NC,28208,United States,(704) 359 - 4760,35.2235,-80.9442,,,0
+Charlotte Airport - Main Terminal,,5501 R C Josh Birmingham Parkway,,Charlotte,NC,28208,United States,(704) 359 - 8001,35.2235,-80.9442,,,0
+Rivergate Marketplace,,12807 S Tryon St,,Charlotte,NC,28273,United States,(704) 587 - 7093,35.1034,-80.9836,,,0
+Lake Pointe,,2908 Oak Lake Blvd,,Charlotte,NC,28208,United States,(704) 329 - 9320,35.1902,-80.922,,,0
+Overstreet Mall,,101 S Tryon St Suite 5,,Charlotte,NC,28202,United States,(704) 342 - 0950,35.227,-80.8431,,,0
+Harris Blvd,,1530 Overland Park Ln Suite 1-100,,Charlotte,NC,28262,United States,(704) 971 - 7230,35.3177,-80.7721,,,0
+Concord Mills,,8111 Concord Mills Blvd #101,,Concord,NC,28027,United States,(704) 979 - 9015,35.3692,-80.7221,,,0
+Quail Corners,,8400 Park Rd,,Charlotte,NC,28210,United States,(704) 643 - 9500,35.1169,-80.8566,,,0
+Cotswold ,,304 S. Sharon Amity Rd,,Charlotte,NC,28211,United States,(704) 442-0655,35.1761,-80.8024,,,0
+UNC Charlotte,,9201 University Blvd,,Charlotte,NC,28223,United States,(704) 687-1272 ,35.3032,-80.7299,,,0
+Indian Land,,8374 Charlotte Hwy Fort,,Mill,SC,29707,United States,(803) 560-0067,34.9554,-80.8525,,,0
+Summit Park,,120 Rowan Summit Dr,,#600,Salisbury,,United States,(704) 870-3037,35.6301,-80.489,,,0
+Blakeney Crossing,,9941 Rea Rd,,Charlotte,NC,28277,United States,(704) 443 - 2921,35.0342,-80.8046,,,0
+Chippewa St,,110 W Chippewa St,,Buffalo,NY,14202,United States,(716) 845 - 5237,42.8908,-78.8771,,,0
+Buffalo State University,,1300 Elmwood Ave,,Buffalo,NY,14222,United States,(716) 878 - 3201,42.934,-78.8791,,,0
+Harbison,,275 Park Terrace Dr Suite,,800,Columbia,,United States,(803) 999-2443,34.0727,-81.1534,,,0
+Lexington Pavilion,,5135 Sunset Blvd Suite H,,Lexington,SC,29072,United States,(803) 957 - 7482,34.0053,-81.1952,,,0
+Walden Galleria,,1 Walden Ave Space F-120,,Cheektowaga,NY,14225,United States,(716) 684 - 4484,42.9138,-78.7629,,,0
+Union Rd,,3901 Union Rd,,Cheektowaga,NY,14225,United States,(716) 633 - 8484,42.9215,-78.7527,,,0
+West Columbia ,,2507 Sunset Blvd,,West Columbia,SC,29169,United States,(803) 999-2445,34.0034,-81.1087,,,0
+Transit Rd,,4375 Transit Rd,,Buffalo,NY,14221,United States,(716) 631 - 7673,42.9665,-78.6962,,,0
+Palladium,,4112 Brian Jordan Pl #111,,High Point,NC,27265,United States,(336) 804-8918,36.0345,-79.9593,,,0
+Jefferson Village,,1602 Highwoods Blvd,,Greensboro,NC,27410,United States,(336) 632 - 8877,36.1129,-79.8784,,,0
+Five Points,,2006 Devine St,,Columbia,SC,29205,United States,(803) 999-2441,33.9984,-81.0169,,,0
+UNC Greensboro,,507 Stirling Street,,Greensboro,NC,27406,United States,(336) 334-5443,36.0673,-79.8097,,,0
+Rochester Institute of Technology,,400 Reynolds Dr,,Rochester,NY,14623,United States,(585) 475 - 3454,43.0846,-77.6794,,,0
+RDU Airport,,1000 Trade Dr,,Raleigh,NC,27560,United States,(919) 840 - 7170,35.8662,-78.801,,,0
+Harrison Crossing,,5825 Plank Rd#101,,Fredericksburg,VA,22407,United States,(540) 786 - 9981,38.2923,-77.5707,,,0
+Southpoint Shoppes,,10117 Southpoint Pkwy,,Fredericksburg,VA,22407,United States,(540) 891 - 8226,38.2393,-77.5066,,,0
+UMBC Commons,,1000 Hilltop Cir,,Baltimore,MD,21250,United States,(443) 612 - 8380,39.2538,-76.7143,,,0
+Plantation Point,,3731 Oleander Dr Myrtle,,Beach,SC,29577,United States,(843) 839 - 2383,33.7266,-78.8712,,,0
+Market Square,,906 Costley Way Prince,,Frederick,MD,20678,United States,(410) 535 - 5580,38.556,-76.5993,,,0
+Pitt Plaza,,109 Greenville Blvd SE #124,,Greenville,NC,27858,United States,(252) 353 - 7482,35.5787,-77.381,,,0
+The Shoppes at Old Bridge,,3843 U.S. 9 Old Bridge,,Township,NJ,08857,United States,(732) 591 - 0333,40.3741,-74.3067,,,0
+Jersey City,,101 Hudson St Jersey,,City,NJ,07302,United States,(201) 333 - 4033,40.7162,-74.0347,,,0

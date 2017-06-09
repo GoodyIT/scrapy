@@ -1,0 +1,699 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Tanger Outlet Center Foley,1499,"2601 S McKenzie St, Ste 468",,Foley,AL,36535,US,(251) 943-2321,30.3758599,-87.6799151,Sun:10:00AM -  7:00PM; ,,0
+Westfield Old Orchard,1523,"4999 Old Orchard Center, Ste D4",,Skokie,IL,60077,US,(847) 673-5837,42.0591148,-87.7494007,Sun:11:00AM -  6:00PM; ,,0
+The Commons Northpark,1561,"2900 W Loop 250 N, Suite 150",,Midland,TX,79705,US,(432) 683-4900,32.0080969,-102.1561348,Mon - Fri:10:00AM -  9:00PM; ,,0
+Laurel Park Place,1562,37638 West 6 Mile Rd,,Livonia,MI,48152,US,(734) 432-5105,42.4111442,-83.3970286,Sun:12:00PM -  6:00PM; ,,0
+Mashpee Commons,1563,20 Market St,,Mashpee,MA,02649,US,(508) 539-2573,41.6168084,-70.4908261,Sun:11:00AM -  5:00PM; ,,0
+Mohegan Sun Casino,1564,"1 Mohegan Sun Blvd, Ste 108",,Uncasville,CT,06382,US,(860) 862-9700,41.4917338,-72.0909173,Sun - Thu:11:00AM - 10:00PM; ,,0
+The Summit at Scottsdale,1565,"32421 N Scottsdale Rd., Ste A",,Scottsdale,AZ,85262,US,(480) 575-0363,33.78003,-111.925797,Sun:11:00AM -  6:00PM; ,,0
+Marco Walk,1566,"599 S Collier Boulevard, Ste 311",,Marco Island,FL,34145,US,(239) 642-4097,25.9224634,-81.7258308,Sun:11:00AM -  6:00PM; ,,0
+Del Monte Center,1567,460 Del Monte Center,,Monterey,CA,93940,US,(831) 644-9046,36.5834665,-121.8973453,Mon - Fri:10:00AM -  7:00PM; ,,0
+The Mall at Wellington Green,1568,"10300 West Forest Hill Blvd, 258",,Wellington,FL,33414,US,(561) 795-1493,26.6464009,-80.208776,Sun:11:00AM -  6:00PM; ,,0
+Chandler Fashion Center,1569,"3111 W Chandler Boulevard, Sp 1188",,Chandler,AZ,85226,US,(480) 722-9076,33.3021986,-111.8996053,Sun:11:00AM -  6:00PM; ,,0
+Gresham Station,1570,605 NW 12th Street,,Gresham,OR,97030,US,(503) 618-8020,45.5060236,-122.438201,Sun:11:00AM -  6:00PM; ,,0
+Geneva Commons,1573,326 Commons Dr,,Geneva,IL,60134,US,(630) 845-1746,41.8946543,-88.3431642,Sun:11:00AM -  6:00PM; ,,0
+The Streets at SouthGlenn,1574,"6853 S York Street, Ste 125",,Centennial,CO,80122,US,(303) 730-1184,39.5920188,-104.9620063,Sun:11:00AM -  6:00PM; ,,0
+Leesburg Corner Premium Outlets,1575,"241 Fort Evans Road NE, Ste 1101",,Leesburg,VA,20176,US,(703) 669-5930,39.1072996,-77.5379941,Sun:10:00AM -  7:00PM; ,,0
+Casas Adobes Plaza,1612,"7003 N Oracle Rd, Sp C",,Tucson,AZ,85704,US,(520) 797-1200,32.3350526,-110.9780844,Sun:12:00PM -  6:00PM; ,,0
+Saint Louis Galleria,1623,1132 St Louis Galleria,,Saint Louis,MO,63117,US,(314) 725-9099,38.6334752,-90.3437278,Sun:11:00AM -  6:00PM; ,,0
+West Town Mall,1624,"7600 Kingston Pike, Ste 1538A",,Knoxville,TN,37919,US,(865) 694-8388,35.9244419,-84.0390578,Sun:12:00PM -  6:00PM; ,,0
+Natick Mall,1625,"1245 Worcester Street, Ste 3016",,Natick,MA,01760,US,(508) 650-5895,42.301113,-71.3819171,Sun:11:00AM -  6:00PM; ,,0
+Stuyvesant Plaza,1626,"1475 Western Ave, Ste 18C",,Albany,NY,12203,US,(518) 464-9616,42.6843615,-73.8403005,Mon - Fri:10:00AM -  6:00PM; ,,0
+Woodfield.,1627,K-304 Woodfield Shopping Center,,Schaumburg,IL,60173,US,(847) 413-8233,42.0467637,-88.0460894,Sun:11:00AM -  6:00PM; ,,0
+Westfield Brandon,1629,415 Brandon Town Center Mall,,Brandon,FL,33511,US,(813) 689-7231,27.9342097,-82.3253364,Sun:12:00PM -  6:00PM; ,,0
+Mall St. Matthews,1630,"5000 Shelbyville Rd, Ste 1100",,Louisville,KY,40207,US,(502) 896-6459,38.250459,-85.6246068,Sun:11:00AM -  6:00PM; ,,0
+The Shops at Charleston Place,1631,"203 Meeting St, Ste B-114",,Charleston,SC,29401,US,(843) 937-8218,32.7811874,-79.9318355,Mon - Fri:10:00AM -  9:00PM; ,,0
+The Mall at Short Hills,1632,"1200 Morris Turnpike, Ste A-123",,Short Hills,NJ,07078,US,(973) 258-9392,40.7396366,-74.3656369,Mon - Fri:10:00AM -  8:00PM; ,,0
+Briarwood Mall,1691,402 Briarwood Circle,,Ann Arbor,MI,48108,US,(734) 332-6176,42.2424706,-83.744419,Sun:11:00AM -  6:00PM; ,,0
+Town Center Plaza,1761,5032 W 119th St,,Leawood,KS,66209,US,(913) 498-8284,38.9130419,-94.6433916,Sun:12:00PM -  6:00PM; ,,0
+Rice Village,1762,5515 Kelvin Street,,Houston,TX,77005,US,(713) 527-8220,29.7163235,-95.4162996,Sun:12:00PM -  6:00PM; ,,0
+The Falls,1763,"8888 SW 136th Street, Ste 275",,Miami,FL,33176,US,(305) 259-0047,25.6443479,-80.3385326,Sun:12:00PM -  7:00PM; ,,0
+Polaris Fashion Place,1764,"1500 Polaris Pkwy, Suite 2236",,Columbus,OH,43240,US,(614) 846-4706,40.1456984,-82.9812948,Mon - Thu:10:00AM -  9:30PM; ,,0
+Somerset Collection North,1765,"2800 W Big Beaver Rd, Sp M 136",,Troy,MI,48084,US,(248) 816-1669,42.563202,-83.184024,Sun:12:00PM -  6:00PM; ,,0
+River Road II,1919,5027 Huguenot Road,,Richmond,VA,23226,US,(804) 288-6966,37.5672372,-77.5376561,Sun:12:00PM -  6:00PM; ,,0
+Tanger Outlet Center Lancaster,1920,803 Stanley K Tanger Blvd.,,Lancaster,PA,17602,US,(717) 394-4896,40.0262829,-76.2205783,Sun:10:00AM -  7:00PM; ,,0
+Legends Outlets Kansas City,1921,"1803 Village West Parkwa, Ste. M133",,Kansas City,KS,66111,US,(913) 788-7658,39.1259232,-94.8251806,Sun:11:00AM -  6:00PM; ,,0
+Tanger Outlet Center Locust Grove,1922,"1000 Tanger Drive, Suite 313",,Locust Grove,GA,30248,US,(770) 898-1845,33.3479013,-84.1220665,Sun:10:00AM -  7:00PM; ,,0
+Country Club Plaza,1924,"4705 Broadway, Space 4705",,Kansas City,MO,64112,US,(816) 931-3777,39.0418142,-94.591385,Mon - Wed:10:00AM -  9:00PM; ,,0
+Phipps Plaza,1925,"3500 Peachtree Road NE, Ste. A22",,Atlanta,GA,30326,US,(404) 233-0603,33.8531473,-84.3602263,Sun:12:00PM -  6:00PM; ,,0
+Fashion Show,1926,"3200 Las Vegas Boulevar, Space 1175",,Las Vegas,NV,89109,US,(702) 791-3661,36.1272241,-115.1715512,Sun:11:00AM -  7:00PM; ,,0
+Orlando Premium Outlets,1927,"4957 International Drive, Ste 1D-27",,Orlando,FL,32819,US,(407) 363-1796,28.4743536,-81.4513887,Mon - Thu:9:00AM - 11:00PM; ,,0
+Pearland Town Center,1928,"11200 Broadway Street, Suite 720",,Pearland,TX,77584,US,(713) 340-1368,29.552049,-95.3937011,Sun:12:00PM -  6:00PM; ,,0
+The Market Common Myrtle Beach,1929,4000 Howard Avenue,,Myrtle Beach,SC,29577,US,(843) 238-3620,33.6697749,-78.9392825,Mon - Thu:10:00AM -  9:00PM; ,,0
+Pier Park,1930,"200 Bluefish Dr., Ste 100",,Panama City Beach,FL,32413,US,(850) 235-9848,30.220339,-85.8702066,Sun:12:00PM -  7:00PM; ,,0
+The Forum at Carlsbad,1931,"1925 Calle Barcelona, Ste 161",,Carlsbad,CA,92009,US,(760) 635-1034,33.0720678,-117.2660381,Sun:11:00AM -  6:00PM; ,,0
+Columbia Mall (Missouri),1932,"2300 Bernadette Drive, Ste 110",,Columbia,MO,65203,US,(573) 447-3516,38.9638389,-92.3753894,Sun:11:00AM -  6:00PM; ,,0
+Paducah Center,1933,2929 James Sanders Blvd,,Paducah,KY,42001,US,(270) 538-5341,37.0752379,-88.6857228,Sun:12:00PM -  6:00PM; ,,0
+The Pines,1934,"2020 Scottsville Road, Ste 104",,Bowling Green,KY,42104,US,(270) 846-3584,36.9592197,-86.4278816,Sun:12:00PM -  6:00PM; ,,0
+Central Texas Marketplace,1935,"2444 West Loop 340, Ste 13",,Waco,TX,76711,US,(254) 662-1318,31.5030651,-97.1752736,Sun:12:00PM -  6:00PM; ,,0
+Issaquah Commons,1936,"775 NW Gilman Blvd, Ste C13",,Issaquah,WA,98027,US,(425) 369-8481,47.5432434,-122.0498577,Sun:11:00AM -  6:00PM; ,,0
+The Galleria at 41st Street,1937,3308 S Louise Avenue,,Sioux Falls,SD,57106,US,(605) 362-6224,43.5142939,-96.7704898,Mon - Fri:10:00AM -  7:00PM; ,,0
+Gateway Station,1938,"1501 University Dr E, Ste 400",,College Station,TX,77840,US,(979) 268-2095,30.6383547,-96.3162708,Sun:12:00PM -  6:00PM; ,,0
+Montgomery Village Shopping Center,1940,713 Village Court,,Santa Rosa,CA,95405,US,(707) 522-1379,38.4438516,-122.6864554,Sun:11:00AM -  6:00PM; ,,0
+Kittery Premium Outlets,1942,"375 US Route 1, Ste 100A",,Kittery,ME,03904,US,(207) 439-0716,43.117668,-70.7272064,Sun:10:00AM -  6:00PM; ,,0
+Tanger Outlet Center Gonzales,1943,"2200 Tanger Blvd, Suite 117",,Gonzales,LA,70737,US,(225) 644-8350,30.2133036,-90.9532721,Sun:10:00AM -  7:00PM; ,,0
+Stonebridge at Potomac Town Center,1944,"15001 Potomac Town Place, Suite 140",,Woodbridge,VA,22191,US,(703) 580-1954,38.6291031,-77.2875744,Sun:12:00PM -  6:00PM; ,,0
+The Forum Shops of Roanoke,1945,4714-B Starkey Road,,Roanoke,VA,24018,US,(540) 206-2381,37.2215119,-79.985538,Sun:12:00PM -  6:00PM; ,,0
+Tanger Outlet Center Myrtle Beac,1946,"4633 Factory Stores Blvd, Ste C110",,Myrtle Beach,SC,29579,US,(843) 236-6183,33.7513141,-78.9590606,Sun:10:00AM -  7:00PM; ,,0
+Tanger Outlet Center at The Arches,1947,"112 The Arches Cir, Ste 112",,Deer Park,NY,11729,US,(631) 586-0249,40.7630932,-73.3054437,Sun:10:00AM -  8:00PM; ,,0
+Tanger Outlets Shoppes on the Parkw,1948,"200 Shoppes on the Parkway, Ste 49",,Blowing Rock,NC,28605,US,(828) 295-7361,36.1417972,-81.6716962,Sun:10:00AM -  7:00PM; ,,0
+East Front Street,1949,225 East Front Street,,Traverse City,MI,49686,US,(231) 922-9067,44.7643268,-85.6197561,Sun:11:00AM -  4:00PM; ,,0
+Carolina Premium Outlets,1950,"1025 Outlet Center Dr, Suite 20",,Smithfield,NC,27577,US,(919) 209-0408,35.5106201,-78.3124918,Sun:11:00AM -  7:00PM; ,,0
+Las Americas Premium Outlets,1951,"4125 Camino de la Plaza, Ste 404",,San Diego,CA,92173,US,(619) 591-9110,32.5435362,-117.0411105,Sun:10:00AM -  7:00PM; ,,0
+Suncrest Towne Centre,1952,1034 Suncrest Towne Centre,,Morgantown,WV,26505,US,(304) 598-2496,39.6524695,-79.9434101,Sun:12:00PM -  5:00PM; ,,0
+Camp Hill Shopping Center,1953,112 South 32nd St,,Camp Hill,PA,17011,US,(717) 761-2067,40.2350962,-76.9347173,Sun:11:00AM -  6:00PM; ,,0
+Deerfield Towne Center,1954,"5545 Deerfield Blvd, Suite 3040",,Mason,OH,45040,US,(513) 229-7342,39.3069455,-84.3172361,Sun:12:00PM -  6:00PM; ,,0
+Aspen Place at the Sawmill,1955,"319 South Regent Street, Suite 207",,Flagstaff,AZ,86001,US,(928) 779-3230,35.1917428,-111.6427633,Sun:11:00AM -  6:00PM; ,,0
+The Outlets at Bergen Town Center,1956,89 West Spring Valley Avenue.,,Maywood,NJ,07607,US,(201) 843-3602,40.9143993,-74.0610836,Sun:Closed; ,,0
+Grand Prairie Premium Outlets,1957,"2950 W. Interstate 20, Suite 438",,Grand Prairie,TX,75052,US,(972) 606-6744,32.6794741,-97.0536472,Mon - Thu:9:00AM - 10:00PM; ,,0
+The Village on Venetian Bay,1958,"4320 Gulfshore Blvd N, # 214",,Naples,FL,34103,US,(239) 261-0253,26.1972894,-81.8117284,Sun:12:00PM -  6:00PM; ,,0
+The Galleria at Fort Lauderdale,1959,"2382 E Sunrise Boulevard, Spc 2017",,Fort Lauderdale,FL,33304,US,(954) 561-7527,26.1372028,-80.1140498,Sun:12:00PM -  6:00PM; ,,0
+Bell Tower Shops,1960,"13499 US 41 SE, Suite #175",,Fort Myers,FL,33907,US,(239) 482-2831,26.5504059,-81.8702975,Sun:12:00PM -  5:00PM; ,,0
+The Boardwalk Shopping Center,1961,6885 Orchard Lake Rd,,West Bloomfield,MI,48322,US,(248) 932-5715,42.5379933,-83.3596318,Mon - Wed:10:00AM -  7:00PM; ,,0
+The Shops on Lane Avenue,1962,1655 W Lane Ave,,Upper Arlington,OH,43221,US,(614) 488-7237,40.0068075,-83.0547559,Sun:12:00PM -  6:00PM; ,,0
+Belden Village Mall,1963,4230 Belden Village Mall,,Canton,OH,44718,US,(330) 588-6948,40.8540649,-81.460856,Sun:11:00AM -  6:00PM; ,,0
+Paseo Colorado,1964,"300 E Colorado Blvd, Suite 150",Suite 150,Pasadena,CA,91101,US,(626) 639-1488,34.1456259,-118.1440236,Sun:11:00AM -  6:00PM; ,,0
+Downtown Summerlin,1965,"2010 Festival Plaza Driv, Suite 120",,Las Vegas,NV,89135,US,(702) 266-8287,36.1486385,-115.3334388,Sun:11:00AM -  7:00PM; ,,0
+Manhattan Village,1966,"3200 N Sepulveda Boulevard, Ste A-6",,Manhattan Beach,CA,90266,US,(310) 546-6768,33.8995437,-118.394016,Mon - Fri:10:00AM -  8:00PM; ,,0
+North East Mall,1967,"1101 Melbourne Road, Ste 3078",,Hurst,TX,76053,US,(817) 284-3119,32.8298826,-97.2003446,Sun:12:00PM -  6:00PM; ,,0
+International Plaza and Bay Street,1968,"2223 N West Shore Boulev, Suite 219",,Tampa,FL,33607,US,(813) 348-1891,27.964536,-82.520756,Sun:11:00AM -  6:00PM; ,,0
+181 East Ridgewood Avenue,1969,181 East Ridgewood Ave,,Ridgewood,NJ,07450,US,(201) 444-9400,40.9792885,-74.1157035,Sun:Closed; ,,0
+Westfield UTC,1970,"4545 La Jolla Village Driv, Ste C-5",,San Diego,CA,92122,US,(858) 457-3180,32.8715162,-117.2110432,Sun:12:00PM -  6:00PM; ,,0
+Stony Brook Village Center,1971,139 Main Street,,Stony Brook,NY,11790,US,(631) 689-6426,40.9190559,-73.1472265,Sun:11:00AM -  5:00PM; ,,0
+Garden City Center,1972,64 Hillside Road,,Cranston,RI,02920,US,(401) 946-0450,41.7627986,-71.4578857,Sun:12:00PM -  6:00PM; ,,0
+Kenwood Towne Centre,1974,7875 Montgomery Rd,,Cincinnati,OH,45236,US,(513) 792-9750,39.2027663,-84.3774247,Sun:12:00PM -  6:00PM; ,,0
+Paramus Park,1975,1073-B Paramus Park Mall,,Paramus,NJ,07652,US,(201) 262-1844,40.9558075,-74.0684573,Sun:Closed; ,,0
+Northbrook Court,1976,2184 Northbrook Court,,Northbrook,IL,60062,US,(847) 272-9881,42.1508911,-87.8175099,Sun:11:00AM -  6:00PM; ,,0
+Barracks Road Shopping Center,1977,"1123 Emmet Street, #23",,Charlottesville,VA,22903,US,(434) 295-4085,38.0517371,-78.5002884,Sun:11:00AM -  5:00PM; ,,0
+The Grove at Shrewsbury,1978,"577 Route 35, Unit N16",,Shrewsbury,NJ,07702,US,(732) 758-0047,40.3327172,-74.0610421,Mon - Fri:10:00AM -  6:00PM; ,,0
+Baybrook Mall,1979,"700 Baybrook Mall, Suite F129",,Friendswood,TX,77546,US,(281) 286-5490,29.5439222,-95.1515715,Sun:12:00PM -  6:00PM; ,,0
+Hill Country Galleria,1980,"12700 Hill Country Boule, Ste T-128",,Bee Cave,TX,78738,US,(512) 263-1777,30.306098,-97.9523768,Sun:12:00PM -  6:00PM; ,,0
+Stone Ridge Shopping Center,1981,921 West Central Entrance,,Duluth,MN,55811,US,(218) 727-9909,46.8037007,-92.1504142,Mon - Fri:10:00AM -  6:00PM; ,,0
+Uptown Gig Harbor,1982,"4735 Point Fosdick Dr. NW, Ste100",,Gig Harbor,WA,98335,US,(253) 858-3040,47.3010013,-122.5774616,Sun:11:00AM -  6:00PM; ,,0
+Freehold Raceway Mall,1983,"3710 Route 9, Suite 2704",,Freehold,NJ,07728,US,(732) 462-9095,40.2531111,-74.3000294,Sun:11:00AM -  7:00PM; ,,0
+2188 Fourth St,1984,2188 Fourth St,,White Bear Lake,MN,55110,US,(651) 407-2579,45.0852047,-93.008046,Mon - Fri:10:00AM -  6:00PM; ,,0
+Riverside Plaza,1985,"3639 Riverside Plaza Drive, Ste 500",,Riverside,CA,92506,US,(951) 683-4867,33.9555498,-117.3915698,Sun:11:00AM -  6:00PM; ,,0
+Crossroads Center,1986,"4101 W Division St, Sce B20",,Saint Cloud,MN,56301,US,(320) 229-9300,45.55603,-94.2101183,Sun:11:00AM -  6:00PM; ,,0
+Periwinkle Place,1987,"2075 Periwinkle Way, Ste 4",,Sanibel Island,FL,33957,US,(239) 472-0202,26.4483556,-82.09518,Sun:11:00AM -  6:00PM; ,,0
+Reston Town Center,1988,11910 Market Street,,Reston,VA,20190,US,(703) 707-1919,38.9589472,-77.3565192,Sun:11:00AM -  6:00PM; ,,0
+8 Jobs Lane,1989,8 Jobs Lane,,Southampton,NY,11968,US,(631) 287-9081,40.8838409,-72.389795,Sun:11:00AM -  6:00PM; ,,0
+Congressional Plaza,1990,"1603 Rockville Pike, Ste 30A",,Rockville,MD,20852,US,(301) 468-1811,39.0632141,-77.1268682,Sun:11:00AM -  6:00PM; ,,0
+Corona del Mar Plaza,1991,956 Avocado Ave,,Newport Beach,CA,92660,US,(949) 219-9960,33.6067584,-117.8743586,Sun:11:00AM -  6:00PM; ,,0
+Hamilton Town Center,1992,"13185 Harrell Parkway, Ste 100",,Noblesville,IN,46060,US,(317) 770-3949,39.9925047,-85.9306213,Sun:11:00AM -  6:00PM; ,,0
+The Shoppes at Hamilton,1993,"549 Route 130, Suite 434",,Hamilton,NJ,08691,US,(609) 581-1962,40.1855347,-74.6547998,Sun:11:00AM -  6:00PM; ,,0
+Fashion Outlets of Niagara Falls,1994,"1902 Military Rd., Spc 45",,Niagara Falls,NY,14304,US,(716) 297-3514,43.0984354,-78.9784952,Sun:10:00AM -  6:00PM; ,,0
+The Promenade at Coconut Creek,1995,"4467 Lyons Rd, Ste H1-105",,Coconut Creek,FL,33073,US,(954) 974-7526,26.2845172,-80.1880887,Sun:12:00PM -  6:00PM; ,,0
+Westfield Santa Anita,1996,"400 South Baldwin Ave, Ste 2115",,Arcadia,CA,91007,US,(626) 447-0371,34.1349204,-118.0509968,Sun:11:00AM -  7:00PM; ,,0
+The Promenade Shops at Clifton,1997,"850 Route 3, Ste 200",,Clifton,NJ,07012,US,(973) 365-2202,40.8380478,-74.1562544,Sun:11:00AM -  6:00PM; ,,0
+The Mall at Millenia,1998,"4200 Conroy Road, Ste 205",,Orlando,FL,32839,US,(407) 264-5777,28.4855897,-81.4316837,Sun:11:00AM -  7:00PM; ,,0
+The Orchard Town Center,1999,"14647 Delaware St, Suite 400",,Westminster,CO,80023,US,(303) 920-0595,39.9619323,-104.9922136,Mon - Thu:10:00AM -  9:00PM; ,,0
+Hillside Village,2000,"305 West FM 1382, Spc 301",,Cedar Hill,TX,75104,US,(972) 293-7476,32.6023238,-96.9424976,Sun:11:00AM -  6:00PM; ,,0
+The Mall at Partridge Creek,2001,"17370 Hall Road, Ste 126",,Clinton Township,MI,48038,US,(586) 416-1423,42.6260738,-82.9464368,Sun:11:00AM -  6:00PM; ,,0
+The Collection at Forsyth,2002,"410 Peachtree Parkway, Ste 4130",,Cumming,GA,30041,US,(770) 781-0836,34.1540934,-84.1782583,Sun:12:00PM -  6:00PM; ,,0
+Deptford Mall,2003,"1750 Deptford Center Ro, Suite 1143",,Deptford,NJ,08096,US,(856) 629-2671,39.8315312,-75.0983168,Sun:11:00AM -  6:00PM; ,,0
+Tanger Outlet Center Rehoboth Beach,2004,"35016 Midway Outlet Dr, Unit 324",,Rehoboth Beach,DE,19971,US,(302) 644-1121,38.7336894,-75.1399365,Sun:10:00AM -  7:00PM; ,,0
+Colonial Promenade Beechwood,2005,"196 Alps Rd, Ste 38",,Athens,GA,30606,US,(706) 316-9919,33.9452428,-83.4097617,Sun:12:00PM -  6:00PM; ,,0
+Battlefield Mall,2006,"2825 S Glenstone Ave, Sp F17",,Springfield,MO,65804,US,(417) 889-9970,37.1565149,-93.2483058,Sun:12:00PM -  6:00PM; ,,0
+Chelsea Square Shopping Center,2007,1645 Manheim Pike,,Lancaster,PA,17601,US,(717) 569-9597,40.0834688,-76.3407753,Sun:12:00PM -  6:00PM; ,,0
+Eastgate Shopping Center,2008,"1800 E Franklin St, Ste 5",,Chapel Hill,NC,27514,US,(919) 968-1763,35.9365293,-79.0246055,Sun:12:00PM -  6:00PM; ,,0
+Northpark Mall,2009,"320 W Kimberly Rd, Spc 24A",,Davenport,IA,52806,US,(563) 386-1134,41.5636895,-90.5747185,Sun:12:00PM -  6:00PM; ,,0
+The Outlets at Silverthorne,2010,125-D Stephens Way,,Silverthorne,CO,80498,US,(970) 468-1355,39.6272358,-106.0674984,Sun:10:00AM -  6:00PM; ,,0
+Coconut Point,2011,"23160 Fashion Drive, Ste 113",,Estero,FL,33928,US,(239) 495-2403,26.4016165,-81.8076003,Sun:12:00PM -  6:00PM; ,,0
+Smith Haven Mall,2012,"638 Smith Haven Mall, R-09",,Lake Grove,NY,11755,US,(631) 724-4319,40.8649763,-73.1301191,Sun:12:00PM -  6:00PM; ,,0
+The Shops at Valley Square,2013,"1556 Main Street, Spc 702",,Warrington,PA,18976,US,(215) 491-3105,40.2319392,-75.1366161,Sun:11:00AM -  6:00PM; ,,0
+Park West,2014,"9784 W. Northern Ave, Ste 1200",,Peoria,AZ,85345,US,(623) 877-8544,33.5531559,-112.269942,Mon - Thu:10:00AM -  9:00PM; ,,0
+Washingtonian Center,2015,"20 Grand Corner Ave, Ste B",,Gaithersburg,MD,20878,US,(301) 948-1051,39.118273,-77.2018493,Sun:12:00PM -  6:00PM; ,,0
+Loehmann's 5 Points Plaza,2016,18573 Main St,,Huntington Beach,CA,92648,US,(714) 841-0490,33.6927532,-117.9907533,Mon - Fri:10:00AM -  8:00PM; ,,0
+Bradley Fair Shopping Center,2017,2122 N Rock Rd,,Wichita,KS,67206,US,(316) 630-8501,37.7218266,-97.2440601,Sun:12:00PM -  6:00PM; ,,0
+Derby Street Shoppes,2018,"98 Derby Street, Ste 409",,Hingham,MA,02043,US,(781) 740-0248,42.1775627,-70.9095583,Sun:11:00AM -  6:00PM; ,,0
+Paseo Plaza Shopping Center,2019,"1700 S 10th Street, Ste 190",,McAllen,TX,78503,US,(956) 683-1016,26.1886158,-98.2330634,Sun:12:00PM -  6:00PM; ,,0
+Centennial Place,2020,210 W Cleveland Road,,Granger,IN,46530,US,(574) 273-4465,41.7244698,-86.1754258,Mon - Fri:10:00AM -  7:00PM; ,,0
+Pine Tree Shoppes,2021,12083 Perry Hwy,,Wexford,PA,15090,US,(724) 933-8990,40.6319751,-80.0599832,Sun:11:00AM -  5:00PM; ,,0
+Spanish Springs Town Square,2022,992 Del Mar Dr,,The Villages,FL,32159,US,(352) 751-3276,28.939748,-81.949688,Sun:12:00PM -  6:00PM; ,,0
+Jordan Creek Town Center,2023,"101 Jordan Creek Parkway, Ste 11370",,West Des Moines,IA,50266,US,(515) 440-2544,41.5702624,-93.8070392,Sun:11:00AM -  6:00PM; ,,0
+Cornerstone Place,2024,"1460 Market St, Ste A",,Tallahasee,FL,32312,US,(850) 894-4030,30.507255,-84.2524226,Sun:12:00PM -  6:00PM; ,,0
+Guadalupe Station,2025,328 S Guadalupe St,,Santa Fe,NM,87501,US,(505) 984-1132,35.684973,-105.945654,Sun:12:00PM -  6:00PM; ,,0
+Plaza Mercado (Santa Fe),2026,"112 W San Francisco St, Ste 114",,Santa Fe,NM,87501,US,(505) 984-3134,35.6872302,-105.940159,Sun:11:00AM -  6:00PM; ,,0
+St. Augustine Premium Outlets,2028,"2700 State Road 16, Ste 908",,Saint Augustine,FL,32092,US,(904) 823-3669,29.9250717,-81.4173774,Sun:10:00AM -  6:00PM; ,,0
+The Mall at Green Hills,2029,"2126 Abbott Martin Rd, Ste 300",,Nashville,TN,37215,US,(615) 292-0902,36.107504,-86.814796,Sun:12:00PM -  6:00PM; ,,0
+Boca Center,2030,"5250 Town Center Dr, Ste 137",,Boca Raton,FL,33486,US,(561) 392-7181,26.3623245,-80.1242025,Mon - Thu:10:00AM -  9:00PM; ,,0
+Town Square Wheaton,2032,241 Town Sq,,Wheaton,IL,60187,US,(630) 653-4600,41.8341571,-88.1001085,Mon - Fri:10:00AM -  6:00PM; ,,0
+130 Thames Street,2033,130 Thames Street,,Newport,RI,02840,US,(401) 849-8286,41.4897119,-71.3150705,Sun:11:00AM -  6:00PM; ,,0
+Harbour Bay Plaza,2034,3730 SE Ocean Blvd,,Stuart,FL,34996,US,(772) 283-3447,27.2028698,-80.2020839,Sun:11:00AM -  5:00PM; ,,0
+The Gardens Mall,2035,"3101 PGA Blvd, Ste A-123",,Palm Beach Gardens,FL,33410,US,(561) 627-1460,26.8473981,-80.0853836,Sun:12:00PM -  6:00PM; ,,0
+The Outlets at Tejon Ranch,2036,5701 Outlets at Tejon Parkway.,,Tejon Ranch,CA,93203,US,(661) 282-2848,35.0626492,-118.8130675,Sun:10:00AM -  8:00PM; ,,0
+The Shops at Nanuet,2037,1119 Fashion Drive,,Nanuet,NY,10954,US,(845) 501-4266,41.0970906,-74.0150578,Sun:12:00PM -  6:00PM; ,,0
+Lake Forgetful Center,2038,"6156 Highway 98 West, Space 40",,Hattiesburg,MS,39402,US,(601) 329-2900,31.3199866,-89.3868624,Sun:12:00PM -  6:00PM; ,,0
+The Collection at Riverpark,2039,621 Town Center Drive,,Oxnard,CA,93036,US,(805) 288-8271,34.2404843,-119.1786836,Sun:11:00AM -  6:00PM; ,,0
+Dothan Pavilion,2040,"4825 Montgomery Highway, Suite 101",,Dothan,AL,36303,US,(334) 803-8685,31.2682429,-85.4479786,Sun:12:00PM -  6:00PM; ,,0
+Pacific Place,2041,"600 Pine St, Ste 304",,Seattle,WA,98101,US,(206) 624-5549,47.6128769,-122.3352681,Sun:11:00AM -  7:00PM; ,,0
+Water Tower Place,2042,"835 N Michigan Avenue, Ste 301",,Chicago,IL,60611,US,(312) 943-2442,41.8979718,-87.6236144,Sun:11:00AM -  6:00PM; ,,0
+The Shops at Somerset Square,2043,"140 Glastonbury Boulevard, Ste 158",,Glastonbury,CT,06033,US,(860) 657-4737,41.7205122,-72.6212357,Mon - Fri:10:00AM -  7:30PM; ,,0
+The Galleria of Mt. Lebanon,2044,"1500 Washington Road, 1503/1506",,Pittsburgh,PA,15228,US,(412) 571-0122,40.3569591,-80.0518073,Sun:11:00AM -  5:00PM; ,,0
+SouthPark (NC),2045,"4400 Sharon Road, Rm N07",,Charlotte,NC,28211,US,(704) 365-1005,35.1523851,-80.8321252,Sun:12:30PM -  6:00PM; ,,0
+Vacaville Premium Outlets,2046,"131 Nut Tree Road, Bldg6 Sp61",,Vacaville,CA,95687,US,(707) 447-9030,38.3565773,-121.9877444,Mon - Thu:9:00AM -  9:00PM; ,,0
+Tanger Outlet Center S. Hou/Galvest,2047,"5885 Gulf Freeway, Suite 815",,Texas City,TX,77591,US,(281) 337-3493,29.4246973,-95.0583635,Sun:10:00AM -  7:00PM; ,,0
+Stonebriar Centre,2048,"2601 Preston Rd, Ste 1049",,Frisco,TX,75034,US,(469) 633-1080,33.09838,-96.812388,Sun:12:00PM -  6:00PM; ,,0
+Grapevine Mills,2050,"3000 Grapevine Mills Parkwa, Sp 202",,Grapevine,TX,76051,US,(972) 874-9124,32.9342919,-97.0780654,Sun:11:00AM -  7:00PM; ,,0
+Preston Royal Shopping Center,2051,"5959 Royal Lane, Ste 537",,Dallas,TX,75230,US,(214) 739-6604,32.8957338,-96.8057356,Sun:12:00PM -  6:00PM; ,,0
+Tice's Corner Marketplace,2052,437 Chestnut Ridge Rd,,Woodcliff Lake,NJ,07677,US,(201) 782-0101,41.0417291,-74.0751268,Sun:Closed; ,,0
+The Village Shopping Center,2053,"2881 Hwy 190, Ste D1",,Mandeville,LA,70471,US,(985) 624-9459,30.3872134,-90.0787094,Sun:12:00PM -  6:00PM; ,,0
+Bayshore Town Center,2054,5735 N Centerpark Way,,Glendale,WI,53217,US,(414) 540-6625,43.1217276,-87.9150856,Sun:11:00AM -  6:00PM; ,,0
+Aventura Mall,2055,"19575 Biscayne Blvd, Room 715",,Aventura,FL,33180,US,(305) 933-0960,25.9571477,-80.1436082,Sun:12:00PM -  8:00PM; ,,0
+Cherry Creek North,2056,2829 E 3rd Avenue,,Denver,CO,80206,US,(303) 377-6501,39.7211247,-104.9537086,Mon - Thu:10:00AM -  8:00PM; ,,0
+St. Armands Circle,2058,443 John Ringling Blvd,,Sarasota,FL,34236,US,(941) 388-1393,27.3192415,-82.5765735,Sun:11:00AM -  6:00PM; ,,0
+1314-1316 Montana Avenue,2059,1314 -1316 Montana Ave,,Santa Monica,CA,90403,US,(310) 394-2481,34.0316462,-118.4955693,Mon - Wed:10:00AM -  8:00PM; ,,0
+Waterside Shops at Pelican Bay,2061,"5435 Tamiami Tr N, Ste 404",,Naples,FL,34108,US,(239) 592-1108,26.213165,-81.8026774,Sun:12:00PM -  6:00PM; ,,0
+Beachwood Place,2062,26300 Cedar Road,,Beachwood,OH,44122,US,(216) 831-6030,41.498545,-81.4939346,Sun:12:00PM -  6:00PM; ,,0
+Clay Terrace,2064,"14390 Clay Terrace Bouleva, Ste 110",,Carmel,IN,46032,US,(317) 575-0874,39.9994875,-86.1295481,Sun:12:00PM -  6:00PM; ,,0
+Millwood Shopping Center,2065,"335 Herlong Avenue, Ste 204",,Rock Hill,SC,29732,US,(803) 980-1930,34.9590186,-81.0430323,Sun:12:00PM -  6:00PM; ,,0
+The Shoppes at River Crossing,2066,"5080 Riverside Dr, Ste 428",,Macon,GA,31210,US,(478) 471-7174,32.9250006,-83.7151055,Sun:12:00PM -  6:00PM; ,,0
+Trenholm Plaza,2067,"4840 Forest Dr, Ste 30",,Columbia,SC,29206,US,(803) 782-6944,34.0172171,-80.9635041,Sun:12:00PM -  6:00PM; ,,0
+Carriage Crossing,2068,"4610 Merchants Park Cir, Ste 531",,Collierville,TN,38017,US,(901) 854-2370,35.0231733,-89.7194577,Sun:12:00PM -  6:00PM; ,,0
+Easton Town Center,2069,"3938 Easton Square Plac, Spc# I-105",,Columbus,OH,43219,US,(614) 414-0652,40.0494228,-82.914849,Sun:12:00PM -  6:00PM; ,,0
+Plaza at Rockwall,2070,"1037 East Interstate 30, Suite #104",,Rockwall,TX,75087,US,(972) 961-9813,32.9084682,-96.4511953,Sun:12:00PM -  6:00PM; ,,0
+Arlington Highlands,2071,"4001 Arlington Highlands B, Ste 149",,Arlington,TX,76018,US,(817) 525-2697,32.679839,-97.1088916,Sun:12:00PM -  6:00PM; ,,0
+Thoroughbred Village Shopping Cente,2072,"535 Cool Springs Blvd, Ste 115",,Franklin,TN,37067,US,(615) 771-5175,35.9473413,-86.8228203,Sun:12:00PM -  6:00PM; ,,0
+Sundial,2073,"103 Second Ave North, Sp 132",,Saint Petersburg,FL,33701,US,(727) 898-8727,27.7696063,-82.6321376,Sun:12:00PM -  6:00PM; ,,0
+Ellenton Premium Outlets,2074,"5303 Factory Shops Bouleva, Ste 500",,Ellenton,FL,34222,US,(941) 722-1278,27.5348871,-82.5068046,Sun:10:00AM -  7:00PM; ,,0
+The Longmeadow Shops,2076,"690 Bliss Road, Unit 1",,Longmeadow,MA,01106,US,(413) 567-4683,42.0569808,-72.5551519,Sun:11:00AM -  6:00PM; ,,0
+"5151 Main Street, Unit 3",2077,"5151 Main St, Unit 3",,Williamsville,NY,14221,US,(716) 634-3794,42.9598014,-78.7603743,Sun:11:00AM -  5:00PM; ,,0
+The Avenue Peachtree City,2078,"248 City Cir, Suite 1200",,Peachtree City,GA,30269,US,(770) 632-0065,33.3946523,-84.592079,Sun:12:00PM -  6:00PM; ,,0
+16910 Kercheval Street,2079,16910 Kercheval Street,,Grosse Pointe,MI,48230,US,(313) 882-4184,42.389473,-82.9173601,Sun:12:00PM -  5:00PM; ,,0
+Fairfield Center,2080,1499 Post Rd,,Fairfield,CT,06824,US,(203) 254-0666,41.1407599,-73.2581506,Mon - Wed:10:00AM -  8:00PM; ,,0
+Old Mill District,2081,"325 SW Powerhouse Drive, Ste 120",,Bend,OR,97702,US,(541) 617-0473,44.0472701,-121.3151947,Sun:11:00AM -  6:00PM; ,,0
+Brookhaven Village,2082,"3720 West Robinson, Ste 162",,Norman,OK,73072,US,(405) 217-9556,35.2307735,-97.4958995,Sun:12:00PM -  6:00PM; ,,0
+Chenal Creek Shopping Center,2083,"12800 Chenal Parkway, Unit 1",,Little Rock,AR,72211,US,(501) 228-6623,34.7550733,-92.4170701,Sun:12:00PM -  6:00PM; ,,0
+Mayfair,2084,2500 N Mayfair Road,,Wauwatosa,WI,53226,US,(414) 453-1173,43.0638464,-88.0443984,Sun:12:00PM -  6:00PM; ,,0
+The Shops at Sumner Place,2085,"4611 Sangamore Rd, #P",,Bethesda,MD,20816,US,(301) 229-8081,38.9492383,-77.1192012,Sun:12:00PM -  6:00PM; ,,0
+Cumberland Mall,2086,1634 Cumberland Mall SE,,Atlanta,GA,30339,US,(770) 434-6655,33.8813326,-84.46885,Sun:12:00PM -  6:00PM; ,,0
+La Promenade Distinctive Shoppes,2087,"1860 Laskin Rd, 115At",,Virginia Beach,VA,23454,US,(757) 417-0744,36.8420874,-76.0464855,Sun:12:00PM -  6:00PM; ,,0
+Triangle Town Center,2088,"5959 Triangle Town Blvd, Ste 2120",,Raleigh,NC,27616,US,(919) 792-2252,35.8672388,-78.5755286,Sun:12:00PM -  6:00PM; ,,0
+Northshore Mall,2089,"210 Andover Street, Spc E188",,Peabody,MA,01960,US,(978) 977-9949,42.5411047,-70.9442999,Sun:11:00AM -  6:00PM; ,,0
+Festival at Woodholme,2090,"1809 Reisterstown Road, Ste 108",,Baltimore,MD,21208,US,(410) 580-9297,39.388215,-76.7360638,Sun:12:00PM -  6:00PM; ,,0
+The Village,2091,3944 -3950 W 69th Terrace,,Prairie Village,KS,66208,US,(913) 384-5023,39.0025501,-94.6316197,Mon - Tue:10:00AM -  8:00PM; ,,0
+Maine Mall,2092,364 Maine Mall Road,,South Portland,ME,04106,US,(207) 772-1836,43.6337186,-70.3344073,Sun:11:00AM -  6:00PM; ,,0
+Village Shoppes,2093,95 Washington St,,Canton,MA,02021,US,(781) 575-9889,42.1387149,-71.1449309,Sun:12:00PM -  6:00PM; ,,0
+The Village at Cambridge Crossing,2094,"4190 Dearborn Circle, Unit 114",,Mount Laurel,NJ,08054,US,(856) 642-0700,39.9704332,-74.9020785,Sun:11:00AM -  6:00PM; ,,0
+St. Johns Town Center,2095,"4791 River City Drive, Ste 137",,Jacksonville,FL,32246,US,(904) 384-5880,30.255849,-81.5250099,Sun:11:00AM -  6:00PM; ,,0
+Deer Park Town Center,2096,"20530 N. Rand Road, Ste 332",,Deer Park,IL,60010,US,(847) 438-2585,42.1603071,-88.053225,Sun:11:00AM -  5:00PM; ,,0
+Memorial City Mall,2097,"303 Memorial City Way, Suite 732",,Houston,TX,77024,US,(713) 345-1186,29.7806697,-95.5379936,Sun:11:00AM -  7:00PM; ,,0
+Hillcrest Shopping Center,2098,1855 East Main Street,,Spartanburg,SC,29307,US,(864) 345-6455,34.9685992,-81.890562,Sun:12:00PM -  6:00PM; ,,0
+Twin Cities Premium Outlets,2099,3905 Eagan Outlets Parkway,,Eagan,MN,55122,US,(952) 563-3187,44.8159532,-93.2152473,Sun:10:00AM -  7:00PM; ,,0
+The Outlet Shoppes at Gettysburg,2100,1863 Gettysburg Village Dr,,Gettysburg,PA,17325,US,(717) 549-4300,39.7940175,-77.201107,Sun:10:00AM -  6:00PM; ,,0
+Charlotte Premium Outlets,2101,5512 New Fashion Way,,Charlotte,NC,28278,US,(704) 264-3334,35.1699001,-80.970967,Sun:12:00PM -  6:00PM; ,,0
+Peddler's Village,2102,"Peddler's Village, Shop 72",,Lahaska,PA,18931,US,(215) 794-1522,40.3477703,-75.03145,Sun:10:00AM -  6:00PM; ,,0
+First Colony Mall,2103,"16535 Southwest Freeway, Ste 2012",,Sugar Land,TX,77479,US,(281) 265-1177,29.5919665,-95.6244816,Sun:12:00PM -  6:00PM; ,,0
+The Shoppes at Union Hill,2104,"3056 State Rte 10 West, Ste O",,Denville,NJ,07834,US,(973) 366-2046,40.8663643,-74.5064298,Sun:11:00AM -  6:00PM; ,,0
+Paddock Shops,2105,4208 Summit Plaza Drive,,Louisville,KY,40241,US,(502) 394-9966,38.3073839,-85.5798851,Sun:12:00PM -  6:00PM; ,,0
+Plaza Frontenac,2106,74 Plaza Frontenac,,Saint Louis,MO,63131,US,(314) 432-2293,38.6391165,-90.4230701,Mon - Fri:10:00AM -  7:00PM; ,,0
+Camarillo Premium Outlets,2107,"990 Camarillo Center Dr, Ste 1022",,Camarillo,CA,93010,US,(805) 383-0662,34.217533,-119.057615,Mon - Thu:9:00AM -  9:00PM; ,,0
+Village at Spotsylvania Towne Centr,2108,"1 Towne Centre Blvd, 3600",,Fredericksburg,VA,22407,US,(540) 548-3044,38.2898717,-77.5119391,Sun:11:00AM -  6:00PM; ,,0
+The Village at Arrowhead,2109,"20022 N 67th Ave, Ste 112",,Glendale,AZ,85308,US,(623) 825-6077,33.66587,-112.2045675,Sun:11:00AM -  6:00PM; ,,0
+The Gables,2110,2925 Plaza Drive,,Springfield,IL,62704,US,(217) 726-6900,39.7742636,-89.708642,Sun:12:00PM -  6:00PM; ,,0
+The Shoppes at University Place,2111,9015-1 JM Keynes Drive,,Charlotte,NC,28262,US,(704) 503-5596,35.3106099,-80.748385,Sun:12:00PM -  6:00PM; ,,0
+Shoppes at Grand Prairie,2112,"5201 W War Memorial Dr, Sp 430",,Peoria,IL,61615,US,(309) 692-6480,40.6936488,-89.5889864,Sun:11:00AM -  6:00PM; ,,0
+Fox River Mall,2113,"4301 W Wisconsin Avenue, Ste 130",,Appleton,WI,54913,US,(920) 380-9442,44.2692534,-88.4705139,Sun:10:00AM -  6:00PM; ,,0
+Franklin Terrace,2114,3020 Franklin Ter,,Johnson City,TN,37604,US,(423) 282-2141,36.3528136,-82.4007472,Sun:12:00PM -  6:00PM; ,,0
+Las Vegas Premium Outlets - North,2116,"855 S Grand Central Pkwy, #1575",,Las Vegas,NV,89106,US,(702) 384-5016,36.1629318,-115.15825,Sun:9:00AM -  8:00PM; ,,0
+Belle Hollow Shopping Center,2117,3006 N Center Street,,Hickory,NC,28601,US,(828) 267-2225,35.7715926,-81.3276853,Sun:12:00PM -  6:00PM; ,,0
+Merchants Square,2118,422 W Duke of Gloucester St,,Williamsburg,VA,23185,US,(757) 564-7448,37.2705781,-76.7065986,Mon - Fri:9:00AM -  7:00PM; ,,0
+Shops at Sea Island,2119,"600 Sea Island Rd, Ste 26",,Saint Simons Island,GA,31522,US,(912) 638-1112,31.1833788,-81.379091,Sun:12:00PM -  6:00PM; ,,0
+Woodbury Lakes,2120,"9120 Hudson Rd, Suite 310",,Woodbury,MN,55125,US,(651) 501-2000,44.9473571,-92.9243294,Sun:11:00AM -  6:00PM; ,,0
+Mall of America,2121,160 South Ave,,Bloomington,MN,55425,US,(952) 851-0882,44.8538155,-93.2425103,Sun:11:00AM -  7:00PM; ,,0
+The Shops at Wiregrass,2122,"28329 Paseo Dr., Unit  101",,Wesley Chapel,FL,33543,US,(813) 907-9995,28.1890407,-82.3472947,Sun:12:00PM -  6:00PM; ,,0
+The Promenade Shops at Evergreen,2123,501 Evergreen Way,,South Windsor,CT,06074,US,(860) 648-9311,41.8134462,-72.5563978,Sun:11:00AM -  6:00PM; ,,0
+Streets of Brentwood,2124,"2455 Sand Creek Rd, Ste 124",,Brentwood,CA,94513,US,(925) 513-3218,37.9453845,-121.73734,Sun:11:00AM -  6:00PM; ,,0
+The Arboretum of South Barrington,2125,"100 West Higgins Rd, Sc R-1",,S Barrington,IL,60010,US,(847) 836-8431,42.0881054,-88.1535352,Sun:11:00AM -  6:00PM; ,,0
+West Acres Shopping Center,2126,"3902 13th Avenue South, Ste 2325",,Fargo,ND,58103,US,(701) 277-3144,46.8586945,-96.8463539,Sun:12:00PM -  6:00PM; ,,0
+Chico Mall,2127,1960 East 20th St,,Chico,CA,95928,US,(530) 896-0200,39.7275449,-121.8051852,Sun:11:00AM -  6:00PM; ,,0
+Midtown Village,2128,"1800 McFarland Boulevard E, Ste 202",,Tuscaloosa,AL,35404,US,(205) 345-8151,33.1942262,-87.5279083,Sun:12:00PM -  6:00PM; ,,0
+Renaissance at Colony Park,2129,"1000 Highland Colony Park, Ste 2006",,Ridgeland,MS,39157,US,(601) 853-2421,32.4345218,-90.1471642,Sun:12:00PM -  6:00PM; ,,0
+Vintage Faire Mall,2130,"3401 Dales Rd, Ste 640",,Modesto,CA,95356,US,(209) 572-2894,37.6871609,-121.0517748,Sun:11:00AM -  7:00PM; ,,0
+Miromar Outlets,2131,"10801 Corkscrew Rd, Ste 336",,Estero,FL,33928,US,(239) 949-2252,26.4362393,-81.7746935,Sun:11:00AM -  6:00PM; ,,0
+Coligny Plaza Shopping Center,2132,1 North Forest Bch,,Hilton Head Island,SC,29928,US,(843) 686-6300,32.1444205,-80.7509392,Sun:12:00PM -  6:00PM; ,,0
+Tanger Outlets Southaven,2133,"5205 Airways Blvd, Suite 850",Suite 850,Southaven,MS,38671,US,(662) 912-4117,34.936242,-89.9890548,Sun:10:00AM -  7:00PM; ,,0
+King of Prussia Mall,2134,"690 West Dekalb Pike., Ste 1060",,King of Prussia,PA,19406,US,(610) 878-9390,40.089203,-75.385959,Sun:12:00PM -  6:00PM; ,,0
+The Shoppes at Farmington Valley,2135,"110 Albany Turnpike, Ste 617",,Canton,CT,06019,US,(860) 674-8919,41.8224465,-72.8829132,Sun:12:00PM -  6:00PM; ,,0
+Crabtree Valley Mall,2136,"4325 Glenwood Avenue, Suite 2023",,Raleigh,NC,27612,US,(919) 571-0109,35.8394667,-78.6794257,Sun:12:00PM -  7:00PM; ,,0
+Potomac Village Shopping Center,2137,10121 River Rd,,Potomac,MD,20854,US,(301) 765-8985,39.0181847,-77.2081792,Mon - Wed:10:00AM -  8:00PM; ,,0
+Sawgrass Mills,2141,"12801 W Sunrise Blvd, SP 1031",,Sunrise,FL,33323,US,(954) 838-8885,26.1512497,-80.3101684,Sun:11:00AM -  8:00PM; ,,0
+Promenade Shops at Saucon Valley,2142,"2945 Center Valley Parkw, Suite 309",,Center Vally,PA,18034,US,(610) 798-7808,40.5594205,-75.4107246,Sun:11:00AM -  6:00PM; ,,0
+Park Place,2143,"5870 E Broadway Boulevard, Ste 161",,Tucson,AZ,85711,US,(520) 790-7285,32.2191984,-110.8655885,Sun:11:00AM -  6:00PM; ,,0
+River Park Square,2144,"808 W Main Avenue, Sp 101",,Spokane,WA,99201,US,(509) 624-0656,47.6600716,-117.4316272,Sun:11:00AM -  6:00PM; ,,0
+La Fiesta Square,2145,3537 Mt. Diablo Blvd,,Lafayette,CA,94549,US,(925) 962-0817,37.8917176,-122.1196054,Sun:11:00AM -  5:00PM; ,,0
+Mount Pleasant Towne Centre,2146,1732 Towne Centre Way,,Mount Pleasant,SC,29464,US,(843) 971-5180,32.8290774,-79.8307288,Sun:12:00PM -  6:00PM; ,,0
+2006 East 21st Street,2147,2006 East 21st Street,,Tulsa,OK,74114,US,(918) 293-9767,36.1330004,-95.9627272,Sun:12:00PM -  6:00PM; ,,0
+Crystal Mall,2149,850 Hartford Turnpike,,Waterford,CT,06385,US,(860) 437-7341,41.3740925,-72.1445057,Sun:11:00AM -  6:00PM; ,,0
+Mission Promenade,2150,"26850 Ortega Highway, Ste G & L",,San Juan Capistrano,CA,92675,US,(949) 488-7075,33.5018717,-117.6628152,Sun:11:00AM -  5:00PM; ,,0
+The Shops at Pinon Pointe,2151,"101 N Hwy 89A, Ste D-19",,Sedona,AZ,86336,US,(928) 282-4427,34.8673472,-111.7622582,Sun - Sat:10:00AM -  6:00PM; ,,0
+Meyerland Plaza,2152,380 Meyerland Plaza Mall,,Houston,TX,77096,US,(713) 665-2939,29.687176,-95.4622844,Sun:12:00PM -  6:00PM; ,,0
+Thruway Center,2153,"416 S Stratford Road, Ste 500",,Winston-Salem,NC,27103,US,(336) 725-0009,36.0908312,-80.2838826,Sun:12:00PM -  6:00PM; ,,0
+19 West 8th Street,2154,"19 W Eighth St, Unit 29",,Holland,MI,49423,US,(616) 396-3696,42.7905697,-86.1081616,Sun:12:00PM -  5:00PM; ,,0
+Carmel Mountain Ranch TC,2155,"11955 Carmel Mountain Rd, 703",,San Diego,CA,92128,US,(858) 451-2136,32.9819831,-117.0750761,Sun:11:00AM -  6:00PM; ,,0
+Creekside Station,2156,"3103 Valley Ave, Ste 108",,Winchester,VA,22601,US,(540) 535-1036,39.14286,-78.1907674,Sun:11:00AM -  5:00PM; ,,0
+Winter Garden Village at Fowler G,2157,"3251 Daniels Rd, Ste 106",,Winter Garden,FL,34787,US,(407) 654-2224,28.5236992,-81.5841768,Sun:12:00PM -  6:00PM; ,,0
+Prien Lake Mall,2158,496 W Prien Lake Road,,Lake Charles,LA,70601,US,(337) 990-4367,30.2002618,-93.2264904,Sun:12:00PM -  6:00PM; ,,0
+The Outlet Collection - Seattle,2159,"1101 OUtlet Collection Wa, Ste 1020",,Auburn,WA,98001,US,(253) 561-8760,47.2991922,-122.2455457,Sun:11:00AM -  6:00PM; ,,0
+Harbourside Place,2160,128 Breakwater Court,,Jupiter,FL,33477,US,(561) 277-6854,26.9356955,-80.0818473,Sun:12:00PM -  6:00PM; ,,0
+Burlington Mall,2161,75 Middlesex Turnpike,,Burlington,MA,01803,US,(781) 270-1020,42.482538,-71.2135082,Sun:11:00AM -  6:00PM; ,,0
+Bellevue Square,2162,2016 Bellevue Square,,Bellevue,WA,98004,US,(425) 454-4654,47.628255,-122.205816,Sun:11:00AM -  7:00PM; ,,0
+The Mall at Chestnut Hill,2163,"199 Boylston Street, S133",,Chestnut Hill,MA,02467,US,(617) 964-3365,42.3214068,-71.1760576,Mon - Fri:10:00AM -  8:00PM; ,,0
+Grand Boulevard,2164,"495 Grand Boulevard, Ste 105",,San Destin,FL,32550,US,(850) 837-1358,30.3790174,-86.3427458,Sun:12:00PM -  6:00PM; ,,0
+The Shops of Saddle Creek,2165,"7615 W Farmington Blvd, Sp 3",,Germantown,TN,38138,US,(901) 754-1670,35.0937076,-89.8036636,Sun:12:00PM -  5:30PM; ,,0
+One Pacific Place,2166,10371 Pacific Street,,Omaha,NE,68114,US,(402) 391-2771,41.2478527,-96.0754576,Mon - Fri:10:00AM -  6:00PM; ,,0
+The Arboretum,2167,"10000 Research Blvd, Ste 111A",,Austin,TX,78759,US,(512) 346-3163,30.3909046,-97.747357,Sun:12:00PM -  6:00PM; ,,0
+River Oaks Shopping Center,2168,2008 W Gray Street,,Houston,TX,77019,US,(713) 524-4787,29.7534066,-95.4089848,Sun:12:00PM -  6:00PM; ,,0
+The Pavilion on Lovers Lane,2169,"5600 W Lovers Ln, Ste 147",,Dallas,TX,75209,US,(214) 350-1735,32.8505108,-96.8155005,Sun:12:00PM -  6:00PM; ,,0
+The Shops at Hilton Village,2170,"6107 North Scottsdale Road, Ste 114",,Scottsdale,AZ,85253,US,(480) 483-8654,33.5256323,-111.9245261,Sun:11:00AM -  6:00PM; ,,0
+The Shops on El Paseo,2171,"73100 El Paseo, Ste 4",,Palm Desert,CA,92260,US,(760) 779-1079,33.7200389,-116.3890815,Sun:11:00AM -  6:00PM; ,,0
+Pleasant Prairie Premium Outlets,2172,"11211 120th Ave, Ste 30",,Pleasant Prairie,WI,53158,US,(262) 857-8403,42.516666,-87.94881,Sun:10:00AM -  7:00PM; ,,0
+Christiana Mall,2173,174 Christiana Mall,,Newark,DE,19702,US,(302) 731-1401,39.6782533,-75.6522409,Sun:11:00AM -  6:00PM; ,,0
+Waugh Chapel Towne Centre,2174,"1405 S. Main Chapel Way, Suite 111",,Gambrills,MD,21054,US,(410) 721-2192,39.0335,-76.6833152,Sun:11:00AM -  6:00PM; ,,0
+Tanger Outlet Center National Harbo,2175,"6800 Oxon Hill Road., Suite 220",,National Harbor,MD,20745,US,(301) 965-9240,38.7945102,-77.0010248,Sun:10:00AM -  7:00PM; ,,0
+Bel Aire Plaza,2176,3628 Bel Aire Plaza,,Napa,CA,94558,US,(707) 265-7704,38.3224345,-122.3055696,Sun:11:00AM -  6:00PM; ,,0
+The Forum on Peachtree Parkway,2177,"5151 Peachtree Pkwy, Ste 720",,Norcross,GA,30092,US,(770) 246-0108,33.9807264,-84.2171102,Sun:12:00PM -  6:00PM; ,,0
+Jefferson Pointe,2178,"4120 W Jefferson Blvd, Ste H-1",,Fort Wayne,IN,46804,US,(260) 459-3329,41.0721295,-85.1960215,Sun:12:00PM -  5:00PM; ,,0
+Mall of Louisiana,2179,"6401 Bluebonnet Blvd, B200",,Baton Rouge,LA,70836,US,(225) 819-8804,30.385752,-91.084348,Sun:12:00PM -  6:00PM; ,,0
+Birkdale Village,2180,"16846 Birkdale Commons Parkw, Ste B",,Huntersville,NC,28078,US,(704) 892-1380,35.44533,-80.8797769,Sun:12:00PM -  6:00PM; ,,0
+The Woodlands Mall,2181,"1201 Lake Woodlands Drive, Ste1044",Suite 1044,The Woodlands,TX,77380,US,(281) 419-0148,30.164317,-95.455696,Sun:12:00PM -  6:00PM; ,,0
+Lake View Village,2182,"385 First St, Ste 119",,Lake Oswego,OR,97034,US,(503) 675-6655,45.4189795,-122.6641102,Mon - Fri:10:00AM -  8:00PM; ,,0
+Lakeside Shopping Center,2183,"3301 Veterans Memorial Bo, Suite 42",,Metairie,LA,70002,US,(504) 831-1501,30.0144158,-90.1635442,Sun:12:00PM -  6:00PM; ,,0
+Laurel Village,2184,3505 California St,,San Francisco,CA,94118,US,(415) 933-8085,37.7863504,-122.4517372,Mon - Fri:9:30AM -  6:30PM; ,,0
+Woodway Collection,2185,1395 South Voss Road,,Houston,TX,77057,US,(832) 358-2210,29.753485,-95.5010596,Sun:12:00PM -  6:00PM; ,,0
+Barton Creek Square,2186,"2901 S Capitol of Texas Hi, Ste B06",,Austin,TX,78746,US,(512) 327-8907,30.2711507,-97.8176469,Sun:11:00AM -  7:00PM; ,,0
+Birch Street Promenade,2187,"110 West Birch St, Unit B5",,Brea,CA,92821,US,(714) 990-2913,33.9184751,-117.9005235,Sun:12:00PM -  6:00PM; ,,0
+Marlton Square,2188,"300 State Route 73, Unit 9",,Marlton,NJ,08053,US,(856) 988-1117,39.8905208,-74.9240476,Sun:10:00AM -  5:00PM; ,,0
+Highland Village,2190,4042 Westheimer Road,,Houston,TX,77027,US,(713) 622-4741,29.7417097,-95.4459682,Sun:11:00AM -  6:00PM; ,,0
+The Shops at Mission Viejo,2191,127 The Shops at Mission Viejo,,Mission Viejo,CA,92691,US,(949) 347-0433,33.5615014,-117.6692075,Mon - Fri:10:00AM -  8:00PM; ,,0
+Barefoot Landing,2192,4812 Hwy 17 S,,North Myrtle Beach,SC,29582,US,(843) 361-0540,33.7993572,-78.7371785,Sun - Sat:10:00AM -  8:00PM; ,,0
+Town & Country Village,2193,"12850 Memorial Dr, Unit 426",,Houston,TX,77024,US,(713) 465-8549,29.7731832,-95.5614967,Sun:12:00PM -  6:00PM; ,,0
+Preston Park Village,2194,"1900 Preston Rd, Ste 160",,Plano,TX,75093,US,(972) 985-8206,33.0252916,-96.7910958,Sun:12:00PM -  6:00PM; ,,0
+University Park Village,2195,"1604 S University Dr, Ste 510",,Fort Worth,TX,76107,US,(817) 332-9804,32.7281659,-97.3637407,Sun:12:00PM -  6:00PM; ,,0
+Monroeville Mall,2196,709 Mall Circle Dr,,Monroeville,PA,15146,US,(412) 372-4818,40.4294863,-79.7955846,Sun:12:00PM -  6:00PM; ,,0
+Franklin Park Mall,2197,5001 Monroe Street,,Toledo,OH,43623,US,(419) 472-8885,41.6947913,-83.6405727,Sun:11:00AM -  6:00PM; ,,0
+Alderwood,2198,"3000 184th Street SW, Ste 980",,Lynnwood,WA,98037,US,(425) 670-2111,47.8299542,-122.2725709,Sun:11:00AM -  7:00PM; ,,0
+Court Street,2199,1080 Court Street,,San Luis Obispo,CA,93401,US,(805) 543-0807,35.2812839,-120.6611294,Mon - Fri:10:00AM -  7:00PM; ,,0
+The Avenue Viera,2200,"2271 Town Center Ave, Ste 119",,Viera,FL,32940,US,(321) 637-0494,28.2442735,-80.7262707,Sun:12:00PM -  6:00PM; ,,0
+Evansville Pavilion,2201,"6401 E Lloyd Expwy, Ste 14",,Evansville,IN,47715,US,(812) 402-5765,37.9750781,-87.4715887,Sun:12:00PM -  6:00PM; ,,0
+Baederwood Shopping Center,2202,1659 The Fairway,,Jenkintown,PA,19046,US,(215) 887-3007,40.1072359,-75.1185233,Sun:11:00AM -  6:00PM; ,,0
+The Avenue at White Marsh,2203,"8129 Honeygo Blvd, Suite H",,Baltimore,MD,21236,US,(410) 931-7450,39.3711362,-76.4660991,Sun:11:00AM -  6:00PM; ,,0
+The Shops at Friendly Center,2217,"3326 W Friendly Ave, Ste 106",,Greensboro,NC,27408,US,(336) 315-0234,36.0866269,-79.8374145,Sun:12:00PM -  6:00PM; ,,0
+Brook 35 Plaza,2218,"2150 Hwy 35, Sp E-19",,Sea Girt,NJ,08750,US,(732) 282-0344,40.1320592,-74.0345813,Mon - Fri:10:00AM -  6:00PM; ,,0
+14 North Main Street,2219,14 North Main St,,Chagrin Falls,OH,44022,US,(440) 247-4131,41.4303154,-81.3909784,Sun:11:00AM -  5:00PM; ,,0
+Westfield Countryside,2220,27001 US Hwy 19 North,,Clearwater,FL,33761,US,(727) 669-8740,28.0173286,-82.7336129,Sun:12:00PM -  6:00PM; ,,0
+Central Park Place,2221,"5100 Marsh Rd, Ste E-2",,Okemos,MI,48864,US,(517) 381-8622,42.7281376,-84.4128938,Mon - Wed:10:00AM -  7:00PM; ,,0
+Lincoln Square,2223,586 Lincoln Sq,,Arlington,TX,76011,US,(817) 801-8122,32.7565303,-97.0982904,Sun:12:00PM -  6:00PM; ,,0
+Spring Creek Plaza,2224,1460 S Bryant Ave,,Edmond,OK,73034,US,(405) 844-6414,35.6393477,-97.458632,Sun:12:00PM -  6:00PM; ,,0
+The Mall of Acadiana,2225,"5725 Johnston St, Sp F-233",,Lafayette,LA,70503,US,(337) 988-3131,30.1716722,-92.0616178,Sun:12:00PM -  6:00PM; ,,0
+Sawgrass Village,2226,"155 Tourside Drive, Suite 1550",,Ponte Vedra Beach,FL,32082,US,(904) 543-9555,30.2049765,-81.383189,Sun:12:00PM -  6:00PM; ,,0
+Rookwood Commons,2227,2679 Edmondson Rd,,Norwood,OH,45209,US,(513) 531-1977,39.146196,-84.4463109,Sun:12:00PM -  6:00PM; ,,0
+Riverchase Galleria,2228,"2000 Riverchase Galleria, Sp 103",,Birmingham,AL,35244,US,(205) 989-4941,33.3639393,-86.8119917,Sun:12:00PM -  6:00PM; ,,0
+78 Middle Neck Road,2229,78 Middle Neck Road,,Great Neck,NY,11021,US,(516) 487-5580,40.788503,-73.729683,Sun:11:00AM -  5:00PM; ,,0
+Lakeside Village,2230,1425 Town Center Drive,,Lakeland,FL,33803,US,(863) 687-2629,28.0010142,-81.9781716,Sun:12:00PM -  6:00PM; ,,0
+Washington Square,2231,9318 SW Washington Square Rd.,,Tigard,OR,97223,US,(503) 620-0604,45.453011,-122.782957,Sun - Sat:Closed; ,,0
+Lakeport Commons,2232,"5001 Sergeant Rd, Ste 200",,Sioux City,IA,51106,US,(712) 276-0101,42.4481276,-96.3418978,Mon - Fri:10:00AM -  7:00PM; ,,0
+Avalon Plaza Shopping Center,2233,2737-C N Salisbury Blvd,,Salisbury,MD,21801,US,(410) 341-0081,38.4166101,-75.5658912,Sun:11:00AM -  5:00PM; ,,0
+Coastal North Town Center,2234,"1502 Hwy 17 North., Unit 2",,North Myrtle Beach,SC,29582,US,(843) 281-4060,33.8443457,-78.660127,Sun:11:00AM -  6:00PM; ,,0
+Del Amo Fashion Center,2235,"21540 Hawthorne Blvd., Suite #422",,Torrance,CA,90503,US,(310) 750-3123,33.8260857,-118.3514708,Mon - Fri:10:00AM -  8:00PM; ,,0
+Liberty Center,2236,7540 Gibson Street,,Liberty Township,OH,45069,US,(513) 712-1246,39.3714085,-84.3734633,Mon - Thu:10:00AM - 10:00PM; ,,0
+Westfield Citrus Park,2241,8048 Citrus Park TC,,Tampa,FL,33625,US,(813) 926-6536,28.0660234,-82.5714961,Sun:12:00PM -  6:00PM; ,,0
+131 West Jefferson Avenue,2242,"131 West Jefferson Ave, # 111",,Naperville,IL,60540,US,(630) 579-4207,41.7732758,-88.1507414,Sun:11:00AM -  6:00PM; ,,0
+The Outlets of Little Rock,2243,"11201 Bass Pro Parkway, E-W116",,Little Rock,AR,72209,US,(501) 707-3080,34.6609179,-92.4079506,Sun:11:00AM -  6:00PM; ,,0
+Woodbury Centre,2244,"15 Centre Drive, 7A & 7B","Suite 227, 7A & 7B",Central Valley,NY,10917,US,(845) 783-0236,41.314445,-74.133348,Sun - Thu:10:00AM -  7:00PM; ,,0
+Cocoplum Village Shops,2245,17775 South Tamiami Trail,,North Port,FL,34287,US,(941) 564-3279,27.0465189,-82.2557462,Sun:11:00AM -  6:00PM; ,,0
+Altamonte Mall,2246,"451 E Altamonte Drive, Ste 2147",,Altamonte Springs,FL,32701,US,(407) 670-1455,28.6665743,-81.3773794,Sun:12:00PM -  6:00PM; ,,0
+Village on the Parkway,2247,5100 Beltline Road,,Dallas,TX,75254,US,(214) 530-2341,32.9516327,-96.8207005,Sun:12:00PM -  6:00PM; ,,0
+Shops on Main,2248,"79 US HWY 41., Ste C&D",,Schererville,IN,46375,US,(219) 227-3889,41.4831184,-87.4504888,Sun:11:00AM -  6:00PM; ,,0
+Staten Island Mall,2249,"2655 Richmond Ave, Sp 2610",,Staten Island,NY,10314,US,(718) 494-6135,40.5952146,-74.1827119,Sun:11:00AM -  6:00PM; ,,0
+Solomon Pond Mall,2250,"601 Donald Lynch Blvd, N111",,Marlborough,MA,01752,US,(508) 229-0768,42.3561123,-71.6133216,Sun:11:00AM -  6:00PM; ,,0
+Destin Commons,2252,"4367 Legendary Dr, D102",,Destin,FL,32541,US,(850) 654-0505,30.393638,-86.4262161,Mon - Thu:10:00AM - 10:00PM; ,,0
+Augusta Mall,2253,"3450 Wrightsboro Rd., Ste A230",,Augusta,GA,30909,US,(706) 733-4440,33.4654142,-82.0805568,Sun:12:00PM -  6:00PM; ,,0
+Town Center at Boca Raton,2254,"6000 Glades Rd, Ste C1340",,Boca Raton,FL,33431,US,(561) 395-5191,26.3659037,-80.1343444,Sun:12:00PM -  6:00PM; ,,0
+The Shoppes at Brinton Lake,2255,"935 Baltimore Pike, Unit E200",,Glen Mills,PA,19342,US,(610) 361-0310,39.884571,-75.5324169,Sun:11:00AM -  6:00PM; ,,0
+39 South Moger Avenue,2256,39 South Moger Avenue,,Mount Kisco,NY,10549,US,(914) 244-8982,41.2070688,-73.7288963,Sun:11:00AM -  5:00PM; ,,0
+Commons at Calabasas,2257,4719 Commons Way,,Calabasas,CA,91302,US,(818) 591-8867,34.1533306,-118.6447506,Mon - Thu:10:00AM -  9:00PM; ,,0
+Foothill Village,2258,"1340 Foothill Dr, Unit N1",,Salt Lake City,UT,84108,US,(801) 583-2323,40.7402445,-111.8270915,Sun:12:00PM -  5:00PM; ,,0
+Lansdowne Shops,2259,"3371 Tates Creek Pike, Unit 6-A",,Lexington,KY,40502,US,(859) 268-1882,37.9950633,-84.496762,Mon - Wed:10:00AM -  9:00PM; ,,0
+Pittsford Plaza,2260,"3349 Monroe Ave, Ste 45",,Rochester,NY,14618,US,(585) 586-6860,43.1022298,-77.5385893,Sun:12:00PM -  5:00PM; ,,0
+South Coast Plaza,2261,"3333 Bear Street, Ste 203",,Costa Mesa,CA,92626,US,(714) 751-8518,33.692049,-117.892915,Mon - Fri:10:00AM -  8:00PM; ,,0
+396 University Avenue,2262,396 University Ave,,Palo Alto,CA,94301,US,(650) 321-1850,37.4468966,-122.1602996,Sun:12:00PM -  6:00PM; ,,0
+6780 East Genesee Street,2263,6780 E Genesee Street,,Fayetteville,NY,13066,US,(315) 289-0006,43.0312234,-76.0537929,Sun:12:00PM -  5:00PM; ,,0
+Anderson Mall,2264,3131 N. Main Street,,Anderson,SC,29621,US,(864) 932-4409,34.539263,-82.67096,Sun:12:00PM -  6:00PM; ,,0
+Springfield Town Center,2265,6817 Springfield Mall,,Springfield,VA,22150,US,(571) 317-6618,38.7738859,-77.1774606,Sun:12:00PM -  6:00PM; ,,0
+Tanger Outlets Savannah,2266,"200 Tanger Outlet Blvd., Suite 605",,Pooler,GA,31322,US,(912) 988-4260,32.1343203,-81.2433877,Sun:10:00AM -  7:00PM; ,,0
+The Mall of San Juan,2267,"1000 Mall of San Juan Boul, Ste 124",,San Juan,PR,00924,PR,(787) 759-2600,18.4118269,-66.0248715,Sun:11:00AM -  7:00PM; ,,0
+The Outlet Shoppes of the Bluegrass,2268,1155 Buck Creek Rd,,Simpsonville,KY,40067,US,(502) 405-2001,38.2064126,-85.3518317,Sun:10:00AM -  7:00PM; ,,0
+The Mall at Barnes Crossing,2269,1001 Barnes Crossing Rd,,Tupelo,MS,38804,US,(662) 690-1915,34.308135,-88.7020164,Sun:12:00PM -  6:00PM; ,,0
+Columbia Mall (North Dakota),2270,2800 South Columbia Road,,Grand Forks,ND,58201,US,(701) 772-0257,47.892984,-97.0719151,Sun:12:00PM -  6:00PM; ,,0
+The Mall at Greece Ridge,2271,106 Greece Ridge Center Drive,,Rochester,NY,14626,US,(585) 371-3194,43.2072758,-77.6881526,Sun:11:00AM -  5:00PM; ,,0
+Cross Creek Mall,2272,"735 Cross Creek Mall, Suite 250",,Fayetteville,NC,28303,US,(910) 778-8613,35.0706924,-78.9616706,Sun:12:00PM -  6:00PM; ,,0
+Yuma Palms Regional Center,2273,1305 South Yuma Palms Parkway,,Yuma,AZ,85365,US,(928) 783-3177,32.7034156,-114.6043277,Sun:11:00AM -  6:00PM; ,,0
+The Colonnade on 5th,2274,"600 Fifth Avenue South, Ste 100",,Naples,FL,34102,US,(239) 643-3148,26.1410256,-81.7991816,Sun:12:00PM -  6:00PM; ,,0
+Alamo Quarry Market,2276,"255 E Basse Rd, Ste 814",,San Antonio,TX,78209,US,(210) 828-1718,29.4978324,-98.4810464,Sun:12:00PM -  6:00PM; ,,0
+Shoppes at Montage,2278,2321 Shoppes Blvd,,Moosic,PA,18507,US,(570) 961-1523,41.3630243,-75.6756946,Sun:12:00PM -  5:00PM; ,,0
+Grove City Premium Outlets,2279,"1911 Leesburg Grove City, Spc 1050",,Grove City,PA,16127,US,(724) 748-9990,41.1397525,-80.1573579,Mon - Thu:9:00AM -  9:00PM; ,,0
+Tanger Outlets - Jeffersonville,2280,"8000 Factory Shops Blvd., Ste 8200",,Jeffersonville,OH,43128,US,(740) 948-2508,39.6214117,-83.6010698,Sun:10:00AM -  7:00PM; ,,0
+Grand Ave,2281,"1062 Grand Ave, Ste 130",,Saint Paul,MN,55105,US,(651) 227-5819,44.9397857,-93.1448114,Mon - Fri:10:00AM -  6:00PM; ,,0
+St. Clair Square,2282,"6540 N Illinois Street, Ste 101",,Fairview Heights,IL,62208,US,(618) 624-2671,38.5946645,-89.983239,Sun:12:00PM -  6:00PM; ,,0
+Arbor Lakes,2283,7817 Main Street N,,Maple Grove,MN,55369,US,(763) 416-3840,45.0963721,-93.4419218,Mon - Fri:10:00AM -  6:00PM; ,,0
+New Town Shops on Main,2284,5106 Main St.,,Williamsburg,VA,23188,US,(757) 221-0021,37.2781095,-76.7407512,Sun:12:00PM -  6:00PM; ,,0
+Providence Marketplace,2285,"401 S Mount Juliet Road, Ste 425",,Mount Juliet,TN,37122,US,(615) 773-4682,36.1687288,-86.5102731,Sun:12:00PM -  6:00PM; ,,0
+Village at Colony Place,2286,156 Colony Place,,Plymouth,MA,02360,US,(508) 732-0253,41.9537348,-70.7180384,Sun:11:00AM -  6:00PM; ,,0
+University Mall,2287,559 E University Pkwy,,Orem,UT,84097,US,(801) 802-7917,40.2738338,-111.6822127,Mon:10:00AM -  8:00PM; ,,0
+Huebner Oaks Center,2288,"11745 W Interstate Hwy 10, Ste 523",,San Antonio,TX,78230,US,(210) 558-7690,29.412231,-98.4314335,Sun:12:00PM -  6:00PM; ,,0
+Pavilions,2289,514 Pavilions Lane,,Sacramento,CA,95825,US,(916) 567-1894,38.5747195,-121.4103058,Sun:11:00AM -  6:00PM; ,,0
+MarketFair,2290,"3535 US Route 1, Spc 304",,Princeton,NJ,08540,US,(609) 452-0089,40.3529326,-74.6127955,Sun:11:00AM -  5:00PM; ,,0
+Stoneridge Shopping Center,2291,2631 Stoneridge Mall Rd,,Pleasanton,CA,94588,US,(925) 598-0010,37.6952613,-121.9251519,Sun:11:00AM -  7:00PM; ,,0
+Augusta Commons,2292,"2222 Augusta St, Ste 2",,Greenville,SC,29605,US,(864) 233-2822,34.8227391,-82.392602,Sun:12:00PM -  6:00PM; ,,0
+Creekside Place,2293,4862 S Highland Dr,,Salt Lake City,UT,84117,US,(801) 274-8988,40.663853,-111.8388426,Sun:12:00PM -  5:00PM; ,,0
+5418 Wisconsin Avenue,2294,5418 Wisconsin Ave,,Chevy Chase,MD,20815,US,(301) 986-1122,38.9621804,-77.0871452,Sun:12:00PM -  6:00PM; ,,0
+Laurelwood Shopping Center,2295,428 South Grove Park Road,,Memphis,TN,38117,US,(901) 684-6174,35.1196392,-89.9112473,Sun:12:00PM -  6:00PM; ,,0
+La Canada Plaza,2296,"707 Foothill Boulevard, Ste 3",,La Canada,CA,91011,US,(818) 790-6018,34.2024129,-118.1940082,Mon - Fri:10:00AM -  8:00PM; ,,0
+Tysons Corner Center,2297,"7990 Tysons Corner Cente, Space D1U",,McLean,VA,22102,US,(703) 917-6110,38.9182702,-77.2230819,Sun:11:00AM -  7:00PM; ,,0
+Peachtree Battle Promenade,2298,"2385 Peachtree Rd, Ste A1CD",,Atlanta,GA,30305,US,(404) 495-0612,33.8198768,-84.3877071,Sun:12:00PM -  6:00PM; ,,0
+McLean Center,2299,"6823 Redmond Drive, Unit B-5",,McLean,VA,22101,US,(703) 288-0323,38.9336654,-77.1802441,Mon - Fri:9:00AM -  7:00PM; ,,0
+Promenade on the Peninsula,2300,"550 Deep Valley Drive, 177",,Rolling Hills Estate,CA,90274,US,(310) 265-8085,33.7715778,-118.3732448,Sun:11:00AM -  5:00PM; ,,0
+833 East Las Olas Blvd,2301,833 East Las Olas Blvd.,,Fort Lauderdale,FL,33301,US,(954) 763-4297,26.1194309,-80.1342251,Sun:12:00PM -  6:00PM; ,,0
+Plaza Mercado (Palm Springs),2302,"155 S Palm Canyon Dr, Unit B-4",,Palm Springs,CA,92262,US,(760) 416-7992,33.8219196,-116.5472417,Sun:12:00PM -  6:00PM; ,,0
+The Florida Mall,2303,"8001 S Orange Blossom Tr, Room 1264",,Orlando,FL,32809,US,(407) 856-5500,28.4456895,-81.395417,Mon - Fri:10:00AM - 10:00PM; ,,0
+Rivertown Crossings,2304,"3700 River Town Parkway, Ste 1148",,Grandville,MI,49418,US,(616) 532-8440,42.8794012,-85.7561264,Sun:11:00AM -  6:00PM; ,,0
+3 Avenues Shopping Center,2305,2009 Indian River Blvd,,Vero Beach,FL,32960,US,(772) 794-4791,27.6381676,-80.3802706,Sun:12:00PM -  5:00PM; ,,0
+Stonecrest at Piper Glen,2306,"7808 Rea Rd, Ste B",,Charlotte,NC,28277,US,(704) 543-8885,35.060754,-80.815083,Sun:12:00PM -  6:00PM; ,,0
+Kingsgate Center,2307,"8201 Quaker Ave, Unit 122",,Lubbock,TX,79424,US,(806) 698-8636,33.5187505,-101.9037687,Sun:12:00PM -  6:00PM; ,,0
+Kierland Commons,2308,"15211 N Kierland Bouleva, Suite 100",,Scottsdale,AZ,85254,US,(480) 607-6990,33.6245681,-111.9297497,Sun:11:00AM -  6:00PM; ,,0
+Mayfaire Town Center,2316,909 Inspiration Drive,,Wilmington,NC,28405,US,(910) 256-2616,34.2420021,-77.8298383,Sun:12:00PM -  6:00PM; ,,0
+The District at Green Valley Ranch,2317,2240 Village Walk Dr,,Henderson,NV,89052,US,(702) 837-9145,36.0216574,-115.0869873,Sun:11:00AM -  7:00PM; ,,0
+Village Square at Dana Park,2318,"1660 S Val Vista Dr, Ste 121",,Mesa,AZ,85204,US,(480) 507-9231,33.3848448,-111.7567646,Sun:11:00AM -  6:00PM; ,,0
+BelMar,2319,350 S Teller St,,Lakewood,CO,80226,US,(303) 922-7597,39.7100667,-105.0766587,Sun:11:00AM -  6:00PM; ,,0
+Centralia Outlets,2320,1312 Lum Road,,Centralia,WA,98531,US,(360) 736-0600,46.7309962,-122.9775775,Sun:10:00AM -  7:00PM; ,,0
+Tanger Outlet Center Westgate,2321,"6800 N 95th Avenue,  705",,Glendale,AZ,85305,US,(623) 877-8895,33.5347482,-112.2667391,Sun:10:00AM -  7:00PM; ,,0
+Outlets of Mississippi,2322,"200 Bass Pro Drive, Suite 490",,Pearl,MS,39208,US,(601) 718-1801,32.2740308,-90.1533955,Sun:12:00PM -  7:00PM; ,,0
+Carlsbad Premium Outlets,2323,"5600 Paseo del Norte, Ste A116",,Carlsbad,CA,92008,US,(760) 710-2489,33.1266409,-117.321292,Mon - Thu:9:00AM -  9:00PM; ,,0
+Palladio at Broadstone,2324,"320 Palladio Pkwy, Suite 607",,Folsom,CA,95630,US,(916) 605-2717,38.6498044,-121.1189634,Sun:11:00AM -  6:00PM; ,,0
+Shoppes at Chino Hills,2325,"13850 City Center Dr., Ste 5055",,Chino Hills,CA,91709,US,(909) 590-4612,34.0016017,-117.7307086,Mon - Thu:10:00AM -  9:00PM; ,,0
+Birch Run Premium Outlets,2326,"8825 Marketplace Dr, Ste F380",,Birch Run,MI,48415,US,(989) 624-5736,43.2469359,-83.7776194,Sun:10:00AM -  7:00PM; ,,0
+The Meadows at Lake Saint Louis,2327,"11 Meadows Circle Dr., Ste 428",,Lake Saint Louis,MO,63367,US,(636) 561-3353,38.7804729,-90.7889645,Sun:11:00AM -  6:00PM; ,,0
+Gaffney Premium Outlets,2328,"100 Factory Shops Blvd, Ste 100",,Gaffney,SC,29341,US,(864) 487-0541,35.081803,-81.7118205,Sun:1:30PM -  7:00PM; ,,0
+Jersey Shore Premium Outlets,2330,"One Premium Outlets Blvd., #437",,Tinton Falls,NJ,07753,US,(732) 493-5128,40.2243815,-74.0941358,Mon - Thu:10:00AM - 10:00PM; ,,0
+Tanger Outlet Center Branson,2331,"300 Tanger Boulevard, Suite 206",,Branson,MO,65616,US,(417) 239-2793,36.6451868,-93.2645618,Sun:10:00AM -  7:00PM; ,,0
+Cincinnati Premium Outlets,2332,413 Premium Outlet Drive,,Monroe,OH,45050,US,(513) 539-8661,39.432892,-84.3390495,Mon - Thu:9:00AM -  9:00PM; ,,0
+Albertville Premium Outlets,2333,"6415 Labeaux Avenue NE, #A220",,Albertville,MN,55301,US,(763) 315-1171,45.24585,-93.669246,Sun:10:00AM -  7:00PM; ,,0
+Williamsburg Premium Outlets,2334,"5715-74 Richmond Rd., Ste 74",,Williamsburg,VA,23188,US,(757) 229-1656,37.3210839,-76.7375873,Mon - Thu:9:00AM -  9:00PM; ,,0
+The Outlet Shoppes at Oklahoma City,2335,"7634 W Reno Avenue, Ste 640",,Oklahoma City,OK,73127,US,(405) 787-8218,35.4624406,-97.6502462,Sun:11:00AM -  7:00PM; ,,0
+Bellis Fair,2336,"One Bellis Fair Parkway, Suite 330",,Bellingham,WA,98226,US,(360) 676-2829,48.7860408,-122.4906589,Sun:11:00AM -  6:00PM; ,,0
+Outlets at San Clemente,2337,"101 West Avenida Vista H, Suite 580",,San Clemente,CA,92672,US,(949) 456-8350,33.4595362,-117.5981784,Sun - Sat:10:00AM -  8:00PM; ,,0
+Outlets at Traverse Mountain,2338,"3700 N Cabelas Blvd, Suite 317",,Lehi,UT,84043,US,(801) 901-1280,40.4354592,-111.884095,Sun:11:00AM -  6:00PM; ,,0
+Nebraska Crossing Outlets,2339,"21215 Nebraska Crossing D, Ste D105",,Gretna,NE,68028,US,(402) 513-4038,41.0984146,-96.2488896,Sun:11:00AM -  6:00PM; ,,0
+Manchester Designer Outlets,2340,442 Depot Street,,Manchester Center,VT,05255,US,(802) 362-2216,43.173313,-73.049706,Sun:10:00AM -  5:00PM; ,,0
+The Shops at North Bridge,2341,520 North Michigan Ave,,Chicago,IL,60611,US,(312) 836-0023,41.8914107,-87.6249547,Sun:11:00AM -  7:00PM; ,,0
+The Outlet Collection at Riverwalk,2342,"500 Port of New Orleans Pl, Ste 115",,New Orleans,LA,70130,US,(504) 434-3588,29.9472027,-90.0627359,Sun:12:00PM -  6:00PM; ,,0
+Midtowne LIttle Rock,2354,"201 N University Avenue, Ste 210",,Little Rock,AR,72205,US,(501) 558-3030,34.7532888,-92.3406837,Sun:12:00PM -  6:00PM; ,,0
+The Shops at Greenridge,2355,"1125 Woodruff Road, Ste 1701",,Greenville,SC,29607,US,(864) 284-6121,34.8291923,-82.3012549,Sun:12:00PM -  6:00PM; ,,0
+Texarkana Pavilion,2356,4254 D Saint Michael Dr,,Texarkana,TX,75503,US,(903) 223-9039,33.4545223,-94.0966483,Sun:12:00PM -  6:00PM; ,,0
+Queenstown Premium Outlets,2357,"102 Outlet Center Dr, Ste F080",,Queenstown,MD,21658,US,(410) 827-0251,38.983574,-76.1606,Mon - Thu:9:00AM -  9:00PM; ,,0
+San Marcos Premium Outlets,2358,"3939 S Interstate Hwy 35, Ste 1300",,San Marcos,TX,78666,US,(512) 392-1901,29.8826,-97.9406,Sun:12:00PM -  6:00PM; ,,0
+Rogue Valley Mall,2359,"1600 N Riverside Avenue, Ste 3005",,Medford,OR,97501,US,(541) 858-8853,42.3433769,-122.876795,Sun:11:00AM -  6:00PM; ,,0
+Metropolis Shops on Dowlen,2360,"3195 Dowlen Road, Ste 102",,Beaumont,TX,77706,US,(409) 860-9763,30.1089978,-94.1691567,Sun:12:00PM -  6:00PM; ,,0
+The Shops at Seven Oaks,2361,1937 Hoffmeyer Road,,Florence,SC,29501,US,(843) 662-0387,34.1908788,-79.8058859,Sun:1:30PM -  6:00PM; ,,0
+Lighthouse Place Premium Outlets,2362,927 Lighthouse Place,,Michigan City,IN,46360,US,(219) 872-8699,41.7157327,-86.9074868,Sun:10:00AM -  6:00PM; ,,0
+Steeplegate Mall,2363,"270 Loudon Rd, Ste 1160",,Concord,NH,03301,US,(603) 224-4421,43.2227443,-71.4857538,Sun:11:00AM -  6:00PM; ,,0
+Nelson's Crossing,2364,"745 E Joyce Boulevard, Ste 101",,Fayetteville,AR,72703,US,(479) 527-9220,36.1229475,-94.1469005,Sun:12:00PM -  6:00PM; ,,0
+Mesilla Valley Mall,2365,"700 S Telshor Blvd, Ste 1342",,Las Cruces,NM,88011,US,(575)522-0408,32.3106212,-106.7434388,Sun:12:00PM -  6:00PM; ,,0
+The Summit Birmingham,2368,139 Summit Blvd,,Vestavia,AL,35243,US,(205) 298-0440,33.4442428,-86.7306324,Sun:12:00PM -  6:00PM; ,,0
+Westfield Southgate,2369,3501 S Tamiami Trail,,Sarasota,FL,34239,US,(941) 957-6426,27.3010598,-82.5283338,Sun:12:00PM -  6:00PM; ,,0
+Uptown Shopping Center,2370,2405 W Burnside Street,,Portland,OR,97210,US,(503) 227-5649,45.5239396,-122.7004018,Sun:11:00AM -  6:00PM; ,,0
+Redmond Town Center,2371,"7425 166th Avenue NE, Ste C125",,Redmond,WA,98052,US,(425) 869-1875,47.6707934,-122.1188885,Sun:11:00AM -  7:00PM; ,,0
+Woodbury Common,2372,"8285 Jericho Turnpike, Ste 11",,Woodbury,NY,11797,US,(516) 692-5098,40.8168544,-73.4662976,Sun:11:00AM -  6:00PM; ,,0
+City Creek Center,2373,"50 South Main Street, Suite 102",,Salt Lake City,UT,84101,US,(801) 328-2424,40.6578871,-111.8909465,Mon - Thu:10:00AM - 10:00PM; ,,0
+Old Town Center,2374,"50 University Avenue, Ste A285",,Los Gatos,CA,95030,US,(408) 395-9002,37.2230378,-121.981301,Sun:11:00AM -  5:00PM; ,,0
+198 Westwood Avenue,2375,198 Westwood Ave.,,Westwood,NJ,07675,US,(201) 263-0273,40.99255,-74.030978,Sun:Closed; ,,0
+The Avenue East Cobb,2376,"4475 Roswell Rd, Ste 1500",,Marietta,GA,30062,US,(770) 321-5624,33.9882766,-84.4205625,Sun:12:00PM -  6:00PM; ,,0
+Plaza Royale,2377,"3842 Newberry Rd, Ste 1D",,Gainesville,FL,32607,US,(352) 381-8300,29.6537404,-82.3820717,Sun:12:00PM -  6:00PM; ,,0
+Shops at Merrick Park,2378,"350 San Lorenzo Ave, Ste 2110",,Coral Gables,FL,33146,US,(305) 446-6932,25.7314228,-80.2601268,Sun:12:00PM -  6:00PM; ,,0
+Ventura Boulevard,2379,12122 Ventura Blvd,,Studio City,CA,91604,US,(818) 763-8430,34.1431951,-118.3960151,Sun:11:00AM -  6:00PM; ,,0
+West County Center,2380,"14 West County Center, 1046",,Des Peres,MO,63131,US,(314) 965-5040,38.6006664,-90.4470701,Sun:11:00AM -  6:00PM; ,,0
+Bridgewater Commons,2381,"400 Commons Way, Ste 103",,Bridgewater,NJ,08807,US,(908) 252-0600,40.5861219,-74.6193168,Sun:11:00AM -  6:00PM; ,,0
+Parkway Place,2382,"2801 Memorial Parkway SW, Spc 189",,Huntsville,AL,35801,US,(256) 536-6314,34.7072886,-86.5872707,Sun:12:00PM -  6:00PM; ,,0
+North Point Village,2383,"7300 North Point Parkway, Ste 115",,Alpharetta,GA,30022,US,(770) 752-0016,34.0422922,-84.3017305,Sun:12:00PM -  6:00PM; ,,0
+The Trails Shopping Center,2384,258 N Nova Rd,,Ormond Beach,FL,32174,US,(386) 672-5127,29.2839958,-81.0838611,Sun:12:00PM -  6:00PM; ,,0
+Lynndale Shoppes,2385,"511 Red Banks Rd, Ste D",,Greenville,NC,27858,US,(252) 215-0771,35.5818354,-77.370984,Sun:12:00PM -  6:00PM; ,,0
+Tuscola Outlets,2386,"A1200 Tuscola Boulevard, Suite 4013",,Tuscola,IL,61953,US,(217) 253-2166,39.7879322,-88.2688368,Mon:10:00AM -  9:00PM; ,,0
+Lincoln City Outlets,2387,"1500 SE East Devils Lake, Suite 114",,Lincoln City,OR,97367,US,(541) 557-4124,44.9587207,-124.0105628,Sun:10:00AM -  6:00PM; ,,0
+Log Jam Outlet Centers,2388,1476 State Route 9,,Lake George,NY,12845,US,(518) 793-0597,43.3678889,-73.697446,Sun - Thu:10:00AM -  6:00PM; ,,0
+Mayfair Shopping Center,2389,130 East Jericho Turnpike,,Commack,NY,11725,US,(631) 864-1675,40.8435542,-73.2723502,Sun:11:00AM -  6:00PM; ,,0
+The Village at Meridian,2390,"3525 East Longwing Lane, Ste 150",,Meridian,ID,83646,US,(208) 501-7684,43.6214188,-116.3504163,Sun:11:00AM -  6:00PM; ,,0
+Southridge Mall,2391,5300 South 76 Street,,Greendale,WI,53129,US,(414) 209-0541,42.948344,-88.0042188,Sun:11:00AM -  6:00PM; ,,0
+Osage Beach Premium Outlets,2392,"4540 Osage Beach Pkwy, Unit BB4",,Osage Beach,MO,65065,US,(573) 348-1449,38.1448465,-92.6275683,Mon - Thu:9:00AM -  9:00PM; ,,0
+Tanger Outlet Center Howell,2393,1475 N. Burkhart Rd,,Howell,MI,48855,US,(517) 540-0544,42.6224659,-83.9978302,Sun:10:00AM -  7:00PM; ,,0
+The Mall at Lexington Green,2394,161 Lexington Green Circle,,Lexington,KY,40503,US,(859) 317-6046,37.9945747,-84.524451,Sun:12:00PM -  6:00PM; ,,0
+Waterloo Premium Outlets,2395,"655 New York 318., Suite B081",,Waterloo,NY,13165,US,(315) 539-1357,42.9564555,-76.9215918,Mon - Thu:10:00AM - 10:00PM; ,,0
+Bridger Peaks Town Center,2396,"1500 North 19th Avenue, Suites I-K",,Bozeman,MT,59718,US,(406) 586-3485,45.6948045,-111.0623807,Sun:11:00AM -  5:00PM; ,,0
+Livermore Premium Outlets,2397,2782 Paragon Outlet Drive.,,Livermore,CA,94551,US,(925) 456-0445,37.6818745,-121.7680088,Mon - Thu:9:00AM -  9:00PM; ,,0
+Millcreek Mall,2398,654 Mill Creek Mall,,Erie,PA,16565,US,(814) 866-0640,42.0681078,-80.1039467,Sun:11:00AM -  5:00PM; ,,0
+Tanger Outlets The Walk,2399,"112 N Christopher Colum, Suite 1225",,Atlantic City,NJ,08401,US,(609) 343-0280,39.3603023,-74.439126,Sun:10:00AM -  7:00PM; ,,0
+Vero Beach Outlets,2400,"1792 94th Drive., Ste A -110",,Vero Beach,FL,32966,US,(772) 569-3165,27.6368939,-80.5213994,Mon - Thu:8:00AM -  8:00PM; ,,0
+Anderson Towne Center,2401,7426 Beechmont Ave,,Cincinnati,OH,45255,US,(513) 232-5300,39.0744277,-84.3504833,Sun:12:00PM -  6:00PM; ,,0
+Virginia Gateway,2403,7354 Atlas Walk Way,,Gainesville,VA,20155,US,(703) 753-4640,38.796311,-77.6093323,Sun:12:00PM -  6:00PM; ,,0
+The Shoppes at Flowers Mill,2404,136 N Flowers Mill Rd,,Langhorne,PA,19047,US,(215) 752-3160,40.1822727,-74.9052066,Sun:11:00AM -  6:00PM; ,,0
+Destiny USA,2405,10076 Destiny USA Drive,,Syracuse,NY,13204,US,(315) 474-0787,43.0717901,-76.1711906,Sun:11:00AM -  6:00PM; ,,0
+Fashion Outlets of Chicago,2406,"5220 Fashion Outlets Wa, Suite 2180",,Rosemont,IL,60018,US,(847) 447-1071,41.975132,-87.8670641,Sun:10:00AM -  7:00PM; ,,0
+Gaston Mall,2407,401 Cox Rd,,Gastonia,NC,28054,US,(704) 864-4426,35.2637842,-81.1356072,Sun:12:00PM -  6:00PM; ,,0
+Presidential Square,2408,"813 Boardman-Poland Rd, Suite 9B",,Boardman,OH,44512,US,(330) 729-1021,41.0235484,-80.6393063,Sun:12:00PM -  5:00PM; ,,0
+Providence Town Center,2409,"161 Market Street, Suite 1",,Collegeville,PA,19426,US,(610) 454-0280,40.1651525,-75.4801578,Sun:11:00AM -  6:00PM; ,,0
+Clinton Crossing Premium Outlets,2410,"20-A Killingworth Turnpi, Suite 160",,Clinton,CT,06413,US,(860) 669-2097,41.2914101,-72.5327452,Sun:10:00AM -  6:00PM; ,,0
+Valley Mall,2411,"2529 Main Street, Suite D-12",,Union Gap,WA,98903,US,(509) 469-2515,46.5653889,-120.4794747,Sun:11:00AM -  6:00PM; ,,0
+Westfield Valencia Town Center,2413,"24201 W Valencia Blvd, Unit 3546",,Valencia,CA,91355,US,(661) 284-1289,34.4156571,-118.5576289,Sun:11:00AM -  6:00PM; ,,0
+Sonoma Court Shops,2414,29 E Napa St,,Sonoma,CA,95476,US,(707) 933-0100,38.291611,-122.4571268,Sun:11:00AM -  6:00PM; ,,0
+Fig Garden Village,2415,"768 W Shaw Ave, Ste 109",,Fresno,CA,93704,US,(559) 229-3596,36.8085027,-119.8050551,Sun:11:00AM -  6:00PM; ,,0
+Champions Forest Plaza,2416,5448 FM 1960 West,,Houston,TX,77069,US,(281) 444-8420,29.9814038,-95.5120637,Sun:12:00PM -  6:00PM; ,,0
+802 King Street,2417,802 King Street,,Alexandria,VA,22314,US,(703) 535-1050,38.8052006,-77.048216,Sun:12:00PM -  6:00PM; ,,0
+Southlake Town Square,2418,300 Grand Ave E,,Southlake,TX,76092,US,(817) 251-8797,32.9441449,-97.1297759,Sun:12:00PM -  6:00PM; ,,0
+MacArthur Center,2419,"300 Monticello Ave, Ste 216",,Norfolk,VA,23510,US,(757) 627-4460,36.8494928,-76.2893703,Sun:12:00PM -  6:00PM; ,,0
+Biltmore Village,2420,"10 Brook Street, Ste 100",,Asheville,NC,28803,US,(828) 274-2922,35.5670456,-82.5410173,Mon - Fri:9:00AM -  7:00PM; ,,0
+The Shoppes at Eastchase,2421,6878 Eastchase Parkway,,Montgomery,AL,36117,US,(334) 215-7822,32.3577352,-86.1656163,Sun:12:00PM -  6:00PM; ,,0
+Pinnacle Hills Promenade,2422,"2203 Promenade Blvd, Ste 2140",,Rogers,AR,72758,US,(479) 633-0239,36.3074909,-94.1735802,Sun:12:00PM -  6:00PM; ,,0
+Dulaney Plaza,2423,820 Dulaney Valley Road,,Towson,MD,21204,US,(410) 296-8326,39.404799,-76.6026299,Sun:12:00PM -  6:00PM; ,,0
+Brookside Shops,2424,"145 Great Rd, Spc 4",,Acton,MA,01720,US,(978) 263-6542,42.4826946,-71.4145229,Sun:12:00PM -  6:00PM; ,,0
+The Shoppes at Bradley Park,2425,"6401 Whitesville Road, Ste 200",,Columbus,GA,31904,US,(706) 322-3400,32.536481,-84.966493,Sun:12:00PM -  6:00PM; ,,0
+The Bay Terrace at Bayside,2426,2360 Bell Blvd,,Bayside,NY,11360,US,(718) 224-1256,40.7806953,-73.7753795,Sun:11:00AM -  6:00PM; ,,0
+City Place at The Promenade,2427,74 The Promenade,,Edgewater,NJ,07020,US,(201) 941-5147,40.8069037,-73.9897221,Sun:Closed; ,,0
+South Shore Plaza,2428,"250 Granite Street, # 1051",,Braintree,MA,02184,US,(781) 848-9992,42.2217222,-71.0220568,Sun:11:00AM -  6:00PM; ,,0
+LaCenterra at Cinco Ranch,2432,"23501 Cinco Ranch Bouleva, Ste G110",,Katy,TX,77494,US,(281) 574-1980,29.7430021,-95.7769571,Sun:12:00PM -  6:00PM; ,,0
+Lee Premium Outlets,2433,"470 Premium Outlets Blvd, Suite 470",,Lee,MA,01238,US,(413) 243-4967,42.2956708,-73.2333835,Mon - Thu:9:00AM -  9:00PM; ,,0
+Tanger Outlet Center Ocean City,2434,"12741 Ocean Gateway, Suite 690",,Ocean City,MD,21842,US,(410) 213-7434,38.337998,-75.1064745,Sun:10:00AM -  7:00PM; ,,0
+Palm Beach Outlets,2435,1771 Palm Beach Lakes,,West Palm Beach,FL,33401,US,(561) 328-2168,26.7247165,-80.0882746,Sun:11:00AM -  7:00PM; ,,0
+Assembly Row,2436,541 Assembly Row.,,Somerville,MA,02145,US,(617) 863-3901,42.3946959,-71.0793051,Sun:11:00AM -  6:00PM; ,,0
+The Fresh Market at Pawley's Island,2437,"11421-B Ocean Highway, Suite B",,Pawley's Island,SC,29585,US,(843) 235-0792,33.4503091,-79.1204172,Sun:11:00AM -  6:00PM; ,,0
+Northlake Mall,2438,6801 Northlake Mall Dr,,Charlotte,NC,28216,US,(704) 921-4120,35.352549,-80.851181,Sun:12:00PM -  6:00PM; ,,0
+Rushmore Mall,2439,2200 North Maple Ave,,Rapid City,SD,57701,US,(605) 348-4894,44.1075805,-103.2120398,Mon - Fri:10:00AM -  8:00PM; ,,0
+The Shops at River Park,2468,45 Via La Plata,,Fresno,CA,93720,US,(559) 438-8045,36.8481475,-119.7901125,Mon - Fri:10:00AM -  8:00PM; ,,0
+The Orchard (Orchard Park),2469,"4005 N Buffalo Rd, Ste 400",,Orchard Park,NY,14127,US,(716) 662-9032,42.7740966,-78.7444611,Sun:12:00PM -  5:00PM; ,,0
+North Park Crossing Shopping Center,2470,"320 Geneva Ave, Ste 400",,Joplin,MO,64801,US,(417) 206-3300,37.0873642,-94.4756912,Mon - Wed:10:00AM -  9:00PM; ,,0
+Colonial Pinnacle at Turkey Creek,2471,11321 Parkside Drive,,Knoxville,TN,37934,US,(865) 966-9150,35.9018204,-84.159678,Sun:12:00PM -  6:00PM; ,,0
+CherryVale Mall,2473,"7160 Harrison Avenue, Ste 4",,Rockford,IL,61112,US,(815) 332-3121,42.244451,-88.977401,Mon - Fri:10:00AM -  7:00PM; ,,0
+Shops at University Square,2474,"111 S Broadway, Ste 216",,Rochester,MN,55904,US,(507) 536-4533,44.0224899,-92.4634778,Mon - Thu:8:30AM -  8:30PM; ,,0
+Village at Stone Oak,2475,"22702 US Hwy 281 N, Ste 101",,San Antonio,TX,78258,US,(210) 404-0700,29.6534003,-98.4491371,Sun:12:00PM -  6:00PM; ,,0
+Pinecrest Plaza,2490,5 Pinecrest Place,,Southern Pines,NC,28387,US,(910) 246-0269,35.1800149,-79.4313312,Sun:12:00PM -  6:00PM; ,,0
+The Shops at Magic Valley Mall,2491,"1239 Pole Line Road East, Suite 302",,Twin Falls,ID,83301,US,(208) 734-8342,42.5931813,-114.4589564,Sun:12:00PM -  5:00PM; ,,0
+The Outlets at Sands Bethlehem,2492,"77 Sands Boulevard, Suite 231",,Bethlehem,PA,18015,US,(610) 866-3921,40.6148908,-75.3592434,Sun - Thu:10:00AM -  9:00PM; ,,0
+Lawrence Farms Market Square,2493,1083 US Rte 9,,Fishkill,NY,12524,US,(845) 296-0904,41.5619839,-73.904848,Sun:11:00AM -  5:00PM; ,,0
+Viejas Outlet Center,2494,"5001 Willows Rd, Suite 308",,Alpine,CA,91901,US,(619) 445-3936,32.8402323,-116.708297,Mon - Thu:10:00AM -  9:00PM; ,,0
+Edinburgh Premium Outlets,2495,"3035 Outlet Drive, Space E080",,Edinburgh,IN,46124,US,(812) 526-6175,39.3542176,-85.9666577,Sun:10:00AM -  7:00PM; ,,0
+Round Rock Premium Outlets,2496,"4401 N IH 35, Suite 757",,Round Rock,TX,78664,US,(512) 864-0347,30.5682805,-97.6898302,Sun:12:00PM -  6:00PM; ,,0
+Folsom Premium Outlets,2497,"13000 Folsom Boulevard, Suite 902",,Folsom,CA,95630,US,(916) 985-2593,38.643849,-121.188752,Sun:10:00AM -  7:00PM; ,,0
+Allen Premium Outlets,2498,"820 W Stacy Rd, Ste 410",,Allen,TX,75013,US,(972) 678-2612,33.1326357,-96.6588744,Sun:11:00AM -  6:00PM; ,,0
+Abercorn Walk,2499,"5525 Abercorn St, Ste 150",,Savannah,GA,31405,US,(912) 354-6653,32.024832,-81.1111707,Sun:12:00PM -  6:00PM; ,,0
+The Colonnade at State College,2500,19 Colonnade Way,,State College,PA,16803,US,(814) 237-0697,40.8102894,-77.9060932,Sun:11:00AM -  5:00PM; ,,0
+FlatIron Crossing,2501,"One West FlatIron Crossin, Ste 1010",,Broomfield,CO,80021,US,(303) 439-7235,39.9332181,-105.1329803,Sun:11:00AM -  6:00PM; ,,0
+Lincolnshire Commons,2502,"970 Milwaukee Avenue, Ste H",,Lincolnshire,IL,60069,US,(847) 415-2500,42.1816204,-87.9278289,Sun:11:00AM -  5:00PM; ,,0
+Park West Village,2503,2121 Village Market PL,,Morrisville,NC,27560,US,(919) 462-7013,35.805273,-78.8153386,Sun:12:00PM -  6:00PM; ,,0
+Randolph Park Shopping Center,2504,"1722 S Queen Street, Ste 220",,York,PA,17403,US,(717) 854-4444,39.9418504,-76.7052287,Sun:12:00PM -  6:00PM; ,,0
+Houston Galleria,2505,5061 Westheimer Rd,,Houston,TX,77056,US,(713) 627-8700,29.7401314,-95.4641743,Sun:11:00AM -  7:00PM; ,,0
+Coral Ridge Mall,2506,"1451 Coral Ridge Ave, Ste 119",,Coralville,IA,52241,US,(319) 354-0089,41.6908901,-91.601858,Sun:11:00AM -  6:00PM; ,,0
+Plaza Las Americas,2507,"525 Avenue FD Roosevelt, Ste 448",,San Juan,PR,00918,PR,(787) 758-7522,18.4222397,-65.8364533,Sun:11:00AM -  7:00PM; ,,0
+The Greene,2509,98 Plum Street,,Dayton,OH,45440,US,(937) 429-2906,39.6934155,-84.1014311,Sun:12:00PM -  6:00PM; ,,0
+Shops of Uptown Park Ridge,2510,158 N Northwest Hhwy,,Park Ridge,IL,60068,US,(847) 292-1513,42.0123756,-87.8318718,Mon - Thu:10:00AM -  6:00PM; ,,0
+Kent Station,2511,"441 Ramsay Way, Ste 101",,Kent,WA,98032,US,(253) 850-5440,47.3849174,-122.2358795,Sun:11:00AM -  6:00PM; ,,0
+The Shops at Highland Village,2512,"4071 Deer Creek, Ste 110",,Highland Village,TX,75077,US,(972) 317-6405,33.0734188,-97.085364,Sun:12:00PM -  6:00PM; ,,0
+The Avenue Murfreesboro,2513,"2615 Medical Center Pkwy, Ste 2060",,Murfreesboro,TN,37129,US,(615) 895-4655,35.8628485,-86.4464451,Sun:12:00PM -  6:00PM; ,,0
+2300 Broadway,2514,2300 Broadway,,New York,NY,10024,US,(212) 579-4572,40.7865078,-73.9776372,Sun:11:00AM -  6:00PM; ,,0
+Orchard Hills Retail Center,2515,"3989 Portola Pkwy, Bldg 600C",,Irvine,CA,92602,US,(714) 838-0351,33.7333841,-117.7606193,Sun:12:00PM -  6:00PM; ,,0
+Pullman Square,2516,22 Pullman Square,,Huntington,WV,25701,US,(304) 523-3323,38.4224509,-82.4439704,Mon - Thu:10:00AM -  9:00PM; ,,0
+214 South Park Avenue,2517,214 South Park Avenue,,Winter Park,FL,32789,US,(407) 645-0010,28.5965491,-81.3507438,Sun:11:00AM -  6:00PM; ,,0
+Mansfield Crossing,2518,"280 School St, Ste F190",,Mansfield,MA,02048,US,(508) 339-3254,42.0128724,-71.2263291,Sun:11:00AM -  6:00PM; ,,0
+Burr Ridge Village Center,2519,595 Village Center Drive,,Burr Ridge,IL,60527,US,(630) 455-6210,41.7527313,-87.912671,Sun:11:00AM -  6:00PM; ,,0
+The Orchard (New Hartford),2520,8617 Clinton St,,New Hartford,NY,13413,US,(315) 768-6070,43.0900993,-75.3167659,Sun:11:00AM -  5:00PM; ,,0
+The Shoppes at Wyomissing,2521,742 Woodland Road,,Wyomissing,PA,19610,US,(610) 375-3490,40.350272,-75.9653051,Sun:12:00PM -  6:00PM; ,,0
+Cordova Mall,2522,"5100 N. 9th Ave, Spc E501B",,Pensacola,FL,32504,US,(850) 473-6804,30.475326,-87.207522,Sun:12:00PM -  6:00PM; ,,0
+San Tan Village,2523,"2168 E Williams Field Rd,, Ste 112",,Gilbert,AZ,85295,US,(480) 855-3599,33.3102901,-111.7433091,Sun:12:00PM -  6:00PM; ,,0
+The Streets of Indian Lake,2524,"300 Indian Lake Blvd, Bldg, Ste 180",,Hensersonville,TN,37075,US,(615) 824-9208,36.3296544,-86.592292,Sun:12:00PM -  6:00PM; ,,0
+Watters Creek at Montgomery Farm,2525,827 Watters Creek Blvd,,Allen,TX,75013,US,(214) 383-3009,33.0891294,-96.6833529,Sun:12:00PM -  6:00PM; ,,0
+Philadelphia Premium Outlets,2526,"18 W Lightcap Road, Suite 377",,Pottstown,PA,19464,US,(610) 323-5753,40.236109,-75.5693365,Mon - Thu:10:00AM - 10:00PM; ,,0
+Ross Park Mall,2529,"1000 Ross Park Mall Dr, L15A",,Pittsburgh,PA,15237,US,(412) 367-6106,40.5569121,-80.0199562,Sun:11:00AM -  6:00PM; ,,0
+Station Park,2530,880 W. Forbush Place,,Farmington,UT,84025,US,(801) 451-7330,40.9838727,-111.9070351,Sun:12:00PM -  6:00PM; ,,0
+Opry Mills,2531,"433 Opry Mills Dr, Ste 307",,Nashville,TN,37214,US,(615) 823-3139,36.2033511,-86.6930576,Sun:11:00AM -  7:00PM; ,,0
+Potomac Mills,2532,"2700 Potomac Mills Cir, Unit 836",,Woodbridge,VA,22192,US,(703) 490-1017,38.6434618,-77.2953806,Sun:11:00AM -  6:00PM; ,,0
+The Outlet Shoppes at Atlanta,2533,"915 Ridgewalk Parkway, Suite 570",,Woodstock,GA,30188,US,(770) 372-1002,34.122282,-84.524156,Sun:11:00AM -  7:00PM; ,,0
+Village Pointe Shopping Center,2534,"17255 Davenport Street, Ste 105",,Omaha,NE,68118,US,(402) 289-5341,41.2606989,-96.184381,Sun:12:00PM -  6:00PM; ,,0
+Charleston Town Center,2535,2005 Charleston Town Center,,Charleston,WV,25389,US,(304) 342-9931,38.3528519,-81.638184,Sun:12:00PM -  6:00PM; ,,0
+102 North Walnut Street,2536,102 North Walnut Street,,Bloomington,IN,47404,US,(812) 339-5942,39.1667757,-86.5332104,Mon - Thu:10:00AM -  8:00PM; ,,0
+First & Main,2537,92 1st Street,,Hudson,OH,44236,US,(330) 653-5072,41.2417555,-81.4422509,Sun:11:00AM -  5:00PM; ,,0
+Exton Square Mall,2556,"310 Exton Square Mall, Suite 2015",,Exton,PA,19341,US,(610) 524-5801,40.0313446,-75.6238334,Sun:11:00AM -  6:00PM; ,,0
+Stamford Town Center,2557,"100 Greyrock Place, G-219",,Stamford,CT,06901,US,(203) 961-9907,41.0530774,-73.5371438,Sun:11:00AM -  6:00PM; ,,0
+Kirkwood Mall,2558,711 Kirkwood,,Bismarck,ND,58504,US,(701) 223-6276,46.7964517,-100.7866684,Mon - Fri:10:00AM -  7:00PM; ,,0
+Salem Center,2559,"480 Center Street N.E., Suite 1144",,Salem,OR,97301,US,(503) 364-9256,44.942616,-123.036906,Sun:11:00AM -  6:00PM; ,,0
+Las Vegas Premium Outlets - South,2560,"7400 Las Vegas Boulevard, Suite 227",,Las Vegas,NV,89123,US,(702) 294-0341,36.0549747,-115.1690569,Sun:9:00AM -  8:00PM; ,,0
+Merrimack Premium Outlets,2561,"80 Premium Outlets Blvd, Ste 617",,Merrimack,NH,03054,US,(603) 424-6455,42.8263697,-71.5001266,Mon - Thu:9:00AM -  9:00PM; ,,0
+Jackson Premium Outlets,2562,537 Monmouth Rd,,Jackson,NJ,08527,US,(732) 928-0752,40.1616374,-74.4174029,Mon - Thu:10:00AM - 10:00PM; ,,0
+Tanger Outlet Center Commerce,2563,800 Steven B. Tanger Boulevard,,Commerce,GA,30529,US,(706) 335-3331,34.2509687,-83.4735576,Sun:10:00AM -  7:00PM; ,,0
+Marketstreet Lynnfield,2564,325 Market St,,Lynnfield,MA,01940,US,(781) 334-3085,42.51455,-71.0336889,Sun:11:00AM -  6:00PM; ,,0
+Dakota Square Mall,2565,2400 10th St,,Minot,ND,58701,US,(701) 837-8829,48.2057959,-101.311694,Mon - Fri:10:00AM -  7:00PM; ,,0
+Vernon Place Shops,2566,707 White Plains Road,,Scarsdale,NY,10583,US,(914) 472-1850,40.9710053,-73.8067214,Sun:12:00PM -  6:00PM; ,,0
+The Fashion Mall at Keystone,2567,"8702 Keystone Crossing Blv, Ste 104",,Indianapolis,IN,46240,US,(317) 848-2676,39.9063963,-86.1242881,Sun:12:00PM -  6:00PM; ,,0
+Tanger Outlet Center Sevierville,2568,"1645 Parkway, Ste 280",,Sevierville,TN,37862,US,(865) 428-5150,35.8315884,-83.5715521,Sun:10:00AM -  7:00PM; ,,0
+Prescott Gateway,2569,"3250 Gateway Blvd, Ste 432",,Prescott,AZ,86303,US,(928) 445-4572,34.5477134,-112.4088605,Sun:11:00AM -  6:00PM; ,,0
+Towne Center at Cedar Lodge,2571,"7455 Corporate Boulevard, Ste 400",,Baton Rouge,LA,70809,US,(225) 218-8860,30.424608,-91.1245173,Sun:12:00PM -  6:00PM; ,,0
+Summit Fair,2572,"860 NW Blue Parkway, Suite H",,Lee's Summit,MO,64086,US,(816) 795-3772,38.930187,-94.4020314,Sun:12:00PM -  6:00PM; ,,0
+LaBoutique Shopping Center,2573,1999 Merrick Road,,Merrick,NY,11566,US,(516) 379-0450,40.6564534,-73.5500735,Sun:11:00AM -  6:00PM; ,,0
+La Cumbre Plaza,2574,120 S Hope Ave,,Santa Barbara,CA,93105,US,(805) 569-2050,34.4379253,-119.7479863,Mon - Fri:10:00AM -  6:00PM; ,,0
+Shops on Mesa,2575,"5860 N Mesa, Ste 102",,El Paso,TX,79912,US,(915) 587-8111,31.8264446,-106.5237162,Mon:10:00AM -  8:00PM; ,,0
+University Square,2576,500 Sagamore Pkwy,,West Lafayette,IN,47906,US,(765) 497-8992,40.4541891,-86.9121069,Mon - Fri:10:00AM -  7:00PM; ,,0
+Cornerstone Marketplace,2577,301 Cornerstone Marketplace,,Hot Springs,AR,71913,US,(501) 520-4190,34.5037004,-93.0551795,Sun:12:00PM -  6:00PM; ,,0
+Southgate Mall,2578,"2901 Brooks Ave, Ste B13",,Missoula,MT,59801,US,(406) 728-5909,46.8450725,-114.0285821,Sun:11:00AM -  6:00PM; ,,0
+Burnt Mills,2579,10733 Colesville Rd,,Silver Springs,MD,20901,US,(301) 681-2670,39.0300431,-77.0058944,Sun:12:00PM -  6:00PM; ,,0
+Lincoln Center,2580,6545 Pacific Ave,,Stockton,CA,95207,US,(209) 475-9376,38.0093409,-121.3228799,Sun:10:00AM -  5:00PM; ,,0
+The Shoppes at College Hills,2581,"303 Veterans Parkway, Ste 130",,Normal,IL,61761,US,(309) 451-9606,40.5075211,-88.955502,Sun:11:00AM -  6:00PM; ,,0
+El Dorado Plaza,2583,"2750 S Central Expwy, Ste 104",,McKinney,TX,75070,US,(214) 504-0019,33.1751824,-96.642483,Sun:12:00PM -  6:00PM; ,,0
+Hunt Valley Towne Centre,2584,"116 Shawan Rd, Ste 10",,Hunt Valley,MD,21030,US,(410) 771-8050,39.4971327,-76.6551706,Sun:11:00AM -  6:00PM; ,,0
+Crestview Hills Town Center,2585,2836 Town Center Blvd,,Crestview Hills,KY,41017,US,(859) 331-5502,39.0251884,-84.5782418,Sun:12:00PM -  6:00PM; ,,0
+Eaglewood Shops,2586,119 Turnpike St,,North Andover,MA,01845,US,(978) 989-9024,42.6767459,-71.1307489,Sun:11:00AM -  6:00PM; ,,0
+Orland Park Crossing,2587,"9500 W 143rd Street, Ste 214",,Orland Park,IL,60462,US,(708) 364-0780,41.6315301,-87.851927,Sun:11:00AM -  6:00PM; ,,0
+Waldorf Market Place,2588,3076 Waldorf Market Pl,,Waldorf,MD,20603,US,(301) 632-5606,38.6272731,-76.914363,Sun:12:00PM -  5:00PM; ,,0
+643 Massachusetts St,2589,643 Massachusetts St,,Lawrence,KS,66044,US,(785) 312-9985,38.9719124,-95.236302,Sun:12:00PM -  6:00PM; ,,0
+Firewheel Town Center,2590,275 Cedar Sage Dr,,Garland,TX,75040,US,(972) 496-0400,32.9537909,-96.612244,Sun:12:00PM -  6:00PM; ,,0
+The Shops at La Cantera,2591,"15900 La Cantera Pkwy, Bl, Ste 1190",,San Antonio,TX,78256,US,(210) 694-5822,29.6183126,-98.6215649,Sun:12:00PM -  6:00PM; ,,0
+The Mall at University Town Center,2592,"140 University Parkway Town Ce, 263",,Sarasota,FL,34243,US,(941) 388-0507,27.384433,-82.4531881,Sun:11:00AM -  6:00PM; ,,0
+Westwood Village,2593,"2600 SW Barton St, Ste E2",,Seattle,WA,98126,US,(206) 937-3138,47.5214115,-122.3650881,Sun:11:00AM -  6:00PM; ,,0
+NorthPark Center,2594,"8687 N Central Expressway, Ste 750",,Dallas,TX,75225,US,(214) 890-7657,32.8685017,-96.7735125,Sun:12:00PM -  6:00PM; ,,0
+Woodburn Premium Outlets,2595,"1001 N Arney Road, Ste 402",,Woodburn,OR,97071,US,(503) 981-1363,45.1562498,-122.8785881,Mon - Thu:9:00AM -  9:00PM; ,,0
+The Summit Reno,2596,"13925 S Virginia Street, Ste 224",,Reno,NV,89511,US,(775) 853-2255,39.4065597,-119.7511759,Sun:11:00AM -  6:00PM; ,,0
+The Village at Bay Park,2597,"760 Willard Drive, Ste 400",,Ashwabenon,WI,54304,US,(920) 490-3280,44.4858922,-88.061121,Mon - Fri:10:00AM -  7:00PM; ,,0
+Columbia Center,2602,"1321 N Columbia Center Bou, Ste 800",,Kenewick,WA,99336,US,(509) 783-1353,46.226354,-119.2279546,Sun:11:00AM -  7:00PM; ,,0
+The Village of Rochester Hills,2603,328 N Adams Road,,Rochester Hills,MI,48309,US,(248) 375-5788,42.6847778,-83.1941911,Sun:12:00PM -  6:00PM; ,,0
+Santana Row,2604,377 Santana Row,,San Jose,CA,95128,US,(408) 554-9030,37.3198825,-121.9489988,Sun:11:00AM -  6:00PM; ,,0
+Park Meadows,2605,"8429 Park Meadows Center D, Ste 123",,Littleton,CO,80124,US,(303) 708-0056,39.5592847,-104.8766218,Sun:11:00AM -  6:00PM; ,,0
+Plymouth Meeting Mall,2606,504 West Germantown Pike,,Plymouth Meeting,PA,19462,US,(610) 567-3879,40.1160924,-75.2820717,Sun:11:00AM -  6:00PM; ,,0
+Arizona Mills,2607,"5000 Arizona Mills Circle, Sp 380",,Tempe,AZ,85282,US,(480) 775-2830,33.3897576,-111.9343636,Sun:11:00AM -  6:00PM; ,,0
+Gilroy Premium Outlets,2608,"8555 San Ysidro Avenue, Ste D060",,Gilroy,CA,95020,US,(408) 848-6190,37.0250971,-121.5669431,Sun:10:00AM -  7:00PM; ,,0
+Promenade Temecula,2612,"40756 Winchester Rd, Suite 290",,Temecula,CA,92591,US,(951) 296-5074,33.5263224,-117.1573354,Sun:11:00AM -  7:00PM; ,,0
+Desert Hills Premium Outlets,2614,"48400 Seminole Dr, Suite 624",,Cabazon,CA,92230,US,(951) 849-4069,33.9289171,-116.8158445,Sun:10:00AM -  8:00PM; ,,0
+Houston Premium Outlets,2615,"29300 Hempstead Rd, Suite 1202",,Cypress,TX,77433,US,(281) 256-0873,29.9968178,-95.7569272,Sun:11:00AM -  7:00PM; ,,0
+Forum at Soncy,2619,"3350 S Soncy Rd, Ste 116",,Amarillo,TX,79121,US,(806) 352-4473,35.161643,-101.9379883,Sun:12:00PM -  6:00PM; ,,0
+Hillsdale Shopping Center,2620,269 Hillsdale Shopping Center,,San Mateo,CA,94403,US,(650) 350-1010,37.5376138,-122.2995474,Sun:11:00AM -  7:00PM; ,,0
+Atlantic Plaza,2621,"777 E Atlantic Ave, Ste B1",,Delray Beach,FL,33483,US,(561) 279-0313,26.4621804,-80.0651741,Sun:11:00AM -  6:00PM; ,,0
+The Marketplace,2622,"9000 Ming Avenue, Ste I3",,Bakersfield,CA,93311,US,(661) 663-3992,35.3414141,-119.1033447,Sun:11:00AM -  6:00PM; ,,0
+The Promenade Shops at Briargate,2623,"1605 Briargate Pkwy, Ste 115",,Colorado Springs,CO,80920,US,(719) 590-1578,38.9639232,-104.8035997,Sun:11:00AM -  6:00PM; ,,0
+Short Pump Town Center,2624,"11800 W Broad St, Ste 2324",,Richmond,VA,23233,US,(804) 360-7309,37.6568884,-77.6201591,Sun:11:00AM -  6:00PM; ,,0
+The Shops at Rossmoor,2625,"12217 Seal Beach Blvd, Spc # 217",,Seal Beach,CA,90740,US,(562) 430-1199,33.7849867,-118.0733683,Sun:12:00PM -  6:00PM; ,,0
+Galleria (Edina),2626,3585 Galleria,,Edina,MN,55435,US,(952) 253-0560,44.8771014,-93.3265341,Mon - Fri:10:00AM -  8:00PM; ,,0
+Mall of Georgia,2627,"3333 Buford Drive, Ste VC01A",,Buford,GA,30519,US,(770) 831-0406,34.0651493,-83.9847659,Sun:12:00PM -  6:00PM; ,,0
+The Shoppes at Old Bridge,2628,"3837 US Hwy 9, Spc I",,Old Bridge,NJ,08857,US,(732) 591-7505,40.366206,-74.3025666,Sun:11:00AM -  6:00PM; ,,0
+Lehigh Valley Mall,2629,911 Lehigh Lifestyle Ctr,,Whitehall,PA,18052,US,(610) 266-0179,40.6572331,-75.4985521,Sun:11:00AM -  6:00PM; ,,0
+Bridge Street Town Centre (Huntsvil,2630,"340 The Bridge Street, Ste 100",,Huntsville,AL,35806,US,(256) 327-8310,34.7174527,-86.6731849,Mon - Thu:10:00AM - 10:00PM; ,,0
+The Fountains,2631,"1013 Galleria Boulevard, Ste 100",,Roseville,CA,95678,US,(916) 784-1707,38.7675389,-121.2690734,Sun:11:00AM -  6:00PM; ,,0
+SouthPark Mall (OH),2632,"500 Southpark Center, HL 82",,Strongsville,OH,44136,US,(440) 878-0063,41.3198259,-81.8115051,Sun:12:00PM -  6:00PM; ,,0
+The Shops at Pembroke Gardens,2633,329 SW 145th Ter,,Pembroke Pines,FL,33027,US,(954) 431-8553,26.0052569,-80.3364768,Sun:11:00AM -  7:00PM; ,,0
+The Streets of Cranberry,2634,"20412 Route 19, Ste 330",,Cranberry Township,PA,16066,US,(724) 776-2850,40.6943811,-80.1024818,Sun:12:00PM -  6:00PM; ,,0
+East Lake Street,2635,701 E Lake Street,,Wayzata,MN,55391,US,(952) 476-1812,44.969314,-93.510991,Mon - Fri:10:00AM -  6:00PM; ,,0
+Red Cliffs Mall,2636,"446 N 1680 East, Ste 1300",,St George,UT,84790,US,(435) 251-9590,37.1158692,-113.5471356,Sun:12:00PM -  6:00PM; ,,0
+Eden Prairie Center,2637,"8251 Flying Cloud Dr, Ste. 1288",,Eden Prairie,MN,55344,US,(952) 697-3128,44.8543467,-93.425001,Sun:11:00AM -  6:00PM; ,,0
+Greenwood Park Mall,2638,"1251 US 31 North, Spc P100",,Greenwood,IN,46142,US,(317) 887-2902,39.6326233,-86.1205805,Sun:11:00AM -  6:00PM; ,,0
+Town Square Las Vegas,2639,"6671 Las Vegas Boulevard S, Ste 116",,Las Vegas,NV,89119,US,(702) 361-4904,36.0677531,-115.1761077,Mon - Thu:10:00AM - 10:00PM; ,,0
+Milford Marketplace,2640,1668 Boston Post Rd,,Milford,CT,06460,US,(203) 878-4177,41.2484919,-73.0264543,Sun:11:00AM -  6:00PM; ,,0
+The Old Farm Shops,2649,1701 1703 W Kirby Avenue,,Champaign,IL,61821,US,(217) 378-8701,40.097594,-88.275372,Mon - Tue:8:00AM -  8:00PM; ,,0
+Crocker Park,2650,129 Main St.,,Westlake,OH,44145,US,(440) 871-6705,41.458963,-81.9518361,Sun:11:00AM -  6:00PM; ,,0
+The Town Center at Levis Commons,2651,3135 Levis Commons Boulevard,,Perrysburg,OH,43551,US,(419) 874-3249,41.5278815,-83.6396307,Sun:12:00PM -  6:00PM; ,,0
+Shoppes at Bellemead,2652,"6535 Youree Dr, Ste 101",,Shreveport,LA,71105,US,(318) 797-1414,32.4473033,-93.7194106,Sun:12:00PM -  6:00PM; ,,0
+Simpson Plaza,2654,4249 South Broadway,,Tyler,TX,75701,US,(903) 939-8224,32.303374,-95.3013699,Sun:12:00PM -  6:00PM; ,,0
+The Eastern Shore Centre,2655,"30500 State Highway 181, Ste 210",,Spanish Fort,AL,36527,US,(251) 625-0700,30.669982,-87.8491428,Sun:12:00PM -  6:00PM; ,,0
+Shoppes at Susquehanna Marketplace,2656,2585 Brindle Dr,,Harrisburg,PA,17110,US,(717) 652-3040,40.3040812,-76.8439439,Sun:11:00AM -  6:00PM; ,,0
+The Crossroads,2657,"6650 S Westnedge, Ste 128",,Portage,MI,49024,US,(269) 324-1680,42.2202087,-85.5941737,Sun:12:00PM -  6:00PM; ,,0
+Hamilton Corner,2658,2115 Gunbarrel Rd,,Chattanooga,TN,37421,US,(423) 954-3988,35.0342165,-85.1540503,Sun:12:00PM -  6:00PM; ,,0
+271 Main Street (Los Altos),2659,271 Main Street,,Los Altos,CA,94022,US,(650) 947-9756,37.378317,-122.1162297,Sun:12:00PM -  5:00PM; ,,0
+Two Congress Park,2660,329 Broadway,,Saratoga Springs,NY,12866,US,(518) 587-1530,43.0794339,-73.7859243,Sun:11:00AM -  5:00PM; ,,0
+Victoria Gardens,2661,12520 S Mainstreet,,Rancho Cucamonga,CA,91739,US,(909) 646-9808,34.1108398,-117.5326808,Mon - Thu:10:00AM - 10:00PM; ,,0
+Oak Hollow Village Shopping Center,2662,"1231 Eastchester Dr, Ste 109",,High Point,NC,27265,US,(336) 887-6298,35.9960353,-79.9964528,Mon - Fri:10:00AM -  6:00PM; ,,0
+The Shoppes at Webb Gin,2670,"1350 Scenic Highway, Ste 308",,Snellville,GA,30078,US,(678) 344-0617,33.8977458,-84.0043752,Sun:12:00PM -  6:00PM; ,,0
+ABQ Uptown,2671,"2241 Q Street NE, Ste 7B",,Albuquerque,NM,87110,US,(505) 888-9688,35.1033284,-106.5674855,Sun:11:00AM -  6:00PM; ,,0
+The Promenade Shops at Centerra,2672,"5865 Sky Pond Dr, Ste G112",,Loveland,CO,80538,US,(970) 461-1977,40.4145298,-104.990317,Sun:11:00AM -  6:00PM; ,,0
+Branson Landing,2673,1003 Branson Landing Boulevard,,Branson,MO,65616,US,(417) 239-0160,36.6560611,-93.2205471,Mon - Thu:10:00AM - 10:00PM; ,,0
+Towne Place at Greenbrier,2675,"725 Eden Way, Ste 720",,Chesapeake,VA,23320,US,(757) 312-8292,36.7722891,-76.2357082,Sun:12:00PM -  6:00PM; ,,0
+The Mall at Turtle Creek,2676,"3000 E Highland Dr, Ste 501",,Jonesboro,AR,72401,US,(870) 336-2642,35.8232943,-90.6641677,Mon - Fri:Closed; ,,0
+Claremont Village,2677,"101 N Indian Hill Blvd, Ste C1-100",,Claremont,CA,91711,US,(909) 621-3492,34.0947715,-117.7194937,Sun:11:00AM -  6:00PM; ,,0
+205 Howard Street,2678,205 Howard St,,Petoskey,MI,49770,US,(231) 347-2999,45.3756185,-84.9553069,Sun:12:00PM -  4:00PM; ,,0
+Tanger Outlet Center  Hershey,2679,57 Outlet Square,,Hershey,PA,17033,US,(717) 534-9524,40.2944137,-76.6460737,Sun:10:00AM -  7:00PM; ,,0
+Green Oak Village Place,2680,9660 Village Place Boulevard,,Brighton,MI,48116,US,(810) 229-7694,42.5086535,-83.7547611,Sun:11:00AM -  6:00PM; ,,0
+Capital Mall,2681,"2511 4th Ave W., Ste 101",,Olympia,WA,98502,US,(360) 357-3388,47.0436343,-122.9340022,Sun:10:30AM -  6:00PM; ,,0
+Hagerstown Premium Outlets,2682,110 Prime Outlets Boulevard.,,Hagerstown,MD,21740,US,(301) 665-9271,39.607421,-77.732361,Sun:10:00AM -  7:00PM; ,,0
+Peninsula Town Center,2683,"1630 Merchant Lane, Ste B-177",, Hampton,VA,23666,US,(757) 825-2489,37.0448047,-76.3938378,Sun:12:00PM -  6:00PM; ,,0
+Wrentham Village Premium Outlets,2684,"1 Premium Outlets Blvd, Sp 485",,Wrentham,MA,02093,US,(508) 384-0275,42.0667652,-71.3281114,Mon - Thu:9:00AM -  9:00PM; ,,0
+Powder Mill Square,2685,3846 Kennett Pike,,Greenville,DE,19807,US,(302) 777-4478,39.77594,-75.5969224,Sun:11:00AM -  6:00PM; ,,0
+Woodland Hills Mall,2686,"7021 South Memorial Drive, Ste 179B",,Tulsa,OK,74133,US,(918) 459-5943,36.0632284,-95.8818735,Sun:12:00PM -  7:00PM; ,,0
+Rampart Commons,2687,1019 S Rampart Blvd,,Las Vegas,NV,89145,US,(702) 951-8025,36.1605871,-115.2927651,Sun:11:00AM -  6:00PM; ,,0
+Paoli Shopping Center,2688,20 Paoli I Shopping Center,,Paoli,PA,19301,US,(610) 407-4074,40.0409973,-75.4780682,Sun:11:00AM -  6:00PM; ,,0
+428 Railroad Avenue,2689,428 Railroad Ave,,Danville,CA,94526,US,(925) 552-6427,37.819268,-121.997008,Sun:11:00AM -  6:00PM; ,,0
+Tanger Outlet Center Riverhead II,2690,"1947 Old Country Road, # 1010",,Riverhead,NY,11901,US,(631) 369-3586,40.9225167,-72.7092954,Sun:10:00AM -  8:00PM; ,,0
+Southbury Green Shopping Center,2691,775 Main St S,,Southbury,CT,06488,US,(203) 262-0550,41.4633691,-73.2317118,Sun:11:00AM -  5:00PM; ,,0
+River Forest Town Center,2692,7337 Lake St,,River Forest,IL,60305,US,(708) 366-3979,41.8879431,-87.8081564,Mon - Wed:10:00AM -  8:00PM; ,,0
+Boonsboro Shopping Center,2693,4925 Boonsboro Road,,Lynchburg,VA,24503,US,(434) 386-9100,37.4471432,-79.2178764,Sun:12:00PM -  6:00PM; ,,0
+Seventh Street Shoppes,2694,179 Seventh St,,Garden City,NY,11530,US,(516) 877-1630,40.7254347,-73.6349097,Mon - Wed:10:00AM -  8:00PM; ,,0
+Oakway Center,2695,40 Oakway Center,,Eugene,OR,97401,US,(541) 344-4775,44.0658723,-123.0765966,Sun:11:00AM -  6:00PM; ,,0
+Settlers' Green Outlet Village,2697,"2 Common Court, Space B48",,North Conway,NH,03860,US,(603) 356-0249,44.0230638,-71.1139274,Sun:10:00AM -  6:00PM; ,,0
+Outlets at Castle Rock,2698,"5050 Factory Shops Blvd, Suite 165",,Castle Rock,CO,80108,US,(720) 733-5168,39.4147491,-104.872852,Sun:11:00AM -  6:00PM; ,,0
+Tanger Outlet Center Mebane,2699,"4000 Arrowhead Blvd, Suite 550",,Mebane,NC,27302,US,(919) 304-1623,36.0735226,-79.2685525,Sun:10:00AM -  7:00PM; ,,0
+Gulfport Premium Outlets,2700,10655 Factory Shops Blvd,,Gulfport,MS,39503,US,(228) 863-5169,30.4274335,-89.0992169,Mon - Thu:9:00AM -  9:00PM; ,,0
+Tanger Outlet Center Charleston,2702,"4840 Tanger Outlet Boule, Suite 131",,North Charleston,SC,29418,US,(843) 529-3265,32.873221,-80.018178,Sun:10:00AM -  7:00PM; ,,0
+The Shops of Grand River,2703,"6200 Grand River Blvd E., Ste. 126",,Leeds,AL,35094,US,(205) 699-1105,33.5488005,-86.5961282,Sun:12:00PM -  6:00PM; ,,0
+Aurora Farms Premium Outlets,2704,"549 S Chilicothe Rd, Ste 399",,Aurora,OH,44202,US,(330) 995-9000,41.3018402,-81.3413145,Sun:10:00AM -  7:00PM; ,,0
+Delray Marketplace,2705,"9097 W. Atlantic Avenue, Suite 100",,Delray Beach,FL,33446,US,(561) 499-1639,26.454642,-80.1908185,Sun:12:00PM -  6:00PM; ,,0
+Tanger Outlet Center Hilton Head I,2710,"1254 Fording Island Rd., Ste 260",,Bluffton,SC,29910,US,(843) 837-4411,32.2450146,-80.8328179,Sun:10:00AM -  7:00PM; ,,0
+Tanger Outlet Center Pittsburgh,2711,"2200 Tanger Blvd., Ste 940",,Washington,PA,15301,US,(724) 228-1405,40.2164404,-80.2112921,Sun:10:00AM -  7:00PM; ,,0
+Foothills,2712,"3120 S College Ave, Suite 150",,Fort Collins,CO,80525,US,(970) 204-1881,40.544725,-105.076925,Sun:11:00AM -  6:00PM; ,,0
+Zona Rosa,2713,"8742 NW Prairie View Rd, Spc E115",,Kansas City,MO,64153,US,(816) 741-0780,39.2525717,-94.6648444,Sun:12:00PM -  6:00PM; ,,0
+Hamburg Pavilion,2714,"2308 Sir Barton Way, # 140",,Lexington,KY,40509,US,(859) 264-9950,38.0239136,-84.4215712,Sun:12:00PM -  6:00PM; ,,0
+The Avenue West Cobb,2715,"3625 Dallas Hwy SW, Ste 620",,Marietta,GA,30064,US,(770) 428-0125,33.9522431,-84.6570419,Sun:12:00PM -  6:00PM; ,,0
+North Towne Plaza,2716,"5901 Wyoming Boulevard NE, Ste M",,Albuquerque,NM,87109,US,(505) 823-2055,35.1467634,-106.5563238,Mon - Fri:10:00AM -  8:00PM; ,,0
+Westview Promenade,2717,5215 Buckeystown Pike,,Frederick,MD,21704,US,(301) 620-9941,39.3742284,-77.4121128,Sun:12:00PM -  6:00PM; ,,0
+Greenway Station,2718,"1651 Deming Way, Ste 102",,Middleton,WI,53562,US,(608) 836-4919,43.0917642,-89.5266567,Sun:11:00AM -  5:00PM; ,,0
+The Shops at Clarkson Corner,2719,"1590 Clarkson Rd, Ste 106",,Chesterfield,MO,63017,US,(636) 537-4005,38.645687,-90.5632358,Sun:12:00PM -  6:00PM; ,,0
+The Shoppes at English Village,2720,"1460 Bethlehem Pike, 320",,North Wales,PA,19454,US,(215) 542-1123,40.207799,-75.2235209,Sun:12:00PM -  6:00PM; ,,0
+Kingwood Commons,2721,876 Kingwood Dr,,Kingwood,TX,77339,US,(281) 358-5076,30.0497394,-95.2450587,Sun:12:00PM -  6:00PM; ,,0
+The Avenue,2722,1817 Avenue of America,,Monroe,LA,71201,US,(318) 387-9099,32.5263448,-92.113585,Sun:12:00PM -  6:00PM; ,,0
+Fairfax Corner,2723,4216 Fairfax Corner W Avenue,,Fairfax,VA,22030,US,(703) 222-6671,38.8582075,-77.3571607,Sun:11:00AM -  6:00PM; ,,0
+Rimrock Mall,2724,316 S 24th Street W,,Billings,MT,59102,US,(406) 652-9249,45.763916,-108.5768953,Sun:11:00AM -  6:00PM; ,,0
+348 Main Street,2725,348 Main Street,,Franklin,TN,37064,US,(615) 599-8471,35.9248323,-86.8702681,Mon - Fri:10:00AM -  9:00PM; ,,0
+Woodland Mall,2750,"3155 28th Street SE, Ste G108",,Grand Rapids,MI,49512,US,(616) 285-4519,42.9125227,-85.5891411,Sun:12:00PM -  6:00PM; ,,0
+Twelve Oaks Mall,2782,"27246 Novi Road, B-127",,Novi,MI,48377,US,(248) 305-9045,42.4921216,-83.4703437,Sun:12:00PM -  6:00PM; ,,0
+North Georgia Premium Outlets,2783,"800 Hwy 400 S, Ste 250",,Dawsonville,GA,30534,US,(706) 265-7949,34.3578144,-84.0478628,Mon - Thu:10:00AM - 10:00PM; ,,0
+The Promenade at Westlake,2784,"4050 E Thousand Oaks Bouleva, Ste C",,Thousand Oaks,CA,91362,US,(805) 449-1545,34.1597602,-118.8214396,Sun:11:00AM -  6:00PM; ,,0
+Annapolis Harbour Center,2785,"2488 Solomons Island Road, G-7",,Annapolis,MD,21401,US,(410) 224-7383,38.983082,-76.5359676,Sun:12:00PM -  5:00PM; ,,0
+Lamar Park Center,2786,"3844 S Alameda St., Sp 18",,Corpus Christi,TX,78411,US,(361) 852-2244,27.7218102,-97.3894772,Sun:12:00PM -  6:00PM; ,,0
+Oakbrook Center,2787,424 Oakbrook Center,,Oak Brook,IL,60523,US,(630) 575-9101,41.8509865,-87.9529713,Sun:11:00AM -  6:00PM; ,,0
+SouthPointe Pavilions,2788,"2940 Pine Lake Road, Ste L",,Lincoln,NE,68516,US,(402) 423-3228,40.7428884,-96.6788023,Sun:12:00PM -  6:00PM; ,,0
+Shops at Amelia Island Plantation,2789,93 Amelia Village Circle,,Amelia Island,FL,32034,US,(904) 321-2211,30.5785318,-81.4455684,Sun:11:00AM -  6:00PM; ,,0
+Oak Park Mall,2790,11453 West 95th Street,,Overland Park,KS,66214,US,(913) 310-9775,38.9564484,-94.7186915,Sun:11:00AM -  6:00PM; ,,0
+Harvard Square,2791,"18000 W Bluemound Rd, Ste S",,Brookfield,WI,53045,US,(262) 879-0336,43.0376458,-88.1372765,Mon - Fri:10:00AM -  6:00PM; ,,0
+Plaza Del Mar,2792,266 S Ocean Boulevard,,Manalapan,FL,33462,US,(561) 547-9724,26.5829213,-80.0390521,Sun:9:30AM -  6:00PM; ,,0
+Penn Square Mall,2793,"1901 NW Expressway, Ste 1034",,Oklahoma City,OK,73118,US,(405) 843-0092,35.5246909,-97.5440106,Sun:12:00PM -  6:00PM; ,,0
+Biltmore Fashion Park,2794,"2502 E Camelback Road, Ste 183",,Phoenix,AZ,85016,US,(602) 508-8422,33.5103953,-112.0286923,Sun:11:00AM -  6:00PM; ,,0
+The Streets at Southpoint,2795,"6910 Fayetteville Rd, Ste 159",,Durham,NC,27713,US,(919) 572-0221,35.9042028,-78.9411632,Sun:12:00PM -  7:00PM; ,,0
+Fashion Valley,2796,"7007 Friars Road, Ste 300",,San Diego,CA,92108,US,(619) 542-1943,32.7674839,-117.1656617,Sun:11:00AM -  7:00PM; ,,0
+Cherry Hill Mall,2797,"2000 Route 38, Ste 1125",,Cherry Hill,NJ,08002,US,(856) 661-1600,39.9418533,-75.0261976,Sun:12:00PM -  6:00PM; ,,0
+The Oakwood Centre,2798,2500 Far Hills Ave,,Dayton,OH,45419,US,(937) 299-5886,39.7084689,-84.170494,Sun:12:00PM -  5:00PM; ,,0
+Dogwood Festival Market,2799,112 Dogwood Blvd,,Flowood,MS,39232,US,(601) 919-9801,32.3403141,-90.0594979,Sun:12:00PM -  6:00PM; ,,0
+Aliso Village Shopping Center,3142,23966 Aliso Creek Road,,Laguna Niguel,CA,92677,US,(949) 238-8636,33.5554328,-117.7129998,Sun:11:00AM -  5:00PM; ,,0
+Lakeline Mall,3161,"11200 Lakeline Mall Dr, F05B",,Cedar Park,TX,78613,US,(512) 645-3426,30.505198,-97.8202888,Sun:12:00PM -  6:00PM; ,,0
+Fremaux Town Center,3685,850 Town Center Parkway.,,Slidell,LA,70458,US,(985) 718-3104,30.2684562,-89.7621476,Sun:12:00PM -  6:00PM; ,,0
+Plaza del Caribe,3743,"2050 Ponce By Pass, Ste 400",,Ponce,PR,00717,PR,(787) 987-7029,18.0086125,-66.6147383,Sun:11:00AM -  7:00PM; ,,0
+Market Street at Heath Brook.,4635,"4414 SW College Rd, Ste 1920",,Ocala,FL,34474,US,(352) 390-2775,29.13876,-82.190412,Sun:12:00PM -  6:00PM; ,,0

@@ -1,0 +1,14 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Hilldale Shopping Center,,Hilldale Shopping Center 717 Hilldale Way (Next to Kate Spade and Cafe Hollander) ,,Madison ,WI,53705,United States,608-232-2233 ,43.073347, -89.453033,Mon - Sat         8:00 a m - 7:00 p m; Sun                 11:00 a m - 6:00 p m,,0
+San Diego - Mira Mesa/Sorrento,,6755 Mira Mesa Blvd. Suite 118 ,,San Diego ,CA,92121,United States,858-750-3388 ,32.906041, -117.172628,Mon-Fri 7:30 am - 6 pm; Sat 9 am - 4 pm; Sunday - Closed,,0
+Foothill Ranch,,Foothill Plaza 27472 Portola Pkwy Download our Mobile App! ,,Foothill Ranch ,CA,92610,United States,949-716-6170 ,33.670676, -117.652247,Mon-Thur   7:30 a m - 7:00 p m; Fri-Sat        7:30 a m - 5:00 p m; Sun                CLOSED,,0
+Fremont,,Pacific Commons Shopping Center 43986 Pacific Commons Blvd ,,Fremont ,CA,94538,United States,(510) 440-8802   ,37.500869, -121.969243,Mon-Fri:  8:30am-7:30pm; Saturday: 9:00am-8:00pm; Sunday:   9:00am-6:00pm,,0
+Santa Monica,,725 Broadway ,,Santa Monica ,CA,90401,United States,310.899.6060 ,34.018099, -118.490218,Monday-Saturday: 8am-7pm; Sunday: 9am-7pm,,0
+Newport Beach,,1280 Bison Ave ,,Newport Beach ,CA,92660,United States,949-706-7833 ,33.6383801, -117.8629199,Mon-Fri         7:00 a m - 6:00 p m; Sat                 8:00 a m - 5:00 p m; Sun                CLOSED,,0
+Mountain View,,1040 Grant Rd. # 300 ,,Mountain View ,CA,94040,United States,650-282-5710 ,37.3784786, -122.0749666,Mon-Thur       9:00 a m - 8:00 p m; Fri- Sun          9:00 a m - 7:00 p m,,0
+Provo,,Bulldog Plaza 1283 North University Ave. Ste 101 ,,Provo ,UT,84604,United States,1-801-607-2735  ,40.251274, -111.658629,Mon - Sat: 9:00am - 9:00pm; Sun                CLOSED,,0
+Westlake Village,,30768 Russell Ranch Rd. Building G Suite D ,,Westlake Village ,CA,91362,United States,818-991-0234 ,34.1485393, -118.7953696,Mon-Sat         9:00 a m - 8:00 p m; Sun                 10:00 a m - 7:00 p m,,0
+La Verne,,2087 Foothill Blvd ,,La Verne ,CA,91750,United States,909-392-1000 ,34.11401, -117.7655185,Mon- Friday 9:00 a m - 9:00 p m; Sat               9:00 a m - 8:00 p m; Sun              10:00 a m - 4:00 p m,,0
+Rancho Santa Margarita,,29851 Aventura Suite N (Next to the Post Office) ,,Rancho Santa Margarita ,CA,92688,United States,949-459-1170  ,33.6366357, -117.609366,Mon-Sat         8:00 a m - 7:00 p m ; Sun               CLOSED,,0
+Palm Desert,,36891 Cook Street Suite # 9 ,,Palm Desert ,CA,92211,United States,,33.781143, -116.356637,,,1
+Valencia,,24208 Valencia Blvd Suite # 202 ,,Valencia ,CA,91355,United States,661-288-1977 ,34.412238, -118.557761,Mon-Thur: 8:00am-7:00pm; Fri-Sat: 8:00am-8:00pm; Sunday: 9:00am-6:00pm,,0

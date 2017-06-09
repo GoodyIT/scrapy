@@ -1,0 +1,415 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+See's Candies,358999,1901 NW Expressway,"Penn Square Mall, #1005A",Oklahoma City,OK,73118,United States,(405) 767-9046,35.524781,-97.545419,Mo-Sa 10:00-21:00; Su 12:00-19:00,,0
+See's Candies,205783,7021 S Memorial Dr,Woodland Hills Mall,Tulsa,OK,74133,United States,(918) 294-0522,36.0630982,-95.8812690,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Dillard's,515485,7700 East Kellogg Dr N,Towne East Mall,Wichita,KS,67207,United States,,37.6819414,-97.2470599,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205785,2601 Preston Rd,Stonebriar Centre,Frisco,TX,75034,United States,(214) 872-1715,33.0986411,-96.8110811,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Nebraska Furniture Mart,692321,5600 Nebraska Furniture Mart Dr,,The Colony,TX,75056,United States,(972) 668-3000,33.071418,-96.866460,Mo-Su 10:00-21:00,,0
+Dillard's,331492,2501 Dallas Parkway,Shops @ Willowbend,Plano,TX,75093,United States,,33.0330460,-96.8306460,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+See's Candies Quantity Discount,573577,7775 N MacArthur Blvd,,Irving,TX,75063,United States,(469) 420-9076,32.9126151,-96.958795,Mo-Sa 10:00-19:00; Su 12:00-18:00,,0
+See's Candies,205784,1101 Melbourne Rd,North East Mall,Hurst,TX,76053,United States,(817) 595-0121,32.8307640,-97.1994330,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Dillard's,331493,1101 Melbourne Road,Northeast Mall,Hurst,TX,76053,United States,,32.8307640,-97.1994330,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Dillard's,331496,8987 N. Central Expressway #100,Northpark,Dallas,TX,75225,United States,,32.8717731,-96.7706868,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+See's Candies,431330,8687 North Central Expressway,NorthPark Center,Dallas,TX,75225,United States,(469) 232-9279,32.8684679,-96.7737794,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Dillard's,331495,4850 Overton Ridge Blvd,Hulen Mall,Fort Worth,TX,76132,United States,,32.6760466,-97.3989924,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+See's Candies,325635,2825 S. Glenstone Ave,Battlefield Mall,Springfield,MO,65804,United States,(417) 887-1047,37.1627612,-93.2657458,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Nebraska Furniture Mart,205823,1601 Village West Pkwy,,Kansas City,KS,66111,United States,(913) 288-6200,39.12421,-94.8195909,Mo-Sa 10:00-21:00; Su 11:00-20:00,,0
+Dillard's,631987,6000 W Markham St,,Little Rock,AR,72205,United States,,34.7531078,-92.3428778,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+H-E-B Market,636217,7025 Village Center Drive,,Austin,TX,78731,United States,(512) 502-8445,30.407587,-97.668152,Mo-Su 06:00-00:00,,0
+See's Candies,452925,10710 Research Blvd,North Hills Town Center,Austin,TX,78759,United States,(512) 372-1048,30.398683,-97.747857,Mo-Sa 10:00-19:00; Su 12:00-18:00,,0
+Dillard's,631991,3211 Feathergrass Court,,Austin,TX,78758,United States,,30.3943391,-97.7275984,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+H-E-B Market,636211,3875 W. Davis St,,Conroe,TX,77304,United States,(936) 760-6810,30.3266189,-95.4995762,Mo-Su 06:00-00:00,,0
+Magnolia Market H‑E‑B,698381,7988 FM 1488,,Magnolia,TX,77354,United States,(832) 934-3400,30.209379,-95.750782,Mo-Su 06:00-23:00,,0
+H-E-B Market,331786,3601 FM 1488,,The Woodlands,TX,77384,United States,(936) 271-2730,30.2303132,-95.5064513,Mo-Su 06:00-23:00,,0
+H-E-B Market,205791,10777 Kuykendahl Rd,,The Woodlands,TX,77382,United States,(281) 292-8006,30.1773841,-95.5366232,Mo-Su 06:00-00:00,,0
+H-E-B Market,205929,9595 Six Pines Dr,,The Woodlands,TX,77380,United States,(281) 292-2080,30.1632163,-95.4644682,Mo-Su 06:00-0:00,,0
+H-E-B Market,574595,26500 Kuykendahl Rd,,Tomball,TX,77375,United States,(281) 205-6500,30.1226668,-95.5540897,Mo-Su 06:00-00:00,,0
+H-E-B Market,692317,3540 Rayford Rd.,,Spring,TX,77386,United States,(281) 528-2380,30.1091165,-95.3881283,Mo-Su 06:00-23:59,,0
+H-E-B Market,205911,7310 Louetta Rd,,Spring,TX,77379,United States,(281) 812-4357,30.0196153,-95.5265205,Mo-Th 06:00-00:00; Fr 08:00-00:00; Sa-Su 06:00-00:00,,0
+H-E-B Market,636205,10919 Louetta Road,,Houston,TX,77070,United States,(281) 257-4600,29.9952905,-95.5756992,Mo-Su 06:00-00:00,,0
+H-E-B Market,205846,24224 Northwest Fwy,,Cypress,TX,77429,United States,(281) 256-6339,29.956829,-95.673203,Mo-Su 06:00-0:00,,0
+See's Candies,247940,2000 Willowbrook Mall,,Houston,TX,77070,United States,(281) 807-1331,29.9594198,-95.5389847,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Nebraska Furniture Mart,205905,700 S 72nd St,,Omaha,NE,68114,United States,(402) 397-6100,41.2535405,-96.0247805,Mo-Sa 10:00-21:00; Su 10:00-18:00,,0
+H-E-B Market,632001,24165 W IH-10,,San Antonio,TX,78257,United States,(210) 687-1007,29.6650899,-98.6331291,Mo-Su 06:00-00:00,,0
+H-E-B Market,631997,1150 NW Loop 1604,,San Antonio,TX,78248,United States,(210) 408-1641,29.606315,-98.510932,Mo-Su 06:00-00:00,,0
+H-E-B Market,636203,9710 Katy Freeway,,Houston,TX,77055,United States,(713) 647-5900,29.7866391,-95.531909,Mo-Su 06:00-00:00,,0
+H-E-B Market,205900,6711 S Fry Rd,,Katy,TX,77494,United States,(281) 392-9500,29.7132050,-95.7755600,Mo-Su 06:00-00:00,,0
+H-E-B Market,574669,5895 San Felipe St.,,Houston,TX,77057,United States,(713) 278-8450,29.7496005,-95.4851233,Mo-Su 06:00-00:00,,0
+Rice Epicurean Market,205837,2020 Fountain View Dr,,Houston,TX,77057,United States,(713) 783-8203,29.7465350,-95.4861850,Mo-Tu 07:00-22:00; We 08:00-22:00; Th-Su 07:00-22:00,,0
+H-E-B Market,636199,8503 NW Military Highway,,San Antonio,TX,78209,United States,(210) 479-4300,29.554800,-98.533830,Mo-Su 06:00-00:00,,0
+Dillard's,331497,4925 Westheimer Rd,Post Oak,Houston,TX,77056,United States,,29.7397492,-95.4605187,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Dillard's,331780,7400 San Pedro #900,Northstar Mall,San Antonio,TX,78216,United States,,29.5185349,-98.4925215,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+See's Candies,247941,7400 San Pedro,,San Antonio,TX,78216,United States,(210) 541-0230,29.5173414,-98.4972715,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+H-E-B Market,636215,530 Highway 6,,Sugar Land,TX,77479,United States,(281) 494-3690,29.6078823,-95.645824,Mo-Su 06:00-00:00,,0
+Dillard's,331498,600 Baybrook Mall,Baybrook Mall,Friendswood,TX,77546,United States,,29.5435260,-95.1502730,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+See's Candies,247939,500 Baybrook Mall,Baybrook Mall,Friendswood,TX,77546,United States,(281) 480-4333,29.542113,-95.1487454,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Macy's,205827,1750 Briargate Blvd,,Colorado Springs,CO,80920,United States,,38.9460450,-104.7950670,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205745,7630 N Academy Blvd,,Colorado Springs,CO,80920,United States,(719) 265-5197,38.9419386,-104.8000005,Mo-Sa 10:00-20:00; Su 11:00-17:00,,0
+Dillard's,698383,1200 E. Country Line Rd,Northpark Mall,Ridgeland,MS,39157,United States,,32.403789,-90.128533,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Macy's,205923,8455 Park Meadows Center Dr,,Littleton,CO,80124,United States,,39.5603760,-104.8749300,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205743,7301 S Santa Fe Dr,,Littleton,CO,80120,United States,(303) 795-2860,39.5822252,-105.0254345,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies Quantity Discount,205594,1685 S Colorado Blvd,,Denver,CO,80222,United States,(303) 733-1854,39.6863398,-104.9426761,Mo-Sa 10:00-19:00; Su 11:00-17:00,,0
+Macy's,205817,15 S Steele St,,Denver,CO,80209,United States,,39.7162140,-104.9512930,Mo-Su 08:00-17:00,,0
+Dillard's,515483,8501 West Bowles Ave,Southwest Plaza,Littleton,CO,80123,United States,,39.610850,-105.095074,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Macy's,205816,14750 Huron Street,,Westminster,CO,80023,United States,,39.9638982,-104.9971021,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205682,6600 Menaul Blvd NE,Coronado Center,Albuquerque,NM,87110,United States,(505) 872-2021,35.1079129,-106.5742268,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+See's Candies,205744,5943 Sky Pond Dr,The Promenade Shops at Centerra,Loveland,CO,80538,United States,(970) 635-2892,40.4105269,-104.9877331,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+Dillard's,331772,8401 Gateway West,Cielo Vista Mall,El Paso,TX,79925,United States,,31.7759540,-106.3777880,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Dillard's,331777,3301 Veterans Memorial Blvd,Lakeside Shopping Center,Metairie,LA,70002,United States,,30.0045524,-90.1577688,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Beau Rivage Resort & Casino,205925,887 Barthes St,,Biloxi,MS,39530,United States,(228) 386-7444,30.3994480,-88.8916740,Mo-Th 09:00-18:00; Fr-Su 09:00-21:00,,0
+Dillard's,631993,2200 S 10th St,,McAllen,TX,78501,United States,,26.187847,-98.235895,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+See's Candies Quantity Discount,205587,128 Ogden Ave,,Downers Grove,IL,60515,United States,(630) 663-9126,41.809796,-87.9859097,Mo-Sa 10:00-18:30; Su 11:00-17:00,,0
+Macy's,333314,1 Oakbrook Center,Oakbrook Center,Oak Brook,IL,60523,United States,,41.8481380,-87.9544910,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Lord & Taylor,205830,180 Oakbrook Ctr,,Oak Brook,IL,60521,United States,,41.8500000,-87.9501796,Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-19:00,,0
+Lord & Taylor,205875,4 Woodfield Mall,,Schaumburg,IL,60173,United States,,42.0452993,-88.0368815,Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-19:00,,0
+Macy's,205788,1 Woodfield Mall,,Schaumburg,IL,60173,United States,,42.0481570,-88.0351030,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,355751,1765 Southdale Center,Southdale Center,Edina,MN,55435,United States,(612) 294-6227,44.881159,-93.325029,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+Dillard's,331776,5000 Shelbyville road,The Mall @ St. Matthew,Louisville,KY,40107,United States,,38.2502606,-85.6246614,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Macy's,333316,1251 U.S. 31 North,Greenwood Park Mall,Greenwood,IN,46142,United States,,39.6329483,-86.1204120,Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-19:00,,0
+Macy's,205803,12411 Wayzata Blvd,,Minnetonka,MN,55305,United States,,44.9690558,-93.4382354,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+NEX Exchange,205893,5600 W Highway 98,Bldg 3725,Pensacola,FL,32507,United States,(904) 458-9476,30.3968406,-87.2975975,Mo-Sa 09:00-20:00; Su 10:00-18:00,,0
+Macy's,205794,111 N State St,,Chicago,IL,60602,United States,,41.8838906,-87.6275643,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+Plum Market,358816,1233 North Wells,Old Town Chicago,Chicago,IL,60610,United States,(312) 229-1400,41.904776,-87.634375,Mo-Su 8:00-22:00,,0
+Macy's,333317,6101 N. Keystone Ave,Glendale Town Center,Indianapolis,IN,46220,United States,,39.8656028,-86.1219721,Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-19:00,,0
+Macy's,205922,835 N Michigan Ave,,Chicago,IL,60611,United States,,41.8981989,-87.6238356,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Macy's,205787,1 Old Orchard Shopping Ctr,,Skokie,IL,60077,United States,,42.0614545,-87.7473826,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Lord & Taylor,205828,18 Old Orchard Shopping Ctr,,Skokie,IL,60077,United States,,42.0614580,-87.7473454,Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,323224,8702 Keystone Crossing,The Fashion Mall at Keystone,Indianapolis,IN,46240,United States,(317) 569-0808,39.9140651,-86.1111523,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Lord & Taylor,205815,1455 Lake Cook Rd,,Northbrook,IL,60062,United States,,42.1498920,-87.8105800,Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; Su 11:00-19:00,,0
+Macy's,333315,6020 E. 82nd St,Castleton Mall,Indianapolis,IN,46250,United States,,39.9064330,-86.0652360,Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-19:00,,0
+NEX Exchange,205859,3452 Green Bay Rd,,Great Lakes,IL,60088,United States,(847) 578-6280 6281,42.2961694,-87.8597603,Mo-Sa 09:00-20:00; Su 10:00-18:00,,0
+Macy's,333318,3301 Nicholasville Rd,Fayette Mall,Lexington,KY,40503,United States,,37.9909370,-84.5262780,Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-19:00,,0
+See's Candies,451641,7875 Montgomery Road,Kenwood Towne Centre,Cincinnati,OH,45236,United States,(513) 793-5678,39.203925,-84.377201,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Macy's,333332,2700 Miamisburg Centerville Road,,Dayton,OH,45459,United States,,39.6343194,-84.2243809,Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-19:00,,0
+See's Candies Quantity Discount,205574,5770 E Broadway Blvd,,Tucson,AZ,85711,United States,(520) 747-3434,32.2211702,-110.8688718,Mo-Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,205596,6555 E Southern Ave,Superstition Springs Mall,Mesa,AZ,85206,United States,(480) 981-1070,33.3936711,-111.6892126,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,205599,4201 N Scottsdale Rd,,Scottsdale,AZ,85251,United States,(480) 994-8940,33.496967,-111.926056,Mo-Sa 10:00-18:00,,0
+See's Candies,205598,4576 E Cactus Rd,Paradise Valley Mall,Phoenix,AZ,85032,United States,(602) 996-5939,33.5991463,-111.9815642,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205600,3111 W Chandler Blvd,Chandler Fashion Center,Chandler,AZ,85226,United States,(480) 726-2825,33.3016651,-111.8980181,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,695857,555 East University Parkway,University Mall,Orem,UT,84097,United States,(801) 221-9782,40.2738494,-111.6824619,Mo-Sa 10:00-21:00,,0
+See's Candies Quantity Discount,205573,132 E Camelback Rd,,Phoenix,AZ,85012,United States,(602) 266-1727,33.5094226,-112.0710576,Mo-Sa 10:00-18:00,,0
+See's Candies,205597,7700 W Arrowhead Towne Ctr,Arrowhead Towne Center,Glendale,AZ,85308,United States,(623) 773-2182,33.6415373,-112.2264227,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+Macy's,333337,5033 Tuttle Crossing Blvd.,Mall at Tuttle Crossing,Dublin,OH,43016,United States,,40.0767360,-83.1272177,Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-19:00,,0
+See's Candies,205602,9784 W Northern Ave,Park West Plaza,Peoria,AZ,85345,United States,(623) 772-7256,33.5514670,-112.2706061,Mo-Th 11:00-18:00; Fr-Sa 10:00-20:00; Su 12:00-18:00,,0
+See's Candies,205768,12423 Minuteman Dr,,Draper,UT,84020,United States,(801) 495-2322,40.5253223,-111.8886939,Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00,,0
+See's Candies,205767,940 Fort Union Blvd,,Midvale,UT,84047,United States,(801) 566-2136,40.6221697,-111.8648576,Mo-Sa 10:00-21:00; Su 12:00-17:00,,0
+See's Candies,400347,183 Easton Town Center,,Columbus,OH,43219,United States,(614) 342-2157,40.050014,-82.915547,Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12:00-18:00,,0
+Macy's,333333,4141 Easton Loop East,Easton Town Center,Columbus,OH,43219,United States,,40.0508322,-82.9115936,Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-19:00,,0
+See's Candies Quantity Discount,540759,2107 South 700 East,,Salt Lake City,UT,84106,United States,(801) 484-6092,40.725013,-111.870605,Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-17:00,,0
+Plum Market,205870,375 N Maple Rd,,Ann Arbor,MI,48103,United States,(734) 827-5000,42.2849168,-83.7816424,Mo-Su 08:00-22:00,,0
+See's Candies,205766,3651 Wall Ave,,Ogden,UT,84405,United States,(801) 393-3201,41.192969,-111.980454,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Plum Market-North Campus,698365,3601 Plymouth Road,,Ann Arbor,MI,48105,United States,(734) 545-7250,42.3059441,-83.6911274,Mo-Su 08:00-22:00,,0
+Lord & Taylor,205852,27650 Novi Rd,,Novi,MI,48377,United States,,42.4928339,-83.4761060,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Macy's,333323,23000 Eureka Road,Cross Creek Shopping Center,Taylor,MI,48180,United States,,42.2006040,-83.2547130,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205686,446 N 1680 E,Red Cliffs Mall,St. George,UT,84790,United States,(435) 627-8828,37.1186447,-113.5440672,Mo-Sa 10:00-21:00; Su 12:00-17:00,,0
+Plum Market,205899,6565 Orchard Lake Rd,,West Bloomfield,MI,48322,United States,(248) 626-7000,42.5422403,-83.3589170,Mo-Su 08:00-22:00,,0
+Plum Market,205866,3675 W Maple Rd,,Bloomfield Hills,MI,48301,United States,(248) 594-2555,42.5453197,-83.2635050,Mo-Su 08:00-22:00,,0
+Macy's,333322,2800 W. Big Beaver Road,,Troy,MI,48084,United States,,42.5630759,-83.1843540,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Lord & Taylor,205813,14250 Lakeside Cir,,Sterling Heights,MI,48313,United States,,42.6212540,-82.9846830,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,345065,26300 Cedar Road,Beachwood Place Mall,Beachwood,OH,44122,United States,(216) 595-4883,41.4985554,-81.4943391,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+See's Candies,205683,1300 W Sunset Rd,The Galleria at Sunset,Henderson,NV,89014,United States,(702) 454-9162,36.0682410,-115.0450780,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+NEX Exchange,205901,6801 Roosevelt Blvd,Bldg 987,Jacksonville,FL,32212,United States,(904) 777-7286,30.2249177,-81.6966836,Mo-We 09:00-20:00; Th 08:00-20:00; Fr-Sa 09:00-20:00; Su 10:00-18:00,,0
+Dillard's,331775,3200 Las Vegas Blvd. South,Fashion Show Mall,Las Vegas,NV,89109,United States,,36.1282071,-115.1730081,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Monte Carlo,205872,3770 Las Vegas Blvd S,,Las Vegas,NV,89109,United States,(702) 730-7777,36.1043329,-115.1760100,Mo-Su 08:00-17:00,,0
+See's Candies Quantity Discount,205579,4760 West Sahara Ave,Sahara Pavilion North Shopping Center,Las Vegas,NV,89102,United States,(702) 873-1996,36.1461964,-115.2074974,Mo-Sa 10:00-18:00; Su 11:00-16:00,,0
+See's Candies,205685,10300 W Charleston Blvd,Summerlin Center Pointe Plaza,Las Vegas,NV,89135,United States,(702) 267-0683,36.1606428,-115.320685,Mo-Sa 10:00-19:00; Su 12:00-16:00,,0
+NEX Exchange,205845,2292 Mayport Rd,Bldg 1900,Atlantic Beach,FL,32233,United States,(902) 242-3245,30.3450939,-81.4134637,Mo-Sa 09:00-20:00; Su 10:00-18:00,,0
+Macy's,333341,301 S. Hills Village,South Hills Village Mall,Pittsburgh,PA,15241,United States,,40.3437318,-80.0568444,Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-19:00,,0
+See's Candies,431329,301 South Hills Village Dr.,South Hills Village,Pittsburgh,PA,15241,United States,(412) 835-3292,40.342014,-80.056044,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+Dillard's,331491,27001 US Highway 19 North,Countryside Mall,Clearwater,FL,33761,United States,,28.0176350,-82.7364720,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Macy's,333339,400 5th Ave,,Pittsburgh,PA,15219,United States,,40.4395219,-79.9983570,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00,,0
+Macy's,333340,1000 Ross Park Mall Dr.,Ross Park Mall,Pittsburgh,PA,15237,United States,,40.5428252,-80.0075487,Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-19:00,,0
+See’s Candies,405239,1000 Ross Park Mall Dr.,Suite J15A,Pittsburgh,PA,15237,United States,(412) 366-7614,40.5428252,-80.0075487,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+Dillard's,331771,2066 Sam Rittenburg Blvd.,Citadel Mall,Charleston,SC,29407,United States,,32.7924812,-80.0306484,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Dillard's,331490,6990 Tyrone Square,,St. Petersburg,FL,33710,United States,,27.7833940,-82.7189569,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+NEX Exchange,205910,7151 Earhart Drive,,Orlando,FL,32827,United States,(407) 857-3550,28.4397839,-81.3340813,Mo-Sa 09:00-20:00; Su 10:00-18:00,,0
+See's Candies,205637,72840 Highway 111,Westfield Palm Desert,Palm Desert,CA,92260,United States,(760) 340-1322,33.723552,-116.395745,Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205609,144 S Palm Canyon Dr,,Palm Springs,CA,92262,United States,(760) 325-6211,33.8221105,-116.5467612,Mo-We 10:00-18:00; Th-Sa 10:00-20:00; Su 10:00-18:00,,0
+See's Candies,205632,3333 W Florida Ave,Hemet Valley Center,Hemet,CA,92545,United States,(951) 929-3330,33.7454759,-117.0070520,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205679,848 Tri City Ctr,Tri-City Shopping Center,Redlands,CA,92374,United States,(909) 798-2377,34.0643299,-117.2053938,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205619,27120 Eucalyptus Ave,Stoneridge Towne Center,Moreno Valley,CA,92555,United States,(951) 485-1977,33.935662,-117.18816,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+Harrah's Retail,205915,777 Harrahs Rincon Way,,Valley Center,CA,92082,United States,(760) 751-3100,33.2183701,-117.0341967,Mo-Su 08:00-17:00,,0
+See's Candies,205648,14400 Bear Valley Rd,The Mall of Victor Valley,Victorville,CA,92392,United States,(760) 241-3004,34.4733560,-117.3482310,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00,,0
+Pala Casino Spa Resort,414780,11154 Hwy 76,Impulse Shoppe,Pala,CA,92059,United States,(760) 510-5100,33.3638481,-117.0864502,Mo-Fr 07:00-23:00; Sa-Su 07:00-00:00,,0
+Dillard's,631989,8017 Via Sardinia St,,Estero,FL,33928,United States,,26.4000038,-81.8074814,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+Lord & Taylor,205919,8 Walden Galleria,,Buffalo,NY,14225,United States,,42.9097955,-78.7622776,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205615,26483 Ynez Rd,Palm Plaza Shopping Center,Temecula,CA,92591,United States,(951) 296-9420,33.5208114,-117.1567952,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205611,500 Inland Center Dr,Inland Center Mall,San Bernardino,CA,92408,United States,(909) 885-7411,34.0846120,-117.2974783,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00,,0
+See's Candies,205627,395 Parkway Plaza,Westfield Parkway,El Cajon,CA,92020,United States,(619) 447-3883,32.807181,-116.967400,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205677,1005 E. Valley Pkwy,,Escondido,CA,92025,United States,(760) 741-1264,33.1291316,-117.0695571,Mo-Sa 10:00-17:00,,0
+See's Candies,205617,200 E Via Rancho Pkwy,Westfield North County,Escondido,CA,92025,United States,(760) 746-0275,33.0685705,-117.0665239,Mo 10:00-09:00; Tu-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205628,12045 Carmel Mountain Rd,,San Diego,CA,92128,United States,(858) 674-0864,32.9838479,-117.0756807,Mo-Sa 10:00-20:00; Su 11:00-19:00,,0
+See's Candies,205612,5500 Grossmont Center Dr,Grossmont Shopping Center,La Mesa,CA,91942,United States,(619) 463-3355,32.7792455,-117.0127228,Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,205618,2015 Birch Rd,Otay Ranch Town Center,Chula Vista,CA,91915,United States,(619) 397-0994,32.6236137,-116.9705699,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+Lord & Taylor,205838,21050 Dulles Town Center,,Sterling,VA,20166,United States,,39.0298500,-77.4229610,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Macy's,573601,21060 Dulles Town Circle,,Sterling,VA,20166,United States,,39.0307723,-77.4215006,Mo-Su 10:00-17:00,,0
+MCX Exchange,205947,3500 Russell Road,,Quantico,VA,22134,United States,(703) 432-8800,38.5199666,-77.3499084,Mo-Sa 09:00-20:00; Su 09:00-19:00,,0
+See's Candies,205655,3525 Central Ave,,Riverside,CA,92506,United States,(951) 684-3451,33.9538181,-117.3891252,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+Lord & Taylor,205798,11900L Fair Oaks Mall,,Fairfax,VA,22033,United States,,38.8652659,-77.3590660,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Macy's,573593,11901 Lee Jackson Memorial Highway,,Fairfax,VA,22033,United States,,38.86486,-77.3555214,Mo-Su 10:00-17:00,,0
+Dillard's,331778,1798 Tamiami Trail North,Coastland Center,Naples,FL,34102,United States,,26.1675246,-81.7990022,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+See's Candies,205652,555 Broadway,Chula Vista Shopping Center,Chula Vista,CA,91910,United States,(619) 420-5537,32.6304398,-117.0871470,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205622,1239 Galleria At Tyler,Galleria at Tyler,Riverside,CA,92503,United States,(951) 688-6243,33.9085625,-117.4568796,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+MCX Exchange,205945,Vandegrift Blvd,Mainside MCX - Building 1106,Camp Pendleton,CA,92055,United States,(760) 725-6233,33.317906,-117.312126,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00,,0
+See's Candies,205664,1640 Camino Del Rio North,Mission Valley Mall,San Diego,CA,92108,United States,(619) 299-0429,32.7677856,-117.1497327,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+NEX Exchange,205843,2260 Callagan Highway,Building 3379,San Diego,CA,92136,United States,(619) 544-2100,32.6908317,-117.1279995,Mo-Su 09:00-21:00,,0
+MCX Exchange,205832,18th Street,Building 21133,San Diego,CA,92145,United States,(858) 695-7228,32.5806238,-117.0948776,Mo-Sa 09:00-19:00; Su 09:00-18:00,,0
+See's Candies,205604,5941 Balboa Ave,,San Diego,CA,92111,United States,(858) 279-0260,32.8202412,-117.1776203,Mo-Sa 10:00-18:00,,0
+See's Candies,372844,7007 Friars Rd,Fashion Valley,San Diego,CA,92108,United States,(619) 683-3911,32.7674455,-117.165648,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205606,7819 Monticello Ave,,Rancho Cucamonga,CA,91739,United States,(909) 646-8935,34.1108324,-117.5356500,Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00,,0
+See's Candies,205654,276 N El Camino Real,Camino Village Plaza,Encinitas,CA,92024,United States,(760) 634-1430,33.0531280,-117.2616526,Mo-Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205626,4545 La Jolla Village Dr,University Town Center,San Diego,CA,92122,United States,(858) 455-1317,32.8698020,-117.2122980,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See’s Candies,698379,2690 Via De La Valle,Flower Hill Promenade,Del Mar,CA,92014,United States,(858) 793-0633,32.9812137,-117.2503239,Mo-Su 10:00-19:00,,0
+Lord & Taylor,205917,7950 Tysons Corner Ctr,,McLean,VA,22102,United States,,38.9238990,-77.2295290,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Macy's,573595,1651 International Drive,,McLean,VA,22102,United States,,38.925296,-77.225571,Mo-Su 10:00-17:00,,0
+See's Candies Quantity Discount,205580,3751 Rosecrans St,Rosecrans Shopping Center,San Diego,CA,92110,United States,(619) 291-6086,32.751605,-117.2031515,Mo-Sa 10:00-18:00; Su 11:00-17:00,,0
+Macy's,573597,800 Tyson's Corner Center,,McLean,VA,22102,United States,,38.918052,-77.220323,Mo-Su 10:00-17:00,,0
+See's Candies Quantity Discount,692337,1830 Marron Road Suite 124,,Carlsbad,CA,92008,United States,(760) 729-6649,33.178581,-117.338300,Mo-Sa 10:00-19:00; Su 11:00-17:00,,0
+See's Candies,205625,2690 Tuscany St,The Crossings At Corona,Corona,CA,92881,United States,(951) 735-9327,33.823462,-117.515422,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205750,350 N Milwaukee St,Boise Towne Square,Boise,ID,83704,United States,(208) 322-4852,43.6059197,-116.2782654,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Lord & Taylor,205906,701 Russell Ave,,Gaithersburg,MD,20877,United States,,39.1520040,-77.2024210,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Macy's,205909,7125 Democracy Blvd,,Bethesda,MD,20817,United States,,39.0221110,-77.1469214,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Macy's,573589,701 N. Glebe Road,,Arlington,VA,22203,United States,,38.8791983,-77.11248,Mo-Su 10:00-17:00,,0
+Lord & Taylor,205796,11311 Rockville Pike,,Kensington,MD,20895,United States,,39.0407503,-77.1097235,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205623,5074 E Montclair Plaza Ln,Montclair Plaza,Montclair,CA,91763,United States,(909) 626-2715,34.0883776,-117.6943881,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+NEX Exchange,205927,8901 Wisconsin Avenue,Building 57,Bethesda,MD,20889,United States,(240) 743-4200,39.0018413,-77.0944268,Mo-Sa 09:00-21:00; Su 10:00-19:00,,0
+Lord & Taylor,205889,5255 Western Ave NW,,Washington,DC,20015,United States,,38.9587408,-77.0876888,Mo-Sa 10:00-21:30; Su 11:00-19:00,,0
+MCX Exchange,205819,1555 Southgate Rd,Bldg 26,Arlington,VA,22214,United States,(703) 979-8420,38.8685435,-77.0730179,Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00,,0
+Macy's,573587,"1000 South Hayes Street , VA",,Arlington,VA,22202,United States,,38.8653635,-77.058712,Mo-Su 10:00-17:00,,0
+See's Candies,205608,3626 Grand Ave,Gateway Village Center,Chino Hills,CA,91709,United States,(909) 628-5390,34.0021486,-117.7283789,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+Macy's,205801,1201 G St NW,,Washington,DC,20005,United States,,38.8986262,-77.0282317,Mo-Sa 10:00-20:00; Su 12:00-18:00,,0
+See's Candies,697913,26746 Portola Parkway,Foothill Ranch Town Center,Foothill Ranch,CA,92610,United States,(949) 588-6374,33.6777859,-117.6651284,Mo-Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,238924,368 The Shops at Mission Viejo,The Shops at Mission Viejo,Mission Viejo,CA,92691,United States,(949) 364-0214,33.5590673,-117.6677648,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205666,1854 E Route 66,,Glendora,CA,91740,United States,(626) 914-0491,34.1285603,-117.8294540,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205621,24155 Laguna Hills Mall,Laguna Hills Mall,Laguna Hills,CA,92653,United States,(949) 457-9307,33.6093096,-117.7062079,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205647,1117 Grand Ave,,Diamond Bar,CA,91765,United States,(909) 396-4509,34.0016753,-117.8128272,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,499753,23956 Aliso Creek Road,Aliso Village Shopping Center,Laguna Niguel,CA,92677,United States,(949) 349-0021,33.555432,-117.7132148,Mo-Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205616,508 Spectrum Center Drive,Irvine Spectrum Center,Irvine,CA,92618,United States,(949) 754-9097,33.651664,-117.745610,Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 10:00-21:00,,0
+See's Candies,421023,2985 El Camino Real,The Market Place,Tustin,CA,92782,United States,(714) 368-7581,33.7249969,-117.7911464,Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205672,1500 E Village Way,The Village at Orange,Orange,CA,92865,United States,(714) 998-0571,33.8258670,-117.8372910,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00,,0
+See's Candies,205681,1065 Brea Mall,Brea Mall,Brea,CA,92821,United States,(714) 255-0506,33.9153838,-117.8875168,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205676,392 Plaza Dr,Westfield Shoppingtown,West Covina,CA,91790,United States,(626) 960-2224,34.0718153,-117.9348369,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205658,2800 N Main St,Westfield MainPlace,Santa Ana,CA,92705,United States,(714) 543-0318,33.7763203,-117.8692674,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00,,0
+Lord & Taylor,205790,10300 Little Patuxent Pkwy,,Columbia,MD,21044,United States,,39.2156245,-76.8616784,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205662,1600 S Azusa Ave,Puente Hills Mall,City of Industry,CA,91748,United States,(626) 964-0660,33.9935490,-117.9305950,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies Quantity Discount,205577,75 E Orangethorpe Ave,,Anaheim,CA,92801,United States,(714) 441-0381,33.859878,-117.9192381,Mo-Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies Quantity Discount,205578,149 S Hacienda Blvd,Hacienda Valley Shopping Center,City of Industry,CA,91745,United States,(626) 369-3858,34.0195751,-117.9586009,Mo-Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,205675,3333 Bristol St,South Coast Plaza,Costa Mesa,CA,92626,United States,(714) 850-1529,33.6894235,-117.8877517,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:30,,0
+See's Candies,205642,3333 Bear St,South Coast Plaza West,Costa Mesa,CA,92626,United States,(714) 557-5948,33.6907034,-117.8923054,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:30,,0
+See's Candies,540763,135 Newport Center Drive,Fashion Island Shopping Center,Newport Beach,CA,92660,United States,(949) 467-2018,33.614882,-117.874615,Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205661,3501 E Coast Hwy,,Corona del Mar,CA,92625,United States,(949) 675-0976,33.5948230,-117.8694850,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205629,1100 W. Avenue K,,Lancaster,CA,93534,United States,(661) 723-8625,34.6748686,-118.1506900,Mo-Sa 10:00-17:00,,0
+See's Candies,205660,15530 Whittier Blvd,Whittwood Town Center,Whittier,CA,90603,United States,(562) 943-8713,33.9456625,-117.9966645,Mo-Sa 10:00-19:30; Su 11:00-18:00,,0
+See's Candies,205636,9665 Chapman Ave,Garden Grove Mall,Garden Grove,CA,92841,United States,(714) 537-0583,33.7887750,-117.9642109,Mo-Sa 10:00-18:00; Su 00:00-17:00,,0
+See's Candies,205670,400 S Baldwin Ave,Westfield Santa Anita,Arcadia,CA,91007,United States,(626) 446-4970,34.1348764,-118.0486513,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205614,1233 W Rancho Vista Blvd,Antelope Valley Mall,Palmdale,CA,93551,United States,(661) 274-2836,34.6023227,-118.1485605,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205651,3641 E Foothill Blvd,Foothill Rosemead Plaza,Pasadena,CA,91107,United States,(626) 351-0121,34.1501919,-118.0745979,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205649,7881 Edinger Ave,Bella Terra Shopping Center,Huntington Beach,CA,92647,United States,(714) 892-2188,33.7304170,-117.9907013,Mo-Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205667,1058 Westminster Mall,Westminster Mall,Westminster,CA,92683,United States,(714) 893-0455,33.7497046,-118.0137178,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,205645,1812 Montebello Town Ctr,Montebello Town Center,Montebello,CA,90640,United States,(323) 728-7291,34.0374623,-118.0846036,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205657,914 E Valley Blvd,,Alhambra,CA,91801,United States,(626) 281-7733,34.0790681,-118.1136753,Mo-Sa 10:30-18:00,,0
+See's Candies,457771,464 Fair Oaks Ave,,South Pasadena,CA,91030,United States,(626) 799-2180,34.120152,-118.150102,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205674,300 Los Cerritos Mall,Los Cerritos Center,Cerritos,CA,90703,United States,(562) 402-1536,33.8632856,-118.0937026,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00,,0
+See's Candies,205639,203 Stonewood St,Stonewood Shopping Center,Downey,CA,90241,United States,(562) 862-8074,33.9355100,-118.1201230,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00,,0
+See's Candies,205668,1133 Foothill Blvd,,La Canada Flintridge,CA,91011,United States,(818) 790-7022,34.2063330,-118.2038110,Mo-Sa 10:00-18:00,,0
+See's Candies,205631,2129 N Bellflower Blvd,Los Altos Center,Long Beach,CA,90815,United States,(562) 597-5189,33.7947409,-118.1255509,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205663,23 Lakewood Center Mall,Lakewood Center Mall,Lakewood,CA,90712,United States,(562) 531-6284,33.849635,-118.140439,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00,,0
+Lord & Taylor,205822,1600 Annapolis Mall,,Annapolis,MD,21401,United States,,38.9877198,-76.5446423,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+NEX Exchange,333321,22099 Cuddihy Road,,Patuxent River,MD,20670,United States,(301) 342-0614,38.2705240,-76.4556413,Mo-Sa 09:00-20:00; Su 10:00-17:00,,0
+See's Candies,205644,201 E Magnolia Blvd,Burbank Town Center,Burbank,CA,91502,United States,(818) 559-7442,34.183478,-118.312247,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00,,0
+NEX Exchange,205855,321 Kinkaid Rd,Bldg 329,Annapolis,MD,21402,United States,(410) 757-0005,38.9904084,-76.4697124,Mo-Sa 09:00-19:00; Su 10:00-17:00,,0
+See's Candies,332133,189 The Grove Drive,The Grove,Los Angeles,CA,90036,United States,(323) 932-1653,34.0713424,-118.3568692,Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-20:00,,0
+NEX Exchange,205820,1560 Mall Dr,Bldg CD-13,Norfolk,VA,23511,United States,(757) 440-2000,36.9431333,-76.3099396,Mo-Su 09:00-21:00,,0
+See's Candies,205603,3431 S La Cienega Blvd,,Los Angeles,CA,90016,United States,(310) 559-4919,34.0253971,-118.3721420,Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 12:00-17:00,,0
+Dillard's,573599,200 Monticello Ave,Mac Arthur Center,Norfolk,VA,23510,United States,(757) 622-6800,36.848363,-76.2895829,Mo-Su 10:00-17:00,,0
+See's Candies,540765,19372 Soledad Canyon Road,Canyon Country Village,Canyon Country,CA,91351,United States,(661) 250-7125,34.415502,-118.473962,Mo-Sa 10:00-18:00,,0
+See's Candies,205656,21880 Hawthorne Blvd,Del Amo Fashion Center,Torrance,CA,90503,United States,(310) 370-1252,33.8295083,-118.3521700,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00,,0
+See's Candies Quantity Discount,205576,22724 Hawthorne Blvd,,Torrance,CA,90505,United States,(310) 465-1199,33.821625,-118.350235,Mo-Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,205665,14006 Riverside Dr,Westfield Fashion Square,Sherman Oaks,CA,91423,United States,(818) 783-2622,34.1561430,-118.4322040,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00,,0
+See's Candies,205671,6000 Sepulveda Blvd,Westfield Culver City Shopping Center,Culver City,CA,90230,United States,(310) 391-2264,33.9846508,-118.3950507,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205607,10250 Santa Monica Blvd,Westfield Century City,Los Angeles,CA,90067,United States,(310) 556-5472,34.0596161,-118.4194347,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205620,10800 W Pico Blvd,Westside Pavilion,Los Angeles,CA,90064,United States,(310) 470-2973,34.0401242,-118.4275032,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205624,3004 N Sepulveda Blvd,Manhattan Village,Manhattan Beach,CA,90266,United States,(310) 545-1126,33.8973669,-118.3959350,Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-18:00,,0
+See's Candies Quantity Discount,415468,3002 South Sepulveda Blvd,National Sepulveda Shopping Center,Los Angeles,CA,90034,United States,(310) 391-3495,34.027414,-118.427625,Mo-Sa 10:00-18:00; Su 11:00-17:00,,0
+Lord & Taylor,205918,7979 Victor-Pittsford Road,,Victor,NY,14564,United States,,43.0299852,-77.4438932,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205659,16844 Devonshire St,North Hills Shopping Center,Granada Hills,CA,91344,United States,(818) 363-9320,34.2575039,-118.4989973,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205633,4734 Admiralty Way,Marina Waterside Shopping Center,Marina del Rey,CA,90292,United States,(310) 821-4148,33.9786806,-118.4392032,Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205643,24325 Magic Mountain Pkwy,River Oaks Shopping Center,Valencia,CA,91355,United States,(661) 259-2186,34.4203585,-118.5642216,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205630,1227 Wilshire Blvd,,Santa Monica,CA,90403,United States,(310) 395-2022,34.0258751,-118.4901106,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00,,0
+NEX Exchange,205797,1170 Amphibious Drive,,Norfolk,VA,23521,United States,(757) 363-3218,36.9096099,-76.1675780,Mo-Sa 09:00-21:00; Su 09:00-19:00,,0
+See's Candies,205673,9301 Tampa Ave,Northridge Fashion Center,Northridge,CA,91324,United States,(818) 772-7574,34.2389520,-118.5570740,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies Quantity Discount,205575,19301 Vanowen St,Tampa Town Center,Reseda,CA,91335,United States,(818) 708-9971,34.1942049,-118.55408,Mo-Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,205669,6259 Topanga Canyon Blvd,Erwin Topanga Shopping Center,Woodland Hills,CA,91367,United States,(818) 888-8418,34.1842456,-118.6058941,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+NEX Exchange,205939,1449 Tomcat Blvd,,Virginia Beach,VA,23460,United States,(757) 425-4260,36.8012364,-76.0099953,Mo-Su 09:00-21:00,,0
+See's Candies,205638,2845 Cochran St,Sycamore Square Shopping Center,Simi Valley,CA,93065,United States,(805) 522-2145,34.2812431,-118.7426862,Mo-Sa 10:00-18:00,,0
+See's Candies,205605,2701 Ming Ave,Valley Plaza Center,Bakersfield,CA,93304,United States,(661) 831-5700,35.3382360,-119.0344230,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,471465,140 Promenade Way,The Promenade at Westlake,Thousand Oaks,CA,91362,United States,(805) 371-8791,34.158862,-118.8208976,Mo-Sa 10:00-20:00; Su 10:00-18:00,,0
+See's Candies,205680,4106 California Ave,Bakersfield Plaza,Bakersfield,CA,93309,United States,(661) 324-2259,35.3674492,-119.0481484,Mo-Sa 10:00-18:00,,0
+See's Candies,205640,536 W Hillcrest Dr,The Oaks,Thousand Oaks,CA,91360,United States,(805) 497-6263,34.1871830,-118.8878071,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Dillard's,331773,2500 East Sunrise Blvd.,Galleria,Fort Lauderdale,FL,33304,United States,,26.1364899,-80.1126740,Mo-Sa 10:00-21:00; Su 12:00-18:00,,0
+See's Candies,205711,2017 S Mooney Blvd,,Visalia,CA,93277,United States,(559) 732-2613,36.3120954,-119.3139679,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,698377,602 Las Posas Rd,Las Posas Plaza,Camarillo,CA,93010,United States,(805) 383-0725,34.2231512,-119.0696921,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies Quantity Discount,317071,1869 East Ventura Boulevard,The Marketplace,Oxnard,CA,93036,United States,(805) 983-0301,34.2239452,-119.1525361,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+NEX Exchange,205808,130 23Rd Ave Bldg 1515,,Port Hueneme,CA,93043,United States,(805) 982-6801,34.1685448,-119.2108705,Mo-Sa 08:00-20:00; Su 10:00-19:00,,0
+See's Candies,205610,3301 E Main St,Pacific View Ventura,Ventura,CA,93003,United States,(805) 642-7082,34.2720132,-119.2508869,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies Quantity Discount,205583,380 W Shaw Ave,,Clovis,CA,93612,United States,(559) 299-5206,36.8082595,-119.7171984,Mo-Sa 10:00-18:00,,0
+See's Candies,205703,65 E Via La Plata,,Fresno,CA,93720,United States,(559) 431-6560,36.8481110,-119.7896360,Mo-Sa 10:00-19:00; Su 11:00-17:00,,0
+See's Candies,205758,131 Disc Dr,,Sparks,NV,89436,United States,(775) 354-2650,39.5763465,-119.7418456,Mo-Sa 10:30-18:00; Su 12:00-17:00,,0
+Lord & Taylor,205829,180 N Gulph Rd,,King of Prussia,PA,19406,United States,,40.0855637,-75.3922691,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205700,3310 W Shaw Ave,,Fresno,CA,93711,United States,(559) 277-0624,36.8086569,-119.8516240,Mo-Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,205757,5199 Meadowood Mall Cir,,Reno,NV,89502,United States,(775) 825-7445,39.4758615,-119.7854440,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Lord & Taylor,205930,9629 Carousel Center Dr,,Syracuse,NY,13290,United States,,43.0672521,-76.1706346,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+NEX Exchange,205916,795 Reeves Blvd,Bldg 795,Lemoore,CA,93246,United States,(559) 998-4722,36.2915795,-119.9300059,Mo-Sa 09:00-21:00; Su 09:00-19:00,,0
+Lord & Taylor,333338,121 E. City Ave.,Bala Cynwyd Shopping Center,Bala Cynwyd,PA,19004,United States,,40.0025170,-75.2232887,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205635,651 Paseo Nuevo,Paseo Nuevo Mall,Santa Barbara,CA,93101,United States,(805) 965-5745,34.418874,-119.699945,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205613,3849 State St,La Cumbre Plaza,Santa Barbara,CA,93105,United States,(805) 687-4800,34.4403928,-119.7482119,Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-18:00,,0
+Lord & Taylor,205936,400 Route 38,,Moorestown,NJ,08057,United States,,39.9413854,-74.9636528,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205736,650 Merced Mall,Merced Mall,Merced,CA,95348,United States,(209) 723-9660,37.3209886,-120.4839217,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+Lord & Taylor,205942,Route 1/Quakerbridge Road,,Lawrenceville,NJ,08648,United States,(609) 799-9500,40.2908612,-74.6816314,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205678,560 E Betteravia Rd,College Square,Santa Maria,CA,93454,United States,(805) 928-9703,34.9236071,-120.4262755,Mo-Sa 10:00-18:00,,0
+Lord & Taylor,205880,400 Commons Way,,Bridgewater,NJ,08807,United States,,40.5864580,-74.6182130,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Lord & Taylor,205937,301 Mt Hope Ave,Rockaway Town Square,Rockaway,NJ,07866,United States,,40.9035268,-74.5520113,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,698423,2962 Geer Road,Blossom Valley Plaza,Turlock,CA,95382,United States,(209) 669-9278,37.5195511,-120.8484688,Mo-Sa 10:00-19:00; Su 12:00-17:00,,0
+See's Candies,205650,283 Madonna Rd,Madonna Road Plaza Shopping Center,San Luis Obispo,CA,93405,United States,(805) 549-9424,35.2611821,-120.6766133,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+Lord & Taylor,205868,3710 Us Highway 9,Ste 1500,Freehold,NJ,07728,United States,,40.2553757,-74.3000984,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Lord & Taylor,205897,609 North Ave,,Westfield,NJ,07090,United States,,40.6490766,-74.3526990,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Macy's,205802,1220 Morris Tpke,,Short Hills,NJ,07078,United States,,40.7378168,-74.3644767,Mo-Sa 10:00-21:30; Su 11:00-19:00,,0
+Lord & Taylor,205793,111 Eisenhower Pkwy,,Livingston,NJ,07039,United States,,40.7804868,-74.3547910,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205699,1700 Mchenry Ave,,Modesto,CA,95350,United States,(209) 522-0683,37.6694070,-120.9920720,Mo-Sa 9:30-19:00; Su 12:00-17:00,,0
+Lord & Taylor,205835,198 Woodbridge Ctr,,Woodbridge,NJ,07095,United States,,40.5534476,-74.2994716,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205734,3401 Dale Rd,Vintage Faire Mall,Modesto,CA,95356,United States,(209) 527-6592,37.6888467,-121.0560536,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Lord & Taylor,205874,4 Willowbrook Mall,,Wayne,NJ,07470,United States,,40.8896098,-74.2597428,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,311244,260 Palladio Parkway,Palladio at Broadstone,Folsom,CA,95630,United States,(916) 983-7288,38.648287,-121.118604,Mo-Fr 10:00-20:00; Sa 10:00-21:00; Su 11:00-18:00,,0
+Lord & Taylor,205941,180 Route 35,,Eatontown,NJ,07724,United States,,40.2951192,-74.0536578,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,698421,5498 Crossings Drive,Rocklin Crossings,Rocklin,CA,95677,United States,(916) 660-9291,38.800998,-121.204702,Mo-Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205775,4302 N Division St,,Spokane,WA,99207,United States,(509) 489-6837,47.6970046,-117.4110423,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+Lord & Taylor,205887,504 Garden State Plz,,Paramus,NJ,07652,United States,,40.9598910,-74.0925690,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30,,0
+See's Candies,205697,1825 Douglas Blvd,,Roseville,CA,95661,United States,(916) 784-3366,38.7445853,-121.2595885,Mo-Fr 09:00-18:00; Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,205698,5962 Sunrise Mall,Sunrise Mall,Citrus Heights,CA,95610,United States,(916) 961-8200,38.6753662,-121.2688172,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205688,1151 Galleria Blvd,Roseville Galleria,Roseville,CA,95678,United States,(916) 784-7220,38.7730922,-121.2692320,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies Quantity Discount,205582,1108 E Hammer Ln,,Stockton,CA,95210,United States,(209) 473-7272,38.020504,-121.298111,Mo-Sa 10:00-18:00,,0
+Lord & Taylor,205943,East Ridgewood Ave,,Paramus,NJ,07652,United States,,40.9541300,-74.0491440,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30,,0
+See's Candies,205695,4950 Pacific Ave,,Stockton,CA,95207,United States,(209) 477-6492,37.9963192,-121.3142210,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies Quantity Discount,205581,10395 Folsom Blvd,,Rancho Cordova,CA,95670,United States,(916) 361-3221,38.5887075,-121.3045251,Mo-Sa 10:00-18:00,,0
+See's Candies,698425,60 West 8th St,Greenwich Village,New York,NY,10011,United States,(212) 602-1886,40.7332622,-73.9992295,Mo-Sa 11:00-20:00; Su 12:00-19:00,,0
+Macy's,205818,151 W 34th St,,New York,NY,10001,United States,,40.7509596,-73.9903932,Mo-Fr 09:00-21:30; Sa 10:00-21:30; Su 11:00-20:30,,0
+Lord & Taylor,205878,424 5th Ave,,New York,NY,10018,United States,,40.7515140,-73.9830690,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Hudson News,451318,89 East 42nd St,Grand Central Station,New York,NY,10017,United States,(212) 687-0833,40.7524961,-73.9773022,Mo-Fr 08:00-20:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205717,3372 El Camino Ave,,Sacramento,CA,95821,United States,(916) 487-7664,38.6105119,-121.3860423,Mo-Sa 10:00-19:00; Su 12:00-18:00,,0
+See's Candies,205689,7440 Laguna Blvd,,Elk Grove,CA,95758,United States,(916) 691-9847,38.4226340,-121.4164740,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+Lord & Taylor,205831,1825 Palisades Center Dr,,West Nyack,NY,10994,United States,,41.0984411,-73.9538055,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205728,1689 Arden Way,Arden Fair Mall,Sacramento,CA,95815,United States,(916) 925-7353,38.6019350,-121.4275540,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205733,2805 Naglee Rd,,Tracy,CA,95304,United States,(209) 834-0985,37.7567710,-121.4641820,Mo-Sa 10:30-18:00,,0
+See's Candies,205740,2220 J St,,Sacramento,CA,95816,United States,(916) 448-2340,38.5755873,-121.4765484,Mo-Fr 10:00-17:30,,0
+Lord & Taylor,573581,157 Market Street,,Yonkers,NY,10710,United States,,40.9633796,-73.8561501,Mo-Su 10:00-17:00,,0
+See's Candies Quantity Discount,205589,1009 L St,,Sacramento,CA,95814,United States,(916) 443-4497,38.5779641,-121.4938234,Mo-Fr 10:00-17:30,,0
+See's Candies,345066,3651 Truxel Road,"Natomas Marketplace, Suite D",Sacramento,CA,95834,United States,(916) 285-0754,38.6346840,-121.5059374,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+Lord & Taylor,205913,750 White Plains Road,,Scarsdale,NY,10583,United States,,40.9722606,-73.8045535,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Lord & Taylor,205814,1440 Northern Blvd,,Manhasset,NY,11030,United States,,40.7931511,-73.6930876,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Lord & Taylor,205800,1200 Franklin Ave,,Garden City,NY,11530,United States,,40.7334868,-73.6372929,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205726,1057 Cochrane Rd,,Morgan Hill,CA,95037,United States,(408) 778-3672,37.1567820,-121.6528070,Mo-Sa 10:00-19:00; Su 12:00-17:00,,0
+See's Candies,205707,1570 North Main Street,Harden Ranch Plaza,Salinas,CA,93906,United States,(831) 442-1934,36.713019,-121.653135,Mo-Sa 10:00-19:00; Su 11:00-17:00,,0
+See's Candies,205701,2530 Sand Creek Rd,,Brentwood,CA,94513,United States,(925) 516-4085,37.9432110,-121.7467260,Mo-Sa 10:00-19:00; Su 12:00-17:00,,0
+Lord & Taylor,205792,110 High Ridge Rd,,Stamford,CT,06905,United States,,41.0753070,-73.5502700,Mo-Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205694,2199 Monterey Hwy,,San Jose,CA,95125,United States,(408) 280-5369,37.3038957,-121.8618209,Mo-Sa 10:30-18:00; Su 12:00-17:00,,0
+See's Candies,205731,"1947 East 20th Street, Unit C",Chico Crossing,Chico,CA,95928,United States,(530) 891-3384,39.72696,-121.803557,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+Lord & Taylor,205821,158 Walt Whitman Rd,,Huntington Station,NY,11746,United States,,40.8259936,-73.4119734,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205705,5353 Almaden Expy,,San Jose,CA,95118,United States,(408) 266-3828,37.2531246,-121.8772817,Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205741,2651 Stoneridge Mall Rd,Stoneridge Shopping Center,Pleasanton,CA,94588,United States,(925) 463-1211,37.697,-121.927417,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Lord & Taylor,205903,7 Backus Ave,,Danbury,CT,06810,United States,,41.3814300,-73.4780789,Mo-Sa 10:00-21:30; Su 11:00-19:00,,0
+NEX Exchange,205825,1650 Lake Del Monte Dr,Bldg 303,Monterey,CA,93943,United States,(831) 373-7277,36.5982557,-121.8695973,Mo-Sa 09:00-18:00; Su 10:00-18:00,,0
+See's Candies Quantity Discount,205584,1675 W San Carlos St,,San Jose,CA,95128,United States,(408) 292-7436,37.323857,-121.9212901,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205710,1640 S Bascom Ave,,Campbell,CA,95008,United States,(408) 371-5695,37.2911633,-121.9315863,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,205739,1631 E Monte Vista Ave,,Vacaville,CA,95688,United States,(707) 448-5310,38.3675757,-121.9622845,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,205714,2855 Stevens Creek Blvd,Westfield Valley Fair,Santa Clara,CA,95050,United States,(408) 984-1967,37.3256549,-121.9490194,Mo-Fr 10:00-21:30; Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205692,310 Del Monte Ctr,,Monterey,CA,93940,United States,(831) 373-4550,36.5834835,-121.8984911,Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-17:00,,0
+See's Candies,205730,2005 Crow Canyon Pl,,San Ramon,CA,94583,United States,(925) 830-9779,37.7799152,-121.9722651,Mo-Sa 10:00-19:00; Su 11:00-17:00,,0
+See's Candies,692335,15466 Los Gatos Blvd,Los Gatos Village Square by Trader Joe’s,Los Gatos,CA,95032,United States,(408) 356-5153,37.2442516,-121.9578168,Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,667945,3151 Mowry Ave,Whole Foods Center,Fremont,CA,94538,United States,(510) 494-9051,37.5538783,-121.9842098,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,205727,3310 El Camino Real,,Santa Clara,CA,95051,United States,(408) 248-3807,37.3520019,-121.9870257,Mo-Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,205691,1601 41st Ave,,Capitola,CA,95010,United States,(831) 475-4410,36.9723536,-121.9669077,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,205706,2086 Newpark Mall,NewPark Mall,Newark,CA,94560,United States,(510) 794-4311,37.5264482,-122.0015140,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+Lord & Taylor,205826,1701 Sunrise Hwy,,Bay Shore,NY,11706,United States,,40.7402420,-73.2459690,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205704,18470 Prospect Rd,,Saratoga,CA,95070,United States,(408) 257-0512,37.2938903,-122.0272503,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,205709,1350 Travis Blvd,Solano Mall,Fairfield,CA,94533,United States,(707) 427-2488,38.2608441,-122.0547985,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies Quantity Discount,698433,2380 Monument Blvd,Cross Roads @ Pleasant Hill,Pleasant Hill,CA,94523,United States,(925) 609-7269,37.944907,-122.0569293,Mo-Sa 10:00-19:00; Su 11:00-17:00,,0
+See's Candies,698373,9 Broadway Lane,Broadway Plaza Shopping Center,Walnut Creek,CA,94596,United States,(925) 946-1145,37.894725,-122.058036,Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205738,1005 Contra Costa Blvd,,Pleasant Hill,CA,94523,United States,(925) 687-8343,37.9634788,-122.0623881,Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-18:00,,0
+See's Candies Quantity Discount,205590,1238 W El Camino Real,,Sunnyvale,CA,94087,United States,(408) 720-0334,37.3738212,-122.0578493,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,358682,"3518 Mt. Diablo Blvd., Suite F",Lafayette Shopping Center,Lafayette,CA,94549,United States,(925) 283-3701,37.893212,-122.117761,Mo-Fr 9:30-20:00; Sa 9:30-19:00; Su 11:00-18:00,,0
+See's Candies,205735,4844 El Camino Real,,Los Altos,CA,94022,United States,(650) 961-4500,37.3989846,-122.1097536,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00,,0
+Lord & Taylor,205888,5065 Main St,,Trumbull,CT,06611,United States,,41.2310893,-73.2247674,Mo-Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies Quantity Discount,205588,1933 Davis St,West Gate Shopping Center,San Leandro,CA,94577,United States,(510) 568-2436,37.7154162,-122.1790838,Mo-Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205720,131 Stanford Shopping Center,Stanford Shopping Center,Palo Alto,CA,94304,United States,(650) 325-8274,37.4443916,-122.1706372,Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies Quantity Discount,205592,1027 El Camino Real,Sequoia Station Shopping Center,Redwood City,CA,94063,United States,(650) 365-5434,37.4842813,-122.232549,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,540757,5802 College Avenue,Rockridge Retail Center,Oakland,CA,94618,United States,(510) 652-1099,37.846174,-122.251768,Mo-Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205690,2244 S Shore Center,South Shore Center,Alameda,CA,94501,United States,(510) 523-1611,37.7584455,-122.2531133,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205696,5679 Bay St,,Emeryville,CA,94608,United States,(510) 652-2812,37.8362557,-122.2925441,Mo-We 11:00-20:00; Th-Sa 11:00-21:00; Su 11:00-18:00,,0
+See's Candies,205718,1301 Trancas St,,Napa,CA,94558,United States,(707) 257-6261,38.3222660,-122.3003490,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205724,160 El Cerrito Plz,,El Cerrito,CA,94530,United States,(510) 524-6461,37.8989564,-122.3001807,Mo 10:00-21:00; Tu 9:30-21:00; We-Fr 10:00-21:00; Sa 9:00-21:00; Su 10:00-18:00,,0
+See's Candies,205721,186 Hillsdale Mall,Hillsdale Shopping Center,San Mateo,CA,94403,United States,(650) 345-7502,37.5377014,-122.2996452,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205702,1843 El Camino Real,,Burlingame,CA,94010,United States,(650) 697-0555,37.5957850,-122.3848996,Mo-Fr 09:30-18:30; Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205693,3 Embarcadero Ctr,Embarcadero Center,San Francisco,CA,94111,United States,(415) 391-1622,37.795139,-122.397361,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205722,542 Market St,,San Francisco,CA,94104,United States,(415) 362-1593,37.7901505,-122.4003255,Mo-Fr 09:00-19:00; Sa 11:00-17:00; Su 12:00-17:00,,0
+See's Candies Quantity Discount,205591,400 S Airport Blvd,,South San Francisco,CA,94080,United States,(650) 583-6349,37.6427824,-122.403828,Mo-Fr 09:30-18:30; Sa 10:00-17:00; Su 12:00-17:00,,0
+See's Candies,694485,680 Beach Street,Fisherman’s Wharf,San Francisco,CA,94109,United States,(415) 922-1671,37.8068559,-122.420422,Mo-Sa 11:00-20:00; Su 11:00-18:00,,0
+See's Candies,499751,2016 Market Street,In Safeway Center,San Francisco,CA,94114,United States,(415) 553-6054,37.7692253,-122.4278544,Mo-Sa 11:00-19:00; Su 11:00-18:00,,0
+See's Candies,205687,210 El Camino Real,,South San Francisco,CA,94080,United States,(650) 761-2490,37.6437079,-122.4245020,Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205712,754 Clement St.,,San Francisco,CA,94118,United States,(415) 752-0953,37.7829025,-122.4675309,Mo-Sa 10:00-18:00; Su 11:00-16:00,,0
+See's Candies,205715,3250 20th Ave,Stonestown Galleria Mall,San Francisco,CA,94132,United States,(415) 731-1784,37.7281211,-122.4755721,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,205716,348 Corte Madera Town Ctr,Town Center Corte Madera,Corte Madera,CA,94925,United States,(415) 927-4430,37.9259514,-122.5173618,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205737,900 Dana Dr,,Redding,CA,96003,United States,(530) 223-1511,40.5880450,-122.3550520,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,205729,5800 Northgate Dr,,San Rafael,CA,94903,United States,(415) 472-1707,38.0042166,-122.5442020,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,205725,120 Vintage Way,,Novato,CA,94945,United States,(415) 892-0381,38.0934976,-122.5549712,Mo-Sa 10:30-20:00; Su 11:00-18:00,,0
+See's Candies Quantity Discount,205595,333 S Mcdowell Blvd,,Petaluma,CA,94954,United States,(707) 778-2213,38.248064,-122.622911,Mo-Sa 10:00-19:00; Su 11:00-18:00,,0
+Lord & Taylor,205876,400 Westfarms Mall,,Farmington,CT,06032,United States,,41.7225501,-72.7619726,Mo-Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205708,2360 Sonoma Ave,Montgomery Village Shopping Center,Santa Rosa,CA,95405,United States,(707) 525-8703,38.4446065,-122.6874812,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205713,432 Coddingtown Center,Coddingtown Shopping Center,Santa Rosa,CA,95401,United States,(707) 545-0790,38.4565395,-122.7271563,Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,698431,9028 Brooks Road South,Lakewood Shopping Center,Windsor,CA,95492,United States,(707) 838-8116,38.5502081,-122.8067216,Mo-Sa 10:00-20:00; Su 11:00-18:00,,0
+See's Candies,205764,1251 E Mcandrews Rd,,Medford,OR,97504,United States,(541) 858-0723,42.3420328,-122.8710498,Mo-Sa 10:00-18:00,,0
+NEX Exchange,205805,1250 Hacker Ave,Bldg 1250,Newport,RI,02841,United States,(401) 841-1399,41.5175460,-71.3187340,Mo-Sa 09:00-19:00; Su 09:00-18:00,,0
+See's Candies,358683,207 Coburg Rd,,Eugene,OR,97401,United States,(541) 345-1931,44.064110,-123.075782,Mo-Sa 10:00-19:00; Su 11:00-18:00,,0
+Lord & Taylor,205804,1245 Worcester St,,Natick,MA,01760,United States,,42.3012936,-71.3838601,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205761,12000 SE 82nd Ave #1084,Clackamas Town Center,Happy Valley,OR,97086,United States,(503) 654-6746,45.4366070,-122.5760920,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,205776,8700 NE Vancouver Mall Dr,Vancouver Mall,Vancouver,WA,98662,United States,(360) 892-3389,45.6564544,-122.5826018,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,205763,1012 Lloyd Ctr,,Portland,OR,97232,United States,(503) 284-4384,45.5315404,-122.6545947,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies Quantity Discount,205586,16925 SW 65th Ave,South Lake Center,Lake Oswego,OR,97035,United States,(503) 639-6594,45.397622,-122.745409,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205760,9540 SW Washington Square Rd.,Washington Square Mall,Portland,OR,97223,United States,(503) 443-4921,45.448271,-122.7826196,Mo-Sa 10:00-21:00; Su 10:00-19:00,,0
+Lord & Taylor,205809,1320 Burlington Mall,,Burlington,MA,01803,United States,,42.4866639,-71.2057338,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205762,355 Liberty St NE,,Salem,OR,97301,United States,(503) 362-9532,44.9429119,-123.0375782,Mo-Sa 10:00-18:00,,0
+Lord & Taylor,333330,85 Rockingham Park Blvd.,Mall at Rockingham Park,Salem,NH,03079,United States,,42.7676566,-71.2244846,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Lord & Taylor,205914,760 Boylston St,,Boston,MA,02199,United States,,42.3487780,-71.0807304,Mo-Sa 10:00-21:30; Su 11:00-19:00,,0
+See's Candies,205765,2785 NW Town Center Dr,Tanasbourne,Beaverton,OR,97006,United States,(503) 614-2060,45.5397013,-122.8669174,Mo-Sa 10:00-19:00; Su 12:00-17:00,,0
+Lord & Taylor,205847,250 Granite St,,Braintree,MA,02184,United States,,42.2199700,-71.0227670,Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 10:00-21:30; Su 11:00-19:00,,0
+Jordan's Furniture,698371,50 Walkers Brook Drive,,Reading,MA,01867,United States,(781) 944-9090 6813,42.5208034,-71.0910894,Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00,,0
+See's Candies,205779,755 NW Gilman Blvd,,Issaquah,WA,98027,United States,(425) 392-3556,47.5422366,-122.0494956,Mo-Sa 10:30-18:00; Su 12:00-16:00,,0
+See's Candies,205772,438 Ramsay Way,,Kent,WA,98032,United States,(253) 373-0349,47.3855010,-122.2360890,Mo-Sa 10:30-19:00; Su 12:00-18:00,,0
+See's Candies Quantity Discount,205585,31861 Gateway Center Blvd S,,Federal Way,WA,98003,United States,(253) 839-4720,47.3164349,-122.3005726,Mo-Sa 10:30-18:00; Su 12:00-17:00,,0
+See's Candies,205778,17100 Southcenter Pkwy,,Tukwila,WA,98188,United States,(206) 575-6422,47.4500315,-122.2613525,Mo-Th 10:00-18:00; Fr-Sa 10:00-19:00; Su 11:00-18:00,,0
+See's Candies,205777,7425 166th Ave NE,,Redmond,WA,98052,United States,(425) 869-8718,47.6707934,-122.1188888,Mo-Sa 10:00-20:00; Su 11:00-19:00,,0
+See's Candies,205773,10212 NE 8th St,,Bellevue,WA,98004,United States,(425) 455-1019,47.6175582,-122.2041015,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,205771,4502 S Steele St,Tacoma Mall,Tacoma,WA,98409,United States,(253) 475-4959,47.2164165,-122.4678568,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies,471467,14013 NE Woodinville Duvall Rd.,Woodinville Plaza,Woodinville,WA,98072,United States,(425) 485-7647,47.7544615,-122.1518972,Mo-Sa 10:30-18:00; Su 12:00-16:00,,0
+See's Candies,205770,1518 4th Ave,,Seattle,WA,98101,United States,(206) 682-7122,47.6102799,-122.3367461,Mo-Sa 10:00-18:30; Su 12:00-17:00,,0
+See's Candies,205774,401 NE Northgate Way,,Seattle,WA,98125,United States,(206) 363-4567,47.7069816,-122.3258042,Mo-Sa 10:00-21:00; Su 11:00-19:00,,0
+See's Candies Quantity Discount,205593,18811 28th Ave W,,Lynnwood,WA,98036,United States,(425) 771-5777,47.8276609,-122.2696372,Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00,,0
+NEX Exchange,205812,13904 45th Ave NE,,Marysville,WA,98271,United States,(425) 304-4940,48.1185912,-122.1710181,Mo-Tu 09:00-19:00; We-Sa 09:00-20:00; Su 09:00-19:00,,0
+NEX Exchange,205850,2600 Ohio St,Bldg 2600,Silverdale,WA,98315,United States,(360) 315-4563,47.6893405,-122.7084119,Mo-Su 09:00-20:00,,0
+See's Candies,205780,1825 Marketplace Dr,,Burlington,WA,98233,United States,(360) 757-3137,48.4513800,-122.3392940,Mo-Th 10:00-18:30; Fr-Sa 10:00-19:00; Su 11:00-18:00,,0
+Bell's Nursery & Gifts,205811,13700 Specking Ave,,Anchorage,AK,99515,United States,(907) 345-4476,61.0965836,-149.8392236,Mo-Su 10:00-17:00,,0
+MCX Exchange,205933,Building 1404,,Kaneohe Bay,HI,96863,United States,(808) 254-3890,21.4440735,-157.7587230,Mo-Su 08:00-17:00,,0
+See's Candies,205746,4211 Waialae Ave,,Honolulu,HI,96816,United States,(808) 737-9592,21.2772880,-157.7858592,Mo-Sa 10:00-21:00; Su 10:00-18:00,,0
+See's Candies,205748,1450 Ala Moana Blvd,Ala Moana Shopping Center,Honolulu,HI,96814,United States,(808) 955-2824,21.2912881,-157.8429647,Mo-Sa 09:30-21:00; Su 10:00-19:00,,0
+See's Candies,205747,98-1005 Moanalua Rd,,Aiea,HI,96701,United States,(808) 488-4511,21.3850039,-157.9403153,Mo-Sa 10:00-21:00; Su 10:00-18:00,,0
+NEX Exchange,205883,4725 Bougainville Dr,Bldg 631,Honolulu,HI,96818,United States,(808) 423-3344,21.3478972,-157.9327651,Mo-Su 09:00-21:00,,0
+See's Candies,537659,91590 Farrington Highway,Kapolei Shopping Center,Kapolei,HI,96707,United States,(808) 693-9986,21.338653,-158.078641,Mo-Sa 10:00-19:00,,0
+See's Candies,698369,"Famille Station, Central City",Banpo-Dong,Seocho-gu,KR-41,KR-41,United States,82-2-6282-5335,37.504983,127.003878,Mo-Sa 10:00-18:00; Su 11:00-17:00,,0
+See's Candies,698385,1088 West Marine Drive,,Dededo,GU,96929,United States,,13.520439,144.817787,Mo-Su 10:00-21:00,,0
+See's Candies,698429,"No. 45, City Hall Rd",Xinyi District,Taipei City,TW-TPE,110,United States,(02)8101-7690,25.034151,121.564407,Mo-Sa 10:00-18:00; Su 12:00-17:00,,0
+See's Candies,357897,"No. 99, Sec. 2 Zhongshan N. Road",Zhongshan District,Taipei City,TW-TPE,104,United States,02-2568-3849,25.0579003,121.5229691,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,357898,"No.222, Sec. 4, Zhongxiao E. Rd.",Da’an District,Taipei City,TW-TPE,106,United States,02-2778-8885,25.0414198,121.5508017,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,696207,"No. 38, Section 1, Chung Hsiao W. Rd.",,Taipei City,TW-TPE,100,United States,886-2-2388-8196,25.046258,121.516408,Mo-Sa 10:00-20:00; Su 11:00-17:00,,0
+See's Candies,696209,"No.161, Sec. 1, Zhongshan Rd",Banqiao District,Taipei City,TW-TPE,112,United States,(022) 956-1731,25.008799,121.461313,Mo-Sa 10:00-20:00; Su 11:00-17:00,,0
+See's Candies,696211,"No. 866, Sec. 2, Taiwan Boulevard","Xitun Dist 40701, Taichung City 40701, Taiwan (R.O.C.)",Taichung City,TW-TXG,404,United States,(04) 2315-5596,24.161366,120.652728,Mo-Sa 10:00-20:00; Su 11:00-17:00,,0
+See's Candies,357901,80 Tat Chee Avenue,"Shop G20, Festival Walk",Kowloon Tong,HK,999077,United States,852- 22658199,22.33722,114.174587,Mo-Su 11:00-21:00,,0
+See's Candies,357899,15 Queen's Road Central,"The Landmark, Shop 110B, 1/F",Central,HK,999077,United States,852-25234977,22.280545,114.157903,Mo-Sa 10:00-21:00; Su 11:00-18:00,,0
+See's Candies,696213,"#01-K2, 583 Orchard Rd, S238884",The Forum Shopping Mall,Singapore,SG-01,238884,United States,(65) 6684-2433,1.306089,103.8265076,Mo-Su 11:00-21:00,,0

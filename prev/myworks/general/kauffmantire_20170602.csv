@@ -1,0 +1,83 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Tampa - TOWN & COUNTRY,1,5660 West Waters Avenue,,Tampa,FL,33634,United States,8138065765,28.02511,-82.541289,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Riverview,2,13110 S US Highway 301,,Riverview,FL,33578,United States,8135335096,27.795983,-82.334095,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Brandon,3,841 Lithia Pinecrest Rd,,Brandon,FL,33511,United States,8139823500,27.925378,-82.271514,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Clearwater,4,2165 Gulf to Bay Blvd,,Clearwater,FL,33765,United States,7274313101,27.960264,-82.748336,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+St Petersburg,5,2701 Tyrone Blvd,,St Petersburg,FL,33710,United States,7273477223,27.796833,-82.733099,"8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun
+
+",,0
+Tampa - NEW TAMPA,6,17325 Dona Michelle Dr,,Tampa,FL,33647,United States,8135580882,28.124641,-82.370047,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+LARGO,7,1190 Missouri Avenue North,,LARGO,FL,33770,United States,7272181050,27.927343,-82.787183,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+New Port Richey,8,5444 Little Rd,,New Port Richey,FL,34655,United States,7277530017,28.238522,-82.672056,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Plant City,9,2103 James L Redman Pkwy,,Plant City,FL,33563,United States,8137562483,27.992517,-82.122037,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Bradenton,10,6008 Lakewood Ranch Blvd,,Bradenton,FL,34211,United States,9412380193,27.43463,-82.42887,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Lakeland,11,5120 Dave Robbins Way,,Lakeland,FL,33812,United States,8639370700,27.971938,-81.883493,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Gainesville,12,3545 W University Ave,,Gainesville,FL,32607,United States,3522449842,29.651841,-82.376159,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Tallahassee,13,3335 Beech Ridge Ct,,Tallahassee,FL,32312,United States,8506881196,30.566532,-84.215485,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Valdosta,14,3121 Inner Perimeter Rd,,Valdosta,GA,31602,United States,2295888030,30.879272,-83.297132,8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Thomasville,15,14005 Highway 19 S,,Thomasville,GA,31792,United States,2293793041,30.840715,-83.944975,8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Brunswick,16,600 Mall Blvd,,Brunswick,GA,31525,United States,9123416677,31.214193,-81.4901,"8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun
+
+
+",,0
+Albany,17,1018 Pine Ave,,Albany,GA,31701,United States,2292998544,31.580214,-84.174261,8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Cordele,18,1409 E 16th Ave,,Cordele,GA,31015,United States,2295131847,31.961596,-83.761167,8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Macon - Eisenhower,19,4684 Presidential Pkwy,,Macon,GA,31206,United States,4782575240,32.816395,-83.714177,"8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun
+
+
+",,0
+Midland,20,7049 Ruffie Way,,Midland,GA,31820,United States,7063302000,32.538487,-84.867172,"8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun
+
+
+",,0
+McDonough,21,85 Foster Drive,,McDonough,GA,30253,United States,7703020830,33.463646,-84.207226,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Peachtree City - PEACHTREE CITY,22,260 Crosstown Rd,,Peachtree City,GA,30269,United States,7706311444,33.379287,-84.560137,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Hampton,23,11094 Tara Blvd,,Hampton,GA,30228,United States,6783696655,33.449924,-84.32535,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Fayetteville,24,865 Glynn ST S,,Fayetteville,GA,30214,United States,7707162196,33.430671,-84.45846,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Peachtree City - PEACHTREE EAST,25,240 Peachtree Shopping Cntr,,Peachtree City,GA,30269,United States,7706318700,33.425182,-84.557421,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Stockbridge,26,840 Eagles Landing Pkwy,,Stockbridge,GA,30281,United States,7703020793,33.513417,-84.216783,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Covington,27,10190 Hwy 142 N,,Covington,GA,30014,United States,6787290111,33.606461,-83.829066,8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun ,,0
+Newnan,28,1062 Bullsboro Dr,,Newnan,GA,30265,United States,7702526230,33.397854,-84.744214,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Conyers,29,2171 GA Hwy 20,,Conyers,GA,30013,United States,7702789858,33.630192,-84.014486,8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun ,,0
+Loganville,30,4111 Atlanta Hwy (Hwy 78),,Loganville,GA,30052,United States,6782404494,33.844752,-83.910455,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Athens,31,1881 Epps Bridge Pkwy,,Athens,GA,30606,United States,7066214575,33.91763,-83.443301,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Decatur,32,1471 Church St,,Decatur,GA,30030,United States,4043777708,33.790376,-84.285945,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Atlanta - CHESHIRE BRIDGE,33,2350 Cheshire Bridge Rd,,Atlanta,GA,30324,United States,4044860042,33.819963,-84.35255,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Lawrenceville - SNELLVILLE,34,1275 Scenic Hwy,,Lawrenceville,GA,30045,United States,7709854194,33.89964,-84.006269,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Douglasville,35,7005 Concourse Pkwy,,Douglasville,GA,30134,United States,7709202685,33.730752,-84.758324,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Lilburn,36,312 Luxomni Road,,Lilburn,GA,30047,United States,7702740114,33.902981,-84.116157,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed Sun,,0
+ATLANTA - BROOKHAVEN,37,3930 Peachtree Rd,,Atlanta,GA,30319,United States,4042332341,33.858384,-84.342492,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Smyrna,38,4488 South Cobb Dr,,Smyrna,GA,30080,United States,7704332825,33.84476,-84.503191,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Lawrenceville - RIVER EXCHANGE,39,2140 Riverside Pkwy,,Lawrenceville,GA,30043,United States,7705137255,33.966169,-84.035352,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Lawrenceville - LAWRENCEVILLE,40,875 Buford Dr,,Lawrenceville,GA,30043,United States,7702772210,33.985549,-83.983996,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Austell,41,1804 East West Connector,,Austell,GA,30106,United States,6786266991,33.85451,-84.604471,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Duluth - GWINNETT PLACE,42,3453 Old Norcross Rd,,Duluth,GA,30096,United States,6784756699,33.9662,-84.132566,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Norcross,43,5770 Peachtree Ind Blvd,,Norcross,GA,30071,United States,7702550923,33.954396,-84.220301,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Duluth - DULUTH,44,4025 Pleasant Hill Rd,,Duluth,GA,30096,United States,7704769177,34.003211,-84.166541,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Hiram,45,23 Depot Dr,,Hiram,GA,30141,United States,7702229922,33.889657,-84.751059,"8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun
+",,0
+Suwanee - MCGINNIS FERRY,46,4075 McGinnis Ferry Rd,,Suwanee,GA,30024,United States,7706145650,34.048641,-84.090739,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Roswell,47,890 Marietta Highway,,Roswell,GA,30075,United States,6782422222,34.003706,-84.389618,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Marietta - WEST COBB,48,2500 Dallas Hwy,,Marietta,GA,30064,United States,7704298898,33.948507,-84.624586,"8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun
+",,0
+Buford,49,1920 Buford Mill RD,,Buford,GA,30519,United States,6785467695,34.08644,-83.990327,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Alpharetta - STATE BRIDGE,50,11136 State Bridge Rd,,Alpharetta,GA,30022,United States,7707539575,34.054758,-84.22965,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Alpharetta - NORTH POINT,51,1525 Mansell Rd,,Alpharetta,GA,30009,United States,7706431512,34.040638,-84.323858,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Suwanee - JOHNS CREEK,52,3510 Peachtree Pkwy,,Suwanee,GA,30024,United States,7708882797,34.076688,-84.164237,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Marietta - TOWN CENTER,53,2713 Chastain Meadows Pkwy,,Marietta,GA,30066,United States,7705440740,34.017281,-84.554555,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Alpharetta - CRABAPPLE,54,12390 A Arnold Mill Rd,,Alpharetta,GA,30004,United States,7705699121,34.083543,-84.35866,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Alpharetta - BETHANY VILLAGE,55,13792 Hwy 9,,Alpharetta,GA,30004,United States,6782404260,34.116142,-84.270042,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Kennesaw,56,3925 Cherokee St NW,,Kennesaw,GA,30144,United States,7705440130,34.050619,-84.596799,"8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun
+
+",,0
+Woodstock - WOODSTOCK,57,12005 HWY 92,,Woodstock,GA,30188,United States,6784941380,34.088493,-84.486575,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Acworth,58,3719 Kemp Ridge Road,,Acworth,GA,30101,United States,6786260860,34.045121,-84.695336,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Flowery Branch,59,3413 Mundy Mill Rd,,Flowery Branch,GA,30542,United States,6787170090,34.221466,-83.863575,8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun ,,0
+Cumming,60,936 Market Place Blvd,,Cumming,GA,30041,United States,6789473755,34.182591,-84.130857,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Woodstock - TOWNE LAKE,61,3080 Eagle Dr,,Woodstock,GA,30189,United States,7705922454,34.110703,-84.555202,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Canton,62,3700 Marietta Hwy,,Canton,GA,30114,United States,6788800015,34.197737,-84.508742,8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun ,,0
+Dawsonville,63,445 Power Center Drive,,Dawsonville,GA,30534,United States,7066865180,34.358056,-84.043474,8:00AM to 6:00PM Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun,,0
+Rome,64,711 Martha Berry Blvd,,Rome,GA,30165,United States,7064134717,34.261332,-85.180953,"8:00AM to 6:00PM  Mon - Fri; 7:30AM to 5:00PM Sat; Closed on Sun
+
+
+",,0

@@ -1,0 +1,136 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Aisle1,,2681 Blanding Avenue ,,Alameda ,CA,94501,United States, 510-814-8800 ,,,5am - 10pm,,0
+Aisle1,,5345 Hazel Avenue ,,Fair Oaks ,CA,95628,United States, 916-967-7541 ,,,5am - 11pm,,0
+Aisle1,,25045 Blue Ravine Rd. ,,Folsom ,CA,95630,United States, 916-351-1151 ,,,5am - 11pm,,0
+Aisle1,,10450 Twin Cities Road ,,Galt ,CA,95632,United States, (209) 745-4705 ,,,5am - 11pm,,0
+Aisle1,,43 Lincoln Blvd. ,,Lincoln ,CA,95648,United States, (916) 408-5775 ,,,5am - 11pm,,0
+Aisle1,,3020 Floyd Avenue Suite 189 ,,Modesto ,CA,95355,United States, (209) 551-2050 ,,,5am - 11pm,,0
+Aisle1,,1690 Robb Drive ,,Reno ,NV,89523,United States, 775-746-6400 ,,,5am - 11pm,,0
+Aisle1,,2325 Sunset Blvd. ,,Rocklin ,CA,95765,United States, 916-632-2970 ,,,,,0
+Aisle1,,3250 Arena Blvd ,,Sacramento ,CA,95834,United States, 916-419-8844 ,,,5am - 10pm,,0
+Aisle1,,1020 Emerald Bay Rd. ,,South Lake Tahoe ,CA,96150,United States, 530-542-1017 ,,,,,0
+Aisle1,,2433 Wingfield Hills Road ,,Sparks ,NV,89436,United States, 775-626-8300 ,,,5am - 11pm,,0
+Aisle1,,4219 East Morada Lane ,,Stockton ,CA,95212,United States, 209-956-9300 ,,,5am - 11pm,,0
+Aisle1,,1813 East Gibson Road ,,Woodland ,CA,95776,United States, (530) 668-4422 ,,,5am - 11pm,,0
+Bel Air,,7901 Walerga Rd. ,,Antelope ,CA,95843,United States, 916-725-0333 ,,,6 am - 11 pm,,0
+Bel Air,,2222 Grass Valley Hwy. ,,Auburn ,CA,95603,United States, 530-889-8626 ,,,6 am - 11 pm,,0
+Bel Air,,3510 Palmer Dr. ,,Cameron Park ,CA,95682,United States, 530-676-0512 ,,,6 am - 11 pm,,0
+Bel Air,,4005 Manzanita Ave. ,,Carmichael ,CA,95608,United States, 916-483-2691 ,,,6 am - 11 pm,,0
+Bel Air,,8425 Elk Grove Florin ,,Elk Grove ,CA,95624,United States, 916-681-5775 ,,,6 am - 11 pm,,0
+Bel Air,,9435 Elk Grove Blvd ,,Elk Grove ,CA,95624,United States, 916-714-6996 ,,,6 am - 11 pm,,0
+Bel Air,,5100 Laguna Blvd. ,,Elk Grove ,CA,95758,United States, 916-684-7000 ,,,6 am - 11 pm,,0
+Bel Air,,2760 East Bidwell ,,Folsom ,CA,95630,United States, 916-983-8844 ,,,6 am - 11 pm,,0
+Bel Air,,2155 Golden Centre Lane ,,Gold River ,CA,95670,United States, 916-858-0494 ,,,6 am - 11 pm,,0
+Bel Air,,2341 Sunset Blvd. ,,Rocklin ,CA,95765,United States, 916-632-0180 ,,,6 am - 11 pm,,0
+Bel Air,,4008 Foothills Blvd. ,,Roseville ,CA,95747,United States, 916-783-1173 ,,,6 am - 11 pm,,0
+Bel Air,,1039 Sunrise Ave. ,,Roseville ,CA,95661,United States, 916-786-6101 ,,,6 am - 11 pm,,0
+Bel Air,,7465 Rush River Dr. ,,Sacramento ,CA,95831,United States, 916-399-9091 ,,,6 am - 11 pm,,0
+Bel Air,,4320 Arden Way ,,Sacramento ,CA,95864,United States, 916-972-0555 ,,,6 am - 11 pm,,0
+Bel Air,,3250 Arena Blvd ,,Sacramento ,CA,95834,United States, 916-419-8844 ,,,6 am - 11 p.m,,0
+Bel Air,,1301 Florin Rd. ,,Sacramento ,CA,95831,United States, 916-421-6766 ,,,6 am - 11 pm,,0
+Bel Air,,6231 Fruitridge Rd. ,,Sacramento ,CA,95820,United States, 916-739-8647 ,,,6 am - 11 pm,,0
+Bel Air,,1540 W. El Camino Ave. ,,Sacramento ,CA,95833,United States, 916-920-2493 ,,,6 am - 11 pm,,0
+Bel Air,,1885 East Gibson Road ,,Woodland ,CA,95776,United States, 530-668-4422 ,,,6 am - 11 pm,,0
+Bel Air,,1286 Stabler Lane ,,Yuba City ,CA,95993,United States, 530-755-3991 ,,,6 am - 11 pm,,0
+Food Source,,26905 Mission Blvd. ,,Hayward ,CA,94544,United States, 510-728-0240 ,,,6 am - 11 pm,,0
+Food Source,,1375 Buchanan Rd. ,,Pittsburg ,CA,94565,United States, 925-432-1900 ,,,7 am - 10 pm,,0
+Food Source,,4047 So. Virginia St. ,,Reno ,NV,89502,United States, 775-825-2151 ,,,7am - 11pm,,0
+Food Source,,430 Elkhorn Blvd. ,,Rio Linda ,CA,95673,United States, 916 991-1435 ,,,6 am - Midnight,,0
+Food Source,,4401 Broadway ,,Sacramento ,CA,95817,United States, 916-451-2446 ,,,6 am - 11 pm,,0
+Food Source,,3547 Bradshaw Road ,,Sacramento ,CA,95827,United States, 916-854-4524 ,,,6 am - Midnight,,0
+Food Source,,6366 Mack Road ,,Sacramento ,CA,95823,United States, 916-392-0693 ,,,6 am - Midnight,,0
+Food Source,,2323 West Hammer Lane ,,Stockton ,CA,95209,United States, 209-955-1475 ,,,6 am - 10 pm,,0
+Nob Hill Foods,,2531 Blanding Avenue ,,Alameda ,CA,94501,United States, 510-814-8800 ,,,600 am to 1100 pm,,0
+Nob Hill Foods,,1602 W. Campbell Ave. ,,Campbell ,CA,95008,United States, 408-379-6650 ,,,6-11 Mon-Sat    6-10 Sun,,0
+Nob Hill Foods,,809 Bay Avenue ,,Capitola ,CA,95010,United States, 831-476-5600 ,,,6-11 Mon-Sat    6-10 Sun,,0
+Nob Hill Foods,,777 First Street ,,Gilroy ,CA,95020,United States, 408-847-4857 ,,,6 am - 11 pm,,0
+Nob Hill Foods,,1700 Airline Hwy. ,,Hollister ,CA,95023,United States, 831-637-7447 ,,,6 am - 11 pm,,0
+Nob Hill Foods,,919 East Stanley ,,Livermore ,CA,94550,United States, 925-443-9500 ,,,6 am - 11 pm,,0
+Nob Hill Foods,,15710 Los Gatos Blvd. ,,Los Gatos ,CA,95030,United States, 408-356-0421 ,,,6-11 Mon-Sat    6-10 Sun,,0
+Nob Hill Foods,,520 Center Avenue ,,Martinez ,CA,94553,United States, 925-370-9400 ,,,6 am  to 11 pm,,0
+Nob Hill Foods,,900 Lighthouse Ave. ,,Monterey ,CA,93940,United States, 831-375-8220 ,,,6-11 Mon-Sat    6-10 Sun,,0
+Nob Hill Foods,,451 Vineyard Town Center ,,Morgan Hill ,CA,95037,United States, 408-779-8485 ,,,6-11 Mon-Sat    6-10 Sun,,0
+Nob Hill Foods,,1250 Grant Road ,,Mountain View ,CA,94040,United States, 650-390-9222 ,,,600 a.m - 1100 p.m.,,0
+Nob Hill Foods,,611 Trancas Street ,,Napa ,CA,94558,United States, 707-224-8583 ,,,6 am - 11 pm,,0
+Nob Hill Foods,,1945 N Street ,,Newman ,CA,95360,United States, 209-862-1002 ,,,6 am - 10 pm,,0
+Nob Hill Foods,,270 Redwood Shores Pkwy. ,,Redwood City ,CA,94065,United States, 650-654-2106 ,,,6 am - 11 pm,,0
+Nob Hill Foods,,1320 S. Main Street ,,Salinas ,CA,93901,United States, 831-758-8481 ,,,6am-12am Mon-Sat  6-11 Sun,,0
+Nob Hill Foods,,6061 Snell Avenue ,,San Jose ,CA,95123,United States, 408-225-0546 ,,,6-11 Mon-Sat  6 -10 Sun,,0
+Nob Hill Foods,,130 Market Place ,,San Ramon ,CA,94583,United States, 925-866-1022 ,,,6 am - 10 pm,,0
+Nob Hill Foods,,222 Mt. Hermon Road ,,Scotts Valley ,CA,95066,United States, 831-438-1611 ,,,6-11 Mon-Sat    6-10 Sun,,0
+Nob Hill Foods,,2270 Oak Grove Road ,,Walnut Creek ,CA,94598,United States, 925-256-7188 ,,,6 am - 10 pm,,0
+Nob Hill Foods,,1912 Main Street ,,Watsonville ,CA,95076,United States, 831-728-9555 ,,,6-11 Mon-Sat    6-10 Sun,,0
+Raley's,,3632 Lone Tree Way ,,Antioch ,CA,94509,United States, 925-754-2522 ,,,6 am - 11 pm,,0
+Raley's,,13384 Lincoln Way ,,Auburn ,CA,95603,United States, 530-885-0669 ,,,6 am - 11 pm,,0
+Raley's,,890 Southampton Rd. ,,Benicia ,CA,94510,United States, 707-746-1203 ,,,6 am - 11 pm,,0
+Raley's,,2400 Sand Creek Road ,,Brentwood ,CA,94513,United States, 925-513-9400 ,,,6 am - 11 pm,,0
+Raley's,,5159 Fair Oaks Blvd. ,,Carmichael ,CA,95608,United States, 916-483-9033 ,,,6 am - 11 pm,,0
+Raley's,,3701 S. Carson St. ,,Carson City ,NV,89701,United States, 775-883-8301 ,,,6 am - 11 pm,,0
+Raley's,,2485 Notre Dame Blvd. ,,Chico ,CA,95928,United States, 530-895-0933 ,,,6 am - 11 pm,,0
+Raley's,,211 West East Ave ,,Chico ,CA,95926,United States, 530-899-3300 ,,,6 am - 11 pm,,0
+Raley's,,7847 Lichen Drive ,,Citrus Heights ,CA,95621,United States, 916-722-4535 ,,,6 am - 11 pm,,0
+Raley's,,3935 Park Dr. ,,El Dorado Hills ,CA,95762,United States, 916-933-0518 ,,,6 am - 11 pm,,0
+Raley's,,4900 Elk Grove Blvd. ,,Elk Grove ,CA,95758,United States, 916-683-0700 ,,,6 am - 11 pm,,0
+Raley's,,2505 Mountain City Hwy. ,,Elko ,NV,89801,United States, 775-738-2775 ,,,6 am - 11 pm,,0
+Raley's,,3001 Travis Blvd. ,,Fairfield ,CA,94534,United States, 707-429-8410 ,,,6 am - 11 pm,,0
+Raley's,,3330 North Texas Street ,,Fairfield ,CA,94533,United States, 707-421-9990 ,,,6 am - 11 pm,,0
+Raley's,,4840 San Juan Ave. ,,Fair Oaks ,CA,95628,United States, 916-967-4718 ,,,6 am - 11 pm,,0
+Raley's,,8870 Madison Ave. ,,Fair Oaks ,CA,95628,United States, 916-966-2201 ,,,6 am - 11 pm,,0
+Raley's,,715 East Bidwell St. ,,Folsom ,CA,95630,United States, 916-983-7267 ,,,6am-11pm M-Sun,,0
+Raley's,,25025 Blue Ravine Road ,,Folsom ,CA,95630,United States, 916-351-1151 ,,,6 am to 11 pm,,0
+Raley's,,39200 Paseo Padre Parkway ,,Fremont ,CA,94538,United States, 510-791-0233 ,,,6 am - 11 pm,,0
+Raley's,,10430 Twin Cities Road ,,Galt ,CA,95632,United States, 209-745-4668 ,,,6 am - 10 pm,,0
+Raley's,,1363 Highway 395 North ,,Gardnerville ,NV,89410,United States, 775-782-5130 ,,,7 am - 11 pm,,0
+Raley's,,6845 Douglas Blvd. ,,Granite Bay ,CA,95746,United States, 916-791-8000 ,,,6 am - 11 pm,,0
+Raley's,,692 Freeman Lane ,,Grass Valley ,CA,95949,United States, 530-272-1958 ,,,6 am - 11 pm,,0
+Raley's,,930 Tahoe Blvd. ,,Incline Village ,NV,89451,United States, 775-831-3400 ,,,7 am -11 pm,,0
+Raley's,,781 South Highway 49 ,,Jackson ,CA,95642,United States, 209-223-9650 ,,,"6am - 10 pm, Sunday 6am - 9pm",,0
+Raley's,,39 Lincoln Blvd. ,,Lincoln ,CA,95648,United States, 916-408-5775 ,,,6am to 11pm daily,,0
+Raley's,,311 S Lower Sacramento Rd. ,,Lodi ,CA,95242,United States, 209-369-1917 ,,,6 am - 11 pm,,0
+Raley's,,6119 Horseshoe Bar Road ,,Loomis ,CA,95650,United States, 916-652-5737 ,,,6 am - 11 pm,,0
+Raley's,,1280 Lathrop Rd. ,,Manteca ,CA,95336,United States, 209-825-0242 ,,,6 am - 11 pm,,0
+Raley's,,3550 N. G St. ,,Merced ,CA,95340,United States, 209-722-3689 ,,,6 am - 11 pm,,0
+Raley's,,3020 Floyd Avenue Suite 139 ,,Modesto ,CA,95355,United States, 209-551-2050 ,,,6am - 11pm,,0
+Raley's,,3430 Tully Rd. Suite # 40 ,,Modesto ,CA,95350,United States, 209-527-2201 ,,,6 am - 11 pm,,0
+Raley's,,217 Soscol Avenue ,,Napa ,CA,94559,United States, 707-224-7897 ,,,6 am - 11 pm,,0
+Raley's,,1550 East F Street ,,Oakdale ,CA,95361,United States, 209-845-9800 ,,,6 am-11pm,,0
+Raley's,,40041 Hwy. 49 ,,Oakhurst ,CA,93644,United States, 559-683-8300 ,,,6 am - 11 pm,,0
+Raley's,,2077 Main St. ,,Oakley ,CA,94561,United States, 925-625-0744 ,,,6 am - 11 pm,,0
+Raley's,,2325 Meyers St. ,,Oroville ,CA,95966,United States, 530-533-2515 ,,,6 am - 11 pm,,0
+Raley's,,157 N. McDowell Blvd. ,,Petaluma ,CA,94954,United States, 707-766-6700 ,,,6 am - 11 pm,,0
+Raley's,,166 Placerville Dr. ,,Placerville ,CA,95667,United States, 530-622-6800 ,,,6 am - 11 pm,,0
+Raley's,,5420 Sunol Blvd. ,,Pleasanton ,CA,94566,United States, 925-846-4471 ,,,6 am - 11 pm,,0
+Raley's,,725 S. Main St. ,,Red Bluff ,CA,96080,United States, 530-527-6902 ,,,6 am - 11 pm,,0
+Raley's,,201 Lake Blvd. ,,Redding ,CA,96003,United States, 530-246-3508 ,,,6 am - 11 pm,,0
+Raley's,,1441 Mayberry Drive ,,Reno ,NV,89509,United States, 775-786-0270 ,,,7 am-11 pm,,0
+Raley's,,1075 N. Hills Blvd. ,,Reno ,NV,89506,United States, 775-677-8777 ,,,7 am - 11 pm,,0
+Raley's,,1630 Robb Drive ,,Reno ,NV,89523,United States, 775-746-6400 ,,,6 am - 11 pm,,0
+Raley's,,18144 Wedge Parkway ,,Reno ,NV,89511,United States, 775-850-8900 ,,,7 am - 11 pm,,0
+Raley's,,701 Keystone Ave. ,,Reno ,NV,89503,United States, 775-747-5267 ,,,6 am -11 pm,,0
+Raley's,,100 Raley's Town Center ,,Rohnert Park ,CA,94928,United States, 707-585-3222 ,,,6 am - 11 pm,,0
+Raley's,,4051 Woodcreek Oaks Blvd. ,,Roseville ,CA,95747,United States, 916-771-0880 ,,,6 am - 11 pm,,0
+Raley's,,1915 Douglas Blvd. ,,Roseville ,CA,95661,United States, 916-781-7845 ,,,6 am - 11 pm,,0
+Raley's,,3518 Marconi Avenue ,,Sacramento ,CA,95821,United States, 916-972-7177 ,,,6 am - 11 pm,,0
+Raley's,,4850 Freeport Blvd. ,,Sacramento ,CA,95822,United States, 916-452-6861 ,,,6 am - 11 pm,,0
+Raley's,,2075 Fair Oaks Blvd ,,Sacramento ,CA,95825,United States, 916-648-2003 ,,,6 am - 11 pm,,0
+Raley's,,8391 Folsom Blvd. ,,Sacramento ,CA,95826,United States, 916-383-6622 ,,,6 am - 11 pm,,0
+Raley's,,4650 Natomas Blvd. ,,Sacramento ,CA,95835,United States, 916-419-6633 ,,,6am to 11pm,,0
+Raley's,,3360 San Pablo Dam Rd. ,,San Pablo ,CA,94806,United States, 510-222-5935 ,,,6 am - 11 pm,,0
+Raley's,,1407 Fulton Rd. ,,Santa Rosa ,CA,95403,United States, 707-546-3435 ,,,6 am - 11 pm,,0
+Raley's,,4000 Lake Tahoe Blvd. # 6 ,,South Lake Tahoe ,CA,96150,United States, 530-544-3417 ,,,7 am - 12 midnight,,0
+Raley's,,1040 Emerald Bay Rd. ,,South Lake Tahoe ,CA,96150,United States, 530-541-5160 ,,,6 am - 11 p.m.,,0
+Raley's,,2389 Wingfield Hills Road ,,Spanish Springs ,NV,89436,United States, 775-626-8300 ,,,600 a.m. - 1000 p.m.,,0
+Raley's,,2895 North McCarran Blvd. ,,Sparks ,NV,89431,United States, 775-353-8800 ,,,7 am-10 pm,,0
+Raley's,,4255 East Morada Lane ,,Stockton ,CA,95212,United States, 209-956-9300 ,,,6am to 10pm,,0
+Raley's,,270 Sunset Ave. ,,Suisun City ,CA,94585,United States, 707-426-1023 ,,,6 am - 10 pm,,0
+Raley's,,2550 South Tracy Blvd. ,,Tracy ,CA,95376,United States, 209-830-7700 ,,,6 am to 11 pm,,0
+Raley's,,2900 Geer Rd. ,,Turlock ,CA,95380,United States, 209-667-5253 ,,,6 am - 11 pm,,0
+Raley's,,1315 N. State St. ,,Ukiah ,CA,95482,United States, 707-468-5178 ,,,6 am - 11 pm,,0
+Raley's,,3061 Alamo Dr. ,,Vacaville ,CA,95687,United States, 707-446-8707 ,,,6 am - 11 pm,,0
+Raley's,,4300 Sonoma Blvd. ,,Vallejo ,CA,94589,United States, 707-642-1175 ,,,6 am - 10 pm,,0
+Raley's,,1601 West Capitol Ave. ,,West Sacramento ,CA,95691,United States, 916-372-3000 ,,,6 am - 11 pm / Sat & Sun 7 am - 11 pm,,0
+Raley's,,8852 Lakewood Dr. ,,Windsor ,CA,95492,United States, 707-838-6604 ,,,6 am - 11 pm,,0
+Raley's,,367 West Main St. ,,Woodland ,CA,95695,United States, 530-666-1156 ,,,6 am - 11 pm,,0
+Raley's,,1842 Fort Jones St. ,,Yreka ,CA,96097,United States, 530-842-4307 ,,,6 am - 10 pm,,0
+Raley's,,700 W. Onstott Frontage Road ,,Yuba City ,CA,95991,United States, 530-673-5931 ,,,6 am - 11 pm,,0
+Raley's Murieta Market,,7248 Murieta Drive ,,Rancho Murieta ,CA,95683,United States, 916-354-2001 ,,,7 am - 8 pm,,0

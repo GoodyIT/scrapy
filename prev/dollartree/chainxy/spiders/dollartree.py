@@ -11,8 +11,7 @@ class DollartreeSpider(scrapy.Spider):
     name = "dollartree"
     uid_list = []
 
-    payload = '<request><appkey>134E9A7A-AB8F-11E3-80DE-744E58203F82</appkey><formdata id="locatorsearch"><dataview>store_default</dataview><limit>250</limit><geolocs><geoloc><addressline></addressline><longitude>$$$lg$$$</longitude><latitude>$$$lt$$$</latitude></geoloc></geolocs><searchradius>10|25|50|100|250</searchradius><where><icon><eq>DollarTree</eq></icon><ebt><eq></eq></ebt><freezers><eq></eq></freezers></where></formdata></request>'
-
+    payload = '<request><appkey>6AE61B08-BDDD-11E4-91AA-0BADF48ECC77</appkey><formdata id="getlist"><order>city</order><objectname>Locator::Base</objectname><where><state><eq>%s</eq></state></where></formdata></request>'
     def __init__(self):
         long_lat_fp = open('uscanplaces.csv', 'rb')
         self.long_lat_reader = csv.reader(long_lat_fp)

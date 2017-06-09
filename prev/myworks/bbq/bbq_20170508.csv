@@ -1,0 +1,52 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+"Dover, DE",,365 N Dupont Hwy,,Dover,DE,19901,United States,302-401-4506,39.1725201,-75.5217847,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Bradenton, FL",,4501 14th St W,,Bradenton,FL,34207,United States,941-209-4887,27.4594476,-82.5775595,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Brandon, FL",,1504 W Brandon Blvd,,Brandon,FL,33511,United States,813-830-9618,27.9380139,-82.3082668,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Davie,  FL",,2411 S University Dr,,Davie,FL,33324,United States,954-766-4304,26.0891501,-80.2512303,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Fort Myers, FL",,12984 S Cleveland Ave,,Fort Myers,FL,33907,United States,239-603-6700,26.553266,-81.872491,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Orange Park, FL",,8440 Blanding Blvd,,Jacksonville,FL,32244,United States,904-712-0252,37.0625,-95.677068,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Tallahassee, FL",,216 S Magnolia Dr,,Tallahassee,FL,32301,United States,850-702-3513,30.4402451,-84.2647743,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Temple Terrace USF, Tampa, FL",,13612 Bruce B Downs Blvd,,Tampa,FL,33613,United States,813-443-9443,28.0714937,-82.4289597,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Town & Country, Tampa, FL",,5602 West Waters Ave,,Tampa,FL,33634,United States,813-999-0922,28.024923,-82.537737,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Evansville, IN",,1530 N Green River Rd,,Evansville,IN,47715,United States,812-213-0200,37.9906378,-87.4953502,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"St. Matthews, KY",,4607 Shelbyville Rd,,St. Matthews,KY,40207,United States,502-206-3331,38.2512446,-85.6293965,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Downtown Annapolis, MD",,142 Dock St,,Annapolis,MD,21401,United States,443-221-4731,38.9780551,-76.488836,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Annapolis, MD",,2101 Somerville Road,,Annapolis,MD,21401,United States,443-569-4700,38.9814849,-76.5378607,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Canton, MD",,3701 Boston Street,,Baltimore,MD, 21224,United States,443-955-6807,,,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"California, MD",,22599 MacArthur Boulevard,,California,MD,20619,United States,301-880-0857,,,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Columbia, MD",,6270 Columbia Crossing Circle,,Columbia,MD,21045,United States,443-832-6180,39.199195,-76.813579,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Ellicott City, MD",,3410 Plum Tree Drive,,Ellicott City,MD,21042,United States,443-574-7333,39.2770626,-76.8382942,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Gambrills,  MD",,2503 Evergreen Rd,,Gambrills,MD,21054,United States,410-697-1002,39.0353001,-76.6995102,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Glen Burnie, MD",,7748 Governor Ritchie Highway,,Glen Burnie,MD,21061,United States,410-773-9888,,,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Greenbelt, MD",,5506 Cherrywood Ln,,Greenbelt,MD,20770,United States,240-542-9200,38.998653,-76.912332,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Hagerstown, MD",,17301 Valley Mall Rd,,Hagerstown,MD,21740,United States,443-491-8777,39.6240202,-77.7726751,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Laurel, MD",,14712 Baltimore Ave,,Laurel,MD,20707,United States,240-360-0050,39.0924081,-76.8564339,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Owings Mills, MD",,10140 Reisterstown Rd,,Owings Mills,MD,21117,United States,410-648-2071,39.4144735,-76.7753539,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Perry Hall, MD",,4132 E. Joppa Road,,Perry Hall,MD,21236,United States,443-219-4660,,,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Rockville, MD",,885 Rockville Pike,,Rockville,MD,20852,United States,301-444-5574,39.0748549,-77.1394762,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Fayetteville, NC",,1932 Skibo Rd,,Fayetteville,NC,28314,United States,910-491-9500,35.0661541,-78.9673233,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Jacksonville, NC",,1638 Western Blvd,,Jacksonville,NC,28546,United States,910-378-2662,34.789103,-77.403821,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Wilmington, NC",,351 South College Road,,Wilmington,NC,28403,United States,910-338-2858,34.2334712,-77.8743593,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Deptford, NJ",,1901 Deptford Center Rd,,Deptford,NJ,08096,United States,856-352-5158,39.8278296,-75.0923521,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Canton, OH",,4490 Everhard Rd,,Canton,OH,44718,United States,234-209-9913,40.8582994,-81.4342984,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Parma, OH",,8225 W Ridgewood Dr,,Parma,OH,44129,United States,216-487-6274,41.3845293,!1s0x8830e92cd511c095:0x2432903ed7bab16,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Harrisburg, PA",,5045 Jonestown Rd,,Harrisburg,PA,17112,United States,717-901-4317,40.308336,-76.806133,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"King of Prussia, PA",,120 Village Drive,,King of Prussia,PA,19406,United States,484-637-2595,40.0843345,-75.4070456,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Philadelphia, PA",,11000 Roosevelt Blvd,,Philadelphia,PA,19116,United States,267-538-0102,40.102162,-75.009483,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Plymouth Meeting, PA",,615 W Germantown Pike,,Plymouth Meeting,PA,19462,United States,610-741-1637,40.1182947,-75.2884826,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Warminster, PA",,25 West Street Rd,,Warminster,PA,18974,United States,215-845-0977,40.1969472,-75.0848656,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Whitehall, PA",,1421 Grape St,,Whitehall,PA,18052,United States,484-408-0325,40.6329771,-75.48645,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Wyomissing, PA",,1775 Papermill Rd,,Wyomissing,PA,19610,United States,484-509-0019,40.3469313,-75.9711357,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"York, PA",,970 Loucks Road,,York,PA,17404,United States,717-781-2120,,,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"North Myrtle Beach, SC",,1380 Highway 17 North,,North Myrtle Beach,SC,29582,United States,843-510-0500,33.8414403,-78.6659298,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Nashville, TN",,161 Opry Mills Dr,,Nashville,TN,37214,United States,615-933-5225,36.2043427,-86.6972642,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Alexandria, VA",,6482 Landsdowne Centre,,Alexandria,VA,22315,United States,571-932-3100,38.7403304,-77.1664848,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Chantilly, VA",,13067 Lee Jackson Memorial Highway,,Chantilly,VA,22033,United States,571-325-0975,38.8809122,-77.4016276,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Charlottesville, VA",,3912 Lenox Ave,,Charlottesville,VA,22901,United States,434-260-7740,38.0678141,-78.4924151,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Chesapeake, VA",,1329 N Battlefield Blvd,,Chesapeake,VA,23320,United States,757-276-5955,36.7658447,-76.2532673,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Hampton, VA",,2035 Von Schilling Dr,,Hampton,VA,23666,United States,757-847-5506,37.0441504,-76.3923545,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Richmond, VA",,5440 Glenside Drive,,Richmond,VA,23228,United States,804-548-4622,37.609083,-77.5168681,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Roanoke, VA",,2229 Colonial Ave SW,,Roanoke,VA,24015,United States,540-613-5513,37.254122,-79.9571379,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Stafford, VA",,267 Garrisonville Rd,,Stafford,VA,22554,United States,540-699-0291,38.4744081,-77.4189642,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Virginia Beach, VA",,116 South Independence Blvd,,Virginia Beach,VA,23462,United States,757-490-9050,36.838903,-76.1356312,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0
+"Winchester, VA",,2630 South Pleasant Valley Rd,,Winchester,VA,22601,United States,540-771-5686,39.1524286,-78.1786617,Mon-Thu: 11am to 9pm; Fri & Sat: 11am to 10pm; Sun: 11:30am to 8pm,,0

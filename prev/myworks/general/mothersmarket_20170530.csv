@@ -1,0 +1,8 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Brea,,413 S Associated Road ,,Brea ,California,92821-5802,United States,(714) 990-6667,,,Weekdays; : 7:00am to 10:00pm; Saturdays; : 7:00am to 10:00pm; Sundays; : 7:00am to 10:00pm; ,,0
+Costa Mesa,,1890 Newport Blvd. ,,Costa Mesa ,CA,92627,United States,(949) 631-4741,,,Weekdays; : 7:00 am - 10pm; Saturdays; : 7:00 am - 10pm; Sundays; : 7:00 am - 10pm; ,,0
+Laguna Woods,,24165 Paseo de Valencia ,,Laguna Woods ,CA,92653,United States,(949) 768-6667,,,Weekdays; : 7am - 10pm; Saturdays; : 7am - 10pm; Sundays; : 7am - 10pm; ,,0
+Anaheim Hills,,5759 E Santa Ana Canyon Rd. ,,Anaheim ,CA,92807,United States,(714) 974-6667,,,Weekdays; : 7:00am - 10:00pm; Saturdays; : 7:00am - 10:00pm; Sundays; : 7:00am - 10:00pm; ,,0
+Irvine,,2963 Michelson Dr. ,,Irvine ,CA,92612,United States,(949) 752-6667,,,Weekdays; : 7:00 am - 10pm; Saturdays; : 7:00 am - 10pm; Sundays; : 7:00 am - 10pm; ,,0
+Santa Ana,,151 E Memory Ln. ,,Santa Ana ,CA,92705,United States,(714) 542-6667,,,Weekdays; : 7:00am - 10:00pm; Saturdays; : 7:00am - 10:00pm; Sundays; : 7:00am - 10:00pm; ,,0
+Huntington Beach,,19770 Beach Blvd. ,,Huntington Beach ,CA,92648,United States,(714) 963-6667,,,Weekdays; : 7am - 10pm; Saturdays; : 7am - 10pm; Sundays; : 7am - 10pm; ,,0

@@ -1,0 +1,35 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+,,3407 Mississippi Ave. ,,Cahokia ,IL,62206,United States,618.337.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,3801 Nameoki Suite 19 ,,Granite City ,IL,62040,United States,618.877.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,658 Carlyle Plaza ,,Belleville ,IL,62221,United States,618.233.7777,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,4411 W. Center Drive ,,Alton ,IL,62002,United States,618.463.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,2427 Stevenson Drive ,,Springfield ,IL,62703,United States,217.391.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,1817 W. Morton ,,Jacksonville ,IL,62650,United States,217.479.8585,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,906 Springfield ,,Taylorville ,IL,62568,United States,217.287.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,# 1 Litchfield Plaza Shopping Center ,,Litchfield ,IL,62056,United States,217.324.5500,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,2800 N. Water ,,Decatur ,IL,62526,United States,217.872.6622,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,2667 Northtown Way ,,Highland ,IL,62249,United States,618.651.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,907 South State St. ,,Jerseyville ,IL,62052,United States,618.498.8500,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,3111 W Harmon Highway ,,Peoria ,IL,61604,United States,309.282.1122,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,2332 S. MacArthur ,,Springfield ,IL,62704,United States,217.241.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,501 Lakeland Blvd. ,,Mattoon ,IL,61938,United States,217.234.6333,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,3407 Prospect Blvd ,,Peoria ,IL,61603,United States,309.222.2222,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,101 S. Kickapoo ,,Lincoln ,IL,62656,United States,217.735.2333,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,2616 Cherokee St. ,,St. Louis ,MO,63118,United States,314.664.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,8933 Natural Bridge ,,St. Louis ,MO,63121,United States,314.427.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,3110 W. Clay St. ,,Charles ,MO,63301,United States,636.928.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,7947 Page Ave. ,,St. Louis ,MO,63133,United States,314.727.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,9000 W. Florissant ,,St. Louis ,MO,63136,United States,314.867.2222,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,896 Arnold Commons Drive ,,Arnold ,MO,63010,United States,636.282.9999,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,334 N. Sarah ,,St. Louis ,MO,63108,United States,314.652.8888,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,3345 S. Kingshighway ,,St. Louis ,MO,63139,United States,314.481.6666,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,8305 Halls Ferry ,,St. Louis ,MO,63147,United States,314.385.6666,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,91 North Oaks Plaza ,,St. Louis ,MO,63121,United States,314.382.6666,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,2302 N. Truman Blvd. ,,Crystal City ,MO,63019,United States,636.931.6688,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,3458 Union Blvd ,,St. Louis ,MO,63115,United States,314.381.7777,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,205 E. Karsch Blvd. ,,Farmington ,MO,63640,United States,573.756.1222,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,1785 N. US Hwy 67 ,,Florissant ,MO,63033,United States,314.838.7777,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,606 E. Booneslick Rd. ,,Warrenton ,MO,63383,United States,636.456.6666,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,# 9 Lincoln Center Suite C ,,Troy ,MO,63379,United States,636.528.5800,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,1937 Bedford Center Dr. ,,Washington ,MO,63090,United States,636.390.8000,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0
+,,1461 Dunn Rd. ,,St. Louis ,MO,63138,United States,314.868.9955,,,M-TH 9:30-6:00; FRI 9:30-7:00; SAT 9:30-5:00; ,,0

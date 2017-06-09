@@ -65,7 +65,7 @@ class Pancheros(scrapy.Spider):
             item['latitude'] = store_info['lat']
             item['longitude'] = store_info['lng']
 
-            item['store_hours'] = self.validate(store_info['store_hours'])
+            item['store_hours'] = self.validate(store_info['store_hours']).replace('<br />', '')
             item['other_fields'] = ""
             item['coming_soon'] = "0"
                 

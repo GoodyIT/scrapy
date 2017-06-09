@@ -1,0 +1,18 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Broadway Coffeebar,,3123 N. Broadway,,Chicago,Illinois,60657,United States,773.348.8058,,,Monday-Friday:6:30am-8pm; Saturday-Sunday:7am-8pm; ,,0
+Monadnock Coffeebar,,Monadnock Building,53 West Jackson Blvd.,Chicago,Illinois,60604,United States,312.253.0594,,,Monday-Friday:6am-6pm; Saturday:8am-4pm; Sunday:Closed; ,,0
+Millennium Park Coffeebar,,53 East Randolph St.,,Chicago,Illinois,60601,United States,312.920.9332,,,Monday-Friday:6:30am-8pm; Saturday:7am-8pm; Sunday:7am-7pm; ,,0
+Logan Square Coffeebar,,2642 North Milwaukee Avenue,,Chicago,Illinois,60647,United States,773.945.1690,,,Monday-Friday:6:30am-8pm; Saturday-Sunday:7am-8pm; ,,0
+Old Town Coffeebar,,1233 N. Wells,,Chicago,Illinois,60610,United States,312.229.1400,,,Monday-Thursday:6am-6pm; Friday-Sunday:6am-8pm; ,,0
+Wicker Park Coffeebar,,1609 West Division,,Chicago,Illinois,60622,United States,773.516.5833,,,Monday-Friday:6:30am-8pm; Saturday-Sunday:7am-8pm; ,,0
+Silver Lake Coffeebar,,3922 West Sunset Blvd.,,Los Angeles,California,90029,United States,323.663.6173,,,Sunday-Wednesday:6am-8pm; Thursday-Saturday:6am-10pm; ,,0
+Venice Coffeebar,,1331 Abbot Kinney Blvd.,,Venice,California,90291,United States,310.399.1233,,,Monday-Thursday:6am-8pm; Friday:6am-10pm; Saturday:7am-10pm; Sunday:7am-8pm; ,,0
+Pasadena Coffeebar,,55 East Colorado Blvd.,,Pasadena,California,91105,United States,626.578.1270,,,Sunday-Thursday:7am-8pm; Friday-Saturday:7am-11pm; ,,0
+High Line Coffeebar,,High Line Hotel,180 10th Ave at 20th St,New York,New York,10011,United States,212.933.9736,,,Sunday-Thursday:7am-6pm; Friday-Saturday:7am-7pm; ,,0
+New York Training Lab,,"1331 594 Broadway, Suite 909A",,New York,New York,10012,United States,212.203.4268,,,,,0
+Watertown Coffeebar,,810 Mount Auburn St.,,Watertown,Massachusetts,02472,United States,,,,,,0
+Watertown Sales Office & Training Lab,,818 Mount Auburn St.,,Watertown,Massachusetts,02472,United States,,,,,,0
+Chicago Roasting Works,,1850 W. Fulton St,,Chicago,Illinois,60612,United States,312.563.0023,,,Monday-Friday:8:30am-5pm; ,,0
+Los Angeles Roasting Works,,2737 North San Fernando Rd.,,Los Angeles,California,90065,United States,323.982.8874,,,Monday-Friday:8:30am-5pm; ,,0
+San Francisco Roasting Works,,1125 Mariposa St.,,San Francisco,California,94107,United States,415.861.3384,,,Monday-Friday:8:30am-5pm; ,,0
+Atlanta Training Lab,,216 14th st NW,,Atlanta,Georgia,30318,United States,,,,,,0

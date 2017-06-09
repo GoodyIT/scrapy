@@ -1,0 +1,8 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Tustin,86,1621 Edinger Avenue,,Tustin,CA,92780,United States,(714) 259-0499,33.721565,-117.826668,Mon-Fri:10:00 AM - 9:00 PM; Sat & Sun:11:00 AM - 8:00 PM;,,
+Costa Mesa,82,20060 Santa Ana Avenue,,Costa Mesa,CA,92626,United States,(714) 557-6822,33.665585,-117.882500,Mon-Fri:10:00 AM - 9:00 PM; Sat:10:00 AM - 8:00 PM; Sun:Closed;,,
+Brea,81,275 West Birch Street,,Brea,CA,92821,United States,(714) 990-6881,33.919209,-117.901215,Sun-Thurs:10:00 AM - 9:00 PM; Fri & Sat:10:00 AM - 10:00 PM;,,
+Huntington Beach,83,16062 Goldenwest Street,,Huntington Beach,CA,92647,United States,714-861-1334,33.729473,-118.006477,Mon-Fri:10:00 AM - 9:00 PM; Sat & Sun:9:00 AM - 9:00 PM;,,
+Lake Forest,85,22681 Lake Forest Drive,,Lake Forest,CA,92630,United States,(949)457-1435,33.633080,-117.711884,Monday10:00 am - 9:00 pm;         Tuesday10:00 am - 9:00 pm;         Wednesday10:00 am - 9:00 pm;         Thursday10:00 am - 9:00 pm; Friday 10:00 am - 9:00 pm; Saturday 10:00 am - 9:00 pm;           Sunday 10:00 am - 8:00 pm;,,
+Anaheim,79,2085 East Katella Avenue,,Anaheim,CA,92806,United States,(714) 935-0666,33.803879,-117.887138,Mon-Fri:10:00 AM - 9:00 PM; Sat & Sun:11:00 AM - 8:00 PM;,,
+Woodburn,105,1001 North Arney Road,,Woodburn,OR,97071,United States,+1 503-982-3822,45.156212,-122.878288,Mon-Sat:10:00 AM - 9:00 PM; Sun:10:00 AM - 7:00 PM;,,

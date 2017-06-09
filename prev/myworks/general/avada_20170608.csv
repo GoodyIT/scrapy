@@ -1,0 +1,134 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+"Henderson, TX",449,2006 Jacksonville Dr Suite # 2 ,,Henderson ,TX,75654,United States,(903) 884-0780,,,,,0
+"Longview, TX",448,1609 Judson Road ,,Longview ,TX,75601,United States,(903) 252-3637,,,,,0
+"Mineola, TX",450,108 N Johnson St ,,Mineola ,TX,75773,United States,(903) 497-3061,,,,,0
+"Texarkana, TX",452,3505 Summerhill Road Suite 10 ,,Texarkana ,TX,75501,United States,(903) 949-6486,,,,,0
+"Tyler, TX",451,844 S. Fleishel Avenue ,,Tyler ,TX,75701,United States,(903) 730-5802,,,,,0
+"Aberdeen, WA",467,110 West Market St. Ste 101 ,,Aberdeen ,WA,98520,United States,(360) 637-4437,,,,,0
+"Bremerton, WA",471,2525 6th St Suite C ,,Bremerton ,WA,98312,United States,(360) 362-4247,,,,,0
+"Centralia, WA",466,515 Harrison Avenue Suite 102 ,,Centralia ,WA,98531,United States,(360) 330-4489,,,,,0
+"Longview, WA",470,945 Washington Way Suite 111 ,,Longview ,WA,98632,United States,(360) 200-4167,,,,,0
+"Olympia, WA",468,2600 East Martin Way Suite A ,,Olympia ,WA,98506,United States,(360) 464-2499,,,,,0
+"Shelton, WA",469,2020 Olympic Hwy N ,,Shelton ,WA,98584,United States,(360) 868-4277,,,,,0
+"Vancouver, WA",472,717 NE 61st Street Suite 103 ,,Vancouver ,WA,98665,United States,(360) 947-3546,,,,,0
+"Beaverton, OR",436,8625 SW Cascade Ave Suite 103 ,,Beaverton ,OR,97008,United States,(503) 616-5894,,,,,0
+"Clackamas, OR",438,10365 SE Sunnyside Road Suite 230 ,,Clackamas ,OR,97015,United States,(503) 427-1776,,,,,0
+"Newberg, OR",437,1014 North Springbrook Road Suite B ,,Newberg ,OR,97132,United States,(503) 476-3303,,,,,0
+"Oregon City, OR",435,1900 SE McLoughlin Blvd Suite 24-B ,,Oregon City ,OR,97045,United States,(503) 210-5650,,,,,0
+"Portland, OR",439,12724 SE Stark Street ,,Building H Portland ,OR,97233,United States,(503) 928-4838,,,,,0
+"Bridgewater, PA",440,195 Boundary Lane Suite 1 ,,Bridgewater ,PA,15009,United States,(724) 227-0095,,,,,0
+"Butler, PA",447,1022 North Main Street ,,Butler ,PA,16001,United States,(724) 416-9513,,,,,0
+"Clarion, PA",445,22868 Route 68 ,,Clarion ,PA,16214,United States,(814) 297-5167,,,,,0
+"Natrona Heights, PA",443,1601 Union Ave ,,Natrona Heights ,PA,15065,United States,(724) 382-3284,,,,,0
+"New Castle, PA",441,3124 Wilmington Rd Suite 404 ,,New Castle ,PA,16105,United States,(724) 498-4851,,,,,0
+"West Kittanning, PA",444,204 Butler Rd ,,West Kittanning ,PA,16201,United States,(724) 633-6339,,,,,0
+"Zelienople, PA",442,320 S. Main Street ,,Zelienople ,PA,16063,United States,(724) 716-1525,,,,,0
+"Barre, VT",463,58 E View Ln Suite D ,,Barre ,VT,05641,United States,(802) 778-3081,,,,,0
+"Burlington, VT",465,46 Swift Street ,,Burlington ,VT,05401,United States,(802) 497-6739,,,,,0
+"Rutland, VT",464,31 N Main St ,,Rutland ,VT,05701,United States,(802) 282-4095,,,,,0
+"Bellefontaine, OH",427,921 Rush Avenue ,,Bellefontaine ,OH,43311,United States,(937) 404-3098,,,,,0
+"Cambridge, OH",428,407 Wheeling Avenue ,,Cambridge ,OH,43725,United States,(740) 421-4790,,,,,0
+"Centerville, OH",423,200 East Spring Valley Road Suite B ,,Centerville ,OH,45458,United States,(937) 203-3017,,,,,0
+"Columbus, OH",431,1720 Schrock Road ,,Columbus ,OH,43229,United States,(614) 423-4604,,,,,0
+"Dayton, OH",422,5525 N Main St ,,Dayton ,OH,45415,United States,(937) 660-8935,,,,,0
+"Eaton, OH",420,200 Eaton Lewisburg Road Suite 104 ,,Eaton ,OH,45320,United States,(937) 533-2119,,,,,0
+"Lancaster, OH",429,2670 N. Columbus Street Suite B ,,Lancaster ,OH,43130,United States,(740) 994-0405,,,,,0
+"Middletown, OH",421,42 North Breiel Boulevard ,,Middletown ,OH,45044,United States,(937) 660-8541,,,,,0
+"Mount Vernon, OH",425,809 Coshocton Ave ,,Mount Vernon ,OH,43130,United States,(740) 326-4337,,,,,0
+"Reynoldsburg, OH",434,7646 Slate Ridge Boulevard ,,Reynoldsburg ,OH,43068,United States,(614) 986-3262,,,,,0
+"Springfield, OH",424,1699 N. Bechtle Ave ,,Springfield ,OH,45504,United States,(937) 688-3850,,,,,0
+"Urbana, OH",432,888 East Court Street ,,Urbana ,OH,43078,United States,(937) 508-2275,,,,,0
+"West Chester, OH",430,7735 Tylers Place Boulevard ,,West Chester ,OH,45069,United States,(513) 342-1412,,,,,0
+"Xenia, OH",426,156 South Progress Drive Suite B ,,Xenia ,OH,45385,United States,(937) 502-1029,,,,,0
+"Zanesville, OH",433,3592 Maple Avenue ,,Zanesville ,OH,43701,United States,(740) 617-0757,,,,,0
+"Altavista, VA",458,1007 Main St Suite B ,,Altavista ,VA,24517,United States,(434) 509-4676,,,,,0
+"Danville, VA",456,625 Piney Forest Road Suite 206 ,,Danville ,VA,24540,United States,(434) 421-3039,,,,,0
+"Emporia, VA",453,307 Dogwood Ln Suite C ,,Emporia ,VA,23847,United States,(434) 336-6115,,,,,0
+"Farmville, VA",457,1414 W 3rd St ,,Farmville ,VA,23901,United States,(434) 607-4629,,,,,0
+"Franklin, VA",462,106 Fairview Dr Suite B ,,Franklin ,VA,23851,United States,(757) 516-7085,,,,,0
+"Hampton, VA",460,1507 Hardy Cash Dr ,,Hampton ,VA,23666,United States,(757) 637-4277,,,,,0
+"Lynchburg, VA",459,2025 Tate Springs Road ,,Lynchburg ,VA,24502,United States,(434) 329-3161,,,,,0
+"South Boston, VA",461,4021 Halifax Road Suite B ,,South Boston ,VA,24592,United States,(434) 471-4219,,,,,0
+"South Hill, VA",455,518 E Atlantic St ,,South Hill ,VA,23970,United States,(434) 584-8173,,,,,0
+"Suffolk, VA",454,1577 Wilroy Road Suite 201 ,,Suffolk ,VA,23434,United States,(757) 942-8046,,,,,0
+"Concord, NH",417,341 Louden Road ,,Concord ,NH,03301,United States,(603) 565-0005,,,,,0
+"Keene, NH",416,640 Marlborough Rd Route 101 ,,Keene ,NH,03431,United States,(603) 338-9269,,,,,0
+"Merrimack, NH",418,416 Daniel Webster Hwy Suite L ,,Merrimack ,NH,03054,United States,(603) 420-9361,,,,,0
+"West Lebanon, NH",419,8 Interchange Drive West ,,Lebanon ,NH,03784,United States,(603) 276-4177,,,,,0
+"Anoka, MN",365,2850 Cutters Grove Ave Suite 104 ,,Anoka ,MN,55303,United States,(763) 515-8412,,,,,0
+"Baxter, MN",369,7656 Design Dr Suite 300 ,,Baxter ,MN,56425,United States,(218) 297-4933,,,,,0
+"Buffalo, MN",364,1200 Highway 25 North Suite 100 ,,Buffalo ,MN,55313,United States,(763) 400-5831,,,,,0
+"Burnsville, MN",361,12940 Harriet Ave S Suite 110 ,,Burnsville ,MN,55337,United States,(952) 955-4402,,,,,0
+"Chicopee, MA",351,683 James St ,,Chicopee ,MA,01020,United States,(413) 887-5447,,,,,0
+"Cloquet, MN",358,4 13th St ,,Cloquet ,MN,55720,United States,(218) 206-8851,,,,,0
+"Duluth, MN",359,324 W Superior St Suite 200 ,,Duluth ,MN,55802,United States,(218) 491-6230,,,,,0
+"Edina, MN",363,7250 France Ave S Suite 418 ,,Edina ,MN,55435,United States,(952) 955-7920,,,,,0
+"Forest Lake, MN",371,86 NW 3rd ,,St Forest Lake ,MN,55025,United States,(651) 356-6187,,,,,0
+"Greenfield, MA",352,63 French King Hwy ,,Greenfield ,MA,01301,United States,(413) 223-9142,,,,,0
+"Hatfield, MA",355,10 West Street United States ,,Hatfield ,MA,01088,United States,(413) 349-4060,,,,,0
+"Pittsfield, MA",350,222 South St ,,Pittsfield ,MA,01201,United States,(413) 242-9403,,,,,0
+"West Springfield, MA",354,459 Riverdale St ,,West Springfield ,MA,01089,United States,(413) 306-3947,,,,,0
+"Hastings, MN",362,107 12th Street West ,,Hastings ,MN,55033,United States,(651) 964-4865,,,,,0
+"Inver Grove Heights, MN",356,5972 Cahill Ave E Suite 103 ,,Inver Grove Heights ,MN,55076,United States,(651) 964-3989,,,,,0
+"Maplewood, MN",367,2785 White Bear Ave N Suite 406 ,,Maplewood ,MN,55109,United States,(651) 968-8178,,,,,0
+"New Hope, MN",372,7500 42nd Avenue North Suite B ,,New Hope ,MN,55427,United States,(763) 515-8407,,,,,0
+"Bardstown, KY",345,118 Patriot Drive Suite 205 ,,Bardstown ,KY,40004,United States,(270) 506-5419,,,,,0
+"Wilbraham, MA",353,95 Post Office Park ,,Wilbraham ,MA,01095,United States,(413) 279-9003,,,,,0
+"Plymouth, MN",370,3021 Harbor Ln N Suite 212 ,,Plymouth ,MN,55447,United States,(763) 400-5829,,,,,0
+"Roseville, MN",368,1935 West County Road B2 Suite 180 ,,Roseville ,MN,55113,United States,(651) 964-1148,,,,,0
+"Saint Cloud, MN",366,1411 West Street Suite 203 ,,Germain Saint Cloud ,MN,56301,United States,(320) 345-7792,,,,,0
+"Elizabethtown, KY",348,2414 Ring Rd Ste 106 ,,Elizabethtown ,KY,42701,United States,(270) 506-5416,,,,,0
+"LaGrange, KY",346,2005 S Hwy 53 F ,,LaGrange ,KY,40031,United States,(502) 650-8687,,,,,0
+"Louisville, KY (Dixie Hwy)",342,5120 Dixie Hwy Suite 104 ,,Louisville ,KY,40216,United States,(502) 379-4305,,,,,0
+"Louisville, KY (Highlands)",349,2239 Bardstown Rd ,,Louisville ,KY,40205,United States,(502) 638-2602,,,,,0
+"Shakopee, MN",360,327 Marshall Rd Suite 200 ,,Shakopee ,MN,55379,United States,(952) 388-2838,,,,,0
+"Waconia, MN",357,133 W 1st St L102 ,,Waconia ,MN,55387,United States,(952) 955-4535,,,,,0
+"Louisville, KY (Middletown)",347,406 Blankenbaker Pkwy Suite A ,,Louisville ,KY,40243,United States,(502) 638-2780,,,,,0
+"Louisville, KY (Okolona)",343,7926 Preston Hwy Suite 206 ,,Louisville ,KY,40219,United States,(502) 912-9992,,,,,0
+"Shelbyville, KY",344,Ky. Eye Care 13 Village Plaza ,,Shelbyville ,KY,40065,United States,(502) 365-5198,,,,,0
+"New Albany, IN",341,2870 Charlestown Rd ,,New Albany ,IN,47150,United States,(812) 590-4843,,,,,0
+"Avon, CT",339,47 W Main St ,,Avon ,CT,06001,United States,(860) 269-3784,,,,,0
+"East Windsor, CT",340,2A Pasco Dr ,,East Windsor ,CT,06088,United States,(860) 254-6604,,,,,0
+"Kinston, NC",393,2300 N Herritage St Suite C ,,Kinston ,NC,28504,United States,(252) 624-3224,,,,,0
+"Laurinburg, NC",385,915 S. Main St. Suite F ,,Laurinburg ,NC,28352,United States,(910) 534-4059,,,,,0
+"Lexington, NC",404,121 W Center St ,,Extension Lexington ,NC,27292,United States,(336) 313-3148,,,,,0
+"Louisburg, NC",390,218 North Bickett Boulevard ,,Louisburg ,NC,27549,United States,(919) 729-8004,,,,,0
+"Marion, NC",405,97 South Main Street ,,Marion ,NC,28752,United States,(828) 527-0226,,,,,0
+"Mocksville, NC",410,1370 US Hwy 601 ,,Mocksville ,NC,27028,United States,(336) 306-8175,,,,,0
+"Morehead City, NC",374,312 Commerce Ave Suite B ,,Morehead City ,NC,28557,United States,(252) 648-7401,,,,,0
+"New Bern, NC",395,2120 Trent Blvd ,,New Bern ,NC,28560,United States,(252) 649-0360,,,,,0
+"Raleigh, NC",411,7019 Harps Mill Road ,,Raleigh ,NC,27615,United States,(919) 760-6851,,,,,0
+"Roanoke Rapids, NC",401,400 Becker Drive Suite A ,,Roanoke Rapids ,NC,27870,United States,(252) 219-3195,,,,,0
+"Rocky Mount, NC",402,3132 Sunset Ave ,,Rocky Mount ,NC,27804,United States,(252) 557-4094,,,,,0
+"Shallotte, NC",384,4924 Main Street Suite 11 ,,Shallotte ,NC,28470,United States,(910) 775-3091,,,,,0
+"Siler City, NC",383,514 E. 3rd St. Suite B ,,Siler City ,NC,27344,United States,(919) 930-3066,,,,,0
+"Smithfield, NC",382,332 N. Brightleaf Blvd. Suite A ,,Smithfield ,NC,27577,United States,(919) 300-4297,,,,,0
+"Southern Pines, NC",373,160 Pinehurst Ave. Suite G ,,Southern Pines ,NC,28387,United States,(910) 992-3916,,,,,0
+"Wallace, NC",407,112 Medical Village Dr ,,Wallace ,NC,28466,United States,(910) 682-3160,,,,,0
+"Washington, NC",394,1604 Carolina Ave Suite 101 ,,Washington ,NC,27889,United States,(252) 644-3246,,,,,0
+"Waynesville, NC",406,286 North Haywood Street ,,Waynesville ,NC,28786,United States,(828) 558-3116,,,,,0
+"Whiteville, NC",380,1008 N JK Powell Plaza ,,Whiteville ,NC,28472,United States,(910) 499-0859,,,,,0
+"Williamston, NC",392,603 East Blvd Suite B ,,Williamston ,NC,27892,United States,(252) 508-7069,,,,,0
+"Ahoskie, NC",396,220 E Church St ,,Ahoskie ,NC,27910,United States,(252) 301-3378,,,,,0
+"Asheboro, NC",400,350 S Cox St. Suite B ,,Asheboro ,NC,27203,United States,(336) 308-0129,,,,,0
+"Asheville, NC",381,770 Patton Avenue Suite F ,,Asheville ,NC,28806,United States,(828) 575-5933,,,,,0
+"Burlington, NC",377,124 S Mebane St ,,Burlington ,NC,27215,United States,(336) 438-3923,,,,,0
+"Cary, NC",415,1750 Northwest Maynard Road Suite 104 ,,Cary ,NC,27613,United States,(919) 230-7355,,,,,0
+"Cedar Point, NC",376,714 Cedar Point Blvd. ,,Cedar Point ,NC,28584,United States,(252) 764-4088,,,,,0
+"Clinton, NC",412,415 Warsaw Road Suite C ,,Clinton ,NC,28328,United States,(910) 682-3149,,,,,0
+"Dunn, NC",409,1804 W Cumberland St. ,,Dunn ,NC,28334,United States,(910) 292-3454,,,,,0
+"Durham, NC",413,6011 Fayetteville Rd Suite 102 ,,Durham ,NC,27713,United States,(919) 246-9362,,,,,0
+"Edenton, NC",397,101 Mark Dr ,,Edenton ,NC,27932,United States,(252) 368-4010,,,,,0
+"Elizabeth City, NC",408,1825 West City Drive Suite C ,,Elizabeth City ,NC,27909,United States,(252) 679-3203,,,,,0
+"Fayetteville, NC",414,206 Westwood ,,Shopping Center Fayetteville ,NC,28314,United States,(910) 213-3995,,,,,0
+"Fuquay Varina, NC",378,512 Attain Court ,,Fuquay Varina ,NC,27526,United States,(919) 762-3257,,,,,0
+"Garner, NC",375,135 US Hwy 70 West ,,Garner ,NC,27529,United States,(919) 760-6834,,,,,0
+"Goldsboro, NC",379,1506 Wayne Memorial Dr. Suite G ,,Goldsboro ,NC,27530,United States,(919) 648-0392,,,,,0
+"Greenville, NC",391,1970 West Arlington Boulevard Suite B1 ,,Greenville ,NC,27834,United States,(252) 558-1526,,,,,0
+"Hampstead, NC",388,14874 US Highway 17 ,,Hampstead ,NC,28443,United States,(910) 319-4073,,,,,0
+"Henderson, NC",387,1775 Graham Avenue Suite 106 ,,Henderson ,NC,27536,United States,(252) 915-3167,,,,,0
+"Jacksonville, NC",386,3792 Henderson Drive ,,Extension Jacksonville ,NC,28546,United States,(910) 459-4190,,,,,0
+"Kill Devil Hills, NC",399,2009 S Croatan Hwy ,,Kill Devil Hills ,NC,27948,United States,(252) 489-2584,,,,,0
+"Wilmington, NC",389,5022 Randall Parkway ,,Wilmington ,NC,28403,United States,(910) 795-4226,,,,,0
+"Wilson, NC",403,2115 Forest Hills Road Suite B ,,Wilson ,NC,27893,United States,(252) 360-2196,,,,,0
+"Winston Salem, NC",398,1313 Ashleybrook Ln ,,Winston-Salem ,NC,27103,United States,(336) 773-9879,,,,,0

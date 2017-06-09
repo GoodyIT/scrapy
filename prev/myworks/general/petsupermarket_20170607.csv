@@ -1,0 +1,191 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Store #101,101,3939 N Federal Hwy ,,Ft Lauderdale ,FL,33308,United States,954-561-0951,26.177612,-80.119767,,,0
+Store #102,102,3081 SW 160th Ave ,,Miramar ,FL,33027,United States,954-431-0526,25.991301,-80.361471,,,0
+Store #103,103,4690 W Irlo Bronson Hwy ,,Kissimmee ,FL,34746,United States,407-390-9272,28.318101,-81.470472,,,0
+Store #104,104,1070 E Hwy 50 ,,Clermont ,FL,34711,United States,352-241-4476,28.547194,-81.738328,,,0
+Store #107,107,3581 Northlake Blvd ,,Palm Beach Gardens ,FL,33403,United States,561-694-0294,26.80891,-80.091451,,,0
+Store #108,108,1809 S University Dr ,,Davie ,FL,33324,United States,954-476-8600,26.097523,-80.251083,,,0
+Store #109,109,11915 S Dixie Hwy ,,Miami ,FL,33156,United States,305-251-4441,25.660585,-80.32622,,,0
+Store #110,110,17855 Tamiami Trail ,,North Port ,FL,34287,United States,941-423-8700,27.037836,-82.216423,,,0
+Store #112,112,419 N Federal Hwy ,,Pompano Beach ,FL,33062,United States,954-782-6654,26.23585,-80.10274,,,0
+Store #113,113,2446 University Drive ,,Coral Springs ,FL,33065,United States,954-345-2694,26.261463,-80.250088,,,0
+Store #114,114,13860-A N Cleveland N ,,Fort Myers ,FL,33903,United States,239-995-8880,26.6662,-81.887094,,,0
+Store #115,115,55 S Federal Hwy ,,Deerfield Beach ,FL,33441,United States,954-427-1290,26.317696,-80.090808,,,0
+Store #117,117,12553 Biscayne Blvd N ,,Miami ,FL,33181,United States,305-892-0526,25.89207,-80.163056,,,0
+Store #118,118,2696 North University Drive ,,Sunrise ,FL,33322,United States,954-746-8066,26.158402,-80.256779,,,0
+Store #119,119,3848 Sun City Center Rd Ste 107 ,,Ruskin ,FL,33573,United States,813-938-1154,27.71373,-82.399019,,,0
+Store #120,120,4524 Saint Johns Ave ,,Jacksonville ,FL,32210,United States,904-384-2006,30.288597,-81.720726,,,0
+Store #121,121,18970 S Dixie Hwy ,,Miami ,FL,33157,United States,305-251-8442,25.590297,-80.358943,,,0
+Store #123,123,1800 W 68th St # 140 ,,Hialeah ,FL,33014,United States,305-821-5225,25.8832549,-80.320483,,,0
+Store #124,124,11561 N Kendall Drive ,,Miami ,FL,33176,United States,305-596-5447,25.6624457,-80.3547286,,,0
+Store #125,125,801 E Sunrise Blvd ,,Fort Lauderdale ,FL,33304,United States,954-763-6095,26.137765,-80.13334,,,0
+Store #126,126,9798 Glades Rd ,,Boca Raton ,FL,33434,United States,561-852-2277,26.368283,-80.199831,,,0
+Store #127,127,2320 N Dale Mabry ,,Tampa ,FL,33607,United States,813-877-5550,27.962926,-82.506037,,,0
+Store #128,128,610 Cherry Road Suite 102 ,,Rock Hill ,SC,29730,United States,,34.9438509,-81.0292714,,,1
+Store #129,129,12640 S. Orange Blossom Trail Ste 118 ,,Orlando ,FL,32837,United States,407-438-6760,28.379237,-81.404645,,,0
+Store #130,130,10292 Two Notch Rd ,,Columbia ,SC,,United States,803-227-4114,34.124086,-80.8733233,,,0
+Store #131,131,7201 Lake Worth Rd ,,Lake Worth ,FL,33467,United States,561-439-6430,26.61875,-80.15928,,,0
+Store #132,132,99 Eglin Parkway NE Ste 32a ,,Ft. Walton Beach ,FL,32548,United States,850-301-0235,30.418649,-86.608943,,,0
+Store #133,133,2924 13th St. ,,St. Cloud ,FL,34769,United States,407-498-0929,28.246346,-81.301619,,,0
+Store #134,134,938 E Semoran Blvd ,,Casselberry ,FL,32707,United States,407-834-4128,28.649018,-81.324642,,,0
+Store #135,135,10291 Pines Blvd ,,Pembroke Pines ,FL,33026,United States,954-435-1060,26.008736,-80.282679,,,0
+Store #136,136,2720-A South Dixie Hwy ,,Miami ,FL,33133,United States,305-529-1800,25.739717,-80.239613,,,0
+Store #138,138,12576 SW 8th St ,,Miami ,FL,33184,United States,305-222-1383,25.7608,-80.397935,,,0
+Store #139,139,2649 E Gulf to Lake Hwy ,,Inverness ,FL,34452,United States,352-341-2916,28.854308,-82.389308,,,0
+Store #141,141,4762 N Congress Ave ,,Boynton Beach ,FL,33426,United States,561-432-8788,26.570645,-80.089603,,,0
+Store #142,142,2111 N Federal Hwy ,,Hollywood ,FL,33020,United States,954-925-1240,26.03088,-80.143249,,,0
+Store #143,143,4265 Tamiami Trail ,,Port Charlotte ,FL,33980,United States,941-629-5775,26.967407,-82.078888,,,0
+Store #144,144,819 Homestead Boulevard ,,Homestead ,FL,33030,United States,305-245-0515,25.478598,-80.46424,,,0
+Store #145,145,11409 North Dale Mabry ,,Tampa ,FL,33618,United States,813-264-0473,28.0524,-82.5039,,,0
+Store #147,147,2339 NW 13th St ,,Gainesville ,FL,32609,United States,352-336-8006,29.674783,-82.338902,,,0
+Store #148,148,2408-2416 Tamiami Trail East ,,Naples ,FL,34112,United States,239-732-8731,26.132943,-81.775407,,,0
+Store #149,149,32560 US Hwy 19 N ,,Palm Harbor ,FL,34684,United States,727-784-9306,28.067826,-82.739109,,,0
+Store #150,150,3760 University Blvd W ,,Jacksonville ,FL,32217,United States,904-739-3310,30.2627,-81.623676,,,0
+Store #151,151,4445 East Bay Drive ,,Clearwater ,FL,33764,United States,727-530-1393,27.916192,-82.741187,,,0
+Store #152,152,835 Blanding Blvd ,,Orange Park ,FL,32065,United States,904-276-4042,30.142511,-81.765954,,,0
+Store #153,153,5325 Highway 19 ,,north New Port RICHEY ,FL,34652,United States,727-848-1775,28.236667,-82.7279832,,,0
+Store #154,154,1020 Ponce de Leon Blvd South ,,St. Augustine ,FL,32086,United States,904-824-5876,29.880614,-81.325183,,,0
+Store #155,155,2061 Aloma Ave ,,Winter Park ,FL,32792,United States,407-657-2139,28.600911,-81.323402,,,0
+Store #156,156,3439 49th St N ,,St. Petersburg ,FL,33710,United States,727-522-2458,27.803453,-82.699894,,,0
+Store #157,157,2595 SE. Federal Hwy ,,Stuart ,FL,34994,United States,772-781-1201,27.183762,-80.242378,,,0
+Store #158,158,526b 21st St ,,Vero Beach ,FL,32960,United States,772-978-0245,27.6398506,-80.3841107,,,0
+Store #159,159,4220 South Florida Ave ,,Lakeland ,FL,33813,United States,863-619-7563,27.988533,-81.956612,,,0
+Store #160,160,609 Beach Blvd ,,Jacksonville Beach ,FL,32250,United States,904-249-6884,30.288423,-81.395425,,,0
+Store #161,161,10485 San Jose Blvd ,,Jacksonville ,FL,32257,United States,904-886-9300,30.188139,-81.62731,,,0
+Store #162,162,6908 Manatee Ave W ,,Bradenton ,FL,34209,United States,941-761-0312,27.496186,-82.631847,,,0
+Store #163,163,1746 E Silver Springs Blvd ,,Ocala ,FL,34470,United States,352-732-3133,29.186812,-82.113923,,,0
+Store #164,164,2449 S. Hiawassee Road ,,Orlando ,FL,32835,United States,407-293-2333,28.515805,-81.484964,,,0
+Store #165,165,4270 Bee Ridge Rd ,,Sarasota ,FL,34233,United States,941-371-3387,27.298632,-82.482889,,,0
+Store #166,166,16850 US Hwy 441 Mt ,,Dora ,FL,32757,United States,352-735-1516,28.821593,-81.679323,,,0
+Store #167,167,1966 NE 5th Ave. ,,Boca Raton ,FL,33432,United States,561-391-5731,26.36771,-80.077963,,,0
+Store #168,168,1482 Apalachee Pkwy ,,Tallahassee ,FL,32301,United States,850-671-4110,30.43573,-84.25754,,,0
+Store #169,169,125 Merritt Island Cswy Suite Ste 133 ,,Merritt Island ,FL,32952,United States,321-454-9962,28.356802,-80.698207,,,0
+Store #170,170,4555 Weston Rd ,,Davie ,FL,33331,United States,954-389-7531,26.064515,-80.362553,,,0
+Store #171,171,1235 B Providence Blvd ,,Deltona ,FL,32725,United States,386-575-2550,28.882676,-81.240648,,,0
+Store #172,172,800 Sebring Square ,,Sebring ,FL,33870,United States,863-402-2370,27.512776,-81.492591,,,0
+Store #173,173,6755 W Indiantown Rd ,,Jupiter ,FL,33458,United States,561-743-4333,26.9347,-80.13807,,,0
+Store #174,174,1375 West 49th St ,,Hialeah ,FL,33012,United States,305-362-4577,25.866793,-80.310344,,,0
+Store #175,175,7070 College Parkway ,,South Ft. Myers ,FL,33907,United States,239-931-7194,26.556675,-81.872707,,,0
+Store #176,176,4100 N. Wickham Rd Ste 117 ,,Melbourne ,FL,32935,United States,321-752-5972,28.17411,-80.67215,,,0
+Store #177,177,6307 North 9th Ave Suite 1 ,,Pensacola ,FL,32504,United States,850-477-8028,30.489078,-87.196525,,,0
+Store #178,178,5000 S Clyde Morris Blvd Suite 10 ,,Port Orange ,FL,32127,United States,386-322-4109,29.115731,-81.022021,,,0
+Store #179,179,17730 NW 57th Ave ,,Hialeah ,FL,33015,United States,305-231-4176,25.93425,-80.29383,,,0
+Store #180,180,1185 West Granada Blvd ,,Ormond Beach ,FL,32174,United States,386-615-6843,29.268581,-81.100941,,,0
+Store #181,181,1790 SE Port Saint Lucie Blvd ,,Port St Lucie ,FL,34952,United States,772-337-2421,27.270938,-80.297846,,,0
+Store #182,182,226 West 23rd St ,,Panama City ,FL,32405,United States,850-872-9524,30.1898,-85.66333,,,0
+Store #183,183,4316 Commercial Way ,,Springhill ,FL,34606,United States,352-596-5328,28.492458,-82.597992,,,0
+Store #184,184,1390 Weston Road ,,Weston ,FL,,United States,754-224-3090,26.1029271,-80.3663654,,,0
+Store #186,186,12155 SW 152 St ,,Miami ,FL,33177,United States,786-293-2895,25.627227,-80.389284,,,0
+Store #187,187,4500 N State Rd 7 ,,Coconut Creek ,FL,33073,United States,954-972-7947,26.284011,-80.201675,,,0
+Store #188,188,1080 Alafaya Trail ,,Oviedo ,Fl,32765,United States,407-366-2296,28.654813,-81.207964,,,0
+Store #191,191,260 E Eau Gallie Blvd Ste 260 ,,Indian Harbour Beach ,FL,32937,United States,321-777-5132,28.138683,-80.597093,,,0
+Store #192,192,10591 SW 40th St ,,Miami ,FL,33165,United States,305-227-6122,25.73258,-80.36667,,,0
+Store #193,193,470 US 41 Bypass ,,Venice ,FL,34285,United States,941-488-7619,27.107905,-82.437542,,,0
+Store #194,194,145 Palm Bay Road NE ,,West Melbourne ,FL,32904,United States,321-725-2527,28.03585,-80.67141,,,0
+Store #195,195,423 S Chickasaw Trail ,,Orlando ,FL,32825,United States,407-277-4339,28.538732,-81.27576,,,0
+Store #201,201,960 Emerald Bay Rd ,,S Lake Tahoe ,CA,96150,United States,530-544-3562,38.914555,-120.005855,,,0
+Store #203,203,598 N McCarran Blvd ,,Sparks ,NV,89431,United States,775-355-9166,39.5402382,-119.7337602,,,0
+Store #205,205,1338 Del Prado Blvd S Ste 101 ,,Cape Coral ,FL,33990,United States,239-242-2188,26.627643,-81.940935,,,0
+Store #206,206,7822 Gall Blvd ,,Zephyrhills ,FL,33541,United States,813-782-4636,28.270709,-82.188978,,,0
+Store #207,207,6824 Bird Rd ,,Miami ,FL,33155,United States,305-662-6740,25.733411,-80.305445,,,0
+Store #208,208,1951 S. McCall Rd ,,Englewood ,FL,34224,United States,941-475-1500,26.93687,-82.33577,,,0
+Store #209,209,1040 Palm Coast Parkway NW ,,Palm Coast ,FL,32137,United States,386-447-4357,29.554382,-81.228307,,,0
+Store #210,210,28270 South Tamiami Tr ,,Bonita Springs ,FL,34134,United States,239-390-0409,26.326882,-81.806391,,,0
+Store #211,211,873 Joe Frank Harris Pkwy SE ,,Cartersville ,GA,30120,United States,678-721-9260,34.19617,-84.789621,,,0
+Store #212,212,2530 S. Washington Ave. Suite # 130 ,,Titusville ,FL,32780,United States,321-225-5600,28.5862088,-80.8018494,,,0
+Store #213,213,2766 E Fowler Ave ,,Tampa ,FL,33612,United States,813-903-1900,28.054576,-82.428872,,,0
+Store #214,214,9985 Business Circle N Unit # 10 ,,Naples ,FL,34112,United States,239-304-1500,26.151505,-81.687412,,,0
+Store #215,215,570 East Woolbright Road ,,Boynton Beach ,FL,33435,United States,561-734-3705,26.513918,-80.05541,,,0
+Store #216,216,2500 Dawson Road ,,Albany ,GA,31707,United States,229-435-6328,31.609917,-84.208875,,,0
+Store #217,217,3201 Macon Rd ,,Columbus ,GA,31906,United States,706-561-1542,32.480488,-84.943508,,,0
+Store #218,218,6050 Memorial Drive ,,Stone Mountain ,GA,30083,United States,770-498-1017,33.803454,-84.192057,,,0
+Store #220,220,4030 W Main St # 102 ,,Dothan ,AL,36305,United States,334-671-2445,31.234441,-85.45265,,,0
+Store #221,221,2585 N. Atlantic Avenue ,,Daytona ,FL,32218,United States,386 673-1899,29.262881,-81.026135,,,0
+Store #222,222,11160 Panama City Beach Parkway Unit 402 ,,Panama City Beach ,FL,32407,United States,850-230-0279,30.1966906,-85.8090031,,,0
+Store #223,223,845 E Bloomingdale Ave. # 1003 ,,Brandon ,FL,33511,United States,813-661-8600 ,27.893703,-82.26982,,,0
+Store #224,224,18445 US Highway 41 N ,,Lutz ,FL,33549,United States,813-949-4701,28.14059,-82.462571,,,0
+Store #225,225,3806 South Dale Mabry ,,Tampa ,FL,33629,United States,813-835-1117,27.910291,-82.506078,,,0
+Store #227,227,27955 US Highway 98 ,,Daphne ,AL,36526,United States,251-625-6411,30.632579,-87.91154,,,0
+Store #228,228,1695A McFarland Blvd ,,Northport ,AL,35476,United States,205-333-7519,33.238103,-87.574396,,,0
+Store #229,229,1629 Perry Hill Road ,,Montgomery ,AL,36106,United States,334-277-2775,32.356043,-86.243656,,,0
+Store #230,230,4315 W 26th Street ,,Bradenton ,FL,34205,United States,941-758-4411,27.462787,-82.587293,,,0
+Store #231,231,265 Tom Hill Sr. Blvd ,,Macon ,GA,31210,United States,478-475-4194,32.896853,-83.689532,,,0
+Store #232,232,2212 N Roosevelt Blvd ,,Key West ,FL,33040,United States,305-294-0181,24.560681,-81.779363,,,0
+Store #233,233,501 Cypress Gardens Blvd ,,Winter Haven ,FL,33880,United States,863-293-7387,28.004379,-81.720035,,,0
+Store #234,234,1408 East Blvd. # B ,,Charlotte ,NC,28203,United States,704-372-4810,35.199832,-80.844795,,,0
+Store #235,235,1125 Royal Palm Beach Blvd. ,,Royal Palm Beach ,FL,33411,United States,561-204-9464,26.707528,-80.22906,,,0
+Store #236,236,380 East Michigan St ,,Orlando ,FL,32806,United States,407-428-0811,28.511965,-81.372577,,,0
+Store #237,237,1938 State Rd 44 # 40 ,,New Smyrna Beach ,FL,32168,United States,386-426-2167,29.013667,-80.945082,,,0
+Store #238,238,846 Southern Blvd. ,,West Palm Beach ,FL,33405,United States,561-820-9370,26.67588,-80.062375,,,0
+Store #239,239,1511 N. Woodland Blvd ,,Deland ,FL,32720,United States,386-736-7458,29.055957,-81.30399,,,0
+Store #240,240,2900 Peachtree Rd NW Ste 100-C ,,Atlanta ,GA,30305,United States,404-841-5559,33.835406,-84.382658,,,0
+Store #241,241,2314 Lebanon Pike ,,Nashville ,TN,37214,United States,615-884-6141,36.169604,-86.673089,,,0
+Store #242,242,2370 Hillcrest Road ,,Mobile ,AL,36695,United States,251-661-9863,30.641222,-88.191981,,,0
+Store #243,243,5030 Champion Blvd ,,Boca Raton ,FL,33496,United States,561-314-6212,26.411821,-80.122936,,,0
+Store #244,244,229 North US Highway 1 ,,Tequesta ,FL,33469,United States,561 741 1078,26.9562043,-80.0848766,,,0
+Store #245,245,3316 Battleground Ave. ,,Greensboro ,NC,27410,United States,336-553-9550,36.12343,-79.845217,,,0
+Store #246,246,509 West Main St ,,Lexington ,SC,29072,United States,803-957-4993,33.985928,-81.246016,,,0
+Store #247,247,1112 N Fielder Rd ,,Arlington ,TX,76012,United States,817-460-1994,32.7510616,-97.1321941,,,0
+Store #248,248,534 South Hunt Club Boulevard ,,Apopka ,FL,32703,United States,407-682-2020,28.6719128,-81.4511988,,,0
+Store #249,249,12185 Highway 92 ,,Woodstock ,GA,30188,United States,678-626-6798 ,34.088109,-84.48259,,,0
+Store #250,250,4238 53rd Ave E ,,East Bradenton ,FL,34201,United States,941-727-7058,27.446691,-82.508328,,,0
+Store #251,251,6701 E. Independence Blvd ,,Charlotte ,NC,28212,United States,704-569-8747,35.169862,-80.743943,,,0
+Store #252,252,608 Montgomery Hwy ,,Vestavia Hills ,AL,35216,United States,205-824-1090,33.448896,-86.789847,,,0
+Store #253,253,5940 State Road 7 ,,Lake Worth ,FL,33449,United States,561-967-5092,26.5919519,-80.2057245,,,0
+Store #254,254,3911 Lemmon Ave ,,Dallas ,TX,75219,United States,214-443-8397,32.8128699,-96.8074717,,,0
+Store #255,255,151 E. Van Fleet Drive ,,Bartow ,FL,33830,United States,863-533-3734,27.9039049,-81.8425073,,,0
+Store #256,256,928 SW St Lucie West Blvd Port ,,St. Lucie ,FL,34986,United States,772-408-1818,27.3174908,-80.3825239,,,0
+Store #257,257,1304 Precinct Line Road ,,Hurst ,TX,76053,United States,817-280-9393,32.8350948,-97.1856409,,,0
+Store #258,258,2508 N Decatur Rd ,,Decatur ,GA,30033,United States,404-634-3808,33.793727,-84.290476,,,0
+Store #259,259,2501 Farm to Market 423 ,,Little Elm ,TX,75068,United States,972-668-3621,33.176333,-96.886836,,,0
+Store #260,260,1416 Sadler Road ,,Fernandina Beach ,FL,32034,United States,904-277-4115,30.6396889,-81.4522162,,,1
+Store #261,261,465 State Road 13 ,,Fruit Cove ,FL,32259,United States,904-230-1144,30.118749,-81.62482,,,0
+Store #262,262,5665 Atlanta Highway ,,Alpharetta ,GA,30004,United States,770-569-4707,34.1448513,-84.2525947,,,0
+Store #263,263,880 A1A North ,,Ponte Vedra ,FL,32082,United States,(904) 280-2072,30.1897917,-81.3818744,,,0
+Store #264,264,8850 N. Tarrant Parkway N Ste 703-705 ,,Richland Hills ,TX,76182,United States,817-605-9604,32.903247,-97.195271,,,0
+Store #265,265,2090 Arapaho Road ,,Richardson ,TX,75081,United States,972-907-1173,32.9600577,-96.6846924,,,0
+Store #266,266,412 S Stratford Rd ,,Winston-Salem ,NC,27103,United States,336-773-0908,36.090274,-80.284754,,,0
+Store #267,267,9579 Bill Arp Rd # 21 ,,Douglasville ,GA,30135,United States,770-947-9254,33.7212288,-84.7636075,,,0
+Store #268,268,4181 Tamiami Trail S Bay 39A ,,Venice ,FL,34293,United States,941-496-4910,27.0492076873779,-82.3646774291992,,,0
+Store #270,270,6892 Gulfport Blvd ,,South Pasadena ,FL,33707,United States,727-345-4581,27.759081,-82.7355481,,,0
+Store #271,271,244 Tunnel Rd ,,Asheville ,NC,28805,United States,828-254-4481,35.585005,-82.527134,,,0
+Store #272,272,268 Grand Heights Rd ,,Cary ,NC,27513,United States,919-481-1818,35.804992,-78.780743,,,0
+Store #273,273,2800 Raeford Rd ,,Fayetteville ,NC,28303,United States,910-484-8577,35.045636,-78.924564,,,0
+Store #274,274,3036 Weddington Rd Ste 300 ,,Matthews ,NC,28105,United States,704-849-7933      ,35.082923,-80.733029,,,0
+Store #275,275,3908 Oleander Drive ,,Wilmington ,NC,28403,United States,910-799-1990,34.213553,-77.899226,,,0
+Store #278,278,4700 Beechnut St Suite # 265 ,,Houston ,TX,77096,United States,832-699-3843,29.6872022,-95.4619213,,,0
+Store #279,279,2959 North Druid Hills Road ,,Toco Hills ,GA,30329,United States,404-321-5436,33.815121,-84.309982,,,0
+Store #280,280,6704 Clinton Highway ,,Knoxville ,TN,37912,United States,865-512-8961,36.0070797,-84.0238994,,,0
+Store #281,281,6325 Falls of Neuse Rd 51 ,,Raleigh ,NC,27615,United States,919-845-1554,35.869194,-78.621941,,,0
+Store #282,282,1544 Piedmont Ave Suite 117 ,,Atlanta ,GA,30324,United States,404-879-0580,33.798595,-84.37134,,,0
+Store #283,283,5511 KINGSTON PIKE ,,KNOXVILLE ,TN,37919,United States,865-909-9808,35.9355394,-83.9946015,,,0
+Store #284,284,13420 Preston Rd ,,Dallas ,TX,,United States,972-980-8539,32.930673,-96.8029626,,,0
+Store #287,287,1475 Buford Drive Suite 509 ,,Lawrenceville ,GA,30043,United States,678-376-4926,34.0050862,-83.9863629,,,0
+Store #287,287,1475 Buford Drive Northeast ,,Lawrenceville ,GA,30043,United States,(678) 376 4926,34.005079,-83.9861349,,,1
+Store #288,288,150 W Lowry Lane Suite 180 ,,Lexington ,KY,40503,United States,859-313-5282,38.00541,-84.518887,,,0
+Store #289,289,5805 State Bridge Rd Ste 50 ,,Duluth ,GA,30097,United States,770-622-4406,34.017991,-84.189749,,,0
+Store #290,290,545 Cool Springs Drive Ste 160 ,,Franklin ,TN,37067,United States,615-435-8842,35.947047,-86.822264,,,0
+Store #291,291,3821 South Cobb Dr ,,Smyrna ,GA,30080,United States,770-435-5135,33.859577,-84.517041,,,0
+Store #292,292,7805 Abercorn St Suite 17 ,,Savannah ,GA,31406,United States,912-353-9392,32.005195,-81.117636,,,0
+Store #293,293,8030 Hwy 100 ,,Bellevue ,TN,37221,United States,615-646-1748,36.045283,-86.952382,,,0
+Store #294,294,256 E Main St Suite B ,,Hendersonville ,TN,37075,United States,615-822-3139,36.310333,-86.600574,,,0
+Store #295,295,3405 Dallas Highway SW ,,Marietta ,GA,30064,United States,770-794-7283 ,33.9355915,-84.6165146,,,0
+Store #296,296,330 Franklin Road Suite 899A ,,Brentwood ,TN,37027,United States,615-370-6389,36.026912,-86.792106,,,0
+Store #298,298,2749 South Church Street ,,Burlington ,NC,27215,United States,336-584-8044,36.080685,-79.488863,,,0
+Store #300,300,15050 Fairfield Village Drive Ste. 100 ,,Cypress ,TX,,United States,832-497-2429,29.990797,-95.737624,,,0
+Store #303,303,1711 Spring Green Blvd Suite 100 ,,Katy ,TX,77494,United States,,29.7637672,-95.8418719,,,1
+Store #307,307,5001 34th Street South ,,St. Petersburg ,FL,33711,United States,(727) 864-0140,27.721271,-82.680303,,,0
+Store #312,312,3149 Highway 34 ,,Newnan ,GA,,United States,678-854-6279,33.4075072,-84.6784246,,,0
+Store #314,314,1000 Peachtree Industrial Boulevard Suite 13 ,,Suwanee ,GA,30024,United States,678-835-4091,34.049906,-84.0887395,,,0
+Store #317,317,9294 Kingston Pike ,,Knoxville ,TN,37922,United States,865-690-2951,35.911198,-84.0888662,,,0
+Store #323,323,3829 S Nova Rd ,,Port Orange ,FL,32127,United States,(386) 756-4469,29.1256118,-81.0038901,,,0
+Store #324,324,5086 Richmond Ave ,,Houston ,TX,77056,United States,832-380-2863,29.7319317,-95.4636318,,,0
+Store #327,327,14044 Grant Rd. Suite 200 ,,Cypress ,TX,77429,United States,281-516-7662,30.0046479,-95.6365745,,,0
+Store #329,329,1675 N Avalon Boulevard Suite 130 ,,Orlando ,Florida,32826,United States,,28.5535922,-81.1649156,,,0
+Store #330,330,4490 Southside Blvd Suite 104 ,,Jacksonville ,Florida,32216,United States,,30.264166,-81.558447,,,1
+Store #336,336,3921 Tamiami Trail ,,Punta Gorda ,FL,33950,United States,,26.9723012,-82.0854313,,,1
+Store #337,337,16000 Stuebner Airline Suite C ,,Spring ,TX.,77379,United States,346-236-1269,30.0118775,-95.5147126,,,1
+Store #343,343,1940 West League City Parkway Suite 180 ,,League City ,TX,77573,United States,,29.4865099,-95.1153944,,,1
+Store #344,344,5611 Colleyville Blvd. ,,Colleyville ,TX,76034,United States,,32.890169,-97.146493,,,1
+Store #353,353,11560 Majestic Palms Blvd. ,,Ft Myers ,FL,33908,United States,,26.512754,-81.945186,,,1
+Store #375,375,2143 W US Hwy 90 ,,Lake City ,FL,,United States,386-758-3697,30.1804154,-82.6617082,,,0

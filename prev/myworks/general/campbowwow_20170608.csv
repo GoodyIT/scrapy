@@ -1,0 +1,153 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Swansea,,,,Swansea,Illinois,62226,United States,,38.568308,-89.982725,,,0
+West Warwick,,3 Keyes Way,,West Warwick,Rhode,02893,United States,(401) 250-3595,41.670454,-71.506718,,,0
+Bellingham,,244 Maple St,,Bellingham,Massachusetts,02019,United States,508-966-4111,42.102677,-71.449485,,,0
+South Windsor,,1145 John Fitch Blvd,,South Windsor,Connecticut,06074,United States,860-372-4787,41.836463,-72.603816,,,0
+Albany,,136 Railroad Ave,,Albany,New,12205,United States,(518) 391-2777,42.70446,-73.828537,,,0
+Saratoga County - Clifton Park,,1739 Route 9,,Clifton Park,New,12065,United States,(518) 490-2278,42.868947,-73.772512,,,0
+Allentown,,470 Business Park Ln,,Allentown,Pennsylvania,18109,United States,610-435-2267,40.628455,-75.456787,,,0
+Philadelphia - Northeast,,2850 Comly Road,,Philadelphia,Pennsylvania,19154,United States,(215) 613-8223,40.100677,-74.997183,,,0
+Meridian,,2134 East Franklin Road,,Meridian,Idaho,83642,United States,208-887-0010,43.606064,-116.367573,,,0
+Boise,,3430 S Tk Ave,,Boise,Idaho,83705,United States,(208) 331-5091,43.571301,-116.191396,,,0
+Lawrenceville NJ,,231 Bakers Basin Rd,,Lawrence Township,New,08648,United States,609-689-3647,40.273069,-74.700469,,,0
+Cherry Hill,,3 Esterbrook Ln,,Cherry Hill,New,08003,United States,856-651-9663,39.913924,-74.967616,,,0
+Eatontown,,284 Old Deal Rd,,Eatontown,New,07724,United States,732-728-9663,40.281097,-74.039192,,,0
+Middlesex,,288 Lincoln Blvd,,Middlesex,New,08846,United States,(732) 560-3647,40.564107,-74.506283,,,0
+Bridgewater,,10 Chimney Rock Road,,Bound Brook,New,08805,United States,(732) 805-0888,40.570431,-74.564186,,,0
+Long Island City,,47-32 Austell Pl ,,Long Island City,,,United States,718-392-9663,40.74304,-73.941982,,,0
+Delaware - North,,301 Ruthar Dr,,Newark,Delaware,19711,United States,(302) 738-2267,39.69048,-75.697994,,,0
+Rockland County,,101 Route 304,,Nanuet,New,10954,United States,(845) 507-0068,41.101805,-73.998134,,,0
+Stamford,,581 Hope St,,Stamford,Connecticut,06907,United States,203-504-2288,41.07931,-73.520948,,,0
+Midland Park,,95 Greenwood Avenue,,Midland Park,New,07432,United States,(201) 882-0186,40.994597,-74.149686,,,0
+Elmwood Park,,53 Midland Ave,,Elmwood Park,New,07407,United States,(201) 797-3647,40.896445,-74.103901,,,0
+Hicksville,,174 Miller Pl,,Hicksville,New,11801,United States,(516) 595-7297,40.784492,-73.515916,,,0
+Morris NJ,,73 East Hanover Avenue,,Morris Township,New,07950,United States,(973) 933-2828,40.819773,-74.474607,,,0
+Smyrna,,200 Weakley Lane,,Smyrna,Tennessee,37167,United States,(615) 625-6230,36.001779,-86.495564,,,0
+McKinney,,448 N Custer Rd Suite B ,,McKinney,Texas,75071,United States,(214) 592-0440,33.206067,-96.73133,,,0
+Coppell,,769 S MacArthur Blvd,,Coppell,Texas,75019,United States,(972) 393-2267,32.954175,-96.959249,,,0
+Dallas High Five,,13730 Floyd Cir,,Dallas,Texas,75243,United States,(214) 575-9663,32.933153,-96.747876,,,0
+Lawrenceville GA,,585 Old Norcross Rd,,Lawrenceville,Georgia,30046,United States,(770) 995-3500,33.961478,-84.008938,,,0
+Duluth,,1795 Buford Highway,,Duluth,Georgia,30097,United States,678-265-3436,34.025958,-84.102694,,,0
+Tampa,,4624 North Grady Avenue,,Tampa,Florida,33614,United States,(813) 870-2267,27.985765,-82.510006,,,0
+Tampa - North East,,P.O. Box 47556 ,,Tampa,Florida,33646,United States,,28.112641,-82.385363,,,0
+Tampa - South Shore,,12218 Balm Riverview Rd,,Riverview,Florida,33579,United States,813-672-2267,27.81998,-82.295795,,,0
+Sarasota,,2101 17th St,,Sarasota,Florida,34234,United States,(941) 366-2267,27.352453,-82.527882,,,0
+Elmhurst,,641 IL-83,,Elmhurst,Illinois,60126,United States,(630) 601-2267,41.877504,-87.960573,,,0
+Oak Park,,6046 Roosevelt Rd,,Oak Park,Illinois,60304,United States,708-848-2267,41.865682,-87.776356,,,0
+Columbia SC,,1916 Taylor St,,Columbia,South,29201,United States,803-748-4544,34.009707,-81.023841,,,0
+Elk Grove,,9263 Bendel Pl,,Elk Grove,California,95624,United States,916-685-4590,38.400016,-121.354729,,,0
+Roseville,,,,Roseville,California,,United States,,38.752123,-121.288005,,,0
+Tri-Valley / Livermore,,6430 Preston Ave,,Livermore,California,94551,United States,(925) 456-3294,37.708914,-121.716913,,,0
+Shreveport,,701 E Kings Hwy,,Shreveport,Louisiana,71105,United States,(318) 626-7397,32.479468,-93.718611,,,0
+Greenville,,602 Airport Rd,,Greenville,South,29607,United States,(864) 220-1223,34.844157,-82.344473,,,0
+Temecula,,42192 Sarah Way,,Temecula,California,92590,United States,(951) 587-2267,33.509689,-117.166359,,,0
+San Clemente,,220 Calle Pintoresco,,San Clemente,California,92672,United States,(949) 218-7387,33.449291,-117.591135,,,0
+Greensboro,,6207 Chimney Center Blvd,,Greensboro,North,27409,United States,(336) 323-3133,36.061664,-79.922092,,,0
+Waukesha,,1707 Paramount Ct,,Waukesha,Wisconsin,53186,United States,262-547-9663,43.023646,-88.197588,,,0
+Cary,,107 Woodwinds Industrial Ct,,Cary,North,27511,United States,919-465-4235,35.762099,-78.819526,,,0
+Durham,,2612 S Miami Blvd,,Durham,North,27703,United States,919-321-8971,35.931533,-78.843914,,,0
+Chapel Hill,,4310 Bennett Memorial Rd,,Durham,North,27705,United States,(919) 309-4959,36.030462,-78.971145,,,0
+McHenry,,3107 Rte 120,,McHenry,Illinois,60051,United States,815-385-7297,42.34369,-88.258587,,,0
+Portland,,49 Blueberry Road,,Portland,Maine,04102,United States,(207) 541-9247,43.652928,-70.332418,,,0
+Lincoln,,5930 S. 57th St.,,Lincoln,Nebraska,68516,United States,(402) 474-9663,40.756064,-96.651785,,,0
+Highland Heights,,31 Alpha Park,,Highland Heights,Ohio,44143,United States,(440) 449-1364,41.546209,-81.451222,,,0
+Bedford Heights,,23380 Aurora Road,,Bedford Heights,Ohio,44146,United States,440-786-3647,41.416958,-81.5149,,,0
+Cuyahoga Falls,,1403 Main St,,Cuyahoga Falls,Ohio,44221,United States,(330) 923-9663,41.123249,-81.483304,,,0
+Strongsville,,14411 Foltz Pkwy,,Strongsville,Ohio,44149,United States,440-572-3200,41.309665,-81.870584,,,0
+Westlake (Cleveland),,863 Bradley Rd,,Westlake,Ohio,44145,United States,(440) 899-9100,41.475014,-81.959463,,,0
+Hilliard,,5100 Nike Dr,,Hilliard,Ohio,43026,United States,(614) 527-2267,39.994421,-83.144947,,,0
+Columbus - Grandview Heights,,1006 Dublin Rd,,Columbus,Ohio,43215,United States,(614) 887-7871,39.971333,-83.039848,,,0
+Lil' Campers St. Clair Shores,,23720 Greater Mack Ave,,Saint Clair Shores,Michigan,48080,United States,(586) 445-9663,42.467588,-82.896658,,,0
+Shelby Township,,50600 Central Industrial Drive,,Shelby Township,Michigan,48315,United States,(586) 488-1193,42.667156,-83.000056,,,0
+Troy,,801 Stephenson Highway,,Troy,Michigan,48083,United States,(248) 583-9247,42.541538,-83.120531,,,0
+Lil' Campers Commerce Township,,3131 Haggerty Road,,Commerce Charter Township,Michigan,48390,United States,(248) 926-0901,42.567425,-83.440478,,,0
+Commerce Township,,4373 Plant Drive,,Commerce charter Township,Michigan,48390,United States,(248) 242-8000,42.572441,-83.441983,,,0
+Clarkston,,6374 Sashabaw Rd,,Clarkston,Michigan,48346,United States,248-620-9663,42.731754,-83.378698,,,0
+Brighton Township,,3829 S Old US Hwy 23,,Brighton,Michigan,48114,United States,(810) 227-5487,42.546058,-83.750239,,,0
+Ann Arbor,,552 State Cir,,Ann Arbor,Michigan,48108,United States,734-623-2275,42.234577,-83.740622,,,0
+Plymouth,,2067 East Center Circle,,Plymouth,Minnesota,55441,United States,763-383-9585,45.00065,-93.448913,,,0
+Burnsville,,14305 Ewing Ave S,,Burnsville,Minnesota,55306,United States,952-736-9919,44.744306,-93.326304,,,0
+Kansas City - Westport,,104 Westport Road,,Kansas City,Missouri,64111,United States,(816) 427-1353,39.05482,-94.587828,,,0
+Diablo Valley,,1395 Galindo Street,,Concord,California,94520,United States,(925) 446-4724,37.971568,-122.033118,,,0
+Matthews,,8635 Crown Crescent Court,,Matthews,North,28227,United States,(704) 708-9663,35.142213,-80.728816,,,0
+Fort Mill,,3536 Centre Cir,,Fort Mill,South,29715,United States,(803) 547-2267,35.092229,-80.924526,,,0
+Charlotte - Metro,,4900 Chastain Ave,,Charlotte,North,28217,United States,(704) 527-3647,35.175782,-80.882814,,,0
+Monroe,,16642 146th St SE,,Monroe,Washington,98272,United States,(360) 862-3040,47.86418,-122.007671,,,0
+Cincinnati,,4955 Creek Rd,,Cincinnati,Ohio,45242,United States,(513) 745-9850,39.257897,-84.372612,,,0
+Kemah,,300 Anders Ln,,Kemah,Texas,77565,United States,281-334-2267,29.530423,-95.027489,,,0
+Pittsburgh - East,,1610 McClure Rd,,Monroeville,Pennsylvania,15146,United States,(724) 733-2267,40.431839,-79.710635,,,0
+Pittsburgh - Highland Park,,1325 Washington Blvd,,Pittsburgh,Pennsylvania,15206,United States,(412) 362-7529,40.468346,-79.908844,,,0
+Pittsburgh - South,,971 Killarney Dr,,Pittsburgh,Pennsylvania,15234,United States,412-885-2267,40.374626,-80.006335,,,0
+Pittsburgh Southwest,,710 Trumbull Dr,,Pittsburgh,Pennsylvania,15205,United States,(412) 276-9247,40.414461,-80.063652,,,0
+Pittsburgh - North,,2327 Babcock Blvd,,Pittsburgh,Pennsylvania,15237,United States,(412) 931-9247,40.513507,-80.002438,,,0
+Dallas,,1800 Irving Blvd,,Dallas,Texas,75207,United States,(214) 747-3647,32.793659,-96.824341,,,0
+Fort Worth West,,6411 Camp Bowie Blvd Suite C,,Fort Worth,Texas,76116,United States,,32.724723,-97.423296,,,0
+Duncanville,,519 E Hwy 67,,Duncanville,Texas,75137,United States,(972) 296-9663,32.635237,-96.898992,,,0
+Olathe,,1150 W 151st St,,Olathe,Kansas,66061,United States,(913) 322-2267,38.855426,-94.835934,,,0
+Kentwood,,4150 40th St SE,,Kentwood,Michigan,49512,United States,616-977-9247,42.891238,-85.563718,,,0
+Bentonville,,1403 SW 14th St,,Bentonville,Arkansas,72712,United States,(479) 268-4120,36.35627,-94.230671,,,0
+Nashville - Downtown,,470 Craighead St,,Nashville,Tennessee,37204,United States,615-385-2275,36.12642,-86.769055,,,0
+Northglenn,,11480 Cherokee St,,Northglenn,Colorado,80234,United States,(303) 254-9247,39.905682,-104.991313,,,0
+Denver - Lodo,,3645 Brighton Blvd,,Denver,Colorado,80216,United States,(303) 996-0411,39.772113,-104.977013,,,0
+Broomfield,,,,Broomfield,Colorado,Colorado,United States,,39.929228,-105.089297,,,0
+Westminster,,7577 W 103rd Ave,,Westminster,Colorado,80021,United States,(303) 466-1913,39.884436,-105.07863,,,0
+Aurora,,1620 S Abilene St,,Aurora,Colorado,80012,United States,(303) 353-9913,39.688296,-104.826184,,,0
+Denver - Southeast,,2125 S Jasmine St,,Denver,Colorado,80222,United States,(303) 300-8284,39.677581,-104.919197,,,0
+Denver - Central,,1221 S. Cherokee St,,Denver,Colorado,80223,United States,(303) 282-5484,39.694611,-104.991707,,,0
+Golden,,13101 W 43rd Dr,,Golden,Colorado,80403,United States,(303) 271-9663,39.777274,-105.146879,,,0
+Boulder,,3631 Pearl Street,,Boulder,Colorado,80301,United States,(303) 442-2261,40.024454,-105.247379,,,0
+Centennial,,7009 S Kenton St,,Centennial,Colorado,80112,United States,(720) 697-7491,39.58951,-104.860366,,,0
+Littleton,,8121 S Grant Way,,Littleton,Colorado,80122,United States,303-797-2267,39.569748,-104.984807,,,0
+Parker,,10325 S Progress Way,,Parker,Colorado,80134,United States,(303) 805-9739,39.528946,-104.769971,,,0
+Castle Rock,,500 1st St,,Castle Rock,Colorado,80104,United States,(303) 814-8108,39.370059,-104.857079,,,0
+Fort Collins,,4103 S Mason St,,Fort Collins,Colorado,80525,United States,(970) 266-9247,40.530227,-105.080111,,,0
+Columbia MD,,7165 Oakland Mills Rd,,Columbia,Maryland,21046,United States,(410) 964-2275,39.174282,-76.828714,,,0
+Tulsa,,142 South 147th East Avenue,,Tulsa,Oklahoma,74116,United States,918-437-3647,36.159178,-95.813315,,,0
+Rochester,,85 Mushroom Blvd,,Rochester,New,14623,United States,(585) 613-9247,43.09001,-77.617875,,,0
+Baton Rouge,,7195 Pecue Ln,,Baton Rouge,Louisiana,70817,United States,(225) 810-3647,30.386005,-91.041192,,,0
+Lafayette,,114 Eunice St,,Lafayette,Louisiana,70508,United States,337- 237-3647,30.183927,-92.005552,,,0
+Agoura Hills,,29348 Roadside Dr,,Agoura Hills,California,91301,United States,(818) 889-2267,34.145638,-118.764999,,,0
+Anaheim,,1431 N Daly St,,Anaheim,California,92806,United States,714-533-2267,33.85448,-117.886735,,,0
+El Cajon,,1677 N Marshall Ave,,El Cajon,California,92020,United States,619-448-WOOF (9663),32.817872,-116.975263,,,0
+Myrtle Beach SC,,305 Bush Drive,,Myrtle Beach,South,29579,United States,843-796-9499,33.718234,-78.937192,,,0
+Lawrence,,10830 Pendleton Pike,,Indianapolis,Indiana,46236,United States,(317) 709-1956,39.86263,-85.975591,,,0
+Carmel,,489 Gradle Dr,,Carmel,Indiana,46032,United States,(317) 580-0446,39.964219,-86.133433,,,0
+West Seneca,,31 N America Dr,,West Seneca,New,14224,United States,(716) 677-9247,42.847446,-78.751463,,,0
+Tonawanda,,231 Grand Island Blvd,,Tonawanda,New,14150,United States,716-877-9247,42.981184,-78.911,,,0
+Springfield,,1900 W Sunset St,,Springfield,Missouri,65807,United States,417-882-9247,37.166118,-93.317788,,,0
+San Antonio - Northwest,,5811 Rocky Point,,San Antonio,Texas,78249,United States,210-495-9969,29.55858,-98.600321,,,0
+San Antonio - Airport,,11931 Jones Maltsberger Rd,,San Antonio,Texas,78216,United States,210-826-9969,29.550748,-98.470608,,,0
+Stone Oak,,20750 Stone Oak Pkwy,,San Antonio,Texas,78258,United States,210-496-9969,29.649737,-98.457817,,,0
+Katy,,1515 Vander Wilt Ln,,Katy,Texas,77449,United States,(832) 321-4683,29.789207,-95.741343,,,0
+The Woodlands,,27616 Commerce Oaks Dr,,Oak Ridge North,Texas,77385,United States,832-482-2299,30.157642,-95.434495,,,0
+Cedar Rapids,,860 N 20th Ave,,Hiawatha,Iowa,52233,United States,319-393-3647,42.04657,-91.70036,,,0
+Tucson,,16725 N Oracle Rd,,Tucson,Arizona,85739,United States,(520) 742-6476,32.509865,-110.926454,,,0
+Naples,,3382 Mercantile Ave,,Naples,Florida,34104,United States,(239) 352-2275,26.165769,-81.765907,,,0
+Port Charlotte,,17266 Toledo Blade Blvd,,Port Charlotte,Florida,33954,United States,(941) 875-9410,27.019547,-82.163181,,,0
+Covington,,14279 Highway 1085,,Covington,Louisiana,70433,United States,985-892-9364,30.467809,-90.167582,,,0
+Mid-City New Orleans,,3301 Conti Street,,New Orleans,Louisiana,70119,United States,(504) 309-9939,29.97225,-90.090981,,,0
+New Orleans - Downtown,,2731 Tchoupitoulas St,,New Orleans,Louisiana,70130,United States,(504) 891-3647,29.920922,-90.078182,,,0
+Memphis East,,2121 Whitten Rd,,Memphis,Tennessee,38133,United States,(901) 373-8757,35.183426,-89.836579,,,0
+Memphis Balmoral,,6108 Quince Rd,,Memphis,Tennessee,38119,United States,(901) 878-9663,35.087087,-89.85973,,,0
+West Mobile,,65 Border Circle E,,Mobile,Alabama,36608,United States,(251) 414-7445,30.689277,-88.213221,,,0
+Peoria,,8550 North 91st Avenue,,Peoria,Arizona,85345,United States,(623) 773-2275,33.557191,-112.2576,,,0
+Avondale,,1050 North Fairway Drive,,Avondale,Arizona,85323,United States,(623) 925-8998,33.457078,-112.323915,,,0
+Alpharetta,,1755 Grassland Pkwy,,Alpharetta,Georgia,30004,United States,678-807-8505,34.142623,-84.24894,,,0
+Woodstock,,12916 HWY. 92,,Woodstock,Georgia,30188,United States,770-675-3445,34.087152,-84.471983,,,0
+Monument,,18985 Base Camp Rd,,Monument,Colorado,80132,United States,719-632-9247,39.10744,-104.862881,,,0
+Bixby,,14992 S Grant St,,Bixby,Oklahoma,74008,United States,918-943-6400,35.946482,-95.890322,,,0
+Austin,,13900 Interstate 35 Frontage Road,,Austin,Texas,78728,United States,512-670-2275,30.428461,-97.672439,,,0
+Salt Lake City,,475 W 3600 S ,,Salt Lake City,Utah,84115,United States,801-288-2275,40.693209,-111.904846,,,0
+Jacksonville,,8505 Baymeadows Rd,,Jacksonville,Florida,32256,United States,(904) 732-9663,30.221125,-81.581774,,,0
+Charleston,,1745 Clements Ferry Rd,,Charleston,South,29492,United States,843-216-2278,32.922122,-79.873204,,,0
+Bellevue,,,,Bellevue,Washington,98040,United States,,47.610377,-122.200678,,,0
+Austin SW,,5200 Electric Ave Bldg 5,,Spicewood,Texas,78669,United States,,30.34143,-98.041647,,,0
+Edmond,,801 Centennial Blvd,,Edmond,Oklahoma,73013,United States,(405) 359-7297,35.628687,-97.494574,,,0
+Albuquerque,,3228 Los Arboles Ave NE,,Albuquerque,New,87107,United States,(505) 881-3647,35.113788,-106.608928,,,0
+Hudsonville,,4322 Central Pkwy,,Hudsonville,Michigan,49426,United States,616-896-9663,42.844455,-85.866792,,,0
+Lees Summit,,1010 SE Hamblen Rd,,Lee&#39;s Summit,Missouri,64081,United States,(816) 246-7833,38.900672,-94.363581,,,0
+Concord,,8010 Myint Ln,,Concord,North,28027,United States,(704) 260-0055,35.401123,-80.713786,,,0
+Colorado Springs - Central,,4295 Northpark Dr,,Colorado Springs,Colorado,80907,United States,719-260-9247,38.893698,-104.828372,,,0
+Colorado Springs - East,,1020 Ford St,,Colorado Springs,Colorado,80915,United States,719-573-9247,38.846539,-104.712619,,,0
+Las Vegas,,5175 S Valley View Blvd,,Las Vegas,Nevada,89118,United States,702-255-2267,36.095841,-115.190338,,,0
+Henderson,,910 Wigwam Pkwy   ,,Henderson,Nevada,89014,United States,(702) 476-3647,36.036221,-115.024198,,,0

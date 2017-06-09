@@ -1,0 +1,9 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Coolidge Corner,,1412 Beacon Street ,,Brookline ,MA,,United States,617-739-7300,,,Mon-Sun: 9 a.m. to 11:30 p.m.,,0
+JFK Corner,,446 Harvard Street ,,Brookline ,MA,,United States,617-277-7111,,,Mon-Sun: 9 a.m. to 11:30 p.m.,,0
+Porter Square,,1 Porter Square ,,Cambridge ,MA,,United States,617-661-8500,,,Mon-Sun: 8 a.m. to 11:30 p.m.,,0
+MIT / Stratton Center,,84 Massachusetts Avenue ,,Cambridge ,MA,,United States,617-324-2662,,,Mon-Sun: 7 a.m. to 11:30 p.m.,,0
+Davis Square,,236A Elm Street ,,Somerville ,MA,,United States,617-666-3900,,,Sun thru Thu 9 a.m. to 11:30 p.m.; Fri thru Sat 9 a.m. to 1:30 a.m.,,0
+Beacon Hill / MGH,,242 Cambridge Street ,,Boston ,MA,,United States,617-227-8822,,,Mon-Sun: 7 a.m. to 11 p.m.,,0
+Newton Highlands,,27 Lincoln Street ,,Newton ,MA,,United States,617-964-0042,,,Mon-Sun: 8 a.m. to 10 p.m.,,0
+Prudential Center,,800 Boylston Street ,,Boston ,MA,,United States,,,,,,1

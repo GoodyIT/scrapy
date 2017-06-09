@@ -1,0 +1,51 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+"Durham, NC",,2000 Avondale Dr Suite D1,,Durham,NC,27704,United States,919.682.2159,36.0162602038276,-78.88506371719666,Mon-Sat: 10am-8pm,,0
+"Concord, NC",,929 Concord Parkway S Suite G,,Concord,NC,28027,United States,704.782.3174,35.39312186897847,-80.61810236137694,Mon-Sat: 10am-7pm,,0
+"Charlotte, NC - Wilkinson",,3525 Wilkinson Blvd,,Charlotte,NC,28208,United States,704.393.3001,35.22395420000001,-80.89955536137694,Mon-Sat: 10am-8pm,,0
+"Charlotte, NC - North Park",,103 Eastway Dr,,Charlotte,NC,28213,United States,704.598.3833,35.25876414228353,-80.77531741796872,Mon-Sat: 10am-8pm,,0
+"Charlotte, NC - South Blvd",,4524 South Blvd A,,Charlotte,NC,28209,United States,704.523.7693,35.18015531344891,-80.8764075968262,Mon-Sat: 10am-8pm,,0
+"Albemarle, NC",,636 NC 24 27 Bypass E Ste 23E,,Albemarle,NC,28001,United States,704.983.4143,35.34248550321553,-80.17396742327878,Mon-Sat: 10am-7pm,,0
+"Asheboro, NC",,460 N Fayetteville St,,Asheboro,NC,27203,United States,336.629.3104,35.71234096372065,-79.81148066931155,Mon-Sat: 10am-8pm,,0
+"Florence, SC",,1639 W Palmetto St,,Florence,SC,29501,United States,843.662.5219,34.19108288558949,-79.79973427235257,Mon-Sat: 10am-8pm,,0
+"West Columbia, SC",,2322 Augusta Rd,,West Columbia,SC,29169,United States,803.796.9267,33.984436061739636,-81.09789133677066,Mon-Sat: 10am-8pm,,0
+"Columbia, SC - Marshall St",,2300 Marshall St,,Columbia,SC,29203,United States,803.252.4898,34.03148575880604,-81.02526403558198,Mon-Sat: 10am-7pm,,0
+"Columbia, SC - Garner's Ferry Rd",,7545 Garner's Ferry Rd,,Columbia,SC,29209,United States,803.776.8838,33.95985784940478,-80.94218418895491,Mon-Sat: 10am-8pm,,0
+"Chester, SC",,1452 J A Cochran Bypass,,Chester,SC,29706,United States,803.377.4133,34.693235767946604,-81.19490509325408,Mon-Sat: 10am-6pm,,0
+"Cheraw, SC",,159 Market St,,Cheraw,SC,29520,United States,843.537.5291,34.69749833721784,-79.88294553439329,Mon-Sat: 10am-6pm,,0
+"Camden, SC",,1000 Broad St,,Camden,SC,29020,United States,803.432.2477,34.244920831119316,-80.60653432883606,Mon-Sat: 10am-7pm,,0
+"Belton, SC",,414 S Main St,,Belton,SC,29627,United States,864.338.5800,34.51595286713499,-82.48393804418026,Mon-Sat: 10am-6pm,,0
+"Anderson, SC",,509 N Main St,,Anderson,SC,29621,United States,864.225.5496,34.50774158427152,-82.65148004662706,Mon-Sat: 10am-7pm,,0
+"Elberton, GA",,234 Heard St,,Elberton,GA,30635,United States,706.283.2270,34.108033999999975,-82.86399427116396,Mon-Sat: 10am-6pm,,0
+"Union, SC",,300 E Main St,,Union,SC,29379,United States,864.427.7642,34.715396600000005,-81.62113529999999,Mon-Sat: 10am-6pm,,0
+"Sumter, SC - Main St",,49 S Main St,,Sumter,SC,29150,United States,803.775.2331,33.91892162886208,-80.34172075403671,Mon-Sat: 10am-7pm,,0
+"Sumter, SC - Broad St",,1070 Broad St,,Sumter,SC,29150,United States,803.934.0266,33.94951039999999,-80.37622623558195,Mon-Sat: 10am-8pm,,0
+"Spartanburg, SC",,110 McCravy Dr,,Spartanburg,SC,29303,United States,864.582.4551,34.968270951743854,-81.93214277790986,Mon-Sat: 10am-8pm,,0
+"Seneca, SC",,368 Market St,,Seneca,SC,29678,United States,864.882.2554,34.689223570688945,-82.99293904907381,Mon-Sat: 10am-8pm,,0
+"Rock Hill, SC",,172 W Black St,,Rock Hill,SC,29730,United States,803.328.2421,34.92730167811111,-81.03138641045075,Mon-Sat: 10am-8pm,,0
+"Orangeburg, SC",,1159 Broughton St SW,,Orangeburg,SC,29115,United States,803.534.4302,33.48881697139779,-80.86669207553251,Mon-Sat: 10am-6pm,,0
+"Lancaster, SC",,909 N Main St,,Lancaster,SC,29720,United States,803.283.4182,34.7314316043242,-80.77501991779098,Mon-Sat: 10am-8pm,,0
+"Greenville, SC - White Horse Rd",,6615 White Horse Rd,,Greenville,SC,29611,United States,864.294.6266,34.868681292117024,-82.46651348280335,Mon-Sat: 10am-8pm,,0
+"Greenville, SC - Liberty Ln",,20-22 Liberty Ln,,Greenville,SC,29607,United States,864.242.6150,34.84289972156019,-82.36543177790986,Mon-Sat: 10am-8pm,,0
+"Goose Creek, SC",,208 St James Ave A,,Goose Creek,SC,29445,United States,843.277.8071,33.00737763460721,-80.04306302394258,Mon-Sat: 10am-8pm,,0
+"Gaffney, SC",,1410 W Floyd Baker Blvd,,Gaffney,SC,29341,United States,864.489.4484,35.08799254182816,-81.66002179325409,Mon-Sat: 10am-8pm,,0
+"Fountain Inn, SC",,129 N Main St,,Fountain Inn,SC,29644,United States,864.862.1082,34.69411929468117,-82.20077238220904,Mon-Sat: 10am-6pm,,0
+"Fort Mill, SC",,232 Main St,,Fort Mill,SC,29715,United States,803.547.2048,35.007808856988014,-80.94325407116395,Mon-Sat: 10am-6pm,,0
+"Statesville, NC",,146 E Broad St,,Statesville,NC,28677,United States,704.872.3691,35.78494051368762,-80.88631644232788,Mon-Sat: 10am-7pm,,0
+"Siler City, NC",,117 Siler Crossing,,Siler City,NC,27344,United States,919.663.6010,35.73593935664503,-79.43711271349184,Mon-Sat: 10am-8pm,,0
+"Shelby, NC",,300 W Dixon Blvd,,Shelby,NC,28152,United States,704.471.1933,35.28138854770672,-81.54786044973753,Mon-Sat: 10am-7pm,,0
+"Sanford, NC",,126 S Moore St,,Sanford,NC,27330,United States,919.774.9613,35.48063339894304,-79.17787096197128,Mon-Sat: 10am-6pm,,0
+"Salisbury, NC",,2141 Statesville Blvd A,,Salisbury,NC,28147,United States,704.638.0913,35.694105366420295,-80.51856302513124,Mon-Sat: 10am-8pm,,0
+"Raleigh, NC - Wilmington St",,3813 S Wilmington St,,Raleigh,NC,27603,United States,919.861.8596,35.726691564691315,-78.64832190674588,Mon-Sat: 10am-8pm,,0
+"Raleigh, NC - New Bern Ave",,5109 New Bern Ave,,Raleigh,NC,27610,United States,919.861.5300,35.79616242195844,-78.55094526931151,Mon-Sat: 10am-8pm,,0
+"Raleigh, NC - Fayetteville St",,210 Fayetteville St,,Raleigh,NC,27601,United States,919.833.2792,35.7778504437067,-78.63943886375426,Mon-Sat: 10am-8pm,,0
+"Morganton, NC",,915 W Union St,,Morganton,NC,28655,United States,828.437.1668,35.735354074841496,-81.71198405186766,Mon-Sat: 10am-8pm,,0
+"Monroe, NC",,1950 W Roosevelt Blvd,,Monroe,NC,28110,United States,704.289.1586,35.003675699999995,-80.55388323558196,Mon-Sat: 10am-8pm,,0
+"Lumberton, NC",,4301 Fayetteville Rd,,Lumberton,NC,28358,United States,910.887.3311,34.65129315167702,-78.99772032513124,Mon-Sat: 10am-8pm,,0
+"Lexington, NC",,201 S Main St,,Lexington,NC,27292,United States,336.249.0345,35.82259744964756,-80.25455237116392,Mon-Sat: 10am-7pm,,0
+"Lenoir, NC",,202 Harper Ave NW,,Lenoir,NC,28645,United States,828.758.0216,35.9158177477124,-81.52637225263976,Mon-Sat: 10am-8pm,,0
+"Laurinburg, NC",,234 E Church St,,Laurinburg,NC,28352,United States,910.277.8588,34.773811219160656,-79.46067740608214,Mon-Sat: 10am-7pm,,0
+"Gastonia, NC",,250 E Main Ave,,Gastonia,NC,28052,United States,704.864.5757,35.26415293991691,-81.17899025767213,Mon-Sat: 10am-7pm,,0
+"Forest City, NC",,207 E Main St,,Forest City,NC,28043,United States,828.245.4563,35.33354396916524,-81.86178699999999,Mon-Sat: 10am-7pm,,0
+"Fayetteville, NC - Bragg Blvd",,3426 Bragg Blvd 36A,,Fayetteville,NC,28303,United States,910.676.8789,35.07829831803745,-78.93668303068847,Mon-Sat: 10am-8pm,,0
+"Fayetteville, NC - Raeford Rd",,3141 Raeford Rd,,Fayetteville,NC,28303,United States,910.483.7117,35.04387459407081,-78.93352691534426,Mon-Sat: 10am-8pm,,0
+"Fayetteville, NC - Person St",,328 Person St,,Fayetteville,NC,28301,United States,910.483.0363,35.05022499999998,-78.87354957672119,Mon-Sat: 10am-7pm,,0

@@ -1,0 +1,18 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+New Providence,,1260 Springfield Ave USA ,,New Providence ,NJ,07974,United States,(908) 665-8600,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Livingston,,277 Eisenhower Pkwy USA ,,Livingston ,NJ,07039,United States,(973) 992-1325,,,9:00 am - 9:00 pm Mon - Sat; 10:00 am - 7:00 pm Sun,,0
+Westport,,374 Post Rd E USA ,,Westport ,CT,06880,United States,(203) 226-1111,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Stamford,,949 High Ridge Rd USA ,,Stamford ,CT,06905,United States,(203) 968-2600,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Norwalk II,,360 Connecticut Ave USA ,,Norwalk ,CT,06854,United States,(203) 853-2777,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Norwalk I,,352 Westport Ave ,,Norwalk ,CT,06851,United States,(203) 847-4455,,,8:00 am - 9:00 pm Mon - Sat; 10:00 am - 6:00 pm Sun,,0
+North Haven - OUTLET,,63 Washington Ave USA ,,North Haven ,CT,06473,United States,(203) 234-1711,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Monroe,,535 Monroe Turnpike USA ,,Monroe ,CT,06468,United States,(203) 261-1222,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Greenwich,,80 E Putnam Ave USA ,,Greenwich ,CT,06830,United States,(203) 869-4999,,,7:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Danbury,,67 Newtown Rd USA ,,Danbury ,CT,06810,United States,(203) 792-5800,,,8:00 am - 10:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Fairfield,,1947 Black Rock Turnpike USA ,,Fairfield ,CT,06825,United States,(203) 334-4242,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Somers,,80 US Route 6 USA ,,Baldwin Place ,NY,10505,United States,(914) 628-8888,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Scarsdale II,,1 Palmer Ave USA ,,Scarsdale ,NY,10583,United States,(914) 725-3022,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Scarsdale,,241 Central Park Ave USA ,,Hartsdale ,NY,10530,United States,(914) 684-1444,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Plainview,,381 South Oyster Bay Road ,,Plainview ,NY,11803,United States,(516) 933-9800,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0
+Commack,,116 Jericho Turnpike USA ,,Commack ,NY,11725,United States,(631) 864-9400,,,9:00 am - 9:00 pm Mon - Sat; 10:00 am - 7:00 pm Sun,,0
+Carmel,,1920 US Route 6 USA ,,Carmel ,NY,10512,United States,(845) 225-2762,,,8:00 am - 9:00 pm Mon - Sat; 9:00 am - 7:00 pm Sun,,0

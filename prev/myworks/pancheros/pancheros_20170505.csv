@@ -2,9 +2,9 @@ store_name,store_number,address,address2,city,state,zip_code,country,phone_numbe
 "St. Joseph, MO",67,3702 Frederick Avenue,,St Joseph,MO,64506,United States,(816) 671-0311,39.776951,-94.803177,"Every Day
 
 	10:30am-11pm",,0
-"Columbia, MO",62,421 N. Stadium Blvd,,Columbia,Mo,65203,United States,(573) 445-3096,38.960884,-92.371277,"Sun-Th 10:30am - 10pm<br />
+"Columbia, MO",62,421 N. Stadium Blvd,,Columbia,Mo,65203,United States,(573) 445-3096,38.960884,-92.371277,"Sun-Th 10:30am - 10pm
 	Fri-Sat 10:30am - 11pm",,0
-"Columbia, MO",82,1101 Grindstone Pkwy Ste 101,,Columbia,MO,65201,United States,573-445-5633,38.911552,-92.322678,"Sun - Thur 10:30am-10pm<br />
+"Columbia, MO",82,1101 Grindstone Pkwy Ste 101,,Columbia,MO,65201,United States,573-445-5633,38.911552,-92.322678,"Sun - Thur 10:30am-10pm
 	Fri - Sat 10:30am-11pm",,0
 "Columbia, MO",76,2900 Trimble Rd Suite 109,,Columbia,MO,65201,United States,(573) 447-2900,38.947945,-92.295242,"Sun - Thur 10:30-10pm
 
@@ -12,7 +12,7 @@ store_name,store_number,address,address2,city,state,zip_code,country,phone_numbe
 West Des Moines,11,165 S Jordan Creek Pkwy,,West Des,Moines,,United States,(515) 223-4471,41.567154,-93.810600,"Every Day
 
 	10:30am - 10pm",,0
-Des Moines,81,2708 Ingersoll Avenue,,Des Moines,,50312,United States,515-777-2898,41.585297,-93.653427,"sun-wed 10:30am-12am<br />
+Des Moines,81,2708 Ingersoll Avenue,,Des Moines,,50312,United States,515-777-2898,41.585297,-93.653427,"sun-wed 10:30am-12am
 	thu-sat 10:30am-2:30am",,0
 Urbandale,24,3265 100TH St.,,Urbandale,IA,50322,United States,(515) 252-0900,41.625275,-93.755730,SUN-SAT 10:30am-10pm,,0
 Johnston,14,8759 Northpark Drive,,Johnston,IA,50131,United States,(515) 270-9100,41.655739,-93.738205,"MON-SAT 10:30am-10pm
@@ -30,7 +30,7 @@ Ankeny,27,2310 SE Delaware Ave.,,Ankeny,IA,50021,United States,(515) 289-4173,41
 Ames,4,1310 S. Duff Ave. Ste. 103,,Ames,IA,50010,United States,(515) 233-4600,42.010849,-93.609695,"SUN-WED 10:30am-12am
 
 	TH-SAT 10:30am-2am",,0
-"Burlington, IA",58,1035 Lawrence Dr. Ste 100,,Burlington,IA,52601,United States,(319) 752-7660,40.797878,-91.140236,"SUN-TH 10:30am - 11pm<br />
+"Burlington, IA",58,1035 Lawrence Dr. Ste 100,,Burlington,IA,52601,United States,(319) 752-7660,40.797878,-91.140236,"SUN-TH 10:30am - 11pm
 	FRI-SAT 10:30am - 12am",,0
 "Fort Dodge, IA",69,3024 5th Ave S,,Fort Dodge,IA,50501,United States,(515) 576-0043,42.501675,-94.154114,"SUN-TH 10:30am - 11pm
 
@@ -98,7 +98,7 @@ Bloomington,41,5200 West 84th Street,,Bloomington,MN,55437,United States,(952) 7
 
 	10:30am-9pm",,0
 Golden Valley,9,7746 Olsen Memorial Hwy,,Golden Valley,MN,55427,United States,(763) 544-3474,44.984264,-93.378326,SUN-SAT 10:30AM-9PM,,0
-"Fridley, MN",87,284 57th Ave. NE,,Fridley,MN,55432,United States,763-208-6681,45.071541,-93.264290,"Sun-Th 10:30am - 10:00pm<br />
+"Fridley, MN",87,284 57th Ave. NE,,Fridley,MN,55432,United States,763-208-6681,45.071541,-93.264290,"Sun-Th 10:30am - 10:00pm
 	Fri-Sat 10:30am - 11:00pm",,0
 Portage,30,6160 S. Westnedge Ave.,,Portage,MI,49002,United States,(269) 323-0070,42.227818,-85.589462,"SUN-WED 10:30AM-11PM
 
@@ -129,7 +129,7 @@ Livonia,18,17390 Haggerty Rd.,,Livonia,MI,48152,United States,(734) 432-7910,42.
 "Madison Heights, MI",70,32203 John R. Road,,Madison Heights,MI,48071,United States,(248) 585-1600,42.527325,-83.106758,Everyday 10:30am-10pm,,0
 Tempe,35,555 N. Scottsdale Rd.,Suite 105,Tempe,AZ,85281,United States,(480) 921-5432,33.433689,-111.925781,Every day 11am-9pm,,0
 Moosic,5,2011 Shoppes Blvd,Building 2000,Moosic,PA,18507,United States,(570) 348-9300,41.362667,-75.677666,SUN-SAT 10:30AM-10:00PM,,0
-Glassboro,84,1058 N. Delsea Dr,,Glassboro,NJ,08028,United States,(856) 956-3467,39.724056,-75.115822,"SUN-TH: 10:30AM - 10PM<br />
+Glassboro,84,1058 N. Delsea Dr,,Glassboro,NJ,08028,United States,(856) 956-3467,39.724056,-75.115822,"SUN-TH: 10:30AM - 10PM
 	FRI-SAT: 10:30AM - 11PM",,0
 Voorhees,34,910 Haddonfield Berlin,,Voorhees,NJ,08043,United States,(856) 784-7701,39.851135,-74.979538,"Mon-TH 10:30AM-10:00PM
 
@@ -160,7 +160,7 @@ Paramus Park,47,700 Paramus Park,Suite 1470,Paramus,NJ,07652,United States,(201)
 Shelton,42,The Center at Split Rock,,704 Bridgeport,Ave,,United States,(203) 925-5800,41.275623,-73.123619,"MON-SAT 10:30am-10pm
 
 	SUN 10:30am-9pm",,0
-"Wallingford, CT",90,893 N Colony Road,,Wallingford,CT,06492,United States,(203) 265-7778,41.482281,-72.810226,"Mon - Sat 10:30am-10pm<br />
+"Wallingford, CT",90,893 N Colony Road,,Wallingford,CT,06492,United States,(203) 265-7778,41.482281,-72.810226,"Mon - Sat 10:30am-10pm
 	Sun 11am-9pm",,0
 "Manchester, CT",75,350 Buckland Street,,Manchester,CT,06042,United States,860.644.4447,41.807167,-72.555702,"Every Day
 

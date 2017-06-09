@@ -1,0 +1,15 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Columbus,,South Campus Gateway,,Columbus,OH,43201,United States,614-299-4682,,,,,0
+Columbus,,Easton Town Center - Inside Macy's on 1st Floor,,Columbus,OH,43219,United States,614-342-2300 Ext 2408,,,,,0
+Castle Rock,,,,,,,,,,,,,1
+Fort Collins,,Southeast Fort Collins,,Fort Collins,CO,80525,United States,970-225-2828,,,,,0
+Fort Collins,,Raintree Plaza,,Fort Collins,CO,80525,United States,970-797-2855,,,,,0
+Lonetree,,Park Meadows Mall - Food Court,,Lonetree,CO,80124,United States,303-799-8437,,,,,0
+Littleton,,Southwest Plaza Mall - K5526,,Littleton,CO,80123,United States,303-973-8423,,,,,0
+Parker,,17021 Lincoln Ave,,Parker,CO,80134,United States,303-841-3801,,,,,0
+Thornton,,Thorncreek Crossing,,Thornton,CO,80233,United States,303-254-4682,,,,,0
+Bloomington,,Mall of America - Inside Macy's on 1st floor,,Bloomington,MN,55425,United States,,,,,,0
+Eden Prairie,,582 Prairie Center Drive,,Eden Prairie,MN,55344,United States,952-943-0005,,,,,0
+Lakeville,,17659 Glasgow Avenue,,Lakeville,MN,55044,United States,952-891-8042,,,,,0
+Mankato,,University Store 1600 Warren Street,,Mankato,MN,56001,United States,507-345-8423,,,,,0
+Mankato,,River Hills Mall 1850 Adams Street,,Mankato,MN,56001,United States,507-345-6764,,,,,0

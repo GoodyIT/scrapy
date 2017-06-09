@@ -1,0 +1,564 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Chuck E. Cheese's,2061,1830 W. Fullerton Ave.,,Chicago,IL,60614,United States,(773) 871-2484,41.925201,-87.673302,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1885,7142 Carpenter,,Skokie,IL,60077,United States,(847) 679-8180,42.011398,-87.761703,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,1715,1030 Winston Plaza,,Melrose Park,IL,60160,United States,(708) 343-1224,41.905998,-87.847121,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1722,5030 S. Kedzie,,Chicago,IL,60632,United States,(773) 476-0500,41.8018,-87.703796,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1702,4031 W. 95th,,Oaklawn,IL,60453,United States,(708) 425-5800,41.720299,-87.7229,Sun-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2060,200 W. Roosevelt,,Villa Park,IL,60181,United States,(630) 833-6212,41.8606,-87.9823,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2062,41 W. Rand Rd.,,Arlington Heights,IL,60004,United States,(847) 577-8801,42.114206,-87.982715,Sun-Thur 11am-9pm ;  Fri - Sat 11am-10pm,,0
+Chuck E. Cheese's,2059,7409 Cass Ave.,,Darien,IL,60561,United States,(630) 964-0740,41.753201,-87.973801,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1798,700 N. Milwaukee Avenue,,Vernon Hills,IL,60061,United States,(847) 327-9122,42.240299,-87.944702,Mon-Thur 10am-9pm ;  Fri 10am-10pm ; Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1719,1000C S. Barrington Rd.,,Streamwood,IL,60107,United States,(630) 289-6700,42.012501,-88.144699,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1718,16090 S. Harlem Ave.,,Tinley Park,IL,60477,United States,(708) 429-9230,41.598701,-87.794197,Sun-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1742,506 South Route 59,,Naperville,IL,60540,United States,630-369-2012,41.761824,-88.20232,Sun-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1729,106 Towncenter,,Matteson,IL,60443,United States,(708) 747-5666,41.503502,-87.732597,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2065,1512 Nations Drive,,Gurnee,IL,60031,United States,(847) 249-1120,42.3806,-87.940399,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1802,511 N. Randall Rd.,,Batavia,IL,60510,United States,(630) 482-2402,41.8619,-88.3405,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2054,3250 Chicagoland Circle,,Joliet,IL,60435,United States,(815) 254-0092,41.5824,-88.163,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1714,4725 Northwest Hwy.,,Crystal Lake,IL,60014,United States,(815) 455-7463,42.2257,-88.288902,Mon-Thur 10am-9pm ;  Fri 10am-10pm ; Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1801,2961 E. 80th Ave,,Merrillville,IN,46410,United States,(219) 945-0759,41.471802,-87.299698,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,2090,5612 Durand Ave.,,Racine,WI,53406,United States,(262) 554-9595,42.697399,-87.847504,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2151,2701 Chase Ave.,,Milwaukee,WI,53207,United States,(414) 483-8655,42.995399,-87.911903,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2152,2990 South 108th Ave.,,West Allis,WI,53227,United States,(414) 546-3600,42.989799,-88.046898,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2199,3600 E. State St.,,Rockford,IL,61108,United States,(815) 226-9400,42.265999,-89.041298,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,2180,822 W. McKinley,,Mishawaka,IN,46545,United States,(574) 259-2449,41.6805,-86.192703,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2150,19125 W. Blue Mound Rd.,,Brookfield,WI,53045,United States,(262) 785-1400,43.0359,-88.150902,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2091,2500 Milton Avenue,,Janesville,WI,53545,United States,(608) 754-9596,42.712601,-89.001404,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1785,6175 S Westnedge,,Portage,MI,49002,United States,(877) 581-5732,42.227501,-85.589699,Mon-Thur 10am-9pm ;  Fri-Sat 10am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,2141,5600 Harvey Street,,Muskegon,MI,49444,United States,(231) 798-8121,43.142799,-86.205803,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2052,100 S. Creasy Lane #100,,Lafayette,IN,47905,United States,(765) 449-1020,40.416834,-86.838979,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2002,438 Grand Canyon Dr.,,Madison,WI,53719,United States,(608) 829-2000,43.0574,-89.496201,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1799,1701 Empire,,Bloomington,IL,61704,United States,(309) 664-2982,40.4883,-88.952599,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2140,3108 Alpine Ave,,Walker,MI,49544,United States,(616) 647-3011,43.020401,-85.688904,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1792,3671 28th St. SE,,Grand Rapids,MI,49512,United States,(616) 942-7993,42.91259,-85.57611,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1797,1919 South Reed Road,,Kokomo,IN,46902,United States,(765) 457-1930,40.464699,-86.1082,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1809,2601 W. Lake,,Peoria,IL,61615,United States,(309) 688-2873,40.738701,-89.634697,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2189,711 Coliseum Blvd. W,,Ft. Wayne,IN,46808,United States,(260) 484-9668,41.117699,-85.151604,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2196,903 E. Kimberly Rd.,,Davenport,IA,52807,United States,(563) 391-2041,41.556999,-90.560303,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1784,5451 L. West Saginaw Hwy.,,Lansing,MI,48917,United States,(517) 321-1233,42.740898,-84.627098,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1741,5501 E. 82nd St.,,Indianapolis,IN,46250,United States,(317) 849-7324,39.904701,-86.074097,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2001,4671 Michales Dr.,,Grand Chute,WI,54915,United States,(920) 832-8323,44.2673,-88.475502,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2053,9931 E. US Highway 36,,Avon,IN,46123,United States,(317) 271-7611,39.7634,-86.35755,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2186,1611 W. McGalliard Rd.,,Muncie,IN,47302,United States,(765) 287-8740,40.2188,-85.403099,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2079,10021 E. Washington Street,,Indianapolis,IN,46204,United States,(317) 897-2751,39.77481,-85.98975,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1777,1273 Lombardi Access,,Green Bay,WI,54304,United States,(920) 497-0338,44.506699,-88.073196,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1800,8804 US 31 South,,Indianapolis,IN,46227,United States,(317) 887-0646,39.6381,-86.128899,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1710,2369 McArthur Ave,,Springfield,IL,62704,United States,(217) 793-0230,39.7742,-89.668297,Sun-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2252,2809 Elida Road,,Lima,OH,45805,United States,(419) 879-8002,40.766405,-84.156845,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1791,2655 Oak Valley Dr.,,Ann Arbor,MI,48103,United States,(734) 222-1003,42.24592,-83.77015,Sun-Thur 11am-9pm ;  Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1956,5455 Airport Hwy Ste 9-I,,Toledo,OH,43615,United States,(419) 382-0222,41.616402,-83.670898,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1958,5077 Monroe,,Toledo,OH,43623,United States,(419) 841-9133,41.69945,-83.64612,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2051,1455 N. National Road,,Columbus,IN,47201,United States,(812) 375-9690,39.213902,-85.880798,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1781,3489 Miller Rd.,,Flint,MI,48507,United States,(810) 733-7404,42.988998,-83.739197,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1793,5105 Bay Rd.,,Saginaw,MI,48604,United States,(989) 791-1116,43.481098,-83.975304,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1788,44275 Twelve Mile Road- D134,,Novi,MI,48377,United States,(248) 344-1560,42.4953,-83.484299,Mon-Thur 10am-9pm ;  Fri-Sat 10am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,1732,42001 Ford Rd.,,Canton,MI,48187,United States,(734) 981-0333,42.322701,-83.454803,Mon-Thur 10am-9pm ;  Fri-Sat 10am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,2088,4444 State Rd 16,,LaCrosse,WI,54601,United States,(608) 781-6440,43.87152,-91.192264,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1808,24399 Michigan,,Dearborn,MI,48124,United States,(313) 274-5310,42.298901,-83.275299,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2078,15300 Toledo Rd.,,Southgate,MI,48195,United States,(734) 283-6513,42.195999,-83.214798,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1736,201 East Auburn,,Rochester Hills,MI,48307,United States,(248) 299-4540,42.636282,-83.1274,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2138,740 John R Road,,Troy,MI,48083,United States,(248) 616-0696,42.54119,-83.10719,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1957,30 Prestige Place,,Miamisburg,OH,45342,United States,(937) 439-2364,39.634701,-84.228699,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am - 11pm,,0
+Chuck E. Cheese's,2142,4450 Walker Road- Unit A,,Windsor,ON,N8W3T5,Canada,(519) 969-1014,42.254902,-82.9646,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2184,2345 Valley Loop Rd.,,Springfield,OH,45504,United States,(937) 324-4155,39.949902,-83.847504,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,1747,13745 Lakeside Circle,,Sterling Heights,MI,48313,United States,(586) 532-8989,42.623299,-82.991302,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1900,31920 Gratiot,,Roseville,MI,48066,United States,(586) 293-0808,42.5317,-82.913902,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2039,5911 University Ave #100,,Cedar Falls,IA,50613,United States,(319) 277-2933,42.5131,-92.428497,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1963,8801 Colerain,,Cincinnati,OH,45251,United States,(513) 385-1438,39.230202,-84.589996,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,2099,1429 E. Kemper Rd.,,Sharonville,OH,45246,United States,(513) 772-2720,39.285599,-84.447899,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,1752,7635 Mall Road,,Florence,KY,41042,United States,(859) 525-8822,38.999179,-84.653491,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am - 11pm,,0
+Chuck E. Cheese's,2177,10850 Lincoln Trail,,Fairview Heights,IL,62208,United States,(618) 397-3434,38.5928,-89.989799,Mon-Thur 10am-9pm ;  Fri 10am-10pm ; Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1746,4394 Eastgate Square Dr. 900,,Cincinnati,OH,45245,United States,(513) 752-8188,39.093937,-84.269607,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,2191,2669 Veterans Memorial Parkway,,St. Charles,MO,63303,United States,(636) 946-3444,38.778999,-90.515701,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2097,2711 Martin Rd,,Dublin,OH,43016,United States,(614) 791-9480,40.0942,-83.088501,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 9am - 11pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1796,1100 E. State Hwy. 131,,Clarksville,IN,47129,United States,(812) 218-0808,38.317779,-85.755651,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1720,559 N. Green River Rd.,,Evansville,IN,47715,United States,(812) 473-0004,37.981701,-87.492599,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2104,601 Richland Mall,,Mansfield,OH,44906,United States,(419) 529-3420,40.772499,-82.593903,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1959,3631 Soldano Blvd.,,Columbus,OH,43228,United States,(614) 351-8884,39.9552,-83.097298,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,2162,720 South County Centerway,,St. Louis,MO,63129,United States,(314) 487-0101,38.506901,-90.333702,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2190,15913 Manchester Rd.,,Ellisville,MO,63011,United States,(636) 391-2391,38.592701,-90.5867,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1751,2030 S. Hurstbourne Pkwy,,Louisville,KY,40220,United States,(502) 493-9919,38.2174,-85.587799,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2136,1250 16th Street SW,,Rochester,MN,55902,United States,(507) 529-5055,44.00097,-92.48085,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2098,4284 Macsway,,Columbus,OH,43232,United States,(614) 863-6482,39.923698,-82.881699,Sun-Fri 11am-9pm ;  Sat 10am -9pm,,0
+Chuck E. Cheese's,1961,26104 Great Northern Shopping Ctr.,,North Olmsted,OH,44070,United States,(440) 734-9929,41.417702,-81.912399,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1745,7601 W. Ridgewood RD.,,Parma,OH,44129,United States,(440) 888-5700,41.384399,-81.737099,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2197,1431 22nd St.,,West Des Moines,IA,50266,United States,(515) 223-9430,41.594515,-93.735667,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1955,2779 West Market Street,,Akron,OH,44333,United States,(330) 869-8211,41.125702,-81.604698,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2202,1555 New Circle Rd.,,Lexington,KY,40509,United States,(859) 268-1800,38.021301,-84.455002,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1952,1615 Golden Gate Plaza,,Mayfield Heights,OH,44124,United States,(440) 684-1110,41.517601,-81.450302,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2106,2003 W. Worley Road,,Columbia,MO,65203,United States,(573) 445-1728,38.961102,-92.369301,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2102,8000 Plaza Blvd.- Unit J,,Mentor,OH,44060,United States,(440) 205-0446,41.653599,-81.364601,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2100,6370 Strip Ave.   NW,,Canton,OH,44720,United States,(330) 494-7140,40.865898,-81.431602,Sun-Thur 10am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese,3334,445 Commerce Drive,,Woodbury,MN,55125,United States,(651) 702-0700,44.94145,-92.91335,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2134,1422 South Roberts,,West St. Paul,MN,55118,United States,(651) 453-1066,44.903301,-93.080498,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1753,5141 Hinkleville Road,,Paducah,KY,42001,United States,(270) 442-5114,37.075802,-88.689598,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2131,1025 Burnsville Center,,Burnsville,MN,55306,United States,(952) 892-7786,44.744499,-93.2845,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2135,7505 France Ave. South,,Edina,MN,55435,United States,(952) 831-4077,44.866798,-93.328598,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1969,2625 Scottsville Road,,Bowling Green,KY,42104,United States,(270) 842-3861,36.949902,-86.425003,Sun-Fri 11am-9pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2133,8943 University Ave. NE,,Blaine,MN,55434,United States,(763) 785-2966,45.132702,-93.264999,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2103,2082 Niles Cortland Rd.- SE,,Warren,OH,44484,United States,(330) 652-0740,41.215099,-80.740501,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2132,12945 Elm Creek Blvd.,,Maple Grove,MN,55369,United States,(763) 494-5520,45.0965,-93.447304,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1954,521 Boardman Poland Rd.,,Boardman,OH,44512,United States,(330) 629-9929,41.0242,-80.647598,Sun-Thur 11am-9pm ;  Fri-Sat 10am-10pm,,0
+Chuck E. Cheese's,1816,2821 B. Wilma Rudolph Blvd.,,Clarksville,TN,37040,United States,(931) 906-1011,36.587502,-87.2938,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2155,42 Pine Bush Road,,Cambridge,ON,N1R8K5,Canada,(519) 621-7752,43.4114,-80.309196,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1942,7200 Peach Street,,Erie,PA,16509,United States,(814) 864-3100,42.054901,-80.0877,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1727,2070 Gallatin Rd. North,,Madison,TN,37115,United States,(615) 859-0859,36.302299,-86.692299,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2023,2846 Mountaineer Blvd.,,Charleston,WV,25309,United States,(304) 744-6900,38.31902,-81.71763,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3342,60 Belinda Parkway,,Mount Juliet,TN,37122,United States,(615) 773-8400 ,36.17118,-86.50622,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1734,18701 E. 39th Street,,Independence,MO,64057,United States,(816) 254-6300,39.04746,-94.36057,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1941,1035 Washington Pike,,Bridgeville,PA,15017,United States,(412) 257-2570,40.36672,-80.10597,Sun-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1950,20 McIntyre Square Drive,,Pittsburgh,PA,15237,United States,(412) 364-7762,40.551201,-80.019402,Sun-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2137,3318 W. Division St.,,St. Cloud,MN,56301,United States,(320) 252-6880,45.55318,-94.19894,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1730,5312 Hickory Hollow Lane,,Antioch,TN,37013,United States,(615) 731-0271,36.048599,-86.651703,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2105,9196 N. Skyview Avenue,,Kansas City,MO,64154,United States,(816) 505-0902,39.26025,-94.6594,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,2147,2945 Argentia Road,,Mississauga - West,ON,L5N0A2,Canada,(905) 785-3593,43.599499,-79.775803,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1813,3073 Mallory Lane,,Franklin,TN,37067,United States,(615) 771-0708,35.946999,-86.82,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1943,3800 William Penn Highway,,Monroeville,PA,15146,United States,(412) 856-5044,40.436199,-79.7845,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm;  Sun 10am-9pm,,0
+Chuck E. Cheese's,1726,10510 Metcalf Lane,,Overland Park,KS,66202,United States,(913) 648-4920,38.938202,-94.668602,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,2153,4141 Dixie Rd.,,Mississauga-Dixie Rd.,ON,L4W1V5,Canada,(905) 602-4090,43.625099,-79.605698,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2046,1720 Old Fort Parkway,,Murfreesboro,TN,37129,United States,(615) 217-8842,35.847401,-86.430801,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2047,15225 W. 134th Street,,Olathe,KS,66062,United States,(913) 390-0815,38.884534,-94.763434,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,2172,3255 Rutherford Road,,Vaughan,ON,L4K5Y5,Canada,(905) 532-0241,43.8293,-79.537903,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2095,225 N. 76th,,Omaha,NE,68114,United States,(402) 391-6331,41.261002,-96.031403,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2115,5256 Route 30 Space #273,,Greensburg,PA,15601,United States,(724) 837-2455,40.303001,-79.507401,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2048,2021 North Highland Avenue,,Jackson,TN,38305,United States,(731) 660-9001,35.6563,-88.828003,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2154,2452 Sheppard Ave. East-,,Willowdale,ON,M2J1X1,Canada,(416) 497-8855,43.775299,-79.323402,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2040,4400 Sergeant Road,,Sioux City,IA,51106,United States,(712) 276-7272,42.448002,-96.348503,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2101,3500A S. Glenstone Ave.,,Springfield,MO,65804,United States,(417) 886 2511,37.149147,-93.259315,Mon-Thur 10am-9pm ;  Fri 10am-10pm ; Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,2049,3400 E. Highland Dr.,,Jonesboro,AR,72401,United States,(870) 268-8371,35.821201,-90.661102,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1923,4408 Milestrip Rd.,,Buffalo,NY,14219,United States,(716) 822-2221,42.789902,-78.815498,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2149,4994 Harlem Rd.,,Amherst,NY,14226,United States,(716) 839-3543,42.977299,-78.783798,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1716,8225 Kingston Pike,,Knoxville,TN,37919,United States,(865) 670-8586,35.9245,-84.054703,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2144,75 Consumers Drive- Bldg. J,,Whitby,ON,L1N9S2,Canada,(905) 665-2142,43.871601,-78.910004,Sun-Thur 11am-9pm ;  Fri-Sat 10am-10pm ,,0
+Chuck E. Cheese's,2200,2215 SW Wanamaker Rd.,,Topeka,KS,66614,United States,(785) 272-1180,39.027199,-95.762398,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1970,221 N. 66th,,Lincoln,NE,68505,United States,(402) 464-8206,40.815201,-96.630699,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1940,592 Galleria Drive,,Johnstown,PA,15904,United States,(814) 535-2800,40.2994,-78.834099,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2165,2600 Louise,,Sioux Falls,SD,57106,United States,(605) 361-3310,43.526699,-96.773903,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2045,3020 Peoples Street,,Johnson City,TN,37604,United States,(423) 282-3069,36.348701,-82.387703,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1965,1636 N. Germantown Pkwy,,Cordova,TN,38108,United States,(901) 757-7776,35.169601,-89.792801,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2208,22 Northgate Park,,Chattanooga,TN,37415,United States,(423) 870-3215,35.1335,-85.24128,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1878,3415 Pleasant Valley Shopping Center,,Altoona,PA,16602,United States,(814) 942-2410,40.483898,-78.400803,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2209,3649 Hickory Hill Rd.,,Memphis,TN,38115,United States,(901) 363-1064,35.048698,-89.866501,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2107,101 N. Range Line Road,,Joplin,MO,64801,United States,(417) 621-0054,37.091,-94.476898,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2218,4700 Hatch Blvd,,Sheffield,AL,35661,United States,(256) 383-3836,34.772598,-87.670502,,,0
+Chuck E. Cheese's,1966,7178 DeSoto Cove,,Horn Lake,MS,38637,United States,(662) 536-4684,34.967999,-90.001099,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2072,1220 Jordon Lane NW,,Huntsville,AL,35816,United States,(256) 534-2415,34.740799,-86.627998,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2068,1801 Beltline Rd. Suite G,,Decatur,AL,35601,United States,(256) 350-4852,34.584702,-87.024597,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2148,3130 Ridge Road West,,Rochester,NY,14626,United States,(585) 227-6360,43.211399,-77.712402,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1924,1000 Hylan Drive,,Rochester,NY,14623,United States,(585) 292-6380,43.079201,-77.629402,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2030,104 River Hills Road,,Asheville,NC,28805,United States,(828) 299-3750,35.575389,-82.519386,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2211,4059 Electric Rd.,,Roanoke,VA,24014,United States,(540) 989-8193,37.224499,-79.982597,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2050,2006 Promenade Blvd.,,Rogers,AR,72758,United States,(479) 986-9852,36.3135,-94.1779,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2250,4383 Mall Drive,,Tupelo,MS,38804,United States,(662) 842-0788,34.311927,-88.702879,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1771,2999 N. College Ave. Ste. 12,,Fayetteville,AR,72703,United States,(479) 443-7733,36.10652,-94.14618,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3320,145 E. Tevis Street,,Winchester,VA,22601,United States,(540) 662-5166,39.15274,-78.17471,Sun-Thur 10am-9pm ;  Fri-Sat 10am-10pm ,,0
+Chuck E. Cheese's,2120,17618 Valley Mall Blvd.,,Hagerstown,MD,21740,United States,(301) 582-0707,39.624901,-77.767097,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1828,2032 Catawba Valley Blvd.,,Hickory,NC,28602,United States,(828) 328-3694,35.702599,-81.333099,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1763,4120 Landers Rd.,,North Little Rock,AR,72117,United States,(501) 945-1985,34.792801,-92.222099,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese,3335,2706 S. Shackleford Rd.,,Little Rock,AR,72205,United States,(501) 225-2200,34.73037,-92.39499,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2118,7210 Guilford Drive,,Frederick,MD,21703,United States,(301) 694-7227,39.396702,-77.418602,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3343,1202 Nodak Drive,,Fargo,ND,58103,United States,(701) 232-7967,46.86274,-96.83176,Mon-Sun 10am-10pm,,0
+Chuck E. Cheese's,1758,620 Hanes Mall Blvd.,,Winston Salem,NC,27103,United States,(336) 774-0690,36.063202,-80.301399,Sun-Thur 11am-9pm ;  Fri-Sat 10am-10pm ,,0
+Chuck E. Cheese's,2207,253 Congaree Rd.,,Greenville,SC,29607,United States,(864) 297-6400,34.8531,-82.336098,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1829,660 Spartan Blvd.  #250,,Spartanburg,SC,29301,United States,(864) 574-4748,34.9431,-81.995102,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2038,21025 Dulles Town Circle,,Dulles (Sterling),VA,20166,United States,(703) 430-9776,39.030987,-77.426262,Sun-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1756,824 Earnest W. Barrett Pkwy.,,Kennesaw,GA,30144,United States,(770) 420-3340,34.006601,-84.573397,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2203,3883 Union Deposit Rd.,,Harrisburg,PA,17109,United States,(717) 564-9031,40.278198,-76.824501,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1757,7730 Streamwalk Lane,,Manassas,VA,20109,United States,(703) 361-2333,38.796101,-77.518799,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1998,925 North Point Drive,,Alpharetta,GA,30022,United States,(678) 893-0171,34.0508,-84.281303,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1744,2465 Centreville- Ste. J9,,Herndon,VA,20171,United States,(703) 713-0231,38.9519,-77.409599,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2014,1690 Mall of Georgia Blvd,,Buford,GA,30519,United States,(770) 614-5803,34.062302,-83.993103,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2027,416 Cox Road,,Gastonia,NC,28054,United States,(704) 868-3821,35.262798,-81.133499,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1761,1200 Waldron #148,,Ft. Smith,AR,72903,United States,(479) 452-0111,35.371201,-94.372597,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1836,516 N. Frederick,,Gaithersburg,MD,20877,United States,(301) 869-9010,39.1488,-77.207703,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2029,702-A Pembroke Road,,Greensboro,NC,27405,United States,(336) 855-0234,36.083801,-79.833,Sun-Thur 11am-9pm ;  Fri-Sat 10am-10pm ,,0
+Chuck E. Cheese's,2092,2990 Cumberland Blvd SE,,Atlanta,GA,30339,United States,(770) 435-9036,33.8801,-84.473297,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-11pm,,0
+Chuck E. Cheese's,2201,3223 N. Rock Rd.,,Wichita,KS,67226,United States,(316) 636-2225,37.741699,-97.244797,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1735,9404 Main St,,Fairfax,VA,22031,United States,(703) 978-5755,38.841301,-77.270401,Sun-Thur 10am-9pm ;  Fri 10am-11pm ;  Sat 9am-11pm,,0
+Chuck E. Cheese's,2009,5019 Jimmy Carter Blvd.,,Norcross,GA,30093,United States,(770) 449-1767,33.896999,-84.197899,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2204,2801 E. Market St.,,York,PA,17402,United States,(717) 755-5220,39.975399,-76.673103,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1937,5270 Randolph Road,,Rockville,MD,20852,United States,(301) 816-6966,39.053398,-77.107803,Sun-Thur 10am-9pm ;  Fri 10am-11pm ;  Sat 9am-11pm,,0
+Chuck E. Cheese's,1827,7970 Lyles Lane NW,,Concord,NC,28027,United States,(704) 979-1380,35.366001,-80.711899,Sun-Thur 11am-9pm ;  Fri-Sat 10am-10pm ,,0
+Chuck E. Cheese's,2011,6890 Douglas Blvd.,,Douglasville,GA,30135,United States,(770) 577-8951,33.7285,-84.753998,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1728,14085 Shoppers Best Way,,Dale City,VA,22192,United States,(703) 670-4522,38.646,-77.298698,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1787,500 Old Town Rd.,,Birmingham,AL,35216,United States,(205) 979-3420,33.4198,-86.798698,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1951,1280 Central Park Blvd.,,Fredericksburg,VA,22401,United States,(540) 786-9935,38.301498,-77.514503,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3315,4647 Hwy. 280,,Birmingham,AL,35242,United States,(205) 980-3266,33.42531,-86.70357,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1933,3023 Erie Boulevard,,Syracuse,NY,13224,United States,(315) 449-4131,43.055698,-76.086197,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1837,Location Closed -13807 Outlet Drive,,Silver Spring,MD,20904,United States,(301) 890-6767,39.0821,-76.947098,Permanently Closed,,0
+Chuck E. Cheese's,3317,1127 University Blvd East,,Takoma Park,MD,20912,United States,(301) 431-0300,38.99036,-76.98938,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1705,5612 Albermarle Rd. #100,,Charlotte,NC,28212,United States,(704) 532-9570,35.20396,-80.753208,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1731,6301 Richmond Hwy.,,Alexandria,VA,22306,United States,(703) 721-1500,38.78119,-77.07857,Sun-Thur 10am-9pm ;  Fri 10am-11pm ;  Sat 9am-11pm,,0
+Chuck E. Cheese's,1928,3901 Vestal Parkway E.,,Vestal,NY,13850,United States,(607) 729-7233,42.096001,-75.978401,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2010,3654-I Atlanta Hwy.,,Athens,GA,30606,United States,(706) 353-6715,33.947102,-83.423103,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1723,7701 Pineville-Matthews Rd.,,Charlotte,NC,28226,United States,(704) 541-0106,35.087601,-80.849297,Sun-Thur 11am-9pm ;  Fri-Sat 10am-10pm,,0
+Chuck E. Cheese's,1737,936 Fairlawn Ave.,,Laurel,MD,20707,United States,(301) 498-7100,39.097099,-76.854698,Sun-Thur 11am-9pm ;  Fri 10am-11pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,2176,7108 S. Memorial Dr.,,Tulsa,OK,74133,United States,(918) 252-9661,36.0602,-95.886597,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1845,5912 Baltimore National Pike,,Baltimore,MD,21228,United States,(410) 719-8850,39.287399,-76.735001,Sun-Thur 10am-9pm ;  Fri 10am-11pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,1946,2020 Fruitville Pike,,Lancaster,PA,17601,United States,(717) 569-6633,40.076099,-76.324799,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+"Tuscaloosa, AL",3351,"1800 McFarland Blvd. E., Ste. 508",,Tuscaloosa,AL,35404,United States,205-391-1640,33.1947503,-87.5278762,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1999,335 Upper Riverdale Rd.,,Jonesboro,GA,30236,United States,(770) 996-3250,33.581001,-84.379204,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1938,1100 Shoppers Way,,Largo,MD,20774,United States,(301) 324-8970,38.904202,-76.842003,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2000,1530 Dogwood Drive SE,,Conyers,GA,30013,United States,(678) 413-0045,33.649399,-83.996803,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+"Parkville, MD",3350,8886 Waltham Woods Rd,,Parkville,MD,21234,United States,(410) 661-0075,39.40066,-76.54057,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1899,6637 Governor Ritchie Hwy.,,Glen Burnie,MD,21061,United States,(410) 761-3131,39.195099,-76.613098,Sun-Thur 10am-9pm ;  Fri 10am-11pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,1739,3241 Plaza Way,,Waldorf,MD,20602,United States,(301) 932-4640,38.62206,-76.91774,Sun-Thur 10am-9pm ;  Fri 10am-11pm ;  Sat 9am-11pm,,0
+Chuck E. Cheese's,1939,2120 Wilkes-Barre Twnshp Mrkt pl,,Wilkes-Barre Township,PA,18702,United States,(570) 821-1120,41.237013,-75.857426,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2013,786 Glynn Street N.,,Fayetteville,GA,30214,United States,(770) 461-7974,33.463501,-84.450104,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1838,8354 Eastern Ave.,,Baltimore,MD,21224,United States,(410) 288-9393,39.301201,-76.491203,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1717,9030 Broad St.,,Richmond,VA,23294,United States,(804) 762-4520,37.635799,-77.5476,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2037,10430 Midlothian Turnpike,,Richmond,VA,23235,United States,(804) 330-9865,37.507099,-77.588997,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1916,5 Bel Air South Parkway- Ste. N-1447,,Bel Air,MD,21015,United States,(410) 515-0207,39.497601,-76.326202,Sun-Thur 10am-9pm ;  Fri 10am-11pm ;  Sat 9am-11pm,,0
+Chuck E. Cheese's,1945,2721 N. Meridian Blvd.,,Wyomissing,PA,19610,United States,(610) 478-8900,40.356499,-75.983299,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1713,2333-A Forest Dr.,,Annapolis,MD,21401,United States,(410) 266-1438,38.980674,-76.543825,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1947,1003 Commerce BLvd.,,Dickson City,PA,18519,United States,(570) 487-1444,41.462299,-75.651199,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1826,3724 Mayfair St.,,Durham,NC,27707,United States,(919) 493-6084,35.9687,-78.950798,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2032,4631 Commercial Drive,,New Hartford,NY,13413,United States,(315) 736-6909,43.089973,-75.310799,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1877,1000 Lehigh Valley Mall,,Whitehall,PA,18052,United States,(610) 266-9473,40.631599,-75.483498,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1944,911 E. Lancaster Ave,,Downingtown,PA,19335,United States,(610) 873-8824,40.0158,-75.685997,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2028,3501-131 Capitol Blvd.,,Raleigh,NC,27604,United States,(919) 850-9922,35.8274,-78.585899,Sun-Thur 11am-9pm ;  Fri-Sat 10am-10pm ,,0
+Chuck E. Cheese's,2194,3601 Silverside Rd.,,Wilmington,DE,19810,United States,(302) 478-4420,39.808998,-75.546402,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1949,270 W. Swedesford Rd.,,Berwyn,PA,19312,United States,(610) 578-9113,40.070599,-75.444099,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2206,1775 Burning Tree,,Columbia,SC,29210,United States,(803) 772-0435,34.044701,-81.1157,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1884,1210 Bethlehem Pike,,North Wales,PA,19454,United States,(215) 653-0616,40.2099,-75.224998,Sun-Thur 11am-9pm ;  Fri 11am-9pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,3312,371 Baltimore Pike,,Springfield,PA,19064,United States,(610) 544-3600,39.92172,-75.3204,Sun-Thur 10am-9pm ;  Fri 10am-11pm ;  Sat 9am-11pm,,0
+Chuck E. Cheese's,2185,3435 Wrightsboro Rd.,,Augusta,GA,30909,United States,(706) 737-4557,33.467999,-82.077904,Sun-Thur 11am-9pm ;  Fri-11am-10pm ;  Sat-10am-11pm,,0
+Chuck E. Cheese's,2114,1661 Easton Road B-2,,Warrington,PA,18976,United States,(215) 491-5746,40.268799,-75.129997,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2112,1275 N. DuPont Hwy.,,Dover,DE,19901,United States,(302) 736-9881,39.189201,-75.540604,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2006,1116 Eastdale Mall,,Montgomery,AL,36117,United States,(334) 281-9290,32.38306,-86.20457,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1879,9 Snyder Ave. (Corner of Front & Snyder),,Philadelphia,PA,19148,United States,(215) 551-4080,39.92101,-75.14519,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2012,3374 Mercer University,,Macon,GA,31204,United States,(478) 755-0915,32.8209,-83.688103,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2237,511 North McPherson Church Rd,,Fayetteville,NC,28301,United States,(910) 487-0111,35.074001,-78.952904,Sun-Thur 10am-10pm ;  Fri-Sat 10am-11pm,,0
+Chuck E. Cheese's,1866,9175 Roosevelt #2,,Philadelphia,PA,19114,United States,(215) 677-6300,40.075401,-75.033401,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1832,730 Sutters Creek Blvd.,,Rocky Mount,NC,27804,United States,(252) 443-5267,35.970798,-77.810204,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2169,3201 Macon Rd.,,Columbus,GA,31906,United States,(706) 568-1813,32.481201,-84.942299,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1905,1500 Almonesson Rd.,,Deptford,NJ,08096,United States,(856) 228-2975,39.823399,-75.099602,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1913,2100 Rt. 38,,Cherry Hill,NJ,08002,United States,(856) 779-1994,39.938801,-75.026497,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2221,6352 Ridgewood Court Rd.,,Jackson,MS,39211,United States,(601) 956-5252,32.396075,-90.140498,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1881,1283 E. Lincoln Hwy.,,Levittown,PA,19056,United States,(215) 945-4455,40.175098,-74.883797,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2041,1121 Broad Street,,Sumter,SC,29150,United States,(803) 773-5786,33.953201,-80.378601,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2119,2300 N. Salisbury Blvd.,,Salisbury,MD,21801,United States,(410) 548-2111,38.367599,-75.597702,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1972,2400 Richmond Rd. Ste. 99,,Texarkana,TX,75503,United States,(903) 838-5693,33.473301,-94.085701,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2042,2701 David McLeod Blvd.,,Florence,SC,29501,United States,(843) 679-9436,34.189098,-79.832901,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1919,520 Nassau Park Blvd.,,Princeton,NJ,08540,United States,(609) 514-0908,40.303799,-74.674202,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1931,8 Orange Plaza Lane,,Middletown,NY,10940,United States,(845) 342-5781,41.456799,-74.380203,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1921,600 Promenade Blvd.,,Bridgewater,NJ,08807,United States,(732) 764-0808,40.566502,-74.556,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2227,5 Towne Centre Way,,Hampton,VA,23666,United States,(757) 827-9150,37.0606,-76.424896,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese,3336,2241 West Memorial Rd.,,Oklahoma City,OK,73134,United States,(405) 748-8200,35.60979,-97.55311,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1932,145 Rt 10,,East Hanover,NJ,07936,United States,(973) 887-3020,40.816502,-74.3657,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,1831,209 N. Berkeley Blvd.,,Goldsboro,NC,27534,United States,(919) 751-2237,35.373299,-77.948601,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2175,6817 NW Expressway,,Oklahoma City,OK,73132,United States,(405) 728-1622,35.557201,-97.636299,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1910,1639 Rt. 23 South,,Wayne,NJ,07470,United States,(973) 305-9635,40.944901,-74.272903,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2242,4400 Peek Trail,,Chesapeake (Square),VA,23321,United States,(757) 405-9488,36.821701,-76.415901,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1908,1120 Rte 1 North,,Edison,NJ,08817,United States,(732) 603-0929,40.521801,-74.3629,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,2256,3731 Pecanland Mall Drive,,Monroe,LA,71203,United States,(318) 410-0665,32.4996,-92.0774,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2174,7601 S. Walker,,Oklahoma City,OK,73139,United States,(405) 631-7619,35.3909,-97.521301,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1948,1660 Route 22 East,,Union,NJ,07083,United States,(908) 688-0210,40.696701,-74.253899,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,1925,4215 Black Horse Pike,,Mays Landing,NJ,08330,United States,(609) 645-9899,39.442402,-74.6241,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3339,2201 Interstate Drive,,Norman,OK,73069,United States,(405) 366-8200 ,35.234659,-97.483706,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1911,1775-P South Ave.,,Staten Island,NY,10314,United States,(718) 494-1274,40.60184,-74.18557,Mon-Sunday 10am-10pm,,0
+Chuck E. Cheese's,1906,275 Route 4 West,,Paramus,NJ,07652,United States,(201) 487-1088,40.92546,-74.08777,Mon-Thur 11am-10pm ;  Fri 11am-11pm ;  Sat 10am-11pm ;  Sun 10am-10pm,,0
+Chuck E. Cheese's,2234,1528 Sams Circle,,Chesapeake,VA,23320,United States,(757) 549-2775,36.771198,-76.251801,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2157,250 West Route 59,,Nanuet,NY,10954,United States,(845) 627-2788,41.100201,-74.022301,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1918,1895 South Rd.,,Poughkeepsie,NY,12601,United States,(845) 297-9500,41.619099,-73.916603,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3338,701 Route 440 #383,,Jersey City,NJ,07304,United States,(201) 434-2500,40.720404,-74.095835,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,1927,601 Troy Schenectady Rd.,,Latham,NY,12110,United States,(518) 782-1850,42.75395,-73.76643,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1907,8101 Tonelle Ave.,,North Bergen,NJ,07047,United States,(201) 861-1799,40.807701,-74.015999,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,1904,1107 Route 35,,Middletown,NJ,07748,United States,(732) 615-9091,40.396301,-74.1064,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1953,2699 Lishelle Place,,Virginia Beach,VA,23452,United States,(757) 468-0181,36.812698,-76.069,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2034,280 St. Nicholas Avenue- 2nd Floor,,Harlem,NY,10027,United States,(212) 222-9522,40.810357,-73.952915,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1929,139 Flatbush avenue,,Brooklyn,NY,11217,United States,(718) 783-4570,40.684399,-73.9776,Sun-Thur 11am-10pm ;  Fri 11am-11pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,3323,700 Exterior Street,,Bronx,NY,10451,United States,(718) 292-7812,40.81957,-73.9303,Sun-Thur 11am-10pm ;  Fri 11am-10pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,1915,56 Chambers Bridge Road,,Brick,NJ,08723,United States,(732) 262-9200,40.06073,-74.14064,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1922,3419 48th St.,,Long Island City,NY,11101,United States,(718) 728-3600,40.753502,-73.914597,Mon-Sunday 10am-10pm,,0
+Chuck E. Cheese's,1930,1816 Gunhill Road,,Bronx,NY,10469,United States,(718) 671-2240,40.865002,-73.835999,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2033,40-24 College Point Blvd. Suite B213,,Flushing,NY,11354,United States,(718) 321-0400,40.75802,-73.83421,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2230,2515 Viking Drive,,Bossier City,LA,71111,United States,(318) 742-4400,32.55524,-93.71719,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1934,162 Fulton Avenue,,Hempstead,NY,11550,United States,(516) 483-3166,40.7071,-73.629997,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1914,Delco Plaza 11-15 Hanover Place,,Hicksville,NY,11801,United States,(516) 433-3343,40.764301,-73.5186,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2015,2601 Dawson Road,,Albany,GA,31707,United States,(229) 436-5481,31.613701,-84.216003,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1968,1000 Turtlecreek Drive,,Hattiesburg,MS,39402,United States,(601) 261-2668,31.322201,-89.373398,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,1820,2005 N. Marine Blvd.,,Jacksonville,NC,28546,United States,(910) 347-0000,34.777599,-77.392502,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1920,155 Sunrise Hwy.,,West Islip,NY,11795,United States,(631) 376-1800,40.719601,-73.306702,Mon-Sunday 10am-10pm,,0
+Chuck E. Cheese's,2070,1001 Commons Drive,,Dothan,AL,36303,United States,(334) 702-2305,31.2565,-85.4263,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1830,7258 Rivers Avenue,,North Charleston,SC,29406,United States,(843) 824-9761,32.932999,-80.036903,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2164,3808 US 75 North,,Sherman,TX,75092,United States,(903) 892-2007,33.681999,-96.608299,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2215,4389 Oleander Drive,,Wilmington,NC,28403,United States,(910) 392-1234,34.210701,-77.888702,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1891,650 Wolcott,,Waterbury,CT,06705,United States,(203) 596-1147,41.5578,-73.012604,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1997,312 Northwest Loop 281,,Longview,TX,75605,United States,(903) 234-1111,32.541698,-94.751297,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1895,82 Boston Post Rd.,,Orange,CT,06477,United States,(203) 799-3200,41.277199,-72.988602,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2205,1610 Sam Rittenburg Blvd. #103,,Charleston,SC,29407,United States,(843) 763-0663,32.806801,-80.009399,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1912,121 Sunrise Hwy.,,Patchogue,NY,11772,United States,(631) 654-9373,40.780499,-73.007698,Mon-Sunday 10am-10pm,,0
+Chuck E. Cheese's,1896,3075 Berlin Turnpike,,Newington,CT,06111,United States,(860) 667-9833,41.665401,-72.720497,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3319,1726 NW 82nd St Bldg A,,Lawton,OK,73505,United States,(580) 250-5702,34.6267,-98.49225,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,2003,6700 Abercorn,,Savannah,GA,31405,United States,(912) 355-0410,32.016201,-81.112198,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1894,82 Buckland St.,,Manchester,CT,06040,United States,(860) 649-3857,41.7985,-72.551102,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1901,1716 Boston Rd.,,Springfield,MA,01129,United States,(413) 543-6881,42.144501,-72.486,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1962,710 Downtowner Loop W,,Mobile,AL,36609,United States,(251) 342-8142,30.675501,-88.1446,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1711,1725 Metro Dr.,,Alexandria,LA,71301,United States,(318) 445-9843,31.275801,-92.473297,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,1995,204 N Central Expressway- Ste 33,,Allen,TX,75013,United States,(972) 396-7825,33.1044,-96.67645,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1699,736 West SW Loop 323,,Tyler,TX,75701,United States,(903) 581-4550,32.303101,-95.310303,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1704,855 East Interstate 30,,Rockwall,TX,75087,United States,(972) 722-5614,32.899899,-96.459099,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1724,7350 Plantation Rd.,,Pensacola,FL,32504,United States,(850) 476-7724,30.502899,-87.224899,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1984,4992 State Hwy 190,,Garland,TX,75044,United States,(972) 496-7903,32.963616,-96.638165,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2193,1604 Preston Rd.,,Plano,TX,75093,United States,(972) 599-0512,33.021702,-96.795403,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1769,341 South I-35E,,Denton,TX,76205,United States,(940) 591-6670,33.192902,-97.127403,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2187,1340 W. Centerville,,Garland,TX,75041,United States,(972) 681-1385,32.856701,-96.647598,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2166,30 Knollwood Drive,,Rapid City,SD,57701,United States,(605) 341-6193,44.103001,-103.216202,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1964,15082 Crossroads Parkway,,Gulfport,MS,39503,United States,(228) 832-9219,30.441,-89.096703,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,1980,13364 Montfort,,Dallas,TX,75240,United States,(972) 392-1944,32.930401,-96.811096,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1703,2402 S. Stemmons,,Lewisville,TX,75067,United States,(972) 315-6260,33.007099,-96.971397,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2161,2755 E. Grapevine Mills Circle,,Grapevine,TX,76051,United States,(972) 874-8713,32.970402,-97.041901,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2008,69252 Hwy. 21,,Covington,LA,70433,United States,(985) 892-7227,30.44136,-90.1448,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am - 10pm,,0
+Chuck E. Cheese's,1733,3903 W. Airport Frwy.,,Irving,TX,75062,United States,(972) 256-1600,32.837399,-97.002701,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2110,132 Sacks Blvd.,,Leominster,MA,01453,United States,(978) 466-9779,42.526402,-71.738197,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2064,124 North Shore Blvd.,,Slidell,LA,70460,United States,(985) 641-4878,30.303801,-89.825699,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,1768,2935 SW Parkway,,Wichita Falls,TX,76308,United States,(940) 692-7882,33.857601,-98.541901,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1887,50 Southwest Cutoff,,Worcester,MA,01604,United States,(508) 754-5151,42.239101,-71.746002,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2055,2810 Sharer Road Ste. 13,,Tallahassee,FL,32312,United States,(850) 422-0366,30.477799,-84.297901,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2192,7110 S. Westmoreland,,Dallas,TX,75237,United States,(972) 298-7973,32.661701,-96.8815,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2007,11324 Boardwalk,,Baton Rouge,LA,70816,United States,(225) 273-2490,30.431499,-91.058098,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,1979,7935 Grapevine Hwy.,,N. Richland Hills,TX,76180,United States,(817) 498-4888,32.8363,-97.211304,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's ,3354,9121 North Freeway,,Fort Worth ,TX,76177,United States,817-484-5431,32.901613,-97.317874,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1994,2760 W. I-20,,Grand Prairie,TX,75052,United States,(972) 660-6799,32.677545,-97.046801,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2116,7680 Andrea Drive,,Baton Rouge,LA,70809,United States,(225) 291-1880,30.376828,-91.068253,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am - 10pm,,0
+Chuck E. Cheese's,1849,2216 S. Fielder Rd.,,Arlington,TX,76013,United States,(817) 861-1561,32.707699,-97.132004,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1898,1525 S. Willow,,Manchester,NH,03103,United States,(603) 622-4488,42.955799,-71.435997,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3352,4200 South Freeway #50,,Fort Worth,TX,76115,United States,(682) 747-5524,32.6882,-97.326727,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2031,650 Bald Hill Rd.,,Warwick,RI,02886,United States,(401) 823-1203,41.7201,-71.483704,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1738,7750 Scott St.,,White Settlement,TX,76108,United States,(817) 367-0084,32.740002,-97.448303,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1993,4860 SW Loop 820,,Fort Worth,TX,76109,United States,(817) 732-8315,32.682899,-97.3965,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1903,801 Worcester,,Natick,MA,01760,United States,(508) 650-9497,42.300598,-71.355103,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1886,199 Plain St. Unit 5,,Lowell,MA,01852,United States,(978) 970-3636,42.624401,-71.3172,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1892,287 Washington St. South,,Attleboro,MA,02703,United States,(508) 399-8445,41.921001,-71.358101,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2081,7000 Veterans Blvd.,,Metairie,LA,70003,United States,(504) 454-5959,30.0049,-90.216698,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am - 10pm,,0
+Chuck E. Cheese's,2058,3701 General DeGaulle,,New Orleans,LA,70114,United States,(504) 367-1214,29.923201,-90.0187,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,1909,Ten Wall St. (Hwy. 95/3A),,Burlington,MA,01803,United States,(781) 229-2024,42.485699,-71.190102,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2109,90 Pleasant Valley Rd.,,Methuen,MA,01844,United States,(978) 557-9900,42.742199,-71.156601,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2111,29 Mystic View Rd.,,Everett,MA,02149,United States,(617) 387-4689,42.399799,-71.072403,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2080,3555 Ambassador Caffery Pkwy.,,Lafayette,LA,70503,United States,(337) 216-9550,30.176201,-92.072098,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am - 10pm,,0
+Chuck E. Cheese's,1902,139 Endicott,,Danvers,MA,01923,United States,(978) 777-6274,42.5494,-70.932701,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2108,412-418 St. Rd. 6,,North Dartmouth,MA,02747,United States,(508) 993-9969,41.639999,-70.994202,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1897,30 Fox Run Rd.,,Newington,NH,03801,United States,(603) 431-1367,43.099998,-70.808502,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2075,3221 E Prien Lake Rd.,,Lake Charles,LA,70615,United States,(337) 477-2189,30.197001,-93.176697,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,2073,1755 Martin Luther King Blvd.,,Houma,LA,70360,United States,(985) 868-8899,29.611799,-90.754898,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am - 10pm,,0
+Chuck E. Cheese's,1721,9820 Atlantic Blvd.,,Jacksonville,FL,32225,United States,(904) 724-8988,30.322399,-81.543701,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1725,6065 Youngerman Circle,,Jacksonville,FL,32244,United States,(904) 778-0537,30.1943,-81.741096,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,3353,10320 Shops Lane 32258,,Jacksonville,FL,32258,United States,(904) 394-0005,30.177262,-81.557156,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2163,5106 West Waco Drive,,Waco,TX,76710,United States,(254) 399-6946,31.5196,-97.180099,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2069,2309 Greeley Mall,,Greeley,CO,80631,United States,(970) 356-0010,40.388599,-104.713799,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2179,4180 N. Dowlen Rd.,,Beaumont,TX,77706,United States,(409) 347-0693,30.120501,-94.165497,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2183,2500 S. Coulter St.- Suite 124,,Amarillo,TX,79109,United States,(806) 354-8000,35.1847,-101.920403,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2168,105 W. Prospect Rd.,,Ft. Collins,CO,80525,United States,(970) 221-2121,40.567001,-105.077003,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2076,14005 E. Exposition Ave.,,Aurora,CO,80012,United States,(303) 340-5855,39.704102,-104.827599,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1755,7510 Parkway Dr.,,Littleton,CO,80124,United States,(303) 706-1155,39.564602,-104.899803,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2086,1001 W. Hampden Ave.,,Englewood,CO,80110,United States,(303) 761-8636,39.653301,-104.999496,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1977,1500 Harvey Road,,College Station,TX,77840,United States,(979) 694-2464,30.613501,-96.324898,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1974,16790 Interstate 45 South,,Conroe,TX,77385,United States,(936) 271-1550,30.2124,-95.4571,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2082,9301 Ralston Rd.,,Arvada,CO,80002,United States,(303) 425-5925,39.8022,-105.100304,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2077,305 Marshall Road,,Superior,CO,80027,United States,(720) 304-8814,39.955299,-105.167297,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1960,5156 N. Academy Blvd.,,Colorado Springs,CO,80918,United States,(719) 598-5991,38.905201,-104.777496,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2044,2925 Geyser Drive,,Colorado Springs,CO,80906,United States,(719) 577-7403,38.7912,-104.7971,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1748,124 E. FM1960 Bypass,,Humble,TX,77338,United States,(281) 540-1536,30.004801,-95.266197,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1700,2220 FM 1960,,Houston,TX,77090,United States,(281) 893-2148,30.007799,-95.462601,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2094,2303 E. Central Texas Expressway,,Killeen,TX,76541,United States,(254) 690-1400,31.1089,-97.714699,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2121,3500 SW College Road- Unit 200,,Ocala,FL,34474,United States,(352) 622-6357,29.155701,-82.179497,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,1982,4310 Buffalo Gap Road,,Abilene,TX,79606,United States,(325) 691-1909,32.39922,-99.75932,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1985,17780 Tomball Pkwy.,,Houston,TX,77064,United States,(281) 894-1900,29.959166,-95.544733,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2130,4432 North Freeway,,Houston,TX,77022,United States,(713) 697-7000,29.82953,-95.38108,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1701,6787 Hwy 6 North,,Houston,TX,77084,United States,(281) 550-6500,29.876499,-95.645401,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1987,5075 Fairmont Pkwy.,,Pasadena,TX,77505,United States,(281) 487-2765,29.650417,-95.160032,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1990,600 Gulfgate Mall Center,,Houston,TX,77087,United States,(713) 645-5660,29.7001,-95.2948,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1975,5535 Weslayan Ave,,Houston,TX,77005,United States,(713) 666-9802,29.722099,-95.441101,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3310,12523 Westheimer Rd.,,Houston,TX,77077,United States,(281) 496-5300,29.73608,-95.60368,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1991,1541 West Bay Area Blvd.,,Webster,TX,77598,United States,(281) 332-9780,29.5382,-95.148598,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1996,2002 Gulfmont,,Katy,TX,77494,United States,(281) 644-4949,29.7782,-95.812599,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1973,11920 Southwest Frwy.,,Stafford,TX,77477,United States,(281) 575-9891,29.648701,-95.571899,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1978,3141 Silverlake Village Drive,,Pearland,TX,77584,United States,(713) 413-1100,29.55418,-95.3852,Sun-Thur 11am-9pm ;  Fri-Sat 10am-10pm ,,0
+Chuck E. Cheese's,3324,5539 S. Williamson Blvd,,Port Orange,FL,32128,United States,(386) 761-8582              ,29.10822,-81.03467,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2096,2303 Town Center Drive,,Sugarland,TX,77478,United States,(281) 277-3283,29.5996,-95.620598,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2188,401 W. Louis Henna Blvd.,,Austin (Round Rock),TX,78728,United States,(512) 385-2575,30.479738,-97.678092,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2181,5612 West Loop 289,,Lubbock,TX,79401,United States,(806) 796-2700,33.5453,-101.9366,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1986,10515 North Mopac Expressway,,Austin,TX,78759,United States,(512) 372-4700,30.392261,-97.732966,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2056,541 W. Hwy 436,,Altamonte Springs,FL,32714,United States,(407) 788-0122,28.662001,-81.404404,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2084,7456 W. Colonial Dr.,,Orlando,FL,32818,United States,(407) 521-5997,28.551901,-81.482803,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3316,9811 S. I-35,,Austin,TX,78744,United States,(512) 282-5000,30.15842,-97.78957,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1976,100 West Hwy 332 #1098,,Lake Jackson,TX,77566,United States,(979) 299-1460,29.047501,-95.456596,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3341,6170 Wesley Grove Blvd.,,Wesley Chapel,FL,33544,United States,(813) 979-6200,28.245872,-82.351028,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm,,0
+Chuck E. Cheese's,2087,449 N. Alafaya Trail,,Orlando,FL,32828,United States,(407) 382-7121,28.551901,-81.2043,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2171,685 University Park Dr.,,Regina,SK,S4V2V8,Canada,(306) 347-0005,50.446301,-104.549797,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2083,7419 International Drive,,Orlando,FL,32819,United States,(407) 351-3368,28.454399,-81.470802,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1861,14308 Dale Mabry Hwy,,Tampa,FL,33618,United States,(813) 963-7200,28.078699,-82.507004,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1865,25921 US Hwy 19,,Clearwater,FL,33763,United States,(727) 791-3377,28.006399,-82.729599,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1858,3558 US Hwy 98 North,,Lakeland,FL,33809,United States,(863) 853-8668,28.088699,-81.973297,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1853,1540 W. Brandon Blvd.,,Brandon,FL,33511,United States,(813) 685-2902,27.937901,-82.307098,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1888,1024 58th St. North,,St. Petersburg,FL,33710,United States,(727) 345-3736,27.782,-82.712402,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2066,2250 Coastal Lane,,West Melbourne,FL,32904,United States,(321) 953-2966,28.07727,-80.70297,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2085,905 44th Ave. West,,Bradenton,FL,34207,United States,(941) 752-4448,27.4622,-82.571297,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1983,14565 IH 35 North,,Selma,TX,78154,United States,(210) 651-0574,29.572201,-98.3284,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1967,1403 N. Loop 1604 E.,,San Antonio,TX,78232,United States,(210) 495-3602,29.6105,-98.473198,Currently Under Construction; Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1981,7800 Navarro,,Victoria,TX,77904,United States,(361) 578-4376,28.8643,-96.996902,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2178,4703 W. Loop 250 N.,,Midland,TX,79707,United States,(432) 697-2322,32.024799,-102.148697,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1992,11735 Bandera Road,,San Antonio,TX,78250,United States,(210) 509-2455,29.5499,-98.663399,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1743,6874 Ingram Dr.,,San Antonio,TX,78238,United States,(210) 680-3786,29.464199,-98.625801,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1850,238  SW Military Dr.,,San Antonio,TX,78221,United States,(210) 927-5848,29.3566,-98.493896,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2216,100  24th Street,,Billings,MT,59102,United States,(406) 656-4171,45.7715,-108.5765,Mon-Sun 10am-10pm,,0
+Chuck E. Cheese's,2063,2400 NW Federal Hwy.,,Stuart,FL,34994,United States,(772) 692-9717,27.2342,-80.268204,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2123,5020 Cleveland Ave.,,Fort Myers,FL,33907,United States,(239) 334-0563,26.587762,-81.871999,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2074,2424 US Hwy. 6 and 50,,Grand Junction,CO,81505,United States,(970) 245-7197,39.1054,-108.611397,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1789,4418 Wyoming Blvd. NE,,Albuquerque,NM,87111,United States,(505) 296-3110,35.129902,-106.550697,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1795,10510 Coors Boulevard,,Albuquerque,NM,87114,United States,(505) 792-9300,35.209301,-106.658501,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1883,5118 S. Staples,,Corpus Christi,TX,78411,United States,(361) 993-8824,27.707001,-97.3703,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3321,1000 Immokalee Rd.,,Naples,FL,34108,United States,(239) 657-2115 ,26.2722,-81.80018,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3325,2471 Okeechobee Blvd,,W. Palm Beach,FL,33409,United States,(561) 697-0047,26.70661,-80.08971,Sun-Thur 11am-9pm ;  Fri 11am-10:30pm ;  Sat 10am-10:30 pm,,0
+Chuck E. Cheese's,2122,244 N. Congress Avenue,,Boynton Beach,FL,33425,United States,(561) 369-2339,26.526896,-80.090397,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2057,21699-A State Road 7,,Boca Raton,FL,33428,United States,(561) 487-7645,26.3501,-80.2043,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3340,2201 N Federal Highway #201,,Pompano Beach,FL,33062,United States,(954) 786-4411,26.257373,-80.100061,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1863,8099 W Oakland Park Blvd,,Sunrise,FL,33351,United States,(954) 741-4099,26.167101,-80.257797,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1862,8515 Pines Blvd.,,Pembroke Pines,FL,33024,United States,(954) 437-8178,26.009001,-80.258301,Sun-Thur 11am-9pm ;  Fri 11am-10:30pm ;  Sat 10am-10:30 pm,,0
+Chuck E. Cheese's,1864,20335 Biscayne Blvd.- Ste. L-1,,Miami,FL,33180,United States,(305) 936-0002,25.964001,-80.146599,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1857,3805 W 20th Avenue Bay,,Hialeah,FL,33012,United States,(305) 826-0607,25.8554,-80.321098,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1867,8701 SW 124th Ave,,Miami,FL,33183,United States,(305) 270-8716,25.6877,-80.392601,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1971,5300 San Dario Ave. Suite 2205,,Laredo,TX,78041,United States,(956) 729-1300,27.54908,-99.50329,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2089,18575 S. Dixie Hwy.,,Miami,FL,33157,United States,(305) 256-3886,25.5965,-80.355003,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2167,2815 W. Expressway 83,,Harlingen,TX,78552,United States,(956) 364-0400,26.18648,-97.73544,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3311,725 E. Expressway 83,,Weslaco,TX,78596,United States,(956) 968-7524,26.1731,-97.98348,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3313,"1200 Trenton Road, Building 100",,McAllen,TX,78504,United States,(956) 682-4944,26.269731,-98.220607,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2160,2800 N. Expressway,,Brownsville,TX,78520,United States,(956) 547-8386,25.955299,-97.505898,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1766,700 S. Telshor,,Las Cruces,NM,88011,United States,(575) 521-8787,32.313301,-106.742699,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3326,1910 N. Zaragoza,,El Paso,TX,79936,United States,(915) 921-1880,31.76308,-106.26651,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1988,3300 Expressway 83 Bld. 1000,,McAllen,TX,78501,United States,(956) 631-0020,26.1942,-98.2628,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2159,9801 Gateway Blvd West,,El Paso,TX,79925,United States,(915) 591-1917,31.760201,-106.356796,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2213,40 West Center,,Orem,UT,84057,United States,(801) 225-4554,40.297199,-111.695999,,,0
+Chuck E. Cheese's,2158,710 Sunland Park,,El Paso,TX,79912,United States,(915) 587-0064,31.8183,-106.544601,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1754,450 North Main Street,,Layton,UT,84041,United States,(801) 336-3633,41.066751,-111.972523,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3318,389 W. 1830 South Ste 700,,Salt Lake City,UT,84115,United States,(801) 487-1300,40.72959,-111.90273,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3347,Paseo de los Leones No. 1001,,Monterrey,Mexico,64349,United States,8852-8852,25.742017,-100.41108,,,0
+Chuck E. Cheese's,2260,Avenida Real San Agustin No. 222,,Monterrey,Mexico,66260,United States,,25.653193,-100.337805,,,0
+Chuck E. Cheese's,2173,2612 32ND Street NE,,Calgary,AB,T1Y7L8,Canada,(403) 294-0112,51.076221,-113.988655,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2145,9863 19th Avenue NW,,Edmonton,AB,T6N1K8,Canada,(780) 432-2335,53.447613,-113.483574,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2240,7012 E. Hampton Avenue Suite 104,,Mesa,AZ,85208,United States,(480) 641-4801,33.390499,-111.680099,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2146,14245 137th Avenue NW,,North Edmonton,AB,T5L5E8,Canada,(780) 451-1325,53.5993,-113.573303,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2233,6125 East Speedway Blvd,,Tucson,AZ,85712,United States,(520) 745-8800,32.236648,-110.861668,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2198,6255 Fairview Ave.,,Boise,ID,83704,United States,(208) 322-1833,43.618999,-116.2593,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3349,2977 West Frye Road,,Chandler,AZ,85244,United States,(480) 857-1263 ,33.29849,-111.89322,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2017,8039 North 35th Avenue,,Phoenix,AZ,85051,United States,(602) 973-1945,33.553799,-112.134003,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,2244,6773 West Bell Road,,Glendale,AZ,85308,United States,(623) 878-8884,33.638199,-112.2052,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2247,13371 West McDowell Road,,Goodyear,AZ,85395,United States,(623) 535-9876,33.46145,-112.34662,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2251,14919 East Sprague Avenue,,Spokane Valley,WA,99216,United States,(509) 924-3311,47.657129,-117.203997,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9:30am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,2228,10007 N. Nevada Street,,Spokane,WA,99218,United States,(509) 464-0447,47.748901,-117.395302,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9:30am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,1772,350 N. Nellis Blvd. Suite 100,,Las Vegas,NV,89110,United States,(702) 437-0108,36.16565,-115.06191,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1773,1521 W. Sunset Rd.,,Henderson,NV,89015,United States,(702) 547-0059,36.063499,-115.048698,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1770,9230 S. Eastern Ave. Space 100,,Las Vegas,NV,89123,United States,(702) 456-4940,36.020802,-115.1185,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1774,7381 W. Lake Mead,,Las Vegas,NV,89128,United States,(702) 243-9944,36.1959,-115.254501,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1767,4175 S. Grand Canyon,,Las Vegas,NV,89147,United States,(702) 531-8000,36.1143,-115.304604,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2224,2610 Columbia Center Blvd,,Richland,WA,99352,United States,(509) 735-8346,46.234798,-119.223198,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9:30am-10pm ;  Sun 10:00am-9:00pm,,0
+Chuck E. Cheese's,2016,1348 S. Yuma Palms Parkway,,Yuma,AZ,85364,United States,(928) 343-1269,32.70339,-114.60394,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1817,803 E. Danenberg Drive,,El Centro,CA,92243,United States,(760) 352-4785,32.7668,-115.5466,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1803,72513 HWY.111 Suite B,,Palm Desert,CA,92260,United States,(760) 341-6005,33.725899,-116.4011,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1775,5000 Smithridge Dr.,,Reno,NV,89502,United States,(775) 827-5100,39.479401,-119.788101,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1805,12790 Amargosa Rd.,,Victorville,CA,92392,United States,(760) 843-9630,34.471401,-117.346298,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1822,2375 West Florida Avenue,,Hemet,CA,92545,United States,(951) 925-2444,33.747398,-116.996498,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1821,777 E. Hospitality Lane,,San Bernardino,CA,92408,United States,(909) 890-1113,34.067101,-117.268898,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1848,955 South E St. Ste. G,,San Bernardino,CA,92408,United States,(909) 885-3474,34.084,-117.293701,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,1834,23160 Sunnymead Blvd.,,Moreno Valley,CA,92553,United States,(951) 242-9025,33.939098,-117.257797,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,1874,17069 Valley Blvd.- Ste. D,,Fontana,CA,92335,United States,(909) 350-0403,34.070301,-117.432297,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,3331,Av. Prolongación Paseo de la Reforma # 400 ,,Mexico City,Mexico,01210,United States,,19.361974,-99.272737,,,0
+Chuck E. Cheese's,1847,25110 Hancock Ave Ste 101-106,,Murrieta,CA,92562,United States,(951) 698-6267,33.563999,-117.182404,Mon-Thur 10am-9pm ; Sun 11am-9pm; Fri 10am-10pm; Sat 10am-10pm,,0
+Chuck E. Cheese's,1852,9339 Foothill Blvd.- Ste. E,,Rancho Cucamonga,CA,91730,United States,(909) 945-1779,34.1064,-117.601501,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 9am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,1842,191 N. McKinley,,Corona,CA,92879,United States,(951) 279-9903,33.8853,-117.517502,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,1740,5250 Philadelphia- Ste.K,,Chino,CA,91710,United States,(909) 591-4430,34.033699,-117.690598,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,2129,1126 W. Valley Pkwy.,,Escondido,CA,92025,United States,(760) 738-6114,33.116567,-117.097251,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1712,44410 Valley Central Way,,Lancaster,CA,93536,United States,(661) 945-5453,34.68977,-118.17202,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2125,1861 University Drive,,Vista,CA,92083,United States,(760) 732-0231,33.170502,-117.216922,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1764,2239 148th Avenue NE,,Bellevue,WA,98007,United States,(425) 746-5000,47.630299,-122.143204,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1840,5500 Grossmont Ctr. Dr. Ste. J-34,,La Mesa,CA,91942,United States,(619) 698-4351,32.778599,-117.007103,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1872,9840 Hibert St.,,San Diego,CA,92131,United States,(858) 578-5860,32.9137,-117.111603,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1765,25817 104th Avenue SE,,Kent,WA,98031,United States,(253) 813-9000,47.370602,-122.2024,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1843,1900 S. Brea Canyon Rd.,,Diamond Bar,CA,91765,United States,(909) 861-7588,33.9897,-117.843201,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1846,601 Azusa Ave.,,Covina,CA,91722,United States,(626) 339-9088,34.093498,-117.907997,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1709,2481 Vista Way,,Oceanside,CA,92054,United States,(760) 439-1444,33.182899,-117.333801,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1818,26562 Towne Centre Drive,,Foothill Ranch,CA,92610,United States,(949) 586-0999,33.679798,-117.667603,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,3314,3414 College Ave.,,San Diego,CA,92115,United States,(619) 583-1197,32.7431,-117.05197,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1871,2300 N. Rose Dr.,,Placentia,CA,92870,United States,(714) 572-4188,33.9044,-117.842003,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1833,558 W. Huntington Dr.,,Monrovia,CA,91016,United States,(626) 357-4022,34.140202,-118.010696,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2019,3717  196th Street SW  Suite 100,,Lynnwood,WA,98036,United States,(425) 771-1195,47.820999,-122.284203,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2126,1875 N. Tustin Street,,Orange,CA,92865,United States,(714) 974-6576,33.819355,-117.836106,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1859,4567 Peck Road,,El Monte,CA,91732,United States,(626) 350-6881,34.087399,-118.016403,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1824,26538-H Moulton Parkway,,Laguna Hills,CA,92653,United States,(949) 831-3500,33.576599,-117.702202,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1868,1143 Highland Ave.,,National City,CA,91950,United States,(619) 474-6667,32.675201,-117.097397,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1782,3737 E. Foothill,,Pasadena,CA,91107,United States,(626) 351-5441,34.150299,-118.072601,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1794,621 Cascade Mall Drive,,Burlington,WA,98233,United States,(360) 755-1901,48.4613,-122.341003,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1708,4345 W. Noble Avenue,,Visalia,CA,93277,United States,(559) 733-3373,36.3274,-119.338898,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1783,1134 S. Harbor Blvd.,,Fullerton,CA,92832,United States,(714) 526-8195,33.8606,-117.924202,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1870,3146 Sports Arena Blvd.,,San Diego,CA,92110,United States,(619) 523-4385,32.751915,-117.205978,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1855,13101 Harbor Blvd.,,Garden Grove,CA,92843,United States,(714) 539-4332,33.7728,-117.920502,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1876,15100 Rosecrans,,La Mirada,CA,90638,United States,(714) 562-0717,33.898399,-118.008698,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,2021,4911 Tacoma Mall Blvd,,Tacoma,WA,98409,United States,(253) 473-3078,47.212502,-122.463898,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1869,6005 Rosemead Blvd.,,Pico Rivera,CA,90660,United States,(562) 942-7443,33.9921,-118.090302,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2026,2700 Colorado Blvd.,,Los Angeles,CA,90041,United States,(323) 551-6990,34.142399,-118.223701,Sun-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1854,2300 Harbor Blvd.- Bldg. 25,,Costa Mesa,CA,92626,United States,(949) 631-8160,33.6576,-117.918999,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1856,10949 Firestone,,Norwalk,CA,90650,United States,(562) 868-4184,33.9226,-118.099899,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,1810,11231 183rd Street,,Cerritos,CA,90703,United States,(562) 924-2410,33.865799,-118.0942,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 9am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,1841,15511 Edwards St.,,Huntington Beach,CA,92647,United States,(714) 891-4391,33.736801,-118.015701,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1812,7809 N. Blackstone,,Fresno,CA,93720,United States,(559) 261-4552,36.850498,-119.790703,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1875,5089 E. Florence Ave.,,Bell,CA,90201,United States,(323) 562-3035,33.9692,-118.1763,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm  ;  Sun 10am - 9pm,,0
+Chuck E. Cheese's,1750,930 N. San Fernando Blvd.,,Burbank,CA,91504,United States,(818) 841-3453,34.187302,-118.317398,Mon-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1806,5151 Lakewood Blvd.,,Lakewood,CA,90712,United States,(562) 634-5520,33.851299,-118.142998,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese,3333,2706 Wilshire Blvd,,Los Angeles,CA,90057,United States,(855) 606-0548,34.06086,-118.28311,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm  ;  Sun 10am - 9pm,,0
+Chuck E. Cheese's,1706,3760 Ming Ave.,,Bakersfield,CA,93309,United States,(661) 397-7855,35.339699,-119.045097,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2128,7726 South Alameda Street,,Walnut Park,CA,90255,United States,(323) 586-2124,33.96745,-118.23285,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1823,3140 Imperial Highway,,Lynwood,CA,90262,United States,(310) 639-9907,33.930302,-118.214996,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm  ;  Sun 10am - 9pm,,0
+Chuck E. Cheese's,1851,8375 Laurel Canyon Blvd.,,Sun Valley,CA,91352,United States,(818) 768-2104,34.2225,-118.396698,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1707,3117 W. Shaw- Ste. 107,,Fresno,CA,93711,United States,(559) 229-6200,36.808102,-119.846703,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2018,2771 NW Myhre Road,,Silverdale,WA,98383,United States,(360) 692-2110,47.6596,-122.683586,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2222,9120 SE Powell,,Portland,OR,97266,United States,(503) 788-1200,45.497299,-122.569199,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1790,7721 NE Vancouver Plaza Dr.,,Vancouver,WA,98662,United States,(360) 896-6672,45.650101,-122.5952,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1860,16269 San Fernando Mission Rd.,,Granada Hills,CA,91344,United States,(818) 366-6022,34.271999,-118.486198,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2156,6339 200th Street,,Langley,BC,V2Y1A2,Canada,(604) 534-9966,49.1143,-122.668701,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1804,25955 North The Old Rd.,,Valencia,CA,91381,United States,(661) 260-1280,34.3923,-118.574203,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ,,0
+Chuck E. Cheese's,3322,290 E. 4th Street,,Long Beach,CA,90802,United States,(562) 437-6895              ,33.77169,-118.18971,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1890,"20700 Avalon Blvd., Suite 175",,Carson,CA,90746,United States,(310) 329-4200 ,33.8439470529556,-118.263312131166,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1815,6901 LaTijera Blvd.,,Los Angeles,CA,90045,United States,(310) 337-0497,33.9772,-118.3722,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1880,8425 Reseda Blvd.,,Northridge,CA,91324,United States,(818) 993-3446,34.223099,-118.536201,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1893,16920 Prairie Ave.,,Torrance,CA,90504,United States,(310) 542-7779,33.876999,-118.343697,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1807,2821 Pacific Coast Hwy.,,Torrance,CA,90505,United States,(310) 326-8470,33.794399,-118.336098,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1889,22940 Van Owen St.,,West Hills,CA,91307,United States,(818) 713-9794,34.1936,-118.626503,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2229,4145 SW 110th Avenue,,Beaverton,OR,97005,United States,(503) 643-2002,45.490398,-122.790199,Mon-Thur 10am-9pm ;  Fri-Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1760,625 Black Lake Blvd.101,,Olympia,WA,98502,United States,(360) 534-9876,47.0424,-122.928802,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2223,3240 Lancaster Drive NE,,Salem,OR,97305,United States,(503) 364-7297,44.9673,-122.983398,Mon-Thur 11am-9:30pm ;  Fri 11am-10pm ;  Sat 9am - 10pm ;  Sun 9am-9:30pm,,0
+Chuck E. Cheese's,1778,130 W. Hillcrest Dr.,,Thousand Oaks,CA,91360,United States,(805) 497-2522,34.180401,-118.880402,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2025,9601 Fairway Dr.,,Roseville,CA,95678,United States,(916) 772-7909,38.783699,-121.271004,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1786,6251 Sunrise Blvd.,,Citrus Heights,CA,95610,United States,(916) 723-1751,38.679501,-121.271797,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1844,1690-96 Arden Way,,Sacramento,CA,95815,United States,(916) 920-9181,38.598801,-121.426201,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1759,3037 Sisk Road,,Modesto,CA,95350,United States,(209) 524-0712,37.683601,-121.049896,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1814,9161 E. Stockton Blvd  Pad B,,Elk Grove,CA,95624,United States,(916) 478-4200,38.42569,-121.39233,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1882,4714 Telephone Rd.,,Ventura,CA,93003,United States,(805) 644-9777,34.2598,-119.234703,Sun-Thur 10am-9pm ;  Fri 10am-10pm ;  Sat 10am-11pm,,0
+Chuck E. Cheese's,2024,6436 Pacific Avenue,,Stockton,CA,95207,United States,(209) 956-1640,38.008701,-121.319298,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2226,910 Hilltop Drive,,Redding,CA,96002,United States,(530) 223-0433,40.595004,-122.358851,Sun-Thur 10:30am-9:30pm ;  Fri-Sat 10:30am-10:30pm,,0
+Chuck E. Cheese's,2124,6061 Lone Tree Way,,Brentwood,CA,94513,United States,(925) 240-8405,37.9615,-121.740459,Sun-Thur 11am-9pm ;  Fri 10am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2225,1027 Oliver Road,,Fairfield,CA,94533,United States,(707)426-4500,38.253201,-122.067703,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,2113,2254 S. Bradley Road,,Santa Maria,CA,93455,United States,(805) 349-7071,34.9198,-120.4217,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 11am-9pm,,0
+Chuck E. Cheese's,1819,910 Renz Lane,,Gilroy,CA,95020,United States,(408) 846-1313,37.005798,-121.552696,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1825,1611 Willow Pass Road,,Concord,CA,94520,United States,(925) 689-2808,37.971081,-122.045764,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1780,7448 Amador Valley Blvd.,,Dublin,CA,94568,United States,(925) 803-0101,37.709301,-121.929497,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2220,2445 Fontaine Road,,San Jose,CA,95121,United States,(408) 238-9110,37.318901,-121.829002,Mon-Fri 11am-10pm ;  Sat-Sun 10am-10pm,,0
+Chuck E. Cheese's,1779,39839 Mowry School Rd.,,Newark,CA,94560,United States,(510) 445-0660,37.523399,-121.991096,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1839,1371 Kooser Rd.,,San Jose,CA,95118,United States,(408) 267-8600,37.246101,-121.888298,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1811,24039 Hesperian Blvd.,,Hayward,CA,94545,United States,(510) 265-0590,37.652302,-122.110001,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1776,1447 North Davis Rd.,,Salinas,CA,93907,United States,(831) 753-6000,36.7122,-121.663696,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2117,1470 Fitzgerald Dr,,Pinole,CA,94564,United States,(510) 243-1111,37.99084,-122.30782,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2127,19805 Stevens Creek Blvd.,,Cupertino,CA,95014,United States,(408) 873-8485,37.323101,-122.020302,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1749,2541-43 El Camino Real,,Redwood City,CA,94063,United States,(650) 701-0795,37.4767,-122.222198,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1835,601 Rohnert Pk Exprwy,,Rohnert Park,CA,94928,United States,(707) 586-1949,38.3489,-122.724197,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,1873,1270-1272 El Camino Real,,San Bruno,CA,94066,United States,(650) 244-9699,37.633701,-122.419403,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2243,Rexville Town Centre Road 167  KM 17.6  Unit H-12,,Bayamon,PR,957,United States,(787) 799-1900,18.35998,-66.18905,,,0
+Chuck E. Cheese's,2248,Monte Real Plaza Carr. #3  KM 15.2  B.O. Canovanillas,,Carolina,PR,983,United States,(787) 276-7700,18.4243453,-65.9690392,,,0
+Chuck E. Cheese's,2245,Pueblo Supermarket  Plaza Centro Ave. Rafael J. Cordero  Carr. 30,,Caguas,PR,725,United States,(787) 258-8800,18.2341217,-66.0484989,,,0
+Chuck E. Cheese's,1989,308 E. Northern Lights Blvd.,,Anchorage,AK,99503,United States,(907) 274-9999,61.195202,-149.878403,Sun-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm,,0
+Chuck E. Cheese's,2212,1199 Dillingham Blvd,,Honolulu,HI,96817,United States,(808) 851-7400,21.322504,-157.87385,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,2231,850 Kam Highway- STE 140,,Pearl City,HI,96782,United States,(808) 455-1448,21.3934,-157.968399,Mon-Thur 11am-9pm ;  Fri 11am-10pm ;  Sat 10am-10pm ;  Sun 10am-9pm,,0
+Chuck E. Cheese's,2232,"Mons.Escrivá de Balaguer #12.352, Lo Barnechea",,Santiago,Chile,7710179,United States,(600) 462-1000,-33.37127591045968,-70.51852505,,,0
+Chuck E. Cheese's,2263,Av. Am̩rico Vespucio 7.500 Local A 1-B,,Santiago,Metropolitana,8242166,United States,(600) 462-1000,-33.45361,-70.57091,,,0
+Chuck E. Cheese's,2255,"Caletera Américo Vespucio # 1501, Cerrillos Local AJ-100",,Santiago,Chile,9220213,United States,(600) 462-1000,-33.514845160516856,-70.71801725,,,0
+Chuck E. Cheese's,2254,235 Pas Street,,Tamuning,GUAM,96913,United States,(671) 647-4544,13.49059917,144.7806108,Sun-Thur 10am-9pm ;  Fri-Sat 10am-10pm,,0

@@ -1,0 +1,33 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Highland Park - Woodward Ave,,12560 Woodward Ave.,,Highland Park,MI,48203,United States,(313) 867-7299,42.398907,-83.092117,Mon-Fri: 9:00am-6:00pm; Saturday: 8:30am-6:00pm; Sunday: Closed;,,0
+Flat Rock - Telegraph Rd,,28915 Telegraph Rd,,Flat Rock,MI,48134,United States,(734) 783-2520,42.094975,-83.293999,Mon-Fri: 8:00am-7:00pm; Sat: 9:00am-5:00pm; Sun: Closed;,,0
+Canton - Michigan Ave,,41775 Michigan Ave,,Canton,MI,48188,United States,(734) 397-0711,42.277294,-83.451279,Mon-Fri: 8:00am-7:00pm; Sat: 8:00am-5:00pm; Sun: 10:00am-4:00pm;,,0
+Plymouth - W. Ann Arbor Rd,,903 W Ann Arbor Rd,,Plymouth,MI,48170,United States,(734) 404-6468,42.358463,-83.471184,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: Closed;,,0
+Farmington Hills - W. 12 Mile Rd,,37751 W. 12 Mile Road,,Farmington Hills,MI,48336,United States,(248) 848-9423,42.497219,-83.419716,Mon-Fri: 8:00am-6:00pm; Sat: 9:00am-5:00pm; Sun: 10:00am-3:00pm;,,0
+Belleville - W. Huron River Dr,,51300 Huron River Dr.,,Belleville,MI,48111,United States,(734) 480-4400,42.203819,-83.542786,Mon-Fri: 8:00am-7:00pm; Sat: 8:00am-5:00pm; Sun: 10:00am-4:00pm;,,0
+Newport - N. Telegraph Rd,,8844 N. Telegraph Rd,,Newport,MI,48166,United States,(734) 586-7677,42.005730,-83.355186,Mon-Fri: 8:00am-7:00pm; Sat: 8:00am-5:00pm; Sun: Closed;,,0
+Ypsilanti - Ellsworth Rd,,2216 Ellsworth,,Ypsilanti,MI,48197,United States,(734) 572-0590,42.230949,-83.645195,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday - 10:30am - 3:30pm;,,0
+Ypsilanti - Washtenaw Ave,,3066 Washtenaw Avenue,,Ypsilanti,MI,48197,United States,(734) 434-7722,42.250206,-83.658455,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: 10:00am-4:00pm;,,0
+South Lyon - S. Lafayette St,,703 S. Lafayette,,South Lyon,MI,48178,United States,(248) 486-4451,42.453796,-83.650238,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: 10:00am-4:00pm;,,0
+Monroe - N. Monroe St,,1305 N. Monroe Street,,Monroe,MI,48162,United States,(734) 241-2100,41.934471,-83.390137,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: 10:00am-4:00pm;,,0
+Milford - E. Commerce St,,1235 E. Commerce,,Milford,MI,48381,United States,(248) 714-6780,42.594769,-83.589249,Mon-Fri: 8:00am-7:00pm; Sat: 8:00am-5:00pm; Sun: Closed;,,0
+Monroe - Telegraph Rd,,626 Telegraph Road,,Monroe,MI,48161,United States,(734) 243-2323,41.918163,-83.417297,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: 10:00am-4:00pm;,,0
+Ann Arbor - Plymouth Rd,,1635 Plymouth Road,,Ann Arbor,MI,48105,United States,(734) 662-7755,42.299355,-83.723221,Mon-Fri: 8:00am-7:00pm; Sat: 8:00am-5:00pm; Sun: 10:00am-4:00pm;,,0
+Ann Arbor - W. Stadium Blvd,,2185 W. Stadium,,Ann Arbor,MI,48103,United States,(734) 995-9700,42.273834,-83.776894,Mon-Fri: 8:00am-7:00pm; Sat: 8:00am-5:00pm; Sun: 10:00am-4:00pm;,,0
+Brighton - E. Grand River Ave,,9957 E. Grand River Ave,,Brighton,MI,48116,United States,(810) 229-0313,42.521538,-83.761360,Mon-Fri: 8:00am-7:00pm; Sat: 8:00am-5:00pm; Sun: 10:00am-4:00pm;,,0
+Saline - W. Michigan Ave,,211 W. Michigan Ave.,,Saline,MI,48176,United States,(734) 470-6587,42.164963,-83.784698,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: closed;,,0
+Temperance - Lewis Ave,,7166 Lewis,,Temperance,MI,48182,United States,(734) 847-7777,41.845467,-83.571098,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: Closed;,,0
+Howell - E. Grand River Ave.,,3150 E Grand River Ave.,,Howell,MI,48843,United States,(517) 376-6433,42.592941,-83.892456,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: 10:00am- 4:00pm;,,0
+Fenton - Silver Pkwy,,16500 Silver Parkway,,Fenton,MI,48430,United States,(810) 750-4981,42.796837,-83.737297,Mon-Fri: 8:00am-7:00pm; Sat: 8:00am-5:00pm; Sun: Closed;,,0
+Howell - S. Michigan Ave.,,1175 S. Michigan Avenue,,Howell,MI,48843,United States,(517) 546-5823,42.593849,-83.933090,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: Closed;,,0
+Chelsea - S. Main St,,920 S. Main Street,,Chelsea,MI,48118,United States,(734) 475-6377,42.307514,-84.021606,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: Closed;,,0
+Toledo - W. Alexis Ave,,1360 W. Alexis Ave,,Toledo,Ohio,43612,United States,(419) 725-9749,41.721691,-83.576706,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: 10:00am-4:00pm;,,0
+Holland - S. Airport Hwy,,6915 Airport Hwy.,,Holland,Ohio,43528,United States,(419) 491-1397,41.612106,-83.696846,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: 10:00am-4:00pm;,,0
+Adrian - E. US-223,,1001 East US 223,,Adrian,MI,49221,United States,(517) 263-1447,41.874577,-84.042557,Mon-Fri: 8:00am-7:00pm; Sat: 8:00am-5:00pm; Sun: Closed;,,0
+Jackson - W. Parnall Rd,,1260 W. Parnall Rd.,,Jackson,MI,49201,United States,(517) 768-9005,42.291542,-84.407990,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: Closed;,,0
+Jackson - Laurence Ave,,634 Laurence,,Jackson,MI,49202,United States,(517) 789-8388,42.255711,-84.447784,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: Closed;,,0
+Holt - N. Cedar St,,1910 N. Cedar,,Holt,MI,48842,United States,(517) 699-5880,42.638058,-84.512169,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: Closed;,,0
+South Euclid - Monticello Blvd,,4300 Monticello Blvd.,,South Euclid,OH,44121,United States,(216) 291-0609,41.538101,-81.525391,Mon-Fri: 8:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: Closed;,,0
+Zebulon - Wakelon St,,131 Wakelon St.,,Zebulon,NC,27597,United States,(919) 269-5205,35.833321,-78.317993,Mon - Fri: 8:00am-6:30pm; Saturday: 8:00am-5:00pm; Sunday: Closed;,,0
+Chisago City - Gateway Ave,,29610 Gateway Ave,,Chisago City,MN,55013,United States,(651) 257-2111,45.375847,-92.884979,Mon-Fri: 7:00am-6:00pm; Saturday: 8:00am-4:00pm; Sunday: Closed;,,0
+North Branch - 14th Ave,,38844 14th Avenue,,North Branch,MN,55056,United States,(651) 277-1000,45.510887,-92.991325,Mon-Fri: 7:00am-7:00pm; Saturday: 8:00am-5:00pm; Sunday: 10:00am-4:00pm;,,0

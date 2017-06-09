@@ -1,0 +1,84 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Save Mart,8,130 W. Stockton Rd,,Sonora,CA,95370,United States,(209) 532-3478,37.9833519,-120.384221,Mon-Sun: 6am-10pm,,0
+Save Mart,12,1431 W. Yosemite,,Manteca,CA,95336,United States,(209) 823-1768,37.7982474,-121.238974,Mon-Sun: 6am-12am,,0
+Save Mart,19,4041 E. Ashlan,,Fresno,CA,93726,United States,(559) 224-6064,36.7952962,-119.7568929,Mon-Sun: 6am-12am,,0
+Save Mart,27,1580 E. Manning,,Reedley,CA,93654,United States,(559) 638-3988,36.605807,-119.432073,Mon-Sun: 6am-12am,,0
+Save Mart,35,2916 Whitmore Ave.,,Ceres,CA,95307,United States,(209) 538-4118,37.5931242,-120.94051,Mon-Sun: 6am-12am,,0
+Save Mart,36,715 W. Grangeville,,Hanford,CA,93230,United States,(559) 584-2651,36.341352,-119.6557914,Mon-Sun: 6am-12am,,0
+Save Mart,39,4725 Quail Lakes Dr,,Stockton,CA,95207,United States,(209) 952-0525,37.9864003,-121.3421659,Mon-Sun: 6am-11pm,,0
+Save Mart,40,1121 Visalia Rd,,Exeter,CA,93221,United States,(559) 592-2635,36.298426,-119.155187,Mon-Sun: 7am-11pm,,0
+Save Mart,42,260 N. Highway 65,,Lindsay,CA,93247,United States,(559) 562-1354,36.2023048,-119.1021697,Mon-Sun: 7am-11pm,,0
+Save Mart,45,900 W. Henderson,,Porterville,CA,93257,United States,(559) 781-1447,36.0817627,-119.0372238,Mon-Sun: 6am-12am,,0
+Save Mart,46,260 S. Main St.,,Angels Camp,CA,95222,United States,(209) 736-4519,38.0786254,-120.555954,Mon-Sun: 6am-11pm,,0
+Save Mart,48,1449 E. F St.,,Oakdale,CA,95361,United States,(209) 847-7044,37.7716409,-120.8317756,Mon-Sun: 6am-12am,,0
+Save Mart,49,2100 Standiford Ave.,,Modesto,CA,95350,United States,(209) 577-0545,37.6888139,-121.0327071,Mon-Sun: 6am-12am,,0
+Save Mart,52,2179 Shaw Ave.,,Clovis,CA,93611,United States,(559) 297-1338,36.809923,-119.673715,Mon-Sun: 6am-12am,,0
+Save Mart,53,150 W. Olive Avenue,,Merced,CA,95348,United States,(209) 723-1032,37.3178158,-120.4714204,Mon-Sun: 5am-11pm,,0
+Save Mart,54,2066 W. Bullard,,Fresno,CA,93711,United States,(559) 435-6083,36.8225216,-119.8278845,Mon-Sun: 6am-12am,,0
+Save Mart,58,2859 Whitson St.,,Selma,CA,93662,United States,(559) 896-4203,36.5747181,-119.6258733,Mon-Sun: 6am-11pm,,0
+Save Mart,61,2601 Oakdale Rd.,,Modesto,CA,95355,United States,(209) 521-1507,37.6784092,-120.9594145,Mon-Sun: 6am-12am,,0
+Save Mart,64,841 Tucker Rd,,Tehachapi,CA,93561,United States,(661) 822-3098,35.122843,-118.468633,Mon-Sun: 6am-12am,,0
+Save Mart,65,7075 N. Marks,,Fresno,CA,93711,United States,(559) 439-1020,36.838432,-119.8491599,Mon-Sun: 6am-10pm,,0
+Save Mart,66,1631 Lander Avenue,,Turlock,CA,95380,United States,(209) 632-2306,37.4771582,-120.8503143,Mon-Sun: 6am-10pm,,0
+Save Mart,67,1591 E. Noble,,Visalia,CA,93277,United States,(559) 636-8405,36.326527,-119.3097979,Mon-Sun: 6am-12am,,0
+Save Mart,71,659 E. Nees,,Fresno,CA,93720,United States,(559) 446-0218,36.8508463,-119.7733865,Mon-Sun: 6am-12am,,0
+Save Mart,72,1059 C Street,,Galt,CA,95632,United States,(209) 745-3471,38.2542005,-121.2976939,Mon-Sun: 6am-12am,,0
+Save Mart,73,105 W. Hanford-Armona Rd.,,Lemoore,CA,93245,United States,(559) 924-0594,36.3119588,-119.78261,Mon-Sun: 6am-12am,,0
+Save Mart,76,1045 Mono Way,,Sonora,CA,95370,United States,(209) 536-1108,37.9757284,-120.3626297,Mon-Sun: 6am-12am,,0
+Save Mart,77,1504 Howard Rd.,,Madera,CA,93637,United States,(559) 661-0767,36.9514112,-120.0757839,Mon-Sun: 6am-12am,,0
+Save Mart,78,1107 E. Champlain,,Fresno,CA,93720,United States,(559) 433-0280,36.8704328,-119.7650361,Mon-Sun: 6am-12am,,0
+Save Mart,82,1035 Sperry Road,,Patterson,CA,95363,United States,(209) 892-5000,37.4654231,-121.1423519,Mon-Sun: 6am-12am,,0
+Save Mart,83,5203 W. Walnut Avenue,,Visalia,CA,93277,United States,(559) 625-9444,36.3111636,-119.3485566,Mon-Sun: 6am-12am,,0
+Save Mart,86,801 Oakdale Road,Suite C,Modesto,CA,95355,United States,(209) 569-0240,37.6542441,-120.9586659,Mon-Sun: 5am-12am,,0
+Save Mart,87,1157 N. Willow,,Clovis,CA,93611,United States,(559) 297-0109,36.8511684,-119.7280692,Mon-Sun: 6am-12am,,0
+Save Mart,88,275 W Forest Avenue,,Coalinga,CA,93210,United States,(559) 935-2997,36.135192,-120.360642,Mon-Sun: 6am-12am,,0
+Save Mart,89,5201 W. Goshen Ave,,Visalia,CA,93291,United States,(559) 738-9127,36.3401591,-119.348946,Mon-Sun: 6am-12am,,0
+S-Mart,91,7506 Pacific Avenue,,Stockton,CA,95207,United States,(209) 951-7285,38.0177197,-121.3212546,Mon-Sun: 6am-10pm,,0
+Save Mart,92,4120 N. West Avenue,,Fresno,CA,93705,United States,(559) 222-6620,36.7924225,-119.824699,Mon-Sun: 6am-12am,,0
+Save Mart,93,6797 North Milburn,,Fresno,CA,93722,United States,(559) 261-4123,36.836247,-119.881117,Mon-Sun: 6am-12am,,0
+Save Mart,94,15240 South Harlan Road,,Lathrop,CA,95330,United States,(209) 858-4798,37.8230698,-121.2880229,Mon-Sun: 6am-12am,,0
+Save Mart,95,3601 Pelandale,,Modesto,CA,95356,United States,(209) 545-1260,37.7014727,-121.0615296,Mon-Sun: 6am-12am,,0
+Save Mart,96,9600 Hageman Road,,Bakersfield,CA,93312,United States,(661) 588-4420,35.3998456,-119.1085386,Mon-Sun: 6am-10pm,,0
+Save Mart,98,1835 Hearndon Avenue,,Clovis,CA,93611,United States,(559) 322-8021,36.8388643,-119.6825418,Mon-Sun: 6am-12am,,0
+Save Mart,100,1453 Goodwin Drive,,Ripon,CA,95366,United States,(209) 599-3355,37.752772,-121.135561,Mon-Sun: 5am-12am,,0
+Save Mart,101,1337 Pacheco Blvd.,,Los Banos,CA,93635,United States,(209) 826-2765,37.0552767,-120.835843,Mon-Sun: 6am-12 am,,0
+Save Mart,102,1701 Bellevue Rd,,Atwater,CA,95301,United States,(209) 357-9840,37.3620753,-120.612438,Mon-Sun: 6am-12am,,0
+Save Mart,103,1225 East Robertson Blvd,,Chowchilla,CA,93610,United States,(559) 665-5744,37.125506,-120.2468574,Mon-Sun: 6am-12am,,0
+Save Mart,105,2237 Claribel Road,,Riverbank,CA,95367,United States,(209) 863-1480,37.7132435,-120.9570462,Mon-Sun: 6am-12am,,0
+S-Mart,209,610 W. Kettleman Lane,,Lodi,CA,95240,United States,(209) 334-6853,38.1139531,-121.2810638,Mon-Sun: 6am-12am,,0
+S-Mart,334,3215 Pacific Avenue,,Stockton,CA,95204,United States,(209) 464-9431,37.9774802,-121.3052871,Mon-Sun: 6am-12 am,,0
+Save Mart,371,2595 Geer Rd,,Turlock,CA,95380,United States,(209) 667-2781,37.5159686,-120.8503448,Mon-Sun: 6am-12am,,0
+Save Mart,376,1143 Country Club Dr.,,Madera,CA,93638,United States,(559) 673-0045,36.9765826,-120.0728507,Mon-Sun: 6am-10pm,,0
+Save Mart,386,1172 N. Main,,Manteca,CA,95336,United States,(209) 239-2267,37.8131163,-121.2152409,Mon-Sun: 5am-12am,,0
+Save Mart,551,4348 S. Carson St.,,Carson City,NV,89701,United States,(775) 883-6262,39.1270285,-119.7721586,Mon-Sun: 6am-10pm,,0
+Save Mart,552,3620 N. Carson St.,,Carson City,NV,89706,United States,(775) 841-4402,39.1908018,-119.7750716,Mon-Sun: 6am-10pm,,0
+Save Mart,553,525 Keystone Ave,,Reno,NV,89503,United States,(775) 786-2150,39.5277797,-119.8299406,Mon-Sun: 6am-12 am,,0
+Save Mart,554,4995 Kietzke Ln.,,Reno,NV,89509,United States,(775) 827-5350,39.477501,-119.796162,Mon-Sun: 6am-11pm,,0
+Save Mart,555,10500 N. McCarran,,Reno,NV,89503,United States,(775) 746-8882,39.534272,-119.8626943,Mon-Sun: 6am-12am,,0
+Save Mart,556,195 W. Plumb Ln,,Reno,NV,89509,United States,(775) 786-0138,39.507243,-119.806507,Mon-Sun: 6am-12am,,0
+Save Mart,559,9750 Pyramid Way,,Sparks,NV,89441,United States,(775) 425-2700,39.640147,-119.710294,Mon-Sun: 6am-12am,,0
+Save Mart,600,386 Elm Ave,,Auburn,CA,95603,United States,(530) 823-6054,38.9056021,-121.0738846,Mon-Sun: 6am-12am,,0
+Save Mart,601,4708 Manzanita Ave,,Carmichael,CA,95608,United States,(916) 979-9191,38.649811,-121.3257465,Mon-Sun: 6am-10pm,,0
+Save Mart,602,146 West East Ave,,Chico,CA,95926,United States,(530) 343-3434,39.7566906,-121.8642152,Mon-Sun: 6am-12am,,0
+Save Mart,604,1900 Anderson Rd.,,Davis,CA,95616,United States,(530) 758-0580,38.5596294,-121.7577658,Mon-Sun: 6am-12am,,0
+Save Mart,605,9160 Elk Grove Florin Rd.,,Elk Grove,CA,95624,United States,(916) 685-5525,38.424946,-121.3729294,Mon-Sun: 6am-12am,,0
+Save Mart,608,2054 Nevada City Hwy,,Grass Valley,CA,95945,United States,(530) 477-9511,39.2392634,-121.0376106,Mon-Sun: 6am-12am,,0
+Save Mart,609,11980 Highway 88,,Jackson,CA,95642,United States,(209) 223-5945,38.3623315,-120.8013952,Mon-Sun: 6am-10pm,,0
+Save Mart,610,828 J Street,,Marysville,CA,95901,United States,(530) 743-4632,39.1429327,-121.5995163,Mon-Sun: 5am-11pm,,0
+Save Mart,613,6636 Clark Rd,,Paradise,CA,95969,United States,(530) 877-0522,39.776504,-121.589517,Mon-Sun: 6am-10pm,,0
+Save Mart,614,1270 Broadway,,Placerville,CA,95667,United States,(530) 622-1291,38.7308925,-120.7845759,Mon-Sun: 6am-11pm,,0
+Save Mart,615,3966 A Missouri Flat Rd.,,Placerville,CA,95667,United States,(530) 626-7530,38.711008,-120.8437343,Mon-Sun: 6am-11pm,,0
+Save Mart,616,3021 Stanford Ranch Rd.,,Rocklin,CA,95765,United States,(916) 435-2828,38.8160197,-121.2590275,Mon-Sun: 6am-11pm,,0
+Save Mart,617,5060 Foothill Blvd,,Roseville,CA,95747,United States,(916) 774-0293,38.7603686,-121.312444,Mon-Sun: 6am-12am,,0
+Save Mart,619,7960 Gerber Rd.,,Sacramento,CA,95828,United States,(916) 689-8300,38.4806261,-121.4104415,Mon-Sun: 6am-11pm,,0
+Save Mart,622,5600 Folsom Blvd,,Sacramento,CA,95819,United States,(916) 456-3862,38.5577106,-121.4386409,Mon-Sun: 6am-1am,,0
+Save Mart,623,9137 Kiefer Blvd,,Sacramento,CA,95826,United States,(916) 366-3555,38.5484585,-121.3602444,Mon-Sun: 6am-12am,,0
+Save Mart,625,2501 Fair Oaks Blvd,,Sacramento,CA,95825,United States,(916) 484-7994,38.5750659,-121.4039767,Mon-Sun: 6am-12am,,0
+Save Mart,626,100 River Rd,,Tahoe City,CA,96145,United States,(530) 583-5231,39.1680678,-120.1457249,Mon-Sun: 6am-11pm,,0
+Save Mart,627,11399 Deerfield Dr.,,Truckee,CA,96161,United States,(530) 587-5522,39.3192145,-120.2092913,Mon-Sun: 6am-12am,,0
+Save Mart,650,4043 W. Clinton,,Fresno,CA,93722,United States,(559) 271-8830,36.7706524,-119.8634569,Mon-Sun: 6am-12am,,0
+Save Mart,651,5750 North First St.,,Fresno,CA,93710,United States,(559) 435-9324,36.8224392,-119.7701111,Mon-Sun: 6am-12am,,0
+Save Mart,654,909 Sierra St.,,Kingsburg,CA,93631,United States,(559) 897-9742,36.5192037,-119.5585748,Mon-Sun: 6am-12am,,0
+S-Mart,655,530 West Lodi Ave,,Lodi,CA,95240,United States,(209) 339-7170,38.1292562,-121.2810363,Mon-Sun: 6am-12am,,0
+Save Mart,657,3615 W Noble Ave,,Visalia,CA,93277,United States,(559) 622-0846,36.3254321,-119.3309523,Mon-Sun: 6am-12am,,0
+Save Mart,781,875 South Tracy Blvd,,Tracy,CA,95376,United States,(209) 830-2840,37.7240205,-121.4370742,Mon-Sun: 5am-12am,,0

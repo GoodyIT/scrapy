@@ -1,0 +1,28 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Auburn,,804 E. Glenn Ave.,,Auburn,AL,36830,United States,(334) 209-2233,,,10:30AM - 9PM,,0
+Birmingham,,1801 4th Ave. S.,,Birmingham,AL,35233,United States,(205) 327-1241,,,Mon. - Sat. 10AM - 8PM; Closed on Sun.,,0
+Birmingham (Homewood),,341 Palisades Blvd.,,Birmingham,AL,35209,United States,(205) 783-5800,,,10:30AM - Until,,0
+Cullman,,704 2nd Ave. NW,,Cullman,AL,35055,United States,(256) 775-1593,,,10:30AM - 9PM,,0
+Fairhope,,51 Greeno Rd. N,,Fairhope,AL,36532,United States,(251) 990-2897,,,Mon. - Thurs. 10:30AM - 9PM; Fri. - Sat. 10:30AM - 10PM; Sun. 10:30AM - 8PM,,0
+Haleyville #1,,930 20th St.,,Haleyville,AL,35565,United States,(205) 486-9222,,,10:30AM - 9PM,,0
+Haleyville #2,,42469 Hwy 195,,Haleyville,AL,35565,United States,(205) 485-1135,,,10:30AM - 9PM,,0
+Jasper,,821 Hwy 78 W,,Jasper,AL,35501,United States,(205) 295-0080,,,10:30AM - 9PM,,0
+Jasper #2,,2315 Hwy 78 E,,Jasper,AL,35501,United States,(205) 295-5072,,,10:30AM - 9:30PM,,0
+Monroeville,,1559 S. Alabama Ave.,,Monroeville,AL,36460,United States,(251) 575-2584,,,10AM - 9PM,,0
+Moulton,,11831 Hwy 157,,Moulton,AL,35650,United States,(256) 974-5440,,,10:30AM - 9PM,,0
+Opelika #1,,3704 Pepperell Pkwy,,Opelika,AL,36801,United States,(334) 363-0764,,,10AM - 11PM,,0
+Opelika #2,,1700A Capps Landing,,Opelika,AL,36804,United States,(334) 203-1970,,,10AM - 10PM,,0
+Rainbow City,,3333 Rainbow Dr.,,Rainbow City,AL,35906,United States,(256) 442-9070,,,10:30AM - 9:30PM,,0
+Trussville,,1104 N. Chalkville Rd.,,Trussville,AL,35173,United States,(205) 508-5401,,,Sun. - Thurs. 10:30AM - 9PM; Fri. - Sat. 10:30AM - 10PM,,0
+Tuscaloosa,,205 15th St.,,Tuscaloosa,AL,35401,United States,(205) 349-2222,,,10:30AM - 9:00PM,,0
+Ringgold,,67 Poplar Springs Rd.,,Ringgold,GA,30736,United States,(706) 965-6550,,,10:30AM - 9PM,,0
+Trenton,,5404 Hwy 136,,Trenton,GA,30752,United States,(706) 657-6494,,,10:30AM - 9PM,,0
+Milton,,4804 Hwy 90,,Milton,FL,32571,United States,(850) 995-0053,,,Mon. - Sat. 11AM - 9PM; Sun. 11AM - 5PM,,0
+Tallahassee #1,,1818 W. Tennessee St.,,Tallahassee,FL,32304,United States,(850) 224-2244,,,Mon. - Thurs. 10:30AM - 4AM; Fri. - Sat. 10:30AM - 4:30AM; Sun. 11AM - 3AM,,0
+Tallahassee #2,,2550 N. Monroe St.,,Tallahassee,FL,32303,United States,(850) 270-9543,,,10:30AM - 2:30AM,,0
+Winter Haven,,600 Cypress Gardens Blvd.,,Winter Haven,FL,33880,United States,(863) 280-6533,,,10AM - 10PM,,0
+Burlington,,1795 Patrick Drive,,Burlington,KY,41005,United States,(859) 534-0776,,,(859) 534-0776,,0
+Erlanger: Cincinnati Airport,,3340 Mineola Pike,,Erlanger,KY,41018,United States,(859) 663-2953,,,Sat. - Thurs. 10:30AM - 9PM; Fri. 10:30AM - 10PM,,0
+Chattanooga,,5203 Brainerd Rd.,,Chattanooga,TN,37411,United States,(423) 803-0360,,,Mon. - Sat. 10:30AM - 9PM; Sun. 11AM - 9PM,,0
+Signal Mountain,,1235 Taft Highway,,Signal Mountain,TN,37377,United States,(423) 886-4466,,,Mon. - Sat. 10:30AM - 8:30PM; Sun. 11AM - 7PM,,0
+Cleveland,,3465 Steelyard Dr.,,Cleveland,OH,44109,United States,(216) 351-3870,,,11AM - 10PM,,0

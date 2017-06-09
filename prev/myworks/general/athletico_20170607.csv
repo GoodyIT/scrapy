@@ -1,0 +1,384 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Phoenix,,21043 N. Cave Creek Rd. Ste. A1 ,,Phoenix ,AZ,85024,United States,P: 602-483-5600,,,,,0
+Tempe: Coming Soon,,3141 S. McClintock Dr. Ste. 2 ,,Tempe ,AZ,85282,United States,P: 480-566-8125,,,,,0
+Chandler,,2051 W. Chandler Blvd. Suite 3 ,,Chandler ,AZ,85224,United States,P: 480-566-8150,,,,,0
+Gilbert,,690 S. Cooper Rd. Ste. 101 ,,Gilbert ,AZ,85233,United States,P: 480-503-2100,,,,,0
+Mesa,,6059 E. Brown Rd. ,,Mesa ,AZ,85205,United States,P: 602-429-3400,,,,,0
+Sioux Falls Central: Now Open,,815 S. Minnesota Ave. ,,Sioux Falls ,SD,57104,United States,P: 605-231-5586,,,,,0
+Sioux Falls East,,3320 S. Sycamore Ave. Suite 150 ,,Sioux Falls ,SD,57110,United States,P: 605-231-5590,,,,,0
+Dakota Dunes,,317 Dakota Dunes Blvd. Ste. J ,,Dakota Dunes ,SD,57049,United States,P: 605-540-4516,,,,,0
+Waukee,,452 SE University Ave. ,,Waukee ,IA,50263,United States,P: 515-987-0465,,,,,0
+Grimes,,241 SE Destination Drive # 200 ,,Grimes ,IA,50111,United States,P: 515-986-5190,,,,,0
+West Des Moines,,800 S. 50th St. Ste. 103 ,,West Des Moines ,IA,50265,United States,P: 515-226-1616,,,,,0
+Urbandale,,8000 Douglas Ave. ,,Urbandale ,IA,50322,United States,P: 515-251-3700,,,,,0
+Norwalk,,800 Colonial Cir. # 100 ,,Norwalk ,IA,50211,United States,P: 515-953-1310,,,,,0
+Ingersoll,,1704 Ingersoll Ave. Suite 101 ,,Des Moines ,IA,50309,United States,P: 515-282-4560,,,,,0
+Ankeny South,,1510 SW. Oralabor Rd. Ste. F ,,Ankeny ,IA,50023,United States,P: 515-963-5550,,,,,0
+South Des Moines,,200 Army Post Rd. # 38 ,,Des Moines ,IA,50315,United States,P: 515-953-6911,,,,,0
+Ankeny North,,2525 N. Ankeny Blvd. Ste. 101 ,,Ankeny ,IA,50023,United States,P: 515-965-4594,,,,,0
+Forest City,,605 E. J St. # 200 ,,Forest City ,IA,50436,United States,P: 641-585-1550,,,,,0
+East Des Moines,,2918 E. University Ave. ,,Des Moines ,IA,50317,United States,P: 515-265-8272,,,,,0
+Indianola,,1709 N. Jefferson Way # 100 ,,Indianola ,IA,50125,United States,P: 515-962-9272,,,,,0
+Altoona,,3160 8th St. SW. Ste. M & N ,,Altoona ,IA,50009,United States,P: 515-967-4580,,,,,0
+Clear Lake,,7 S 8th St. Ste. C ,,Clear Lake ,IA,50428,United States,P: 641-357-1003,,,,,0
+Mason City West,,520 S. Pierce Ave. # 224 ,,Mason City ,IA,50401,United States,P: 641-421-8584,,,,,0
+Mason City East,,461 S. Illinois Ave. ,,Mason City ,IA,50401,United States,P: 641-423-6279,,,,,0
+St. Ansgar,,708 E. 4th St. ,,St. Ansgar ,IA,50472,United States,P: 641-954-3335,,,,,0
+Cedar Falls,,1710 W. 1st St. Ste. D ,,Cedar Falls ,IA,50613,United States,P: 319-273-8988,,,,,0
+Waterloo North,,1111 Ansborough Ave. ,,Waterloo ,IA,50701,United States,P: 319-433-0130,,,,,0
+Waterloo South,,1655 East San Marnan Drive Suite A ,,Waterloo ,Iowa,50702,United States,P: 319-433-4750,,,,,0
+Belle Plaine,,509 13th St. Ste. B ,,Belle Plaine ,IA,52208,United States,P: 319-434-6150,,,,,0
+Cedar Rapids Southwest,,3720 Queen Ct. Ste. I ,,Cedar Rapids ,IA,52404,United States,P: 319-364-0300,,,,,0
+Cedar Rapids Northeast,,5300 Fountains Drive NE. Ste. 106 ,,Cedar Rapids ,Iowa,52411,United States,P: 319-378-6958,,,,,0
+North Liberty: Now Open,,3286 Crosspark Road Suite 101 ,,Coralville ,IA,52241,United States,P: 319-449-6052,,,,,0
+Iowa City West,,779 Mormon Trek Blvd. ,,Iowa City ,IA,52246,United States,P: 319-248-2020,,,,,0
+Mount Pleasant,,217 East Monroe Street Suite 2 ,,Mount Pleasant ,Iowa,52641,United States,P: 319-553-5950,,,,,0
+Iowa City East,,503 Westbury Dr. Ste. 3 ,,Iowa City ,IA,52245,United States,P: 319-337-4325,,,,,0
+Sullivan,,107 Progress Dr. ,,Sullivan ,MO,63080,United States,P: 573-860-5901,,,,,0
+Rock Island,,3825 18th Ave ,,Rock Island ,IL,61201,United States,P: 309-786-5100,,,,,0
+Washington,,3101 Recreation Drive Suite 130 ,,Washington ,MO,63090,United States,P: 636-239-9979,,,,,0
+Wentzville,,1832 Wentzville Pkwy. ,,Wentzville ,MO,63385,United States,P: 636-327-7110,,,,,0
+Bettendorf,,3252 Ridge Point ,,Bettendorf ,Iowa,52722,United States,P: 563-332-4995,,,,,0
+Silvis,,685 Avenue of the Cities Unit 101 ,,Silvis ,Illinois,61282,United States,P: 309-792-3860,,,,,0
+Lake St. Louis,,6309 Ronald Reagan Dr. ,,Lake St. Louis ,MO,63367,United States,P: 636-755-4566,,,,,0
+O'Fallon North: Now Open,,343 Winding Woods Drive ,,O'Fallon ,MO,63366,United States,P: 636-439-2004,,,,,0
+O'Fallon South,,951 Waterbury Falls Dr. ,,O'Fallon ,MO,63368,United States,P: 636-336-0300,,,,,0
+St. Peters,,221 Spencer Rd. Ste. D ,,St. Peters ,MO,63376,United States,P: 636-477-9911,,,,,0
+Chesterfield Valley,,134 Chesterfield Valley Dr. ,,Chesterfield ,MO,63005,United States,P: 636-812-0094,,,,,0
+Eureka,,217 E 5th St. ,,Eureka ,MO,63025,United States,P: 636-549-0151,,,,,0
+"St. Charles, MO",,2053 Zumbehl Rd. ,,St. Charles ,MO,63303,United States,P: 636-940-2900,,,,,0
+Chesterfield,,14825 N. Outer Forty Rd. Ste. 300 ,,Chesterfield ,MO,63017,United States,P: 636-812-1211,,,,,0
+House Springs,,20 Gravois Station ,,House Springs ,MO,63051,United States,P: 636-375-3300,,,,,0
+Bridgeton,,12468 St. Charles Rock Rd. ,,Bridgeton ,MO,63044,United States,P: 314-739-1123,,,,,0
+Des Peres,,2315 Dougherty Ferry Rd. Ste. 209 ,,Des Peres ,MO,63122,United States,P: 314-238-1130,,,,,0
+Fenton,,784 Gravois Bluffs Blvd. ,,Fenton ,MO,63026,United States,P: 636-349-8060,,,,,0
+Florissant,,790 N. Hwy. 67 ,,Florissant ,MO,63031,United States,P: 314-972-1442,,,,,0
+Olivette,,8622 Olive Blvd. ,,Olivette ,MO,63132,United States,P: 314-781-0679,,,,,0
+Brentwood,,2937 S. Brentwood Blvd. ,,Brentwood ,MO,63144,United States,P: 314-961-3804,,,,,0
+Arnold,,3950 Vogel Rd. ,,Arnold ,MO,63010,United States,P: 636-461-0900,,,,,0
+South County,,107 Concord Plaza ,,St. Louis ,MO,63128,United States,P: 314-842-2990,,,,,0
+Brentwood Industrial Center: We've Moved,,8228 Brentwood Industrial Dr. ,,Brentwood ,MO,63144,United States,P: 314-781-0679,,,,,0
+Brentwood Endurance Center: We've Moved,,8228 Brentwood Industrial Dr. ,,Brentwood ,MO,63144,United States,P: 314-272-2366,,,,,0
+Butler Hill,,5201 Midamerica Pl. Ste. 2600 ,,St. Louis ,MO,63129,United States,P: 314-487-7000,,,,,0
+Festus,,1300 Veterans Blvd. Ste. C ,,Festus ,MO,63028,United States,P: 636-931-2100,,,,,0
+Jennings,,8005 W. Florissant Ave. Ste. L ,,Jennings ,MO,63136,United States,P: 314-833-1000,,,,,0
+South City,,3734 S. Kingshighway Blvd. ,,St. Louis ,MO,63109,United States,P: 314-351-7172,,,,,0
+Farmington,,1355 Maple St. ,,Farmington ,MO,63640,United States,P: 573-756-9900,,,,,0
+Alton,,1837 Homer M. Adams Parkway Ste. M ,,Alton ,IL,62002,United States,P: 618-208-3310,,,,,0
+Downtown St. Louis,,201 N. 7th St. ,,St. Louis ,MO,63101,United States,P: 314-678-1008,,,,,0
+Columbia,,1050 Admiral Weinel Blvd. ,,Columbia ,IL,62236,United States,P: 618-693-3100,,,,,0
+Madison: Coming Soon,,7475 Mineral Point Rd. Ste. 7 ,,Madison ,WI,53717,United States,P: 608-229-1000,,,,,0
+Collinsville,,1116 Collinsville Crossing Blvd. ,,Collinsville ,IL,62234,United States,P: 618-578-5900,,,,,0
+Peoria North,,3531 Willow Knolls Dr. ,,Peoria ,IL,61614,United States,P: 309-683-6900,,,,,0
+Edwardsville,,1047 Century Dr. ,,Edwardsville ,IL,62025,United States,P: 618-307-3434,,,,,0
+Peoria Clubs at River City,,8603 N. University St. ,,Peoria ,IL,61615,United States,P: 309-683-6900,,,,,0
+Fairview Heights,,5300 N. Illinois St. Ste. 101 ,,Fairview Heights ,IL,62208,United States,P: 618-624-9300,,,,,0
+Pekin,,3289 Court St. ,,Pekin ,IL,61554,United States,P: 309-347-0090,,,,,0
+Peoria Heights,,3714 N. Prospect Rd. ,,Peoria ,IL,61614,United States,P: 309-550-7888,,,,,0
+Shiloh,,3940 Green Mount Crossing Drive ,,Shiloh ,IL,62269,United States,P: 618-628-3100,,,,,0
+Springfield: Now Open,,2833 Chatham Rd. ,,Springfield ,IL,62704,United States,P: 217-303-5982,,,,,0
+East Peoria,,1 Eastside Dr. ,,East Peoria ,IL,61611,United States,P: 309-694-7561,,,,,0
+Germantown Hills-Metamora,,123 Spring Creek Rd. ,,East Peoria ,IL,61611,United States,P: 309-282-4800,,,,,0
+Pecatonica,,219 Main St. ,,Pecatonica ,IL,61063,United States,P: 815-239-2233,,,,,0
+Oregon,,116 N. 3rd St. ,,Oregon ,Illinois,61061,United States,P: 815-513-9400,,,,,0
+Lacon,,320 5th St. ,,Lacon ,IL,61540,United States,P: 309-554-0072,,,,,0
+Rockford North,,3616 N. Main St. ,,Rockford ,IL,61103,United States,P: 815-877-5932,,,,,0
+Peru,,2011 Rock St. # E ,,Peru ,IL,61354,United States,P: 815-220-0058,,,,,0
+Roscoe,,4675 Bluestem Rd. # 1 ,,Roscoe ,IL,61073,United States,P: 815-623-9930,,,,,0
+Loves Park,,4401 Peak Dr. Ste. 1 ,,Loves Park ,IL,61111,United States,P: 815-668-7700,,,,,0
+Rockford East,,7474 E. State St. ,,Rockford ,IL,61108,United States,P: 815-397-4439,,,,,0
+Belvidere,,1731 Henry Luckow Lane ,,Belvidere ,IL,61008,United States,P: 815-544-6967,,,,,0
+Normal,,1715 Bradford St. Ste. 140 ,,Normal ,IL,61761,United States,P: 309-888-4828,,,,,0
+Bloomington Aquatic Center,,11 Currency Drive ,,Bloomington ,IL,61704,United States,P: 309-664-7766,,,,,0
+Bloomington,,1704 Eastland Dr. Unit 15 ,,Bloomington ,IL,61704,United States,P: 309-664-7766,,,,,0
+Ottawa,,2744 Columbus St. Unit 300 ,,Ottawa ,IL,61350,United States,P: 815-434-4550,,,,,0
+Streator,,103 E. Kent St. ,,Streator ,IL,61364,United States,P: 815-673-1770,,,,,0
+DeKalb,,2337 Sycamore Rd. ,,DeKalb ,IL,60115,United States,P: 815-748-1555,,,,,0
+Decatur,,3004 N. Water St. Unit C ,,Decatur ,IL,62526,United States,P: 217-233-0030,,,,,0
+Marengo,,300 S. State St. ,,Marengo ,IL,60152,United States,P: 815-568-4550,,,,,0
+Elburn,,1053 N. Main St. Ste. 200 ,,Elburn ,IL,60119,United States,P: 630-365-2400,,,,,0
+Lake Geneva,,902 S. Wells ,,St. Lake Geneva ,WI,53147,United States,P: 262-249-1915,,,,,0
+Woodstock,,113 S. Eastwood Drive ,,Woodstock ,Illinois,60098,United States,P: 815-334-0400,,,,,0
+Huntley,,12360 Princeton Dr. Unit A ,,Huntley ,IL,60142,United States,P: 847-961-5500,,,,,0
+Morris,,1036 W. U.S. Route 6 ,,Morris ,IL,60450,United States,P: 815-416-1049,,,,,0
+Mukwonago,,1231 S. Rochester St. Ste. 210 ,,Mukwonago ,WI,53149,United States,P: 262-710-9100,,,,,0
+Crystal Lake West,,6500 Northwest Highway ,,Crystal Lake ,IL,60014,United States,P: 815-455-7800,,,,,0
+Lake in the Hills,,280 N. Randall Rd ,,Lake in the Hills ,IL,60156,United States,P: 847-854-8219,,,,,0
+Algonquin,,1517 S. Randall Rd. ,,Algonquin ,IL,60102,United States,P: 847-854-6482,,,,,0
+Batavia,,805 N. Randall Rd. ,,Batavia ,IL,60510,United States,P: 630-593-5100,,,,,0
+St. Charles West,,1820 West Main Street ,,St. Charles ,IL,60174,United States,P: 630-762-1200,,,,,0
+Crystal Lake East,,360 Station Dr. Ste. 250 ,,Crystal Lake ,IL,60014,United States,P: 815-356-1750,,,,,0
+South Elgin,,722 N. McLean Blvd. South ,,Elgin ,IL,60177,United States,P: 847-695-5088,,,,,0
+Burlington: Now Open,,980 Milwaukee Ave. Suite 500 ,,Burlington ,WI,53105,United States,P: 262-757-7752,,,,,0
+Oswego,,2872 U.S. Highway 34 ,,Oswego ,Illinois,60543,United States,P: 630-554-8890,,,,,0
+McHenry,,1733 N. Richmond Rd. ,,McHenry ,IL,60050,United States,P: 815-385-0730,,,,,0
+Twin Lakes,,237 E. Main St. ,,Twin Lakes ,WI,53181,United States,P: 262-877-4884,,,,,0
+Waukesha,,211 E. Sunset Dr. ,,Waukesha ,WI,53189,United States,P: 262-832-7600,,,,,0
+Cary,,732 Northwest Highway ,,Cary ,IL,60013,United States,P: 847-462-0780,,,,,0
+Elgin,,795 Summit Street ,,Elgin ,Illinois,60120,United States,P: 847-289-6500,,,,,0
+St. Charles East,,3865 East Main Street ,,St Charles ,IL,60174,United States,P: 630-587-5788,,,,,0
+Waterford,,315 N. Milwaukee St. ,,Waterford ,WI,53185,United States,P: 262-514-2700,,,,,0
+Aurora South,,1677 Montgomery Rd. Ste. 102 ,,Aurora ,IL,60504,United States,P: 630-947-7400,,,,,0
+Island Lake,,510 Auburn Dr. Ste. B ,,Island Lake ,IL,60042,United States,P: 847-487-4609,,,,,0
+Fox Lake,,1294 S. Route 12 ,,Fox Lake ,IL,60020,United States,P: 847-973-9440,,,,,0
+Aurora Eola,,1137 N. Eola Rd. Ste. 111 ,,Aurora ,IL,60502,United States,P: 630-236-6698,,,,,0
+Channahon,,25520 S. Pheasant Lane Unit M & N ,,Channahon ,IL,60410,United States,P: 815-521-0111,,,,,0
+Hoffman Estates,,5050 Sedge Blvd. Sports & Wellness Center Hoffman Estates ,,,IL,60192,United States,P: 847-645-9673,,,,,0
+Bartlett,,770 W. Bartlett Rd. ,,Bartlett ,IL,60103,United States,P: 630-213-1600,,,,,0
+Coal City,,1003 E. Division St. ,,Coal City ,IL,60416,United States,P: 815-634-8446,,,,,0
+Brookfield,,18000-P W. Bluemound Rd. ,,Brookfield ,WI,53045,United States,P: 262-879-0010,,,,,0
+West Chicago: DuPage,,440 E. Roosevelt Road West ,,Chicago ,IL,60185,United States,P: 630-293-5300,,,,,0
+Naperville: Route 59,,3344 S. Route 59 Unit 100 ,,Naperville ,IL,60564,United States,P: 630-778-9880,,,,,0
+Plainfield West,,24402 W. Lockport St. Ste. 100 ,,Plainfield ,IL,60544,United States,P: 815-609-7000,,,,,0
+Plainfield North,,13311 S. Rte. 59 ,,Plainfield ,IL,60585,United States,P: 815-577-2488,,,,,0
+Naperville South 95th Street,,2272 W. 95th St. ,,Naperville ,IL,60564,United States,P: 630-428-1503,,,,,0
+Shorewood,,700 W. Jefferson St. ,,Shorewood ,IL,60404,United States,P: 815-725-1666,,,,,0
+Paddock Lake,,25250 75th ,,St. Salem ,WI,53168,United States,P: 262-843-4200,,,,,0
+Barrington,,530 N. Hough St. Ste. 130 ,,Barrington ,IL,60010,United States,P: 847-381-0090,,,,,0
+Hanover Park,,1744 E. Lake St. ,,Hanover Park ,IL,60133,United States,P: 630-246-4063,,,,,0
+Antioch,,1122 Main Street ,,Antioch ,IL,60002,United States,P: 847-395-0321,,,,,0
+Lake Zurich,,546 N. Rand Road ,,Lake Zurich ,Illinois,60047,United States,P: 847-438-6624,,,,,0
+Naperville Ogden Avenue,,115 E. Ogden Ave. Ste. 127 ,,Naperville ,IL,60563,United States,P: 630-637-0144,,,,,0
+Round Lake Beach: Now Open,,192 W. Rollins Rd. ,,Round Lake Beach ,IL,60073,United States,P: 847-201-4706,,,,,0
+Bloomingdale West,,205 S. Gary ,,Bloomingdale ,IL,60108,United States,P: 630-307-5910,,,,,0
+Carol Stream,,351 East Geneva Rd. ,,Carol Stream ,IL,60188,United States,P: 630-653-6336,,,,,0
+Naperville Freedom Drive,,1739 Freedom Dr. Ste. 101 ,,Naperville ,IL,60563,United States,P: 630-799-0122,,,,,0
+Joliet,,2793 Black Road ,,Joliet ,IL,60435,United States,P: 815-725-9134,,,,,0
+Union Grove,,1201 Main Street ,,Union Grove ,WI,53182,United States,P: 262-878-9602,,,,,0
+Bolingbrook,,1256 W. Boughton Rd. ,,Bolingbrook ,IL,60440,United States,P: 630-378-9420,,,,,0
+Romeoville,,467 N. Weber Rd. ,,Romeoville ,IL,60446,United States,P: 815-886-8771,,,,,0
+Wheaton Danada,,75 Danada Square E. ,,Wheaton ,IL,60187,United States,P: 630-588-8840,,,,,0
+Wauwatosa,,8837 W. North Avenue ,,Wauwatosa ,WI,53226,United States,P: 414-257-0300,,,,,0
+Franklin,,9120 W. Loomis Rd. Ste. 200 ,,Franklin ,WI,53132,United States,P: 414-448-4100,,,,,0
+Crest Hill,,16139 S. Weber Rd. ,,Crest Hill ,IL,60403,United States,P: 815-836-3403,,,,,0
+Schaumburg North,,50 West Schaumburg Rd ,,Schaumburg ,IL,60194,United States,P: 847-490-7100,,,,,0
+Schaumburg South,,1031 S. Roselle Rd. ,,Schaumburg ,IL,60193,United States,P: 847-895-1866,,,,,0
+Wheaton East,,1071 E. Roosevelt Rd. ,,Wheaton ,IL,60187,United States,P: 630-682-1785,,,,,0
+Wilmington,,324 E. Baltimore St. ,,Wilmington ,IL,60481,United States,P: 815-476-9828,,,,,0
+Greenfield,,4749 S. 76th Street ,,Greenfield ,WI,53220,United States,P: 414-281-1380,,,,,0
+Lisle,,5328 Main Street Suite 122 ,,Lisle ,IL,60532,United States,P: 630-324-8243,,,,,0
+Bloomingdale East,,303 E. Army Trail Road Suite 400 ,,Bloomingdale ,IL,60108,United States,P: 630-582-1512,,,,,0
+Palatine North - Midtown,,1770 N. Hicks Rd. ,,Palatine ,IL,60074,United States,P: 847-776-0106,,,,,0
+Mundelein,,1186 W. Maple Ave ,,Mundelein ,IL,60060,United States,P: 847-970-7099,,,,,0
+Palatine South,,101 N. Northwest Highway ,,Palatine ,IL,60067,United States,P: 847-794-4528,,,,,0
+Rolling Meadows,,3701 Algonquin Road Ste. 810 ,,Rolling Meadows ,Illinois,60008,United States,P: 847-483-0270,,,,,0
+Grayslake,,1860 E. Belvidere Rd. ,,Grayslake ,IL,60030,United States,P: 847-548-0360,,,,,0
+Third Lake,,34572 N. US Hwy. 45 ,,Third Lake ,IL,60030,United States,P: 847-548-3695,,,,,0
+"Addison, Illinois",,Club Fitness: 1776 W. Centennial Place 2nd Floor ,,Addison ,IL,60101,United States,P: 630-953-0343,,,,,0
+Glen Ellyn-Lombard,,1214 Roosevelt Rd. ,,Glen Ellyn ,IL,60137,United States,P: 630-827-0000,,,,,0
+Downers Grove,,1626 Ogden Ave. ,,Downers Grove ,IL,60515,United States,P: 630-724-0977,,,,,0
+Woodridge,,2027 West 87th St. Unit C ,,Woodridge ,IL,60517,United States,P: 630-783-2300,,,,,0
+Elk Grove Village,,990 Elk Grove Town Center Elk Grove Village ,,,IL,60007,United States,P: 847-290-1111,,,,,0
+Champaign,,1612 S. Neil St. 1612A ,,Champaign ,IL,61820,United States,P: 217-355-1961,,,,,0
+Buffalo Grove South,,1156 W. Lake Cook Rd. ,,Buffalo Grove ,IL,60089,United States,P: 847-520-7264,,,,,0
+Lockport,,1147 E. 9th St. ,,Lockport ,IL,60441,United States,P: 815-834-9901,,,,,0
+Arlington Heights,,88 South Arlington Hts. Rd. ,,Arlington Heights ,IL,60005,United States,P: 847-506-1767,,,,,0
+Buffalo Grove North,,Park District Fitness Center: 601 Deerfield Parkway ,,Buffalo Grove ,IL,60089,United States,P: 847-215-0022,,,,,0
+Libertyville,,1352 S. Milwaukee Ave. ,,Libertyville ,IL,60048,United States,P: 847-549-1460,,,,,0
+Milwaukee Downtown,,544 E. Ogden Ave. Ste. 200 ,,Milwaukee ,WI,53202,United States,P: 414-224-7834,,,,,0
+Vernon Hills,,555 E. Townline Road Ste. 24 ,,Vernon Hills ,IL,60061,United States,P: 847-573-0051,,,,,0
+Villa Park,,100 E. Roosevelt Rd. Ste. 200 ,,Villa Park ,IL,60181,United States,P: 630-705-0060,,,,,0
+Lemont,,15400 127th St. Ste. C ,,Lemont ,IL,60439,United States,P: 630-257-9787,,,,,0
+Urbana,,114 N. Vine Street ,,Urbana ,IL,61802,United States,P: 217-352-3330,,,,,0
+Lincolnshire,,430 N. Milwaukee Ave. ,,Suite AA Lincolnshire ,IL,60069,United States,P: 847-821-8300,,,,,0
+Oak Brook,,1600 W. 16th Street Ste. T14 ,,Oak Brook ,IL,60523,United States,P: 630-572-9700,,,,,0
+Prospect Heights,,834 N. Elmhurst Rd. ,,Prospect Heights ,IL,60070,United States,P: 847-215-7200,,,,,0
+Milwaukee Eastside,,2615 N. Downer Avenue ,,Milwaukee ,WI,53211,United States,P: 414-962-4400,,,,,0
+Mount Prospect,,50 E. Northwest Hwy. ,,Mount Prospect ,IL,60056,United States,P: 847-718-9201,,,,,0
+Manhattan,,530 W. North St. # 101 ,,Manhattan ,IL,60442,United States,P: 815-478-7444,,,,,0
+New Lenox West,,412 Nelson Rd. ,,New Lenox ,IL,60451,United States,P: 815-462-1333,,,,,0
+Darien,,329 W. 75th St. ,,Willowbrook ,IL,60527,United States,P: 630-789-0004,,,,,0
+Willowbrook North,,207 W. 63rd St. ,,Willowbrook ,IL,60527,United States,P: 630-230-0900,,,,,0
+Elmhurst,,111 W. Third St. ,,Elmhurst ,IL,60126,United States,P: 630-415-3040,,,,,0
+South Milwaukee,,1333 College Ave. Ste. B ,,South Milwaukee ,WI,53172,United States,P: 414-571-9146,,,,,0
+Gurnee South,,30 Tower Court Ste. A ,,Gurnee ,IL,60031,United States,P: 847-336-1520,,,,,0
+Wheeling,,481 East Dundee Rd. ,,Wheeling ,IL,60090,United States,P: 847-465-0355,,,,,0
+Kenosha Central,,5708 B 75th Street ,,Kenosha ,WI,53142,United States,P: 262-697-9135,,,,,0
+Racine Aquatic Center,,1135 Prairie Dr. ,,Racine ,WI,53406,United States,P: 262-886-6780,,,,,0
+Gurnee North,,3430 Grand Ave. # 400 ,,Gurnee ,IL,60031,United States,P: 847-782-9860,,,,,0
+Philo,,501 N. Lincoln St. ,,Philo ,IL,61864,United States,P: 217-684-8023,,,,,0
+Lake Bluff,,233 N. Waukegan Rd. ,,Lake Bluff ,IL,60044,United States,P: 847-735-8104,,,,,0
+Kenosha Aquatic Center,,6926 39th Ave. Suite 100 ,,Kenosha ,WI,53142,United States,P: 262-942-0163,,,,,0
+Waukegan,,2674 Washington St. ,,Waukegan ,IL,60085,United States,P: 847-336-8089,,,,,0
+Des Plaines,,1479 S. Lee Street ,,Des Plaines ,IL,60018,United States,P: 847-299-7470,,,,,0
+Racine,,5340 Washington Ave. ,,Racine ,WI,53406,United States,P: 262-638-1272,,,,,0
+Kenosha South,,3701 80th St. ,,Kenosha ,WI,53142,United States,P: 262-697-1730,,,,,0
+Kenosha North,,3601 30th Ave. Ste. 103 ,,Kenosha ,WI,53144,United States,P: 262-657-7071,,,,,0
+Westchester,,11204 31st St. ,,Westchester ,IL,60154,United States,P: 708-492-1810,,,,,0
+New Lenox,,1938 E. Lincoln Hwy. Ste. 111 ,,New Lenox ,IL,60451,United States,P: 815-485-2916,,,,,0
+Bannockburn,,2211 Waukegan Rd. ,,Midtown Athletic Club Bannockburn ,IL,60015,United States,P: 847-267-8600,,,,,0
+Western Springs,,4700 Gilbert Ave. Ste. 43A ,,Western Springs ,IL,60558,United States,P: 708-783-1044,,,,,0
+Countryside,,6502 W. Joliet Rd. Ste. B ,,Countryside ,IL,60525,United States,P: 708-352-0547,,,,,0
+Lake Forest,,225 East Deerpath Road Ste. 130 ,,Lake Forest ,IL,60045,United States,P: 847-482-1433,,,,,0
+Zion: Now Open,,2723 Sheridan Rd. Suite D ,,Zion ,IL,60099,United States,P: 847-794-4532,,,,,0
+Melrose Park,,2507 W. North Ave. ,,Melrose Park ,IL,60160,United States,P: 708-345-7193,,,,,0
+LaGrange Park,,407 N. LaGrange Rd. ,,LaGrange Park ,IL,60526,United States,P: 708-482-9320,,,,,0
+Deerfield,,43 N. Waukegan Rd. ,,Deerfield ,IL,60015,United States,P: 847-498-1886,,,,,0
+River Grove,,8937 Grand Ave. ,,River Grove ,IL,60171,United States,P: 708-453-1354,,,,,0
+Mokena,,19843 Wolf Rd. ,,Mokena ,IL,60448,United States,P: 708-479-0320,,,,,0
+Park Ridge North,,320 N. Busse Hwy. ,,Park Ridge ,IL,60068,United States,P: 847-268-0800,,,,,0
+Northbrook-Downtown,,1330 Shermer Road ,,Northbrook ,IL,60062,United States,P: 847-480-1280,,,,,0
+Northbrook: Athletico Center,,1900 Old Willow Rd ,,Northbrook ,IL,60062,United States,P: 847-504-1000,,,,,0
+Park Ridge South,,800 Devon Ave Unit B ,,Park Ridge ,IL,60068,United States,P: 847-292-4710,,,,,0
+Norridge,,8337 W. Lawrence Ave. ,,Norridge ,IL,60706,United States,P: 708-583-9500,,,,,0
+Highland Park,,1980 Second Street ,,Highland Park ,IL,60035,United States,P: 847-681-8720,,,,,0
+Orland Park North,,14700 S. LaGrange Rd. Unit A ,,Orland Park ,Illinois,60462,United States,P: 708-873-8822,,,,,0
+Orland Park South,,15641 S. 94th Ave. ,,Orland Park ,IL,60462,United States,P: 708-460-8588,,,,,0
+Glenview,,Carillon Square 1500 Waukegan Rd. Ste. 250 ,,Glenview ,IL,60025,United States,P: 847-657-9445,,,,,0
+River Forest,,7339 W. Lake St. River Forest ,,,IL,60305,United States,P: 708-763-0564,,,,,0
+Norwood Park: Now Open,,7148 W. Higgins Ave. ,,Chicago ,IL,60656,United States,P: 773-360-5531,,,,,0
+Riverside: Now Open,,51 E. Burlington St. ,,Riverside ,IL,60546,United States,P: 708-442-9880,,,,,0
+Frankfort,,21022 South LaGrange Rd. ,,Frankfort ,IL,60423,United States,P: 815-464-1100,,,,,0
+Morton Grove,,6759 Dempster St. ,,Morton Grove ,IL,60053,United States,P: 847-470-9995,,,,,0
+Oak Park North,,1145 N. Harlem Ave. ,,Oak Park ,IL,60302,United States,P: 708-386-2086,,,,,0
+Bourbonnais,,215 N. Convent St. Ste. 6 ,,Bourbonnais ,IL,60914,United States,P: 815-928-8357,,,,,0
+Kankakee,,3 Meadowview Center ,,Kankakee ,IL,60901,United States,P: 815-932-7787,,,,,0
+Brickyard,,2620 N. Narragansett Ave. Ste. B7 ,,Chicago ,IL,60639,United States,P: 773-237-7274,,,,,0
+Niles-Northwest Chicago,,6000 W. Touhy Ave. Ste. 202 ,,Chicago ,IL,60646,United States,P: 773-774-4291,,,,,0
+Tinley Park,,17837 S. 80th Ave ,,Tinley Park ,IL,60477,United States,P: 708-342-2500,,,,,0
+Berwyn,,6347 W. Cermak Rd. Ste. A ,,Berwyn ,IL,60402,United States,P: 708-749-2566,,,,,0
+Palos Heights North,,7225 W. College Dr. ,,Palos Heights ,IL,60463,United States,P: 708-361-5355,,,,,0
+Palos Heights South,,7130 W. 127th St. Ste. A ,,Palos Heights ,Illinois,60463,United States,P: 708-361-0033,,,,,0
+Garfield Ridge,,6255 S. Archer Ave. ,,Chicago ,IL,60638,United States,P: 773-284-6735,,,,,0
+Manteno: Now Open,,183 N. Main St. ,,Manteno ,IL,60950,United States,P: 815-261-0044,,,,,0
+Oak Lawn West,,8729 Ridgeland Avenue ,,Oak Lawn ,IL,60453,United States,P: 708-233-6363,,,,,0
+Winnetka,,852 Green Bay Road ,,Winnetka ,IL,60093,United States,P: 847-441-5788,,,,,0
+Skokie,,4607 Golf Rd. ,,Skokie ,IL,60076,United States,P: 847-673-5073,,,,,0
+Portage Park-Six Corners,,4080 N. Milwaukee Ave. ,,Chicago ,IL,60641,United States,P: 773-545-1153,,,,,0
+Kelvyn Park: Now Open,,4639 W Diversey Ave. ,,Chicago ,IL,60639,United States,P: 773-360-5485,,,,,0
+Lincolnwood,,6933 N. Lincoln Ave. ,,Lincolnwood ,IL,60712,United States,P: 847-674-2294,,,,,0
+Cicero,,1621 S. Cicero Ave. ,,Cicero ,IL,60804,United States,P: 708-652-1621,,,,,0
+Kenilworth,,554-B Green Bay Rd. ,,Kenilworth ,IL,60043,United States,P: 847-256-3500,,,,,0
+Foster & Pulaski,,5240 N. Pulaski Rd. Ste. N ,,Chicago ,IL,60630,United States,P: 773-267-6922,,,,,0
+Midway,,4412 S. Pulaski Rd. ,,Chicago ,IL,60632,United States,P: 773-847-3123,,,,,0
+Albany Park,,4835 N. Kedzie Ave. ,,Chicago ,IL,60625,United States,P: 773-596-5500,,,,,0
+Crestwood,,13614 S. Cicero Ave. ,,Crestwood ,IL,60445,United States,P: 708-389-3077,,,,,0
+Irving Park,,2837 W. Irving Park Rd. ,,Chicago ,IL,60618,United States,P: 773-463-0249,,,,,0
+Oak Lawn East,,9634 S. Pulaski Rd. ,,Oak Lawn ,IL,60453,United States,P: 708-423-4800,,,,,0
+Logan Square,,2820 W. Armitage Ave. Ste. 7 ,,Chicago ,IL,60647,United States,P: 773-394-0796,,,,,0
+Evanston,,909 Davis Street Suite 220 ,,Evanston ,IL,60201,United States,P: 847-733-7906,,,,,0
+Evanston East,,1629 Chicago Ave. ,,Evanston ,IL,60201,United States,P: 847-475-1630,,,,,0
+Mt. Greenwood,,3644 W. 111th St. ,,Chicago ,IL,60655,United States,P:  773-779-8480,,,,,0
+McKinley Park: Now Open,,2632 W. Pershing Rd. ,,Chicago ,IL,60632,United States,P: 312-471-8157,,,,,0
+Wicker Park,,2143 W. Division St ,,Chicago ,IL,60622,United States,P: 773-489-0347,,,,,0
+Bucktown,,1644 N. Milwaukee Ave ,,Chicago ,IL,60647,United States,P: 773-252-2300,,,,,0
+Matteson,,4249 Lincoln Hwy. ,,Matteson ,IL,60443,United States,P: 708-481-2323,,,,,0
+Roscoe Village (Chicago),,1746 W. Addison St. # 1 ,,Chicago ,IL,60613,United States,P: 773-770-2000,,,,,0
+Andersonville North,,5545 North Clark St. ,,Chicago ,IL,60640,United States,P: 773-989-9620,,,,,0
+Andersonville South,,5033 N. Clark St. ,,Chicago ,IL,60640,United States,P: 773-561-6716,,,,,0
+Rogers Park-Loyola: Now Open,,1325 W. Devon Ave. ,,Chicago ,IL,60660,United States,P: 773-360-5514,,,,,0
+West Loop: United Center,,1723 W. Madison St. ,,Chicago ,IL,60612,United States,P: 312-432-0900,,,,,0
+Evergreen Park,,2500 W 94th Street ,,Evergreen Park ,IL,60805,United States,P: 773-233-9570,,,,,0
+Lincoln Park North,,1323 W. Diversey Pkwy. ,,Chicago ,IL,60614,United States,P: 773-549-2520,,,,,0
+Lakeview West,,1246 W. Belmont ,,Chicago ,IL,60657,United States,P: 773-888-5480,,,,,0
+Pilsen,,1645 W. 18th Street ,,Chicago ,Illinois,60608,United States,P: 312-666-4030,,,,,0
+Wrigleyville North,,3922 North Sheridan ,,Chicago ,IL,60613,United States,P: 773-327-0040,,,,,0
+Lincoln Park South,,1953 N. Clybourn Ave. Suite D ,,Chicago ,IL,60614,United States,P: 773-871-3100,,,,,0
+Flossmoor,,19801 Governors Hwy. Ste. 100 ,,Flossmoor ,IL,60422,United States,P: 708-647-1500,,,,,0
+Lincoln Park East,,2400 N. Sheffield Ave. ,,Chicago ,IL,60614,United States,P: 773-281-7991,,,,,0
+Little Italy: Now Open,,1202 W. Taylor St. ,,Chicago ,IL,60607,United States,P: 312-471-8155,,,,,0
+West Loop: Morgan,,24 S. Morgan ,,Chicago ,IL,60607,United States,P: 312-421-7274,,,,,0
+Lakeview East,,3229 N. Broadway St. ,,Chicago ,IL,60657,United States,P: 773-871-4538,,,,,0
+River West: Now Open,,504 N Green St. ,,Chicago ,IL,60642,United States,P: 312-471-8160,,,,,0
+Ogilvie Station,,500 W. Madison St. ,,Chicago ,IL,60661,United States,P: 312-863-4900,,,,,0
+Morgan Park-Blue Island: Now Open,,11810 South Marshfield Ave. ,,Chicago ,IL,60643,United States,P: 773-360-0545,,,,,0
+River North,,500 N. Kingsbury St. ,,Chicago ,IL,60654,United States,P: 312-527-5801 x278,,,,,0
+Old Town,,1640 N. Wells St. # 105 ,,Chicago ,IL,60614,United States,P: 312-642-8114,,,,,0
+Bridgeport,,558 W. 35th Street ,,Chicago ,IL,60616,United States,P: 773-451-0200,,,,,0
+Merchandise Mart,,222 Merchandise Mart Plaza Ste. 951 ,,Chicago ,IL,60654,United States,P: 312-802-4642,,,,,0
+Loop: Jackson & Franklin,,223 W. Jackson Blvd. Ste. 225 ,,Chicago ,IL,60606,United States,P: 312 235-0700,,,,,0
+North Loop,,221 N. LaSalle St. ,,Chicago ,IL,60601,United States,P: 312-855-9206,,,,,0
+Union League Club,,67 W. Jackson Blvd. # 175 ,,Chicago ,IL,60604,United States,P: 312-386-1100,,,,,0
+Gold Coast,,24 East Chicago Ave. ,,Chicago ,IL,60611,United States,P: 312-951-9700,,,,,0
+Printers Row: Coming Soon,,557 S. State St. ,,Chicago ,IL,60605,United States,P: 312-361-0261,,,,,0
+Wabash and Kinzie,,405 N. Wabash ,,Chicago ,IL,60611,United States,P: 312-527-5560,,,,,0
+South Loop,,1915 S. Archer Ave. ,,Chicago ,IL,60616,United States,P: 312-674-9132,,,,,0
+Loop: Michigan Avenue,,20 N. Michigan Ave. Ste. 103 ,,Chicago ,IL,60602,United States,P: 312-236-0660,,,,,0
+Streeterville,,150 E. Huron St. Suite 700 ,,Chicago ,IL,60611,United States,P: 312-640-1112,,,,,0
+Prudential Building,,130 E. Randolph St. Ste. C-47 ,,Chicago ,IL,60601,United States,P: 312-379-0000,,,,,0
+South Loop: Michigan Ave.,,1509 S. Michigan Ave. ,,Chicago ,IL,60605,United States,P: 312-431-0434,,,,,0
+Aon Center,,130 E. Randolph St. Ste. C-47 ,,Chicago ,IL,60601,United States,P: 312-861-0751,,,,,0
+Chatham West,,8301 S. Holland Rd. Unit A ,,Chicago ,IL,60620,United States,P: 773-874-6650,,,,,0
+Bronzeville,,3467 S. Dr. Martin Luther King Jr. Drive ,,Chicago ,IL,60616,United States,P: 312-225-9070,,,,,0
+Homewood,,17751 S. Halsted Street ,,Homewood ,Illinois,60430,United States,P: 708-249-8346,,,,,0
+Chatham Central,,8658 S. Cottage Grove Ave. Suite 400 ,,Chicago ,IL,60619,United States,P: 773-723-1270,,,,,0
+Hyde Park West,,1511 E. Hyde Park Blvd. ,,Chicago ,IL,60615,United States,P: 773-256-1475,,,,,0
+Hyde Park East,,1644 E. 53rd St. ,,Chicago ,IL,60615,United States,P: 773-241-6450,,,,,0
+Chatham South,,1747 East 95th Street ,,Chicago ,IL,60617,United States,P: 773-375-8711,,,,,0
+South Chicago,,8905 S. Commercial Ave. ,,Chicago ,IL,60617,United States,P: 773-221-9300,,,,,0
+Lansing,,17045 Torrence Ave. ,,Lansing ,IL,60438,United States,P: 708-418-3580,,,,,0
+Dyer,,151 Joliet St. ,,Dyer ,IN,46311,United States,P: 219-864-0290,,,,,0
+Munster,,7967 Calumet Ave. ,,Munster ,IN,46321,United States,P: 219-513-0092,,,,,0
+Hammond,,1940 165th St. Ste. 800 ,,Hammond ,IN,46320,United States,P: 219-803-3880,,,,,0
+Highland,,21 US Highway 41 ,,Schererville ,IN,46375,United States,P: 219-923-4832,,,,,0
+Schererville West,,1505 U.S. Highway 41 ,,Schererville ,IN,46375,United States,P: 219-322-5560,,,,,0
+Danville,,2 E. Main St. Ste. 102 ,,Danville ,IL,61832,United States,P: 217-709-9000,,,,,0
+Schererville East,,5510 W. Lincoln Hwy. ,,Schererville ,IN,46375,United States,P: 219-865-1436,,,,,0
+Lowell,,1114 E. Commercial Ave. ,,Lowell ,IN,46356,United States,P: 219-690-1048,,,,,0
+Gary,,3229 Broadway # 112 ,,Gary ,IN,46409,United States,P: 219-980-0167,,,,,0
+Crown Point,,300 E. 109th Ave. ,,Crown Point ,IN,46307,United States,P: 219-662-2400,,,,,0
+Merrillville,,5099 E. 81st St. ,,Merrillville ,IN,46410,United States,P: 219-791-0494,,,,,0
+Valparaiso North,,2904 N. Calumet Avenue ,,Valparaiso ,IN,46383,United States,P: 219-462-1020,,,,,0
+Valparaiso South,,2307 Laporte Ave. Ste. 5 ,,Valparaiso ,IN,46383,United States,P: 219-477-4500,,,,,0
+Terre Haute: Now Open,,2155 S. State Road 46 ,,Terre Haute ,Indiana,47803,United States,P: 812-618-0651,,,,,0
+Michigan City,,3939 S. Franklin Street Suite 1 ,,Michigan City ,IN,46360,United States,P: 219-214-4060,,,,,0
+West Lafayette,,1044 Sagamore Pkwy. W. Unit A ,,West Lafayette ,IN,47906,United States,P: 765-250-4445,,,,,0
+La Porte,,2338 N. U.S. 35 ,,LaPorte ,IN,46350,United States,P: 219-325-0060,,,,,0
+Greencastle,,1003 Mill Pond Ln. Ste. C ,,Greencastle ,IN,46135,United States,P: 765-653-8494,,,,,0
+South Bend,,411 E. Ireland Rd. Ste. 400 ,,South Bend ,IN,46614,United States,P: 574-231-8950,,,,,0
+Bloomington West,,3243 W. 3rd St. ,,Bloomington ,IN,47404,United States,P: 812-668-1880,,,,,0
+Plainfield,,1070 W. Main St. Ste. 185 ,,Plainfield ,IN,46168,United States,P: 317-268-9000,,,,,0
+Avon,,10940 E. US Hwy. 36 Rockville Rd ,,Avon ,IN,46123,United States,P: 317-808-7000,,,,,0
+Bloomington East: Now Open,,1155 S. College Mall Rd. Suite A ,,Bloomington ,IN,47401,United States,P: 812-558-3356,,,,,0
+Kokomo West,,1932 S. Dixon Rd. ,,Kokomo ,IN,46902,United States,P: 765-626-9700,,,,,0
+Zionsville,,11145 N. Michigan Rd. Suite 130 ,,Zionsville ,IN,46077,United States,P: 317-732-2700,,,,,0
+Kokomo East,,2108 East Blvd. ,,Kokomo ,IN,46902,United States,P: 765-626-0200,,,,,0
+Westfield,,956 Tournament Trail ,,Westfield ,IN,46074,United States,P: 317-399-5004,,,,,0
+Carmel,,12505 Old Meridian St. Ste. 150 ,,Carmel ,IN,46032,United States,P: 317-819-9500,,,,,0
+Indianapolis Broad Ripple,,6280 N. College Ave. Ste. 300 ,,Indianapolis ,IN,46220,United States,P: 317-251-0500,,,,,0
+Indianapolis Monument Circle,,15 E. Market Street ,,Indianapolis ,IN,46204,United States,P: 317-423-0222,,,,,0
+Center Grove: Now Open,,5883 N. State Rd. 135 ,,Greenwood ,IN,46143,United States,P: 317-550-3409,,,,,0
+Fishers,,8235 E. 116th St. # 220 ,,Fishers ,IN,46038,United States,P: 317-813-2100,,,,,0
+Greenwood,,1273 N. Emerson Ave. # E ,,Greenwood ,IN,46143,United States,P: 317-807-0770,,,,,0
+Noblesville,,15887 Cumberland Rd. Ste. 103 ,,Noblesville ,IN,46060,United States,P: 317-674-1700,,,,,0
+Grand Rapids (Knapp's Corner),,1600 E. Beltline Ave. NE Suite 301 ,,Grand Rapids ,MI,49525,United States,P: 616-818-0586,,,,,0
+Geist,,11725 Fox Rd. ,,Indianapolis ,IN,46236,United States,P: 317-855-6500,,,,,0
+Grand Rapids (Cascade),,5925 28th Street SE ,,Grand Rapids ,MI,49546,United States,P: 616-977-5700,,,,,0
+Fishers East,,11780 Olio Rd. Ste. 100 ,,Fishers ,IN,46037,United States,P: 317-594-1800,,,,,0
+New Palestine,,5151 W. US Hwy 40 ,,Greenfield Greenfield ,IN,46140,United States,P: 317-622-5600,,,,,0
+Greenfield,,1563 N. State St. ,,Greenfield ,IN,46140,United States,P: 317-467-5700,,,,,0
+Anderson,,4227 S. Scatterfield Rd. ,,Anderson ,IN,46013,United States,P: 765-442-4200,,,,,0
+Marshall,,823 W. Michigan Ave. ,,Marshall ,MI,49068,United States,P: 269-248-4300,,,,,0
+Coldwater,,398 N. Willowbrook Rd. Ste. A & B ,,Coldwater ,MI,49036,United States,P: 517-781-5300,,,,,0
+Eaton Rapids,,1415-B S. Main St. ,,Eaton Rapids ,MI,48827,United States,P: 517-781-4999,,,,,0
+Hillsdale,,16 W. Carleton St. Ste. 1 ,,Hillsdale ,MI,49242,United States,P: 517-439-2376,,,,,0
+Jackson,,2973 Springport Rd. ,,Jackson ,MI,49201,United States,P: 517-435-3461,,,,,0
+Hudson,,325 Railroad St. Ste. B ,,Hudson ,MI,49247,United States,P: 517-448-2035,,,,,0
+Brooklyn,,250 S. Main St ,,Brooklyn ,MI,49230,United States,P: 517-592-8695,,,,,0
+St. Marys,,476 Fortman Dr. ,,St Marys ,OH,45885,United States,P: 419-300-8400,,,,,0
+Adrian,,1801 W. Maumee St. Ste. 125 ,,Adrian ,MI,49221,United States,P: 517-264-6141,,,,,0
+Howell,,1485 N. Michigan Ave. Ste. 100 ,,Howell ,MI,48843,United States,P: 517-545-5880,,,,,0
+Clinton,,1671 W. Michigan Ave. Ste. D ,,Clinton ,MI,49236,United States,P: 517-456-7923,,,,,0
+Middletown,,323 N. Breiel Blvd. ,,Middletown ,OH,45042,United States,P: 513-420-1700,,,,,0
+Dayton North: Now Open,,8805 N. Main St. Suite 110 ,,Dayton ,OH,45415,United States,P: 937-204-1877,,,,,0
+Hamburg: Now Open,,10020 Professional Center Drive Ste. 100 ,,Hamburg ,MI,48139,United States,P: 810-893-7623,,,,,0
+West Chester,,7760 W. VOA Park Drive Ste. J ,,West Chester ,OH,45069,United States,P: 513-233-7400,,,,,0
+Brighton,,8491 W. Grand River Ave. Ste. 600 ,,Brighton ,MI,48116,United States,P: 810-225-1187,,,,,0
+Dundee,,119 Waterstradt-Commerce Dr. Ste. 1 ,,Dundee ,MI,48131,United States,P: (734) 823-7900,,,,,0
+Toledo,,4925 Jackman Rd. Ste. 34 ,,Toledo ,OH,43613,United States,P: 567-318-1000,,,,,0
+Novi,,43443 Grand River Ave. Ste. 200 ,,Novi ,MI,48375,United States,P: 248-305-9200,,,,,0
+Temperance,,6654 Lewis Ave. ,,Temperance ,MI,48182,United States,P: 734-847-1295,,,,,0
+Commerce Township,,3050 Union Lake Rd. Ste. 3C ,,Commerce Township ,MI,48382,United States,P: 248-363-8267,,,,,0
+Clarkston,,7083 Dixie Highway ,,Clarkston ,MI,48346,United States,P: 248-620-8980,,,,,0
+Farmington Hills,,23800 Orchard Lake Rd. Ste. 101 ,,Farmington Hills ,MI,48336,United States,P: 248-474-5516,,,,,0
+Bloomfield Hills,,1940 S. Telegraph Rd. ,,Bloomfield Hills ,MI,48302,United States,P: 248-409-0490,,,,,0
+Royal Oak,,29480 Woodward Ave. ,,Royal Oak ,MI,48073,United States,P: 248-541-9121,,,,,0
+Ferndale: Now Open,,23066 Woodward Ave. ,,Ferndale ,MI,48220,United States,P: 248-630-3937,,,,,0
+Sterling Heights,,38093 Mound Road ,,Sterling Heights ,MI,48310,United States,P: 586-826-4000,,,,,0
+Roseville,,30785 Gratiot Ave. ,,Roseville ,MI,48066,United States,P: 586-200-6601,,,,,0
+Powell,,10262 Sawmill Parkway ,,Powell ,OH,43065,United States,P: 614-791-0700,,,,,0
+Westerville,,101 Westerville Plz. ,,Westerville ,OH,43081,United States,P: 614-791-8015,,,,,0
+Sunbury,,700 W. Cherry St. Ste. B ,,Sunbury ,OH,43074,United States,P: 740-936-4944,,,,,0
+New Albany,,7344 Fodor Rd. ,,New Albany ,OH,43054,United States,P: 614-855-2570,,,,,0
+Pickerington: Now Open,,1797 Hill Rd. Suite 101 ,,Pickerington ,OH,43147,United States,P: 614-494-0140,,,,,0
+Granville,,1951 Newark-Granville Rd. ,,Granville ,OH,43023,United States,P: 740-321-1021,,,,,0

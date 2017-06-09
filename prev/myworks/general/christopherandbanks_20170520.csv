@@ -1,0 +1,477 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+The Mall at Whitney Field,,100 Commercial Road ,Suite 64 ,Leominster,MA, 01453,United States,(978) 537-5566,,,,,0
+"OLT - SOUTHHAVEN, MS",,5205 Airways Blvd ,#1045 ,Southaven,MS, 38671,United States,(662) 349-5584,,,,,0
+Monument Mall,,2302 Frontage Road ,Suite 2 ,Scottsbluff,NE, 69361,United States,(308) 635-1125,,,,,0
+Kalispell Center Mall,,20 North Main Street ,Suite B090 ,Kalispell,MT, 59901,United States,(406) 752-3300,,,,,0
+TownMall of Westminster,,400 North Center Street ,Suite 241 ,Westminster,MD, 21157,United States,(410) 871-3230,,,,,0
+Outlets at Kittery,,283 US Route 1 ,Suite 102 ,Kittery,ME, 03904,United States,(207) 438-9711,,,,,0
+Tanger Outlets Ocean City,,12741 Ocean Gateway ,Suite 960 ,Ocean City,MD, 21842,United States,(410) 213-7678,,,,,0
+Southgate Mall,,2901 Brooks Street ,Suite B-2 ,Missoula,MT, 59801,United States,(406) 549-2687,,,,,0
+Country Club Mall,,1262 Vocke Road ,Suite 236/Suite 228 ,LaVale,MD, 21502,United States,(301) 729-1945,,,,,0
+Somerset Mall,,4150 North US Highway 27 ,Suite 12b ,Somerset,KY, 42501,United States,(606) 451-0783,,,,,0
+The Outlet Shoppes of the Bluegrass,,1155 Buck Creek Road ,Suite A110 ,Simpsonville,KY, 40067,United States,(502) 722-8026,,,,,0
+Honey Creek Mall,,3401 South US Hwy 41 ,Suite H3 ,Terre Haute,IN, 47802,United States,(812) 478-0391,,,,,0
+Tanger Outlets Savannah,,200 Tanger Outlet Boulevard ,Suite 653 ,Pooler,GA, 31322,United States,(912) 450-9080,,,,,0
+Tanger Outlets Locust Grove,,1000 Tanger Drive ,Suite 211 ,Locust Grove,GA, 30248,United States,(770) 288-2164,,,,,0
+Magic Valley Mall,,1485 Pole Line Road East ,Suite 195 ,Twin Falls,ID, 83301,United States,(208) 735-8311,,,,,0
+North Georgia Premium Outlets,,800 Highway 400 ,Suite 0240 ,Dawsonville,GA, 30534,United States,(706) 216-5268,,,,,0
+Tanger Outlets Commerce,,800 Steven B Tanger Boulevard ,Suite 112 ,Commerce,GA, 30529,United States,(706) 336-8016,,,,,0
+"OLT - CALHOUN, GA",,455 Belwood Road ,#A017 ,Calhoun,GA, 30701,United States,(706) 629-3318,,,,,0
+Mall of Georgia,,3333 Buford Drive Northeast ,Suite 2049A ,Buford,GA, 30519,United States,(678) 546-6379,,,,,0
+Bangor Mall,,663 Stillwater Avenue ,Suite F9/F10 ,Bangor,ME, 04401,United States,(207) 942-0967,,,,,0
+Bangor Mall,,663 Stillwater Avenue ,Suite 1082 ,Bangor,ME, 04401,United States,(207) 942-2412,,,,,0
+Palouse Mall,,2018 West Pullman Road ,Suite D7 ,Moscow,ID, 83843,United States,(208) 883-9981,,,,,0
+Westland Mall,,35000 Warren Road ,Suite 205 ,Westland,MI, 48185,United States,(734) 525-4996,,,,,0
+Karcher Mall,,1509 Caldwell Boulevard ,Suite 1174 ,Nampa,ID, 83651,United States,(208) 466-0130,,,,,0
+Grand Teton Mall,,2300 East 17th Street ,Suite 54 ,Idaho Falls,ID, 83404,United States,(208) 525-8187,,,,,0
+Westland Mall,,35000 Warren Road ,Suite 401 ,Westland,MI, 48185,United States,(734) 261-4788,,,,,0
+Pine Ridge Mall,,4155 North Yellowstone Highway ,Suite 1152 ,Chubbuck,ID, 83202,United States,(208) 637-0542,,,,,0
+Central Mall,,2259 South 9th Street ,Suite 46 ,Salina,KS, 67401,United States,(785) 823-3770,,,,,0
+Central Mall,,2259 South 9th Street ,Suite 127 ,Salina,KS, 67401,United States,(785) 823-6114,,,,,0
+West Ridge Mall,,1801 Southwest Wanamaker Road ,Suite F17 ,Topeka,KS, 66604,United States,(785) 273-5904,,,,,0
+West Ridge Mall,,1801 Southwest Wanamaker Road ,Suite F17 ,Topeka,KS, 66604,United States,(785) 271-1459,,,,,0
+"MPW -  WICHITA, KS",,4600 West Kellogg Drive ,Suite E03 ,Wichita,KS, 67209,United States,(316) 945-2700,,,,,0
+NewMarket Square,,2441 North Maize Road ,Suite 1807 ,Wichita,KS, 67205,United States,(316) 729-0512,,,,,0
+Towne East Square,,7700 East Kellogg Drive ,Suite P05 ,Wichita,KS, 67207,United States,(316) 652-7800,,,,,0
+Kentucky Oaks Mall,,5101 Hinkleville Road ,Suite 730 ,Paducah,KY, 42001,United States,(270) 442-5671,,,,,0
+Kentucky Oaks Mall,,5101 Hinkleville Road ,Suite 720 ,Paducah,KY, 42001,United States,(270) 415-0658,,,,,0
+Frontier Mall,,1400 Dell Range Boulevard ,Suite 88 ,Cheyenne,WY, 82009,United States,(307) 638-4461,,,,,0
+Eastridge Mall,,601 SE Wyoming Boulevard ,Suite 1258 ,Casper,WY, 82609,United States,(307) 472-1172,,,,,0
+Northland Mall,,2900 East Lincolnway ,Suite 10 ,Sterling,IL, 61081,United States,(815) 626-7195,,,,,0
+Quincy Mall,,3347 Quincy Mall ,,Quincy,IL, 62301,United States,(217) 224-8560,,,,,0
+Outlets at Tuscola,,D400 Tuscola Boulevard ,Suite D7 ,Tuscola,IL, 61953,United States,(217) 253-4176,,,,,0
+The Arboretum of South Barrington,,100 West Higgins Road ,Suite Q-65 ,South Barrington,IL, 60010,United States,(847) 428-4006,,,,,0
+Cherryvale Mall,,7200 Harrison Avenue ,Suite H-04 ,Rockford,IL, 61112,United States,(815) 332-3328,,,,,0
+Westridge Court,,256 Illinois 59 ,Suite 104 ,Naperville,IL, 60540,United States,(630) 355-4800,,,,,0
+Peru Mall,,3940 Route 251 ,Suite H2 ,Peru,IL, 61354,United States,(815) 220-0216,,,,,0
+SouthPark Mall,,4500 16th Street ,Suite 630 ,Moline,IL, 61265,United States,(309) 762-9338,,,,,0
+Fairview Heights,,180 St. Clair Square ,#103 ,Fairview Heights,IL, 62208,United States,(618) 622-0540,,,,,0
+Yorktown Shopping Center,,232 Yorktown Shopping Center ,Suite 104 ,Lombard,IL, 60148,United States,(630) 953-9082,,,,,0
+Hickory Point Mall,,1350 Hickory Point Mall ,Suite 1120 ,Forsyth,IL, 62535,United States,(217) 872-1781,,,,,0
+Cross County Mall,,700 Broadway Avenue ,Suite 3 ,Mattoon,IL, 61938,United States,(217) 258-8828,,,,,0
+Boise Towne Square,,350 North Milwaukee Street ,Suite 1041 ,Boise,ID, 83704,United States,(208) 322-7442,,,,,0
+Boise Towne Square,,350 North Milwaukee Street ,Suite 2323 ,Boise,ID, 83704,United States,(208) 375-9529,,,,,0
+Shoppes on Ford Avenue,,1603 Ford Avenue ,Suite A ,Effingham,IL, 62401,United States,(217) 347-6660,,,,,0
+White Oaks Mall,,2501 Wabash Avenue ,Suite A03A ,Springfield,IL, 62704,United States,(217) 726-5530,,,,,0
+Market Place Shopping Center,,2000 North Neil Street ,Suite 104 ,Champaign,IL, 61820,United States,(217) 352-2926,,,,,0
+Village Mall,,2917 North Vermilion Street ,Suite 104 ,Danville,IL, 61832,United States,(217) 443-4233,,,,,0
+Northwoods Mall,,2200 West War Memorial Drive ,Suite CU-9 ,Peoria,IL, 61613,United States,(309) 679-0482,,,,,0
+White Oaks Mall,,2501 Wabash Avenue ,Suite A-01 ,Springfield,IL, 62704,United States,(217) 698-5020,,,,,0
+University Mall,,1237 East Main Street ,Suite 1052 ,Carbondale,IL, 62901,United States,(618) 351-9500,,,,,0
+Northfield Square,,1600 Highway 50 ,Suite 424a ,Bourbonnais,IL, 60914,United States,(815) 935-2070,,,,,0
+Eastland Mall,,1615 East Empire Street ,Suite 1048 ,Bloomington,IL, 61701,United States,(309) 662-4167,,,,,0
+The Shops at Perry Crossing,,340 Marketplace Mile ,#125 ,Plainfield,IN, 46168,United States,(317) 837-1434,,,,,0
+Alton Square,,116 Alton Square ,Suite A09A ,Alton,IL, 62002,United States,(618) 463-2350,,,,,0
+Richmond Square,,3801 National Road East ,Suite 541 ,Richmond,IN, 47374,United States,(765) 935-0326,,,,,0
+Mishawaka,,5530 Grape Road ,#260 ,Mishawaka,IN, 46545,United States,(574) 243-9385,,,,,0
+Lighthouse Place Premium Outlets,,511 Lighthouse Place ,Suite E110 ,Michigan City,IN, 46360,United States,(219) 879-6963,,,,,0
+Hamilton Town Center,,14002 Hoard Drive ,Suite 300 ,Noblesville,IN, 46060,United States,(317) 770-9401,,,,,0
+The Outlet Shoppes at Fremont,,6245 Old U.S. 27 ,Suite E020 ,Fremont,IN, 46737,United States,(260) 833-0988,,,,,0
+Markland Mall,,1220 South 17th Street ,Suite B03 ,Kokomo,IN, 46902,United States,(765) 456-1332,,,,,0
+Greenwood Park Mall,,1251 U.S. 31 ,Suite F11 ,Greenwood,IN, 46142,United States,(317) 888-7233,,,,,0
+Eastland Mall,,800 North Green River Road ,Suite 146 ,Evansville,IN, 47715,United States,(812) 474-9840,,,,,0
+Shoppes on Six,,205 County Road 6 East ,Suite #F ,Elkhart,IN, 46514,United States,(574) 206-9507,,,,,0
+Edinburgh Premium Outlet,,3200 Outlet Drive ,Suite F050 ,Edinburgh,IN, 46124,United States,(812) 526-2381,,,,,0
+Westland Mall,,550 South Gear Avenue ,Suite 42 ,West Burlington,IA, 52655,United States,(319) 753-6555,,,,,0
+College Mall,,2916 East 3rd Street ,Suite M-12 ,Bloomington,IN, 47401,United States,(812) 339-3416,,,,,0
+Tanger Outlets Williamsburg,,502 Tanger Drive ,Suite 117 ,Williamsburg,IA, 52361,United States,(319) 668-1902,,,,,0
+Muncie Mall,,3501 North Granville Avenue ,Suite K06 ,Muncie,IN, 47303,United States,(765) 286-8530,,,,,0
+Crossroads Mall,,2060 Crossroads Boulevard ,Suite 36 ,Waterloo,IA, 50702,United States,(319) 226-3211,,,,,0
+Muncie Mall,,3501 North Granville Avenue ,Suite M03 ,Muncie,IN, 47303,United States,(765) 286-8544,,,,,0
+South Park Mall,,901 11th Street Southwest ,Suite 48 ,Spencer,IA, 51301,United States,(712) 262-1762,,,,,0
+Lakeport Commons,,5001 Sergeant Road ,Suite 295 ,Sioux City,IA, 51106,United States,(712) 274-2033,,,,,0
+Quincy Place Mall,,1110 North Quincy Avenue ,Suite 84 ,Ottumwa,IA, 52501,United States,(641) 683-1315,,,,,0
+Tippecanoe Mall,,2415 Sagamore Parkway South ,Suite B09 ,Lafayette,IN, 47905,United States,(765) 449-8471,,,,,0
+Willow Creek Crossing,,532 Indianhead Drive ,,Mason City,IA, 50401,United States,(641) 423-6814,,,,,0
+Crossroads Mall,,217 South 25th Street ,Suite C23 ,Fort Dodge,IA, 50501,United States,(515) 955-5282,,,,,0
+Tippecanoe Mall,,2415 Sagamore Parkway South ,Suite G12A ,Lafayette,IN, 47905,United States,(765) 446-9661,,,,,0
+Orchard Crossing,,914 Thomas Road ,Suite 106 ,Fort Wayne,IN, 46804,United States,(260) 436-6831,,,,,0
+Glenbrook Square,,4201 Coldwater Road ,Suite E10 ,Fort Wayne,IN, 46805,United States,(260) 471-9535,,,,,0
+Marshalltown Mall,,2500 South Center Street ,Suite 1090 ,Marshalltown,IA, 50158,United States,(641) 753-0631,,,,,0
+Centrum Plaza,,915 Short Street ,,Decorah,IA, 52101,United States,(563) 382-0093,,,,,0
+Kennedy Mall,,555 John F Kennedy Road ,Suite 445 ,Dubuque,IA, 52002,United States,(563) 556-3470,,,,,0
+Merle Hay Mall,,902 Merle Hay Mall ,Suite 235 ,Des Moines,IA, 50310,United States,(515) 727-4955,,,,,0
+The Village at Jordan Creek,,6925 Mills Civic Parkway ,Suite 130 ,West Des Moines,IA, 50266,United States,(515) 223-0631,,,,,0
+Valley West Mall,,1551 Valley West Drive ,Suite 281 ,West Des Moines,IA, 50266,United States,(515) 224-3918,,,,,0
+Valley West Mall,,1551 Valley West Drive ,Suite 235 ,West Des Moines,IA, 50266,United States,(515) 223-0312,,,,,0
+Northpark Mall,,320 West Kimberly Road ,Suite 90 ,Davenport,IA, 52806,United States,(563) 391-7005,,,,,0
+Metro Crossing Shopping Center,,3606 Metro Drive ,Suite 200 ,Council Bluffs,IA, 51501,United States,(712) 366-0612,,,,,0
+Coral Ridge Mall,,1451 Coral Ridge Avenue ,Suite 117 ,Coralville,IA, 52241,United States,(319) 625-2803,,,,,0
+Westgate Mall,,515 North Adams Street ,Suite 223 ,Carroll,IA, 51401,United States,(712) 792-0035,,,,,0
+North Grand Mall,,2801 Grand Avenue ,Suite 1090 ,Ames,IA, 50010,United States,(515) 232-9126,,,,,0
+Liberal Plaza,,1505 N Kansas Avenue ,Suite #A14 ,Liberal,KS, 67901,United States,(620) 624-2405,,,,,0
+Corbin Park,,6501 West 135th Street ,Suite F-8 ,Overland Park,KS, 66223,United States,(913) 685-7348,,,,,0
+The Mall at Hays,,2918 Vine Street ,Suite 60 ,Hays,KS, 67601,United States,(785) 623-4653,,,,,0
+Mission Mart Shopping Center,,5327 Johnson Drive ,Suite F-8 ,Mission,KS, 66205,United States,(913) 236-9016,,,,,0
+Garden City Plaza,,2214 East Kansas Avenue ,#6&7 ,Garden City,KS, 67846,United States,(620) 272-0922,,,,,0
+Manhattan Town Center,,100 Manhattan Town Center ,Suite 270 ,Manhattan,KS, 66502,United States,(785) 539-8202,,,,,0
+The Legends,,1813 Village West Parkway ,Suite Q-102 ,Kansas City,KS, 66111,United States,(913) 328-1032,,,,,0
+Towne Square Mall,,5000 Frederica Street ,Suite H10 & H12 ,Owensboro,KY, 42301,United States,(270) 683-5690,,,,,0
+Derby Marketplace,,1930 North Rock Road ,Suite D-13 ,Derby,KS, 67037,United States,(316) 788-1855,,,,,0
+Towne Mall,,1704 North Dixie Highway ,Suite A003 ,Elizabethtown,KY, 42701,United States,(270) 763-0294,,,,,0
+Mall St. Matthews,,5000 Shelbyville Road ,Suite 1125 ,Louisville,KY, 40207,United States,(502) 897-6049,,,,,0
+Fayette Mall,,3401 Nicholasville Road ,Suite 432 ,Lexington,KY, 40503,United States,(859) 245-1628,,,,,0
+Crestview Hills Town Center,,2831 Town Center Boulevard ,Suite 220 ,Crestview Hills,KY, 41017,United States,(859) 341-3824,,,,,0
+Greenwood Mall,,2625 Scottsville Road ,Suite 100 ,Bowling Green,KY, 42104,United States,(270) 846-1224,,,,,0
+Grand Traverse Mall,,3200 West South Airport Road ,Suite 411 ,Traverse City,MI, 49684,United States,(231) 935-4051,,,,,0
+Lindale Mall,,4444 1st Avenue Northeast ,Suite 142 ,Cedar Rapids,IA, 52402,United States,(319) 393-5764,,,,,0
+Outlets at West Branch,,2990 Cook Road ,Suite 108 ,West Branch,MI, 48661,United States,(989) 345-0036,,,,,0
+Hampton Village Centre,,2685 Rochester Road South ,Suite 11 ,Rochester Hills,MI, 48307,United States,(248) 852-5176,,,,,0
+Southland Center,,23000 Eureka Road ,Suite 1655 ,Taylor,MI, 48180,United States,(734) 287-2561,,,,,0
+Fashion Square Mall,,4895 Fashion Square Mall ,Suite 402 ,Saginaw,MI, 48604,United States,(989) 249-9095,,,,,0
+Utica Corners,,13291 Hall Road ,Suite C140 ,Utica,MI, 48315,United States,(586) 997-0119,,,,,0
+Lindale Mall,,4444 1st Avenue Northeast ,Suite 36 ,Cedar Rapids,IA, 52402,United States,(319) 378-3490,,,,,0
+Petoskey Town Center,,1319 Spring Street ,,Petoskey,MI, 49770,United States,(231) 348-8751,,,,,0
+The Crossroads,,6650 South Westnedge Avenue ,Suite 255 ,Portage,MI, 49024,United States,(269) 324-9405,,,,,0
+Birchwood Mall,,4350 24th Avenue ,Suite 228 ,Port Huron,MI, 48059,United States,(810) 385-7433,,,,,0
+The Lakes Mall,,5600 Harvey Street ,Suite 2072 ,Muskegon,MI, 49444,United States,(231) 798-4263,,,,,0
+Novi Town Center,,26040 Ingersol Drive ,Suite D-280 ,Novi,MI, 48375,United States,(248) 305-7277,,,,,0
+Midland Mall,,6800 Eastman Avenue ,Suite 240 ,Midland,MI, 48642,United States,(989) 832-8583,,,,,0
+Laurel Park Place,,37700 Six Mile Road ,Suite D-280 ,Livonia,MI, 48152,United States,(734) 462-2108,,,,,0
+Ashland Town Center,,500 Winchester Avenue ,Suite 250 ,Ashland,KY, 41101,United States,(606) 324-1405,,,,,0
+Ashland Town Center,,500 Winchester Avenue ,Suite 178 ,Ashland,KY, 41101,United States,(606) 326-0721,,,,,0
+Midtown Mall,,1084 South Stephenson Avenue ,,Iron Mountain,MI, 49801,United States,(906) 774-0111,,,,,0
+Westwood Mall,,1850 West Michigan Avenue ,Suite 808 ,Jackson,MI, 49202,United States,(517) 768-9030,,,,,0
+RiverTown Crossings,,3700 Rivertown Parkway ,Suite 1218 ,Grandville,MI, 49418,United States,(616) 261-4273,,,,,0
+Centerpointe Mall,,3647 28th Street Southeast ,Suite 1025 ,Grand Rapids,MI, 49512,United States,(616) 285-1993,,,,,0
+Tanger Outlets Howell,,1475 North Burkhart Road ,Suite G170 ,Howell,MI, 48855,United States,(517) 546-5787,,,,,0
+Genesee Valley Mall,,3341 Linden Road ,Suite 620 ,Flint,MI, 48507,United States,(810) 720-5975,,,,,0
+Delta Plaza Mall,,301 North Lincoln Road ,,Escanaba,MI, 49829,United States,(906) 789-4296,,,,,0
+Tanger Outlets Grand Rapids,,350 84th Street Southwest ,Suite 1025 ,Byron Township,MI, 49315,United States,(616) 583-0821,,,,,0
+Green Oak Village Place,,9736 Village Place Boulevard ,Suite F ,Brighton,MI, 48116,United States,(810) 225-8370,,,,,0
+Birch Run Premium Outlets,,12240 South Beyer Road ,Suite V032 ,Birch Run,MI, 48415,United States,(989) 624-9404,,,,,0
+Mid Rivers Mall,,2004 Mid Rivers Mall Drive ,Suite 103 ,St. Peters,MO, 63376,United States,(636) 970-3800,,,,,0
+Bay City Mall,,4101 Wilder Road ,Suite E517 ,Bay City,MI, 48706,United States,(989) 684-8226,,,,,0
+South County Mall,,467A South County Centerway ,Suite 1300 ,St. Louis,MO, 63129,United States,(314) 487-2855,,,,,0
+Lansing Mall,,5332 West Saginaw Highway ,Suite 168 ,Lansing,MI, 48917,United States,(517) 321-6131,,,,,0
+Lansing Mall,,5324 West Saginaw Highway ,Suite 171 ,Lansing,MI, 48917,United States,(517) 886-6090,,,,,0
+Eastwood Towne Center,,3016 Towne Centre Boulevard ,Suite D4 ,Lansing,MI, 48912,United States,(517) 267-1608,,,,,0
+East Hills Mall,,3702 Frederick Avenue ,Suite 16 ,St. Joseph,MO, 64506,United States,(816) 233-3242,,,,,0
+Battlefield Mall,,2825 South Glenstone Avenue ,#F04A ,Springfield,MO, 65804,United States,(417) 883-8791,,,,,0
+Osage Beach Premium Outlets,,4540 Osage Beach Parkway ,Suite H-5 ,Osage Beach,MO, 65065,United States,(573) 302-0796,,,,,0
+Summit Fair,,930 Northwest Blue Parkway ,Suite F-8 ,Lees Summit,MO, 64086,United States,(816) 246-5169,,,,,0
+Northpark Mall,,101 North Range Line Road ,Suite 350 ,Joplin,MO, 64801,United States,(417) 623-2510,,,,,0
+Capital Mall,,3600 Country Club Drive ,Suite 306 ,Jefferson City,MO, 65109,United States,(573) 893-4575,,,,,0
+"MPW - HELENA , MT",,2013 Cromwell Dixon Drive ,Suite #105 ,Helena,MT, 59601,United States,(406) 442-6006,,,,,0
+West County Center,,135 West County Center Drive ,Suite 1300 ,Des Peres,MO, 63131,United States,(314) 984-9799,,,,,0
+Columbia Mall,,2300 Bernadette Drive ,Suite 0302 ,Columbia,MO, 65203,United States,(573) 445-7245,,,,,0
+Holiday Village Mall,,1200 10th Avenue South ,Suite 1 ,Great Falls,MT, 59405,United States,(406) 268-0299,,,,,0
+Rimrock Mall,,300 South 24th Street West ,Suite B-1 ,Billings,MT, 59102,United States,(406) 652-4324,,,,,0
+Thunderbird Mall,,1427 South 12th Avenue West ,Suite 27 ,Virginia,MN, 55792,United States,(218) 741-8767,,,,,0
+Winona Mall,,1213 Gilmore Avenue ,Suite 178 ,Winona,MN, 55987,United States,(507) 453-0405,,,,,0
+Kandi Mall,,1605 South 1st Street ,Suite C10/11 ,Willmar,MN, 56201,United States,(320) 235-1296,,,,,0
+The Shops At Boardwalk,,8638 North Boardwalk Avenue ,Suite 14 ,Kansas City,MO, 64154,United States,(816) 741-8812,,,,,0
+Crossroads Center,,4101 West Division Street ,Suite B37 ,St. Cloud,MN, 56301,United States,(320) 253-0170,,,,,0
+Rosedale Commons,,2480 Fairview Avenue North ,Suite 163 A&B ,Roseville,MN, 55113,United States,(651) 634-4022,,,,,0
+The Shops At Boardwalk,,8630 North Boardwalk Avenue ,Suite SP18 ,Kansas City,MO, 64154,United States,(816) 505-4664,,,,,0
+Apache Mall,,333 Apache Mall ,#1020 ,Rochester,MN, 55902,United States,(507) 281-2011,,,,,0
+Rockford Road Plaza,,4190 Vinewood Lane North ,Suite 10 ,Plymouth,MN, 55442,United States,(763) 268-0731,,,,,0
+The Shoppes of Oak Park Heights,,5825 Krueger Lane ,Suite 110 ,Oak Park Heights,MN, 55082,United States,(651) 439-9955,,,,,0
+Moorhead Center Mall,,512 Center Avenue ,Suite 233 ,Moorhead,MN, 56560,United States,(218) 233-6649,,,,,0
+North Branch Outlets,,38500 Tanger Drive ,Suite 113 ,North Branch,MN, 55056,United States,(651) 674-0890,,,,,0
+Medford Outlet Center,,6750 West Frontage Road ,Suite B033 ,Medford,MN, 55049,United States,(507) 451-1284,,,,,0
+Branson,,1105 Branson Landing Boulevard ,#1105 ,Branson,MO, 65616,United States,(417) 336-1405,,,,,0
+Tanger Outlets Branson,,300 Tanger Boulevard ,Suite 304 ,Branson,MO, 65616,United States,(417) 334-6728,,,,,0
+West Park Mall,,3049 William Street ,Suite 183 ,Cape Girardeau,MO, 63703,United States,(573) 332-0220,,,,,0
+West Park Mall,,3049 William Street ,Suite 182 ,Cape Girardeau,MO, 63703,United States,(573) 335-2333,,,,,0
+Woodbury Lakes,,9100 Hudson Road ,Suite 110 ,Woodbury,MN, 55125,United States,(651) 264-0182,,,,,0
+Chesterfield Mall,,267 Chesterfield Center ,Suite 103 ,Chesterfield,MO, 63017,United States,(636) 536-2710,,,,,0
+St. Louis Premium Outlets,,18533 Outlet Boulevard ,Suite 103 ,Chesterfield,MO, 63005,United States,(636) 778-1320,,,,,0
+Woodbury Lakes,,9100 Hudson Road ,Suite 112 Bldg A ,Woodbury,MN, 55125,United States,(651) 264-0123,,,,,0
+Maple Grove Crossing,,8046 Wedgewood Lane North ,Suite 10 ,Maple Grove,MN, 55369,United States,(763) 416-2304,,,,,0
+River Hills Mall,,1850 Adams Street ,Suite 518 ,Mankato,MN, 56001,United States,(507) 344-1186,,,,,0
+Hutchinson Mall,,1060 Highway 15 ,Suite 36 ,Hutchinson,MN, 55350,United States,(320) 234-7443,,,,,0
+Market Street Mall,,1420 East College Drive ,,Marshall,MN, 56258,United States,(507) 532-0014,,,,,0
+Central Square Mall,,201 Northwest 4th Street ,Suite 100 ,Grand Rapids,MN, 55744,United States,(218) 326-4330,,,,,0
+Miller Hill Mall,,1600 Miller Trunk Hwy ,Suite E02D ,Duluth,MN, 55811,United States,(218) 727-1416,,,,,0
+Twin Cities Premium Outlets,,3965 Eagan Outlets Parkway ,Suite 335 ,Eagan,MN, 55122,United States,(651) 454-8488,,,,,0
+Washington Square Mall,,815 Lake Avenue ,Suite 5 ,Detroit Lakes,MN, 56501,United States,(218) 847-4958,,,,,0
+Riverdale Village,,12771 Riverdale Boulevard ,Suite 101-102 ,Coon Rapids,MN, 55448,United States,(763) 421-0830,,,,,0
+"MPW - BURNSVILLE, MN",,2022 Burnsville Center ,Suite 335 ,Burnsville,MN, 55306,United States,(952) 892-5877,,,,,0
+Paul Bunyan Mall,,1401 Paul Bunyan Drive Northwest ,,Bemidji,MN, 56601,United States,(218) 751-5812,,,,,0
+Westgate Mall,,14136 Baxter Drive ,Suite 36 ,Baxter,MN, 56425,United States,(218) 828-8399,,,,,0
+Viking Plaza,,3015 Highway 29 ,Suite 4095 ,Alexandria,MN, 56308,United States,(320) 762-0472,,,,,0
+Time Square,,7605 148th Street West ,Suite 335 ,Apple Valley,MN, 55124,United States,(952) 432-9287,,,,,0
+Albertville Premium Outlet,,6415 Labeaux Avenue Northeast ,Suite A030 ,Albertville,MN, 55301,United States,(763) 497-0993,,,,,0
+Marketplace at Augusta,,19 Stephen King Drive ,Suite H-105 ,Augusta,ME, 04330,United States,(207) 622-3141,,,,,0
+Eden Prairie Center,,8251 Flying Cloud Drive ,Suite 1210 ,Eden Prairie,MN, 55344,United States,(952) 943-0255,,,,,0
+Auburn Mall,,550 Center Street ,Suite 1108 ,Auburn,ME, 04210,United States,(207) 782-0608,,,,,0
+Valley Mall,,17301 Valley Road ,Suite #462 ,Hagerstown,MD, 21740,United States,(301) 582-1890,,,,,0
+Francis Scott Key Mall,,5500 Buckeystown Pike ,Suite 252 ,Frederick,MD, 21703,United States,(240) 379-7569,,,,,0
+Harford Mall,,670 Belair Road ,Suite 6 ,Bel Air,MD, 21014,United States,(410) 638-8222,,,,,0
+Platte River Mall,,1000 South Dewey Street ,Suite 40/50 ,North Platte,NE, 69101,United States,(308) 534-0162,,,,,0
+Sunset Plaza,,1700 Market Lane ,Suite 200 ,Norfolk,NE, 68701,United States,(402) 844-3520,,,,,0
+Hilltop Mall,,5003 2nd Avenue ,Suite 5 ,Kearney,NE, 68847,United States,(308) 234-9765,,,,,0
+Mall of America,,270 South Boulevard ,Suite S270 ,Bloomington,MN, 55425,United States,(952) 858-8512,,,,,0
+Village Centre,,122 24th Street ,Suite A11 ,Columbus,NE, 68601,United States,(402) 564-0564,,,,,0
+Southtown Center,,7833 Southtown Center ,Suite 511 ,Bloomington,MN, 55431,United States,(952) 886-9053,,,,,0
+Shadow Lake Towne Center,,7474 Towne Center Parkway ,Suite T-117 ,Papillion,NE, 68046,United States,(402) 597-4783,,,,,0
+Shadow Lake Towne Center,,7474 Towne Center Parkway ,Suite T-115 ,Papillion,NE, 68046,United States,(402) 592-1644,,,,,0
+Montclair Center,,13029 West Center Road ,Suite T-117 ,Omaha,NE, 68144,United States,(402) 333-0805,,,,,0
+"MPW -  LINCOLN, NE",,516 Gateway Mall ,Suite I-18 ,Lincoln,NE, 68505,United States,(402) 467-2593,,,,,0
+SouthPointe Pavilions,,2940 Pine Lake Road ,Suite I-18 ,Lincoln,NE, 68516,United States,(402) 420-0022,,,,,0
+Conestoga Mall,,3404 West 13th Street ,Suite D33 ,Grand Island,NE, 68803,United States,(308) 381-2824,,,,,0
+Conestoga Mall,,3404 West 13th Street ,Suite A3A ,Grand Island,NE, 68803,United States,(308) 384-7276,,,,,0
+Montclair Center,,13023 West Center Road ,Suite T-117 ,Omaha,NE, 68144,United States,(402) 691-2480,,,,,0
+Wausau Center,,C324 Wausau Center ,Suite A ,Wausau,WI, 54403,United States,(715) 848-3464,,,,,0
+Vancouver Mall,,8700 Northeast Vancouver Mall Drive ,Suite 210 ,Vancouver,WA, 98662,United States,(360) 885-2419,,,,,0
+Sikes Senter,,3111 Midwestern Parkway ,Suite 170 ,Wichita Falls,TX, 76308,United States,(940) 691-0900,,,,,0
+University Mall,,155 Dorset Street ,Suite H8 ,South Burlington,VT, 05403,United States,(802) 864-1180,,,,,0
+Central Mall,,2400 Richmond Road ,Suite 37 ,Texarkana,TX, 75503,United States,(903) 223-8962,,,,,0
+Essex Outlets,,21 Essex Way ,Suite 214 ,Essex Junction,VT, 05452,United States,(802) 879-0155,,,,,0
+Diamond Run Mall,,46 Diamond Run Mall Place ,Suite 230 ,Rutland,VT, 05701,United States,(802) 773-1345,,,,,0
+Tanger Outlets Terrell,,301 Tanger Drive ,Suite 217 ,Terrell,TX, 75160,United States,(972) 551-0694,,,,,0
+Collin Creek Mall,,811 North Central Expressway ,Suite 2190 ,Plano,TX, 75075,United States,(972) 881-0400,,,,,0
+South Plains Mall,,6002 Slide Road ,Suite G28 ,Lubbock,TX, 79414,United States,(806) 799-1970,,,,,0
+Westgate Mall,,7701 West Interstate 40 ,Suite 548 ,Amarillo,TX, 79121,United States,(806) 468-7308,,,,,0
+Lufkin Mall,,4600 South Medford Drive ,Suite 1124 ,Lufkin,TX, 75901,United States,(936) 634-0044,,,,,0
+Mall of Abilene,,4310 Buffalo Gap Road ,Suite 1404 ,Abilene,TX, 79606,United States,(325) 793-2747,,,,,0
+Firewheel Town Center,,155 Cedar Sage Drive ,Suite D11 ,Garland,TX, 75040,United States,(972) 530-0802,,,,,0
+Tanger Outlet at Five Oaks,,1645 Parkway ,Suite #740 ,Sevierville,TN, 37862,United States,(865) 908-0264,,,,,0
+Pigeon River Crossings,,2616 Teaster Lane ,Suite 2616 ,Pigeon Forge,TN, 37863,United States,(865) 428-1813,,,,,0
+Yankton Mall,,2101 Broadway Street ,,Yankton,SD, 57078,United States,(605) 665-4136,,,,,0
+Rushmore Crossing,,1335 Eglin Street ,Suite 100 ,Rapid City,SD, 57701,United States,(605) 399-0789,,,,,0
+Northridge Plaza,,1615 North Harrison Avenue ,Suite 13 ,Pierre,SD, 57501,United States,(605) 224-1134,,,,,0
+Aberdeen Mall,,3315 6th Avenue Southeast ,Suite 21 ,Aberdeen,SD, 57401,United States,(605) 226-1556,,,,,0
+Watertown Mall,,1300 9th Avenue Southeast ,Suite 57 ,Watertown,SD, 57201,United States,(605) 886-2195,,,,,0
+Tanger Outlets Myrtle Beach,,4635 Factory Stores Boulevard ,Suite C210 ,Myrtle Beach,SC, 29579,United States,(843) 236-7370,,,,,0
+Village at Sandhill,,631 Promenade Place ,Suite 12 ,Columbia,SC, 29229,United States,(803) 736-6635,,,,,0
+Gaffney,,1 Factory Shops Blvd ,#655 ,Gaffney,SC, 29341,United States,(864) 489-1363,,,,,0
+Apple Blossom Mall,,1850 Apple Blossom Drive ,Suite S171 ,Winchester,VA, 22601,United States,(540) 722-8175,,,,,0
+Apple Blossom Mall,,1850 Apple Blossom Drive ,Suite S149 ,Winchester,VA, 22601,United States,(540) 665-9560,,,,,0
+College Square,,2550 East Morris Boulevard ,Suite 56 ,Morristown,TN, 37813,United States,(423) 587-1515,,,,,0
+Stones River Mall,,1720 Old Fort Parkway ,Suite B-140 ,Murfreesboro,TN, 37129,United States,(615) 907-9770,,,,,0
+Foothills Mall,,145 Foothills Mall Drive ,Suite 48/Suite 50 ,Maryville,TN, 37801,United States,(865) 681-9906,,,,,0
+Lebanon Premium Outlets,,1 Outlet Village Boulevard ,Suite 350 ,Lebanon,TN, 37090,United States,(615) 453-6858,,,,,0
+Johnson City Crossing,,3211 Peoples Street ,Suite 700 ,Johnson City,TN, 37604,United States,(423) 915-2341,,,,,0
+CoolSprings Galleria,,1800 Galleria Boulevard ,Suite 2240 ,Franklin,TN, 37067,United States,(615) 771-0125,,,,,0
+The Streets of Indian Lake,,300 Indian Lake Boulevard ,Suite 220 Bldg A ,Hendersonville,TN, 37075,United States,(615) 264-8847,,,,,0
+Northgate Mall,,271 Northgate Mall ,#A017 ,Chattanooga,TN, 37415,United States,(423) 870-9252,,,,,0
+Carriage Crossing,,4670 Merchants Park Circle ,Suite 660 ,Collierville,TN, 38017,United States,(901) 854-9059,,,,,0
+The Pinnacle at Turkey Creek,,11437 Parkside Drive ,Suite 603 ,Farragut,TN, 37934,United States,(865) 675-0033,,,,,0
+The Shoppes at Dawley Farms,,905 South Highline Place ,Suite 102 ,Sioux Falls,SD, 57110,United States,(605) 332-5377,,,,,0
+Bristol,,475 Pinnacle Parkway ,#518 ,Bristol,TN, 37620,United States,(423) 652-0740,,,,,0
+Fashion Place,,6191 State Street ,#1585 ,Murray,UT, 84107,United States,(801) 261-3906,,,,,0
+Empire Mall,,4001 West 41st Street ,Suite 904 ,Sioux Falls,SD, 57106,United States,(605) 361-7405,,,,,0
+Empire Mall,,4001 West 41st Street ,Suite 540 ,Sioux Falls,SD, 57106,United States,(605) 362-7825,,,,,0
+Red Cliffs Mall,,1770 Red Cliffs Drive ,Suite 1168 ,St. George,UT, 84790,United States,(435) 627-0534,,,,,0
+University Mall,,575 East University Pkwy ,Suite A8A ,Orem,UT, 84097,United States,(801) 223-4300,,,,,0
+Provo Towne Center,,1200 Provo Towne Center Blvd ,Suite 1000 ,Provo,UT, 84603,United States,(801) 852-2873,,,,,0
+Cache Valley Mall,,1300 North Main Street ,Suite 1110 ,Logan,UT, 84341,United States,(435) 755-6710,,,,,0
+Lehi,,3700 North Cabelas Blvd ,Suite #343 ,Lehi,UT, 84043,United States,(385) 336-8930,,,,,0
+"OLT - WILLIAMSBURG, VA",,5699-50 Richmond Road ,#A017 ,Williamsburg,VA, 23188,United States,(757) 259-4604,,,,,0
+Short Pump Town Center,,11800 West Broad Street ,Suite 2138 ,Richmond,VA, 23233,United States,(804) 360-5058,,,,,0
+Valley View Mall,,4802 Valley View Blvd NW ,Suite LA5 ,Roanoke,VA, 24012,United States,(540) 265-1168,,,,,0
+Valley Mall,,1925 East Market Street ,Suite 416 ,Harrisonburg,VA, 22801,United States,(540) 442-8388,,,,,0
+Patrick Henry Mall,,12300 Jefferson Avenue ,Suite 412 ,Newport News,VA, 23602,United States,(757) 882-1050,,,,,0
+River Ridge Mall,,3405 Candlers Mountain Road ,Suite G-355 ,Lynchburg,VA, 24502,United States,(434) 239-0198,,,,,0
+New River Valley Mall,,828 New River Road ,Suite 828 ,Christiansburg,VA, 24073,United States,(540) 381-9560,,,,,0
+Northtown Mall,,4750 North Division Street ,Suite 2016 ,Spokane,WA, 99207,United States,(509) 487-4324,,,,,0
+Spokane Valley Mall,,14700 East Indiana Avenue ,Suite 1104 ,Spokane Valley,WA, 99216,United States,(509) 893-1312,,,,,0
+South Hill Mall,,"3500 South Meridian, #440 ",Suite 920 ,Puyallup,WA, 98373,United States,(253) 435-9912,,,,,0
+Kitsap Mall,,10315 Silverdale Way Northwest ,Suite F1 ,Silverdale,WA, 98383,United States,(360) 692-4046,,,,,0
+South Towne Center,,10450 State Street ,Suite 1220 ,Sandy,UT, 84070,United States,(801) 553-1179,,,,,0
+South Towne Center,,10450 State Street ,Suite 1224 ,Sandy,UT, 84070,United States,(801) 553-1264,,,,,0
+North Bend Premium Outlets,,461 South Fork Avenue Southwest ,Suite I ,North Bend,WA, 98045,United States,(425) 831-0480,,,,,0
+Alderwood Mall,,3000 184th Street Southwest ,Suite 398 ,Lynnwood,WA, 98037,United States,(425) 771-0728,,,,,0
+Columbia Center,,1321 North Columbia Center Boulevard ,Suite 408 ,Kennewick,WA, 99336,United States,(509) 734-9266,,,,,0
+Kent Station,,438 Ramsay Way ,Suite 105 ,Kent,WA, 98032,United States,(253) 859-8001,,,,,0
+Wenatchee Valley Mall,,511 Valley Mall Parkway ,Suite B08 ,East Wenatchee,WA, 98802,United States,(509) 886-5606,,,,,0
+Layton Hills Mall,,1201 North Hill Field Road ,Suite 2088 ,Layton,UT, 84041,United States,(801) 544-7731,,,,,0
+Layton Hills Mall,,1201 North Hill Field Road ,Suite 2056 ,Layton,UT, 84041,United States,(801) 444-0310,,,,,0
+Centralia Outlets,,110 West High Street ,Suite 110 ,Centralia,WA, 98531,United States,(360) 807-6398,,,,,0
+The Outlet Shoppes at Burlington,,200 Fashion Way ,Suite 616 ,Burlington,WA, 98233,United States,(360) 707-0976,,,,,0
+Bellis Fair,,1 Bellis Fair Parkway ,Suite 616 ,Bellingham,WA, 98226,United States,(360) 647-6080,,,,,0
+Cedar Mall,,2900 South Main Street ,Suite E5 ,Rice Lake,WI, 54868,United States,(715) 234-4672,,,,,0
+Crossroads Commons,,1120 Meridian Drive ,Suite A ,Plover,WI, 54467,United States,(715) 344-0056,,,,,0
+Pleasant Prairie Premium Outlets,,11211 120th Avenue ,Suite 06 ,Pleasant Prairie,WI, 53158,United States,(262) 857-4191,,,,,0
+Valley View Mall,,3800 State Road ,Suite 178 ,La Crosse,WI, 54601,United States,(608) 781-3351,,,,,0
+Janesville Mall,,2500 Milton Avenue ,Suite 119 ,Janesville,WI, 53545,United States,(608) 754-2283,,,,,0
+The Outlet Shoppes at Oshkosh,,3001 South Washburn Street ,Suite D240 ,Oshkosh,WI, 54904,United States,(920) 235-2652,,,,,0
+Marshfield Mall,,503 East Ives Street ,Suite A ,Marshfield,WI, 54449,United States,(715) 384-9412,,,,,0
+Johnson Creek Premium Outlets,,575 Linmar Lane ,Suite A110 ,Johnson Creek,WI, 53038,United States,(920) 699-3802,,,,,0
+Germantown Plaza III,,2 County Line Road ,Suite 2 ,Germantown,WI, 53022,United States,(262) 255-4971,,,,,0
+Oakwood Mall,,4800 Golf Road ,Suite 88 ,Eau Claire,WI, 54701,United States,(715) 552-3280,,,,,0
+Wisconsin Dells Outlet Center,,210 North Gasser Road ,Suite 1004 ,Baraboo,WI, 53913,United States,(608) 253-1234,,,,,0
+Greenway Station Shopping Center,,1661 Deming Way ,Suite 138 ,Middleton,WI, 53562,United States,(608) 831-0605,,,,,0
+Crossroads Mall,,89 Crossroads Mall ,Suite 720 ,Mt. Hope,WV, 25880,United States,(304) 250-0046,,,,,0
+Meadowbrook Mall,,2399 Meadowbrook Road ,Suite 330 ,Bridgeport,WV, 26330,United States,(304) 842-3800,,,,,0
+Morgantown Mall,,9915 Mall Road ,Suite 915 ,Morgantown,WV, 26501,United States,(304) 983-6613,,,,,0
+Mercer Mall,,261 Mercer Mall Road ,Suite 720 ,Bluefield,WV, 24701,United States,(304) 327-8929,,,,,0
+Grand Central Mall,,100 Grand Central Avenue ,Suite 263 ,Vienna,WV, 26105,United States,(304) 485-8700,,,,,0
+Huntington Mall,,500 Mall Road ,Suite 250 ,Barboursville,WV, 25504,United States,(304) 733-5365,,,,,0
+Bay Park Square,,251 Bay Park Square ,Suite 15 ,Green Bay,WI, 54304,United States,(920) 499-2978,,,,,0
+Bay Park Square,,303 Bay Park Square ,Suite 15 ,Green Bay,WI, 54304,United States,(920) 494-7736,,,,,0
+East Town Mall,,2350 East Mason Street ,Suite 15 ,Green Bay,WI, 54302,United States,(920) 468-4061,,,,,0
+Forest Mall,,835 West Johnson Street ,Suite E02 ,Fond du Lac,WI, 54935,United States,(920) 922-2133,,,,,0
+Northland Mall,,954 West Northland Avenue ,Suite 146 ,Appleton,WI, 54911,United States,(920) 739-1099,,,,,0
+Forest Mall,,835 West Johnson Street ,Suite E02 ,Fond du Lac,WI, 54935,United States,(920) 929-8481,,,,,0
+Fox River Mall,,4301 West Wisconsin Avenue ,Suite 912 ,Appleton,WI, 54913,United States,(920) 733-0680,,,,,0
+Fox River Mall,,4301 West Wisconsin Avenue ,Suite 146 ,Appleton,WI, 54913,United States,(920) 733-2331,,,,,0
+Charleston Town Center,,3000 Charleston Town Center ,Suite 1015 ,Charleston,WV, 25389,United States,(304) 344-5002,,,,,0
+Brookfield Square Mall,,95 North Moorland Road ,Suite D-42 ,Brookfield,WI, 53005,United States,(262) 796-1567,,,,,0
+Charleston Town Center,,3000 Charleston Town Center Mall ,Suite 1017 ,Charleston,WV, 25389,United States,(304) 344-3014,,,,,0
+Brookfield Square Mall,,95 North Moorland Road ,Suite D1B ,Brookfield,WI, 53005,United States,(262) 641-8199,,,,,0
+Seaside Factory Outlet Center,,1111 North Roosevelt Drive ,Suite 336 ,Seaside,OR, 97138,United States,(503) 738-2170,,,,,0
+Columbia Gorge Premium Outlets,,450 Northwest 257th Way ,Suite 512 ,Troutdale,OR, 97060,United States,(503) 669-0400,,,,,0
+Berkshire Mall,,1665 State Hill Road ,Suite 350 ,Wyomissing,PA, 19610,United States,(610) 376-4955,,,,,0
+Tanger Outlets Pittsburgh,,2200 Tanger Boulevard ,Suite 513 ,Washington,PA, 15301,United States,(724) 222-1047,,,,,0
+"MPW - YORK, PA",,2899 Whiteford Road ,Suite 234 ,York,PA, 17402,United States,(717) 757-5676,,,,,0
+Galleria at Pittsburgh Mills,,210 Pittsburgh Mills Circle ,Suite 212 ,Tarentum,PA, 15084,United States,(724) 274-4594,,,,,0
+Stroud Mall,,454 Stroud Mall ,Suite 117 ,Stroudsburg,PA, 18360,United States,(570) 517-5026,,,,,0
+Nittany Mall,,2900 East College Avenue ,Suite 326 ,State College,PA, 16801,United States,(814) 867-0898,,,,,0
+Uniontown Mall,,1728 Mall Run Road ,Suite P728 ,Uniontown,PA, 15401,United States,(724) 434-5360,,,,,0
+The Monroe Marketplace,,330 Marketplace Boulevard ,Suite 6C ,Selinsgrove,PA, 17870,United States,(570) 743-7810,,,,,0
+South Hills Village,,301 South Hills Village ,Suite 2030A ,Pittsburgh,PA, 15241,United States,(412) 851-7201,,,,,0
+Lycoming Mall,,300 Lycoming Mall Circle ,Suite 257 ,Pennsdale,PA, 17756,United States,(570) 546-3178,,,,,0
+Coventry Mall,,351 West Schuylkill Road ,Suite H2 ,Pottstown,PA, 19465,United States,(610) 327-4512,,,,,0
+Monroeville Mall,,200 Monroeville Mall ,Suite 212 ,Monroeville,PA, 15146,United States,(412) 373-7105,,,,,0
+Shoppes at Montage,,2131 Shoppes Boulevard ,,Moosic,PA, 18507,United States,(570) 941-9499,,,,,0
+Beaver Valley Mall,,344 Route 18 ,Suite 160 ,Monaca,PA, 15061,United States,(724) 775-5088,,,,,0
+Shawnee Mall,,4901 North Kickapoo Street ,Suite 1556 ,Shawnee,OK, 74804,United States,(405) 273-5030,,,,,0
+Southern Park Mall,,7401 Market Street ,Suite 221A ,Youngstown,OH, 44512,United States,(330) 758-0992,,,,,0
+Washington Park Mall,,2350 Southeast Washington Boulevard ,,Bartlesville,OK, 74006,United States,(918) 331-2193,,,,,0
+Sooner Mall,,3301 West Main Street ,Suite 305 ,Norman,OK, 73072,United States,(405) 329-3000,,,,,0
+Sunbury,,400 S. Wilson Road ,#1040 ,Sunbury,OH, 43074,United States,(740) 965-3924,,,,,0
+Wooster,,4369 Burbank Road ,Suite #20 ,Wooster,OH, 44691,United States,(330) 345-1447,,,,,0
+Ohio Valley Mall,,67800 Mall Road ,Suite 570 ,St. Clairsville,OH, 43950,United States,(740) 695-0912,,,,,0
+SouthPark Mall,,816 Southpark Center ,Suite 140 ,Strongsville,OH, 44136,United States,(440) 238-0279,,,,,0
+Miami Valley Centre,,987 East Ash Street ,Suite C6 ,Piqua,OH, 45356,United States,(937) 773-8510,,,,,0
+Springfield,,1642 N Bechtle Ave ,Suite W170 ,Springfield,OH, 45504,United States,(937) 324-2640,,,,,0
+Sandusky Mall,,4314 Milan Road ,Suite 180 ,Sandusky,OH, 44870,United States,(419) 621-9340,,,,,0
+Eastwood Mall,,5555 Youngstown Warren Road ,Suite 1155 ,Niles,OH, 44446,United States,(330) 505-1213,,,,,0
+Great Northern Mall,,116 Great Northern Mall ,Suite 140 ,North Olmsted,OH, 44070,United States,(440) 777-2042,,,,,0
+New Towne Mall,,400 Mill Avenue Southeast ,Suite 317 ,New Philadelphia,OH, 44663,United States,(330) 308-9403,,,,,0
+Monroe,,400 Premium Outlets Drive ,#968 ,Monroe,OH, 45050,United States,(513) 539-2089,,,,,0
+Great Lakes Mall,,7850 Mentor Avenue ,Suite 514 ,Mentor,OH, 44060,United States,(440) 205-0571,,,,,0
+Lima Mall,,2400 Elida Road ,Suite 158 ,Lima,OH, 45805,United States,(419) 221-1031,,,,,0
+Richland Mall,,687 Richland Mall ,Suite #20 ,Mansfield,OH, 44906,United States,(419) 529-5462,,,,,0
+The Outlet Shoppes at Oklahoma City,,7654 West Reno Avenue ,Suite 730 ,Oklahoma City,OK, 73127,United States,(405) 787-0711,,,,,0
+Quail Springs Mall,,2501 West Memorial Road ,Suite 153 ,Oklahoma City,OK, 73134,United States,(405) 302-5140,,,,,0
+River Valley Mall,,1635 River Valley Circle South ,Suite 331 ,Lancaster,OH, 43130,United States,(740) 654-0931,,,,,0
+Tanger Outlets - Jeffersonville,,8315 Factory Shops Boulevard ,Suite W170 ,Jeffersonville,OH, 43128,United States,(740) 948-2510,,,,,0
+Findlay Village Mall,,1800 Tiffin Avenue ,Suite 469 ,Findlay,OH, 45840,United States,(419) 429-0378,,,,,0
+Indian Mound Mall,,771 South 30th Street ,Suite 721 ,Heath,OH, 43056,United States,(740) 788-9120,,,,,0
+The Town Center at Levis Commons,,4175 Levis Commons Boulevard ,Suite 18-A ,Perrysburg,OH, 43551,United States,(419) 872-3750,,,,,0
+Mall at Tuttle Crossing,,5043 Tuttle Crossing Boulevard ,Suite 267/Suite 268 ,Dublin,OH, 43016,United States,(614) 799-2816,,,,,0
+Midway Mall,,3250 Midway Mall ,Suite 200 ,Elyria,OH, 44035,United States,(440) 324-2922,,,,,0
+The Town Center at Levis Commons,,4170 Levis Commons Boulevard ,Suite 18-A ,Perrysburg,OH, 43551,United States,(419) 873-9810,,,,,0
+Chillicothe Mall,,1075 North Bridge Street ,Suite 165 ,Chillicothe,OH, 45601,United States,(740) 779-6800,,,,,0
+Polaris Fashion Place,,1500 Polaris Parkway ,Suite 2008 ,Columbus,OH, 43240,United States,(614) 888-9242,,,,,0
+Canton,,4129 Belden Village Mall ,#B40 ,Canton,OH, 44718,United States,(330) 493-9645,,,,,0
+Ohio Station Outlets,,9911 Avon Lake Road ,Suite 200 ,Burbank,OH, 44214,United States,(330) 948-4124,,,,,0
+The Galleria,,500 Galleria Drive ,Suite 218 ,Johnstown,PA, 15904,United States,(814) 262-9001,,,,,0
+Shenango Valley Mall,,3275 East State Street ,Suite 625 ,Hermitage,PA, 16148,United States,(724) 342-7786,,,,,0
+Summit Mall,,3265 West Market Street ,Suite 140 ,Akron,OH, 44333,United States,(330) 869-9356,,,,,0
+Grove City Premium Outlets,,1911 Leesburg Grove City Road ,Suite 1255 ,Grove City,PA, 16127,United States,(724) 748-5100,,,,,0
+Westmoreland Mall,,5256 Route 30 ,Suite NL4 ,Greensburg,PA, 15601,United States,(724) 834-4855,,,,,0
+The Outlet Shoppes at Gettysburg,,1863 Gettysburg Village Drive ,Suite 740 ,Gettysburg,PA, 17325,United States,(717) 334-3016,,,,,0
+Millcreek Mall,,725 Millcreek Mall ,Suite 644 ,Erie,PA, 16565,United States,(814) 864-9997,,,,,0
+DuBois Mall,,5522 Shaffer Road ,Suite 3A ,DuBois,PA, 15801,United States,(814) 372-4752,,,,,0
+Streets of Cranberry,,20430 U.S. 19 ,Suite 160 ,Cranberry Township,PA, 16066,United States,(724) 742-0033,,,,,0
+Chambersburg Mall,,864 Chambersburg Mall ,Suite 739 ,Chambersburg,PA, 17202,United States,(717) 261-9411,,,,,0
+Capital City Mall,,3513 Capital City Mall Drive ,Suite 608 ,Camp Hill,PA, 17011,United States,(717) 303-0540,,,,,0
+Clearview Mall,,101 Clearview Circle ,Suite 730 ,Butler,PA, 16001,United States,(724) 283-1069,,,,,0
+The Outlets at Sands Bethlehem,,77 Sands Boulevard ,Suite 117 ,Bethlehem,PA, 18015,United States,(610) 865-2492,,,,,0
+Logan Valley Mall,,5580 Goods Lane ,Suite 1141 ,Altoona,PA, 16602,United States,(814) 940-5630,,,,,0
+Crest Plaza,,1620 North Cedar Crest Boulevard ,Suite G ,Allentown,PA, 18104,United States,(610) 395-1564,,,,,0
+Salem Center,,480 Center Street Northeast ,Suite 2220 ,Salem,OR, 97301,United States,(503) 763-8754,,,,,0
+Rockvale Outlets,,35 South Willowdale Drive ,Suite 312 ,Lancaster,PA, 17602,United States,(717) 299-7334,,,,,0
+The Greene Town Center,,110 Plum Street ,Suite W170 ,Beavercreek,OH, 45440,United States,(937) 431-8272,,,,,0
+Mall at Fairfield Commons,,2727 Fairfield Commons Drive ,Suite W170 ,Beavercreek,OH, 45431,United States,(937) 320-1982,,,,,0
+Park City Center,,169 Park City Center ,Suite A0169 ,Lancaster,PA, 17601,United States,(717) 207-0741,,,,,0
+The Greene Town Center,,106 Plum Street ,Suite W170 ,Beavercreek,OH, 45440,United States,(937) 431-5501,,,,,0
+Lincoln City Outlet,,1500 Southeast East Devils Lake Road ,Suite 202 ,Lincoln City,OR, 97367,United States,(541) 994-0071,,,,,0
+Clackamas Town Center,,12000 Southeast 82nd Avenue ,Suite L203 ,Happy Valley,OR, 97086,United States,(503) 353-0750,,,,,0
+Bend Factory Outlets,,61334 South Highway 97 ,Suite 150 ,Bend,OR, 97702,United States,(541) 382-7364,,,,,0
+Valley River Center,,538 Valley River Center ,Suite A117 ,Eugene,OR, 97401,United States,(541) 431-4646,,,,,0
+Heritage Mall,,2134 14th Avenue Southeast ,Suite A117 ,Albany,OR, 97322,United States,(541) 924-1201,,,,,0
+Gloucester Premium Outlets,,100 Premium Outlets Drive ,Suite 500 ,Blackwood,NJ, 08012,United States,(856) 221-8736,,,,,0
+Rogue Valley Mall,,1600 North Riverside Avenue ,Suite 2109 ,Medford,OR, 97501,United States,(541) 779-0877,,,,,0
+Rogue Valley Mall,,1600 North Riverside Avenue ,Suite 2041 ,Medford,OR, 97501,United States,(541) 245-6817,,,,,0
+"MPW - MINOT, ND",,218 Dakota Square ,,Minot,ND, 58701,United States,(701) 839-9429,,,,,0
+Buffalo Mall,,2400 8th Avenue Southwest ,Suite E4 ,Jamestown,ND, 58401,United States,(701) 251-9362,,,,,0
+Columbia Mall,,2800 South Columbia Road ,Suite 335 ,Grand Forks,ND, 58201,United States,(701) 772-6637,,,,,0
+West Acres Shopping Center,,3902 13th Avenue South ,Suite 233 ,Fargo,ND, 58103,United States,(701) 282-9308,,,,,0
+Animas Valley Mall,,4601 East Main Street ,Suite 470 ,Farmington,NM, 87402,United States,(505) 326-0179,,,,,0
+Cottonwood Mall,,10000 Coors Boulevard Bypass Northwest ,Suite C206 ,Albuquerque,NM, 87114,United States,(505) 792-5107,,,,,0
+Salmon Run Mall,,21182 Salmon Run Mall Loop West ,Suite A104 ,Watertown,NY, 13601,United States,(315) 785-1925,,,,,0
+Eastern Hills Mall,,4545 Transit Road ,Suite 734 ,Williamsville,NY, 14221,United States,(716) 565-1918,,,,,0
+Montgomery Village,,731 Village Court ,Suite 731 ,Santa Rosa,CA, 95405,United States,(707) 526-3983,,,,,0
+Waterloo Premium Outlets,,655 Highway 318 ,Suite A049 ,Waterloo,NY, 13165,United States,(315) 539-3861,,,,,0
+Vero Beach Outlets,,1743 94th Drive ,Suite D220 ,Vero Beach,FL, 32966,United States,(772) 569-8454,,,,,0
+Pueblo Mall,,3539 Dillon Drive ,Suite 117 ,Pueblo,CO, 81008,United States,(719) 542-9227,,,,,0
+The Outlet Shops of Grand River,,6200 Grand River Boulevard East ,Suite 614 ,Leeds,AL, 35094,United States,(205) 699-4209,,,,,0
+Concord Mall,,4737 Concord Pike ,Suite 740 ,Wilmington,DE, 19803,United States,(302) 478-1404,,,,,0
+Parkway Place,,2801 Memorial Parkway Southwest ,Suite 162 ,Huntsville,AL, 35801,United States,(256) 533-0410,,,,,0
+Central Mall,,5111 Rogers Avenue ,Suite 28 ,Fort Smith,AR, 72903,United States,(479) 484-7167,,,,,0
+"OLT - LITTLE ROCK, AR",,11201 Bass Pro Parkway ,Suite #B-M155 ,Little Rock,AR, 72210,United States,(501) 455-4058,,,,,0
+"OLT - TUCSON, AZ",,6401 W. Marana Center Blvd ,Suite #920 ,Tucson,AZ, 85742,United States,(520) 918-1543,,,,,0
+Prescott Gateway Mall,,3250 Gateway Boulevard ,Suite 1064 ,Prescott,AZ, 86303,United States,(928) 708-0569,,,,,0
+Marketplace at Northglenn,,331A West 104th Avenue ,Building 5 ,Northglenn,CO, 80234,United States,(720) 929-9950,,,,,0
+Pinnacle Hills Promenade,,2203 South Promenade Boulevard ,Suite 2130 ,Rogers,AR, 72758,United States,(479) 936-7955,,,,,0
+Superstition Springs Mall,,6555 East Southern Avenue ,Suite E10 ,Mesa,AZ, 85206,United States,(480) 985-2911,,,,,0
+Arrowhead Towne Center,,7700 W Arrowhead Towne Center Drive ,Suite 1253 ,Glendale,AZ, 85308,United States,(623) 979-7589,,,,,0
+Outlets at Anthem,,4250 West Anthem Way ,Suite 0720 ,Anthem,AZ, 85086,United States,(623) 465-2628,,,,,0
+"OLT - CHANDLER, AZ",,4976 Premium Outlets Way ,Suite #746 ,Chandler,AZ, 85226,United States,(520) 796-1344,,,,,0
+Mesa Mall,,2424 Old US Highway 6 & 50 ,Suite 110 ,Grand Junction,CO, 81505,United States,(970) 256-9826,,,,,0
+The Orchard Town Center,,14587 Delaware Street ,Suite 100 ,Westminster,CO, 80023,United States,(303) 452-3530,,,,,0
+Greeley Mall,,1955 Greeley Mall ,Suite F118 ,Greeley,CO, 80631,United States,(970) 356-5009,,,,,0
+Durango Mall,,800 South Camino Del Rio ,Suite F5 - F6 ,Durango,CO, 81301,United States,(970) 385-9150,,,,,0
+The Orchard Town Center,,14587 Delaware Street ,Suite 150 ,Westminster,CO, 80023,United States,(303) 255-4940,,,,,0
+Pavilion Shopping Center,,4344 South College Avenue ,Suite 5 ,Fort Collins,CO, 80525,United States,(970) 225-0582,,,,,0
+The Promenade Shops at Centerra,,5971 Sky Pond Drive ,Suite C148 ,Loveland,CO, 80538,United States,(970) 203-0352,,,,,0
+Chapel Hills Mall,,1710 Briargate Boulevard ,Suite 117 ,Colorado Springs,CO, 80920,United States,(719) 532-0095,,,,,0
+Castle Rock,,5050 Factory Shops Blvd. ,#1020 ,Castle Rock,CO, 80108,United States,(303) 688-6696,,,,,0
+The Promenade Shops at Centerra,,5855 Sky Pond Drive ,Suite F118 ,Loveland,CO, 80538,United States,(970) 203-0884,,,,,0
+St. Augustine Outlets,,500 Outlet Mall Boulevard ,Suite 318 ,St. Augustine,FL, 32084,United States,(904) 825-4816,,,,,0
+Tyrone Square,,6924 Tyrone Square Mall ,Suite 585 ,St. Petersburg,FL, 33710,United States,(727) 343-3478,,,,,0
+Arapahoe Crossings,,6616 Parker Road ,Suite 101 ,Aurora,CO, 80016,United States,(303) 617-7621,,,,,0
+FlatIron Crossing,,1 West Flatiron Crossing Drive ,Suite 1004 ,Broomfield,CO, 80021,United States,(303) 469-3923,,,,,0
+Port Charlotte Town Center,,1441 Tamiami Trail ,Suite 215 ,Port Charlotte,FL, 33948,United States,(941) 255-3399,,,,,0
+"OLT - LUTZ, FL",,2224 Grand Cypress Drive ,Suite #728 ,Lutz,FL, 33559,United States,(813) 909-2769,,,,,0
+Aspen Grove,,7301 South Santa Fe Drive ,Suite 528 ,Littleton,CO, 80120,United States,(303) 794-5571,,,,,0
+Miromar Outlets,,10801 Corkscrew Road ,Suite 61 ,Estero,FL, 33928,United States,(239) 495-3477,,,,,0
+Tanger Outlets Sanibel,,20350 Summerlin Road ,Suite 6110 ,Fort Meyers,FL, 33908,United States,(239) 433-4280,,,,,0
+Volusia Mall,,1700 West International Speedway Boulevard ,Suite 414 ,Daytona Beach,FL, 32114,United States,(386) 323-0670,,,,,0
+Ellenton Premium Outlets,,5461 Factory Shops Boulevard ,Suite 585 ,Ellenton,FL, 34222,United States,(941) 729-5379,,,,,0
+Aspen Grove,,7301 South Santa Fe Drive ,Suite 218 ,Littleton,CO, 80120,United States,(303) 738-3839,,,,,0
+Tanger Outlets Westbrook,,314 Flat Rock Place ,Suite C140 ,Westbrook,CT, 06498,United States,(860) 399-2212,,,,,0
+The Promenade at Evergreen Walk,,101 Evergreen Way ,Suite 115 ,South Windsor,CT, 06074,United States,(860) 644-7726,,,,,0
+"OLT - REHOBOTH BEACH, DE",,36470 Seaside Outlet Drive ,Suite #1820 ,Rehoboth Beach,DE, 19971,United States,(302) 227-1543,,,,,0
+Settlers' Green Outlet Village,,2 Common Court ,#J10 ,North Conway,NH, 03860,United States,(603) 356-2088,,,,,0
+Sunrise Mall,,6145 Sunrise Mall ,,Citrus Heights,CA, 95610,United States,(916) 726-3677,,,,,0
+Dover Mall,,1365 North Dupont Highway ,Suite 1110 ,Dover,DE, 19901,United States,(302) 677-0601,,,,,0
+Tilton,,120 Laconia Road ,#220 ,Tilton,NH, 03276,United States,(603) 286-2002,,,,,0
+Mall of New Hampshire,,1500 South Willow Street ,Suite E111 ,Manchester,NH, 03103,United States,(603) 626-8887,,,,,0
+Steeplegate Mall,,270 Loudon Road ,Suite 1116 ,Concord,NH, 03301,United States,(603) 223-4029,,,,,0
+Mt. Shasta Mall,,900 Dana Drive ,Suite C44 ,Redding,CA, 96003,United States,(530) 223-0176,,,,,0
+Capitola Mall,,1855 41st Avenue ,Suite E09 ,Capitola,CA, 95010,United States,(831) 477-1758,,,,,0
+Wilton Mall at Saratoga,,3065 Route 50 ,Suite B011a ,Saratoga Springs,NY, 12866,United States,(518) 587-8121,,,,,0
+Eastview Mall,,150 Eastview Mall ,Suite A1-2 ,Victor,NY, 14564,United States,(585) 421-3800,,,,,0
+Destiny USA,,9090 Destiny USA Drive ,Suite L204 ,Syracuse,NY, 13204,United States,(315) 422-0326,,,,,0
+Rotterdam Square Mall,,93 West Campbell Road ,Suite 6050 ,Schenectady,NY, 12306,United States,(518) 346-8841,,,,,0
+Champlain Centre North,,60 Smithfield Boulevard ,Suite C-115 ,Plattsburgh,NY, 12901,United States,(518) 561-8674,,,,,0
+Fashion Outlets of Niagara Falls,,1900 Military Road ,Suite 223 ,Niagara Falls,NY, 14304,United States,(716) 297-1408,,,,,0
+Chautauqua Mall,,318 East Fairmount Avenue ,Suite 644 ,Lakewood,NY, 14750,United States,(716) 763-0848,,,,,0
+Oakdale Mall,,601-635 Harry L Drive ,Suite 74 ,Johnson City,NY, 13790,United States,(607) 798-0020,,,,,0
+Pyramid Mall Ithaca,,40 Catherwood Road ,Suite B07 ,Ithaca,NY, 14850,United States,(607) 257-8057,,,,,0
+Arnot Mall,,3300 Chambers Road ,Suite 5146 ,Horseheads,NY, 14845,United States,(607) 739-8574,,,,,0
+Log Jam Outlet,,1476 State Route 9 ,Suite H14 ,Lake George,NY, 12845,United States,(518) 793-3909,,,,,0
+"MPW - BUFFALO, NY",,3701 McKinley Parkway ,#736 ,Buffalo,NY, 14219,United States,(716) 824-0687,,,,,0
+Great Northern Mall,,4155 State Route 31 ,Suite B106 ,Clay,NY, 13041,United States,(315) 622-0907,,,,,0
+Boulevard Mall,,1281 Niagara Falls Boulevard ,Suite 734 ,Amherst,NY, 14226,United States,(716) 831-0013,,,,,0
+Colonie Center,,131 Colonie Center ,#280 ,Albany,NY, 12205,United States,(518) 482-1157,,,,,0
+Carolina Premium Outlets,,1223B Industrial Park Drive ,Suite 1223B ,Smithfield,NC, 27577,United States,(919) 938-3003,,,,,0
+Carolina Mall,,1480 U.S. 29 ,Suite 275 ,Concord,NC, 28025,United States,(704) 784-1480,,,,,0
+Charlotte Premium Outlets,,5416 New Fashion Way ,Suite 890 ,Charlotte,NC, 28278,United States,(704) 504-2508,,,,,0
+Marketplace Mall,,751 Miracle Mile Drive ,Suite A1-2 ,Rochester,NY, 14623,United States,(585) 427-8380,,,,,0
+Cary Towne Center,,1105 Walnut Street ,Suite 150 ,Cary,NC, 27511,United States,(919) 468-8177,,,,,0
+The Mall at Greece Ridge,,257 Greece Ridge Center Drive ,Suite H-19a ,Rochester,NY, 14626,United States,(585) 227-0490,,,,,0
+Tanger Outlets Blowing Rock,,310 Shoppes on the Parkway Road ,Suite 18 ,Blowing Rock,NC, 28605,United States,(828) 295-5079,,,,,0
+Asheville Outlets,,800 Brevard Road ,Suite 864 ,Asheville,NC, 28806,United States,(828) 667-1500,,,,,0
+The Orchard,,8653 Clinton Street ,Suite 8653 ,New Hartford,NY, 13413,United States,(315) 768-1688,,,,,0
+Holiday Mall,,425 College Drive South ,Suite 6 ,Devils Lake,ND, 58301,United States,(701) 662-5095,,,,,0
+The Orchard,,8651 Clinton Street ,Suite 8651 ,New Hartford,NY, 13413,United States,(315) 768-1788,,,,,0
+Kirkwood Mall,,642 Kirkwood Mall ,,Bismarck,ND, 58504,United States,(701) 255-2783,,,,,0
+Kirkwood Mall,,630 Kirkwood Mall ,,Bismarck,ND, 58504,United States,(701) 222-2993,,,,,0

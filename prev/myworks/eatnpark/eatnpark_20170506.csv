@@ -1,0 +1,70 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+DuBois,939473461,Route 255 North & Shaffer Road,,DuBois,PA,15801,United States,(814) 375-8622,41.12253,-78.72918,Every Day: 6 AM - 11 PM,,0
+Altoona,939473446,137 Bowling Lane,,Altoona,PA,16601,United States,(814) 943-4070,40.46796,-78.40728,Every Day: 6 AM - 11 PM,,0
+Clarion,939473466,35 Perkins Rd.,,Clarion,PA,16214,United States,(814) 227-2188,41.19015,-79.39809,Every Day: 6 AM - 11 PM,,0
+Johnstown - Scalp Ave.,939473445,1461 Scalp Avenue,,Johnstown,PA,15904,United States,(814) 266-5714,40.2705802182685,-78.8576214087371,Open 24 Hours,,0
+Westmont,939473427,1900 Minno Drive,,Johnstown,PA,15905,United States,(814) 255-7711,40.32316,-78.95616,Every Day: 6:30 AM - 11 PM,,0
+Indiana,939473458,2675 Oakland Ave,,Indiana,PA,15701,United States,(724) 465-2301,40.6031416118247,-79.1870143092402,Open 24 Hours,,0
+Franklin,939473437,Route 8 & Route 62,,Franklin,PA,16323,United States,(814) 432-3352,41.41076,-79.75439,Sunday-Thursday: 7 AM - 9 PM,,0
+Erie - Peach Street,939473454,7355 Peach Street,,Erie,PA,16509,United States,(814) 866-3970,42.0540077358491,-80.0865230188679,Monday-Thursday: 6AM - 9PM,,0
+Erie - West 12th Street,939473451,2519 West 12th Street,,Erie,PA,16505,United States,(814) 838-9125,42.1029707948887,-80.1369727455839,Open 24 Hours,,0
+Somerset,939473447,926 North Center Avenue,,Somerset,PA,15501,United States,(814) 443-4579,40.0163747219935,-79.0781361966164,Open 24 Hours,,0
+Latrobe,939473457,1026 Mountain Laurel Plaza,,Latrobe,PA,15650,United States,(724) 532-1966,40.2837392821369,-79.3897847662771,Open 24 Hours,,0
+Natrona Heights,939473426,1626 Broadview Blvd,,Natrona Hts.,PA,15065,United States,(724) 224-2442,40.62163,-79.7275,Open 24 Hours,,0
+Greensburg,939473431,995 E. Pittsburgh St,,Greensburg,PA,15601,United States,(724) 837-2759,40.30327,-79.50954,Open 24 Hours,,0
+Butler - Clearview Mall,939473421,114 Clearview Circle,Clearview Mall,Butler,PA,16001,United States,(724) 282-7674,40.8955414285714,-79.9065314285714,Open 24 Hours,,0
+Butler,939473433,214 New Castle Road,,Butler,PA,16001,United States,(724) 287-0153,40.8700856115647,-79.9295760433676,Open 24 Hours,,0
+Murrysville,939473443,4584 William Penn Hwy.,,Murrysville,PA,15668,United States,(724) 327-7270,40.4253458033909,-79.6709990169545,Monday - Saturday: 6 AM - 10 PM,,0
+New Kensington,939473434,380 Freeport Street,,New Kensington,PA,15068,United States,(724) 335-3361,40.5566318367347,-79.7605326530612,Every Day: 6 AM - 11 PM,,0
+Pittsburgh Mills,939473480,3005 Pittsburgh Mills,,Tarentum,PA,15084,United States,(724) 275-1014,40.569643,-79.79966,Monday - Thursday: 6 AM - 11 PM,,0
+Grove City,939473465,1911 Leesburg - Grove City Rd. P.O. Box 1016,Prime Outlets - Grove City,Grove City,PA,16127,United States,(724) 748-5911,41.1433841666667,-80.1587958333333,Open 24 Hours,,0
+New Stanton,939473438,111 W Byers Ave,,New Stanton,PA,15672,United States,(724) 925-1060,40.2184395773508,-79.6096428353177,Open 24 Hours,,0
+North Huntington,939473467,8891 Rt. 30,,N. Huntingdon,PA,15642,United States,(724) 864-8031,40.3193772972973,-79.6892640540541,Open 24 Hours,,0
+Monroeville,939473440,3987 Monroeville Blvd,,Monroeville,PA,15146,United States,(412) 471-1111,40.4365012867776,-79.7733536994855,Everyday: 6 AM - 3 AM,,0
+Penn Hills,939473432,11746 Frankstown Rd,,Pittsburgh,PA,15235,United States,(412) 242-3700,40.4672839014917,-79.8256980492542,Sunday - Thursday: 6 AM - 11 PM,,0
+Hampton Township,939473442,5143 Route 8,,Gibsonia,PA,15044,United States,(724) 443-7280,40.6126345375855,-79.94752,Open 24 Hours,,0
+Waterworks/Fox Chapel,1104804971,849 Freeport Rd.,Waterworks Mall,Pittsburgh,PA,15238,United States,(412) 782-5550,40.48675,-79.89236,Monday - Thursday: 6 AM - 11 PM,,0
+North Versailles,939473475,299 Lincoln Highway,,North Versailles,PA,15137,United States,(412) 816-2006,40.38473,-79.82433,Every Day: 6 AM - 11 PM,,0
+Edgewood,939473453,1605 S. Braddock Avenue,,Pittsburgh,PA,15218,United States,(412) 243-5530,40.4267859183674,-79.8902706122449,Monday-Saturday: 6 AM - 10 PM,,0
+Shaler,939473425,Route 8 & Saxonburg Blvd,,Etna,PA,15223,United States,(412) 487-4870,40.51158,-79.94749,Open 24 Hours,,0
+McKeesport,939473412,805 Lysle Blvd,,McKeesport,PA,15132,United States,(412) 664-9148,40.3522432653061,-79.8567163265306,Monday - Saturday: 6 AM - 10 PM,,0
+Squirrel Hill,939473415,1816 Murray Avenue,,Pittsburgh,PA,15217,United States,(412) 422-7203,40.4368315813315,-79.922935855476,Everyday: 6 AM - 3 AM,,0
+Waterfront - Homestead,939473406,245 E Waterfront Drive,The Waterfront,Homestead,PA,15120,United States,(412) 464-7275,40.4115334351923,-79.912542170713,Every Day: 6 AM - Midnight,,0
+North Hills - Rt. 19 North (Mall side),939473408,7370 McKnight Road,Ross Park Mall,Pittsburgh,PA,15237,United States,(412) 366-6220,40.5395927696441,-80.0119347530578,Open 24 Hours,,0
+North Hills - Rt. 19 South,939473417,7671 McKnight Road,,Pittsburgh,PA,15237,United States,(412) 364-1211,40.5455300921324,-80.016431493975,Every Day: 7 AM - 10 PM,,0
+Cranberry,939473448,19085 Perry Highway,,Mars,PA,16046,United States,(724) 776-4460,40.67341,-80.09857,Open 24 Hours,,0
+Franklin Park/Wexford,939473423,2650 Brandt School Road,,Wexford,PA,15090,United States,(724) 940-3270,40.6150668709557,-80.0925814206322,Sunday - Thursday: 6 AM - 11 PM,,0
+Hermitage/Sharon,939473450,2270 E. State Street,,Hermitage,PA,16148,United States,(724) 342-1383,41.23336,-80.4681904166667,Every Day: 6 AM - 11 PM,,0
+New Castle,939473439,100 Washington St.,,New Castle,PA,16101,United States,(724) 654-2311,40.99996,-80.34573,Every Day: 6 AM - 11 PM,,0
+Avalon,939473407,1002 Ohio River Blvd,,Pittsburgh,PA,15202,United States,(412) 766-6764,40.49466242817,-80.0649852209827,Open 24 Hours,,0
+Whitehall,939473414,5100 Clairton Blvd,,Pittsburgh,PA,15236,United States,(412) 882-0258,40.34635,-79.97345,Open 24 Hours,,0
+McKees Rocks,939473435,301 Chartiers Avenue,,Mc Kees Rocks,PA,15136,United States,(412) 331-2881,40.46341,-80.05682,Monday - Saturday: 6 AM - 10 PM,,0
+Banksville Rd.,939473418,1250 Banksville Rd.,,Pittsburgh,PA,15216,United States,(412) 561-7894,40.4161839683399,-80.0299389068551,Open 24 hours,,0
+Belle Vernon,939473474,1675 Broad Ave,,Belle Vernon,PA,15012,United States,(724) 930-7470,40.1362278787879,-79.8433678787879,Open 24 Hours,,0
+Dormont,939473409,2874 West Liberty Avenue,,Pittsburgh,PA,15216,United States,(412) 561-4944,40.39549,-80.03356,Open 24 Hours,,0
+Bethel Park - Rt. 88,939473422,5220 Library Road,,Bethel Park,PA,15102,United States,(412) 835-4011,40.3329021130459,-80.0237092415165,Open 24 Hours,,0
+Monongahela,939473420,1250 W. Main St.,,Monongahela,PA,15063,United States,(724) 258-4654,40.2064933333333,-79.9382244444444,Open 24 Hours,,0
+South Hills Village (by the mall),939473436,301 South Hills Village,South Hills Village Mall,Pittsburgh,PA,15241,United States,(412) 854-4855,40.3420318181818,-80.0532654545455,Open 24 Hours,,0
+Uniontown,939473429,519 West Main Street,,Uniontown,PA,15401,United States,(724) 439-0440,39.90931,-79.74354,Every Day: 6 AM - Midnight,,0
+Edgeworth/Sewickley,939473430,201 Ohio River Blvd,,Sewickley,PA,15143,United States,(412) 741-4650,40.54438,-80.19304,Open 24 Hours,,0
+Bridgeville,939473416,1197 Washington Pike,,Bridgeville,PA,15017,United States,(412) 221-8800,40.37023,-80.10081,Open 24 Hours,,0
+Center Township,939473462,120 Wagner Road,,Monaca,PA,15061,United States,(724) 770-0644,40.68135,-80.30333,Open 24 Hours,,0
+Robinson Township,939473444,100 Park Manor Drive,,Pittsburgh,PA,15205,United States,(412) 787-8556,40.44807,-80.16248,Open 24 Hours,,0
+Chippewa,939473428,500 Chippewa Towne Centre,Chippewa Towne Centre,Beaver Falls,PA,15010,United States,(724) 847-7275,40.779136616783,-80.3840659244234,Open 24 Hours,,0
+Moon Township,939473441,9515 University Blvd,,Coraopolis,PA,15108,United States,(412) 264-7201,40.5019566764641,-80.2219594027143,Open 24 Hours,,0
+Peters Township,939473424,3380 Washington Road,,McMurray,PA,15317,United States,(724) 941-8261,40.28775,-80.11621,Monday-Saturday: 6 AM - 11 PM,,0
+Warren,939473463,"2057 WalMart Drive, N.E.",,Warren,OH,44483,United States,(330) 372-6610,41.2738450113519,-80.7802034741846,Every Day: 6 AM - 11 PM,,0
+Boardman,939473410,8051 Market Street,,Boardman,OH,44512,United States,(330) 758-1307,41.0039916666667,-80.6627216666667,Every Day: 7 AM - 10 PM,,0
+Austintown,939473476,5451 Mahoning Ave.,,Austintown,OH,44515,United States,(330) 779-0410,41.0995958823529,-80.7616205882353,Open 24 Hours,,0
+Washington - Washington Mall,939473455,320 Oak Spring Road,Washington Mall,Washington,PA,15301,United States,(724) 229-7333,40.1831097142857,-80.2344948571428,Open 24 Hours,,0
+Morgantown,939473449,353 Patteson Drive,,Morgantown,WV,26505,United States,(304) 598-0020,39.650561108246,-79.9714617462972,Open 24 Hours,,0
+Weirton,939473459,226 Three Springs Drive,,Weirton,WV,26062,United States,(304) 723-5179,40.4047869675142,-80.5494957995348,Open 24 Hours,,0
+Mentor,939473469,7061 Chillicothe Rd.,,Mentor,OH,44060,United States,(440) 255-5300,41.6779912138138,-81.3029331149483,Every Day: 7 AM - 10 PM,,0
+Steubenville,939473479,100 Mall Drive,,Steubenville,OH,43952,United States,(740) 266-6643,40.37119,-80.66999,Every Day: 7 AM - 10 PM,,0
+Willoughby,939473411,6035 SOM Center Rd.,,Willoughby,OH,44094,United States,(440) 943-1050,41.6059,-81.43978,Every Day: 6 AM - 11 PM,,0
+Wheeling/The Highlands,939473481,80 Fort Henry Rd,,Triadelphia,WV,26059,United States,304-547-9500,40.06226,-80.59595,Every Day: 7 AM - 11 PM,,0
+Cuyahoga Falls,939473460,200 Howe Avenue,,Cuyahoga Falls,OH,44221,United States,(330) 923-4111,41.11925,-81.48459,Open 24 Hours,,0
+St. Clairsville,939473468,50620 Valley Ctr. Blvd,,St. Clairsville,OH,43950,United States,(740) 695-5507,40.07425,-80.87367,Every Day: 6 AM - 11 PM,,0
+Clarksburg,939473456,100 Tolley Street,,Bridgeport,WV,26330,United States,(304) 842-7668,39.28172,-80.27776,Every Day: 6 AM - 11 PM,,0
+Parma,939473413,2075 Snow Road,,Parma,OH,44134,United States,(216) 459-1517,41.4051339532079,-81.6955589015646,"As of April 30, this location is permanently closed. Thank you to all of our team members and guests for 20 great years!",,0
+Medina,939473464,1007 North Court Street,,Medina,OH,44256,United States,(330) 723-6390,41.154096969697,-81.8628684848485,Every Day: 6 AM - 10 PM,,0

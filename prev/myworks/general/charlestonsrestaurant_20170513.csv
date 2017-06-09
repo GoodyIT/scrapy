@@ -1,0 +1,64 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Charleston's | Ft. Worth,,3020 S Hulen St ,,Fort Worth ,TX,76109,United States,(817) 735-8900,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Louie's | Yukon,,1600 Garth Brooks Blvd ,,Yukon ,OK,73099,United States,(405) 354-3200,,,Monday-Thursday 11AM - 11PM; Friday-Saturday 11AM - 12AM; Sunday 11AM - 11PM; ,,0
+Redrock Canyon Grill | Southlake,,2221 E. Southlake Blvd. Suite 360 ,,Southlake ,TX,76092,United States,(817) 912-1510,,,Monday-Thursday 4PM - 9PM; Friday - Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Upper Crust | Tulsa,,9110 S Yale Ave ,,Tulsa ,OK,74137,United States,(918) 728-7326,,,Sunday-Monday 11AM - 9PM; Tuesday-Saturday 11AM - 10PM; ,,0
+Charleston's | Tulsa | Brookside,,3726 S Peoria Ave ,,Tulsa ,OK,74105,United States,(918) 749-3287,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Charleston's | OKC | I-240,,1429 W I-240 Service Rd ,,Oklahoma City ,OK,73159,United States,(405) 681-0055,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Charleston's | Norman,,300 Ed Noble Pkwy ,,Norman ,OK,73072,United States,(405) 360-0900,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Charleston's | OKC | Meridian,,2000 S Meridian Ave ,,Oklahoma City ,OK,73108,United States,(405) 681-6686,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Charleston's | Edmond,,3409 S Broadway # 400 ,,Edmond ,OK,73013,United States,(405) 478-4949,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Charleston's | Tulsa | Yale,,6839 S Yale Ave ,,Tulsa ,OK,74136,United States,(918) 495-3511,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Charleston's | OKC | NW Expressway,,5907 Northwest Expy ,,Warr Acres ,OK,73132,United States,(405) 721-0060,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Charleston's | OKC | Memorial,,5608 W Memorial Rd ,,Oklahoma City ,OK,73142,United States,(405) 470-8169,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Smitty's Garage | Tulsa,,7104 S Sheridan Rd. ,,Tulsa ,OK,74133,United States,(918)584-8484,,,,,0
+Upper Crust | Edmond,,1205 NW 178th St ,,Edmond ,OK,73012,United States,(405) 285-8887,,,Sunday-Monday 11AM - 9PM; Tuesday-Saturday 11AM - 10PM; ,,0
+Upper Crust | OKC,,5860 N Classen Blvd ,,Oklahoma City ,OK,73118,United States,(405) 842-7743,,,Sunday-Monday 11AM - 9PM; Tuesday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 11PM; ,,0
+Charleston's | Broken Arrow,,251 E Hillside Dr ,,Broken Arrow ,OK,74012,United States,(918) 355-9177,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 10:30AM - 9PM; ,,0
+Charleston's | Omaha | 76th & Dodge,,7540 Dodge St ,,Omaha ,NE,68114,United States,(402) 991-0055,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Charleston's | Omaha | 140th & Dodge,,13851 FNB Pkwy ,,Omaha ,NE,68154,United States,(402) 431-0023,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+The Garage | Britton,,2900 W Britton Rd ,,OKC ,OK,73120,United States,(405) 254-5757,,,,,0
+The Garage | Edmond,,601 S. Bryant Ave. ,,Edmond ,OK,73034,United States,(405) 341-5801,,,Sun-Wed 11AM-12AM; Thur-Sat 11AM - 1AM; Grill: Sun- Wed 11AM - 10PM; Grill: Thurs- Sat 11AM - 11PM; ,,0
+The Garage | Stillwater,,520 W. Elm Ave. ,,Stillwater ,OK,74074,United States,(405) 332-5560,,,Sun-Wed 11AM - 11PM; Grill: Sun-Wed 11AM - 10PM; Thurs- Sat 11AM - 12AM; Grill: Thurs-Sat 11AM - 11PM; ,,0
+The Garage | Shawnee,,190 Shawnee Mall Dr. ,,Shawnee ,OK,74804,United States,(405) 788-4950,,,Mon-Sun 11AM -11PM; Grill: Sun-Wed 11AM - 10PM; Grill: Thurs-Sat 11AM - 11PM; ,,0
+Pub W | S. OKC,,10740 S May Ave ,,Oklahoma City ,OK,73170,United States,(405) 286-6970,,,Mon - Fri 11:00am - Midnight; Sat - Sun 10:30am - Midnight; ,,0
+The Garage | Norman,,307 E. Main St. ,,Norman ,OK,73069,United States,(405) 701-7035,,,Sun-Wed 11AM - 12AM; Thur-Sat 11AM - 1AM.; Grill: Sun-Wed 11AM - 10PM; Grill: Thurs-Sat 11AM - 11PM; ,,0
+The Garage | Rockwell,,6900 NW 122nd St. 101 ,,OKC ,OK,73142,United States,(405) 603-3080,,,Sun-Wed 11AM - 12AM; Thur-Sat 11AM - 1AM; Grill: Sun-Wed 11AM - 10PM; Grill: Thur-Sat 11AM - 11PM; ,,0
+The Garage | Moore,,2060 S. I-35 Service Rd. ,,Moore ,Oklahoma,73160,United States,405-759-2020,,,Mon-Sun 11am-12am; Grill: Sun-Wed 11am-10pm; Grill: Thurs-Sat 11am-11pm; ,,0
+The Garage | Midtown,,1117 N. Robinson ,,OKC ,OK,73103,United States,(405) 602-6880,,,Sun-Wed 11AM - 12AM; Thur-Sat 11AM - 1AM; Grill: Sun-Thur 11AM - 11PM; Grill: Fri-Sat 11AM - 11PM; ,,0
+The Garage | Del City,,5301 Main St. ,,Del City ,OK,73115,United States,(405) 609-2320,,,Everyday 10:30AM - 12AM; Grill: Everyday 10:30AM - 10PM; ,,0
+Louie's | Tulsa,,6310 E 101st St ,,Tulsa ,OK,74137,United States,(918) 298-5777,,,Monday-Thursday 11AM - 11PM; Friday-Saturday 11AM - 12AM; Sunday 11AM - 11PM; ,,0
+The Garage | Council,,209 Outlet Shoppes Dr. ,,Oklahoma City ,OK,73127,United States,405-603-5905,,,Everyday 11am - 12am; Grill: Sun-Thur 11am - 10pm; Grill: Fri-Sat 11am - 11pm; ,,0
+The Garage | I-240,,1024 W. I-240 Service Rd. ,,OKC ,OK,73139,United States,(405) 601-4198,,,Everyday 11AM - 12AM; Grill: Sun-Wed 11AM - 10PM; Grill: Thur-Sat 11AM - 11PM; ,,0
+Smitty's Garage | Omaha Dodge | NOW OPEN,,7610 Dodge Street ,,Omaha ,NE,68114,United States,(402) 614-4949,,,,,0
+Pub W | Norman,,3720 W Robinson St ,,Norman ,OK,73072,United States,(405) 701-5844,,,Monday-Thursday 11AM - 12AM; Friday 11AM - 2AM; Saturday 10:30AM - 2AM; Sunday 10:30AM - 12AM; Brunch 10:30AM - 2PM; ,,0
+Smitty's Garage |  Fayetteville,,100 E Joyce Blvd ,,Fayetteville ,AR,72703,United States,(479) 301-2046,,,Everyday 11AM - 11PM; Grill: Sun-Wed 11AM - 10PM; Grill: Thur-Sat 11AM- 11PM; ,,0
+Smitty's Garage | Omaha Oak View,,3309 Oak View Drive ,,Omaha ,NE,68144,United States,(402) 504-3737,,,Sun - Thurs 11am - 10pm; Fri - Sat 11am - 11pm; Grill: Everyday 11am - 10pm; ,,0
+Pub W | N. OKC,,3121 W Memorial Rd ,,Oklahoma City ,OK,73134,United States,(405) 608-2200,,,Monday-Wednesday 11AM - 12AM; Thursday-Friday 11AM - 12AM; Saturday 10:30AM - 12AM; Sunday 10:30AM - 12AM; Brunch 10:30AM - 2PM; ,,0
+Louie's | Norman | Campus Corner,,301 W Boyd St ,,Norman ,OK,73069,United States,(405) 366-6291,,,Sunday-Wednesday 11AM - 11PM; Thursday-Saturday 11AM - 12AM; Louie's Too: Mon-Fri 2PM - 2AM; Louie's Too: Sat-Sun 11AM - 2AM; ,,0
+Louie's | Stillwater,,720 S Main St ,,Stillwater ,OK,74074,United States,(405) 707-7200,,,Monday-Friday 11AM - 12AM; Saturday 11AM - 12AM; Sunday 11AM - 10PM; ,,0
+Louie's | OKC | Midtown,,1215 N Walker Ave ,,Oklahoma City ,OK,73103,United States,(405) 230-1200,,,Monday-Wednesday 11AM - 12AM; Thursday-Friday 11AM - 2AM; Saturday 10AM - 2AM; Sunday 10AM - 12AM; ,,0
+Louie's | OKC | NW Expressway,,7216 Northwest Expy ,,Oklahoma City ,OK,73132,United States,(405) 720-1999,,,Monday-Friday 10AM - 11PM; Saturday 10AM - 12AM; Sunday 10AM - 11PM; ,,0
+Louie's | OKC | Western,,9101 S Western Ave ,,Oklahoma City ,OK,73139,United States,(405) 691-4400,,,Monday-Thursday 11AM - 2AM; Friday-Saturday 11AM - 2AM; Sunday 11AM - 2AM; ,,0
+Louie's | OKC | Meridian,,412 S Meridian Ave ,,Oklahoma City ,OK,73108,United States,(405) 942-1141,,,Monday-Wednesday 11AM - 11PM; Thursday-Saturday 11AM - 12AM; Sunday 11AM - 11PM; ,,0
+Louie's | OKC | Highland Park,,1201 NW 178th St ,,Oklahoma City ,OK,73012,United States,(405) 348-2288,,,Monday-Thursday 11AM - 11PM; Friday-Saturday 11AM - 12AM; Sunday 11AM - 11PM; ,,0
+Louie's | OKC | On The Lake,,9401 Lake Hefner Pkwy ,,Oklahoma City ,OK,73120,United States,(405) 751-2298,,,Monday-Thursday 11AM - 11PM; Friday-Saturday 11AM - 11PM; Sunday 11AM - 11PM; ,,0
+Redrock Canyon Grill | Overland Park,,13505 Metcalf Ave. ,,Overland Park ,KS,66223,United States,(913) 239-0202,,,MONDAY-THURSDAY 4pm - 9pm; FRIDAY-SATURDAY 11am - 10pm; SUNDAY 11am - 9pm; BAR Open 3:30pm M-Th; ,,0
+Louie's | Norman | Brookhaven,,3750 W Robinson St ,,Norman ,OK,73072,United States,(405) 360-4386,,,Monday-Thursday 11AM - 12AM; Friday-Saturday 11AM - 2AM; Sunday 11AM - 12AM; ,,0
+Louie's | Moore,,1601 S I-35 Service Rd ,,Moore ,OK,73160,United States,(405) 895-7419,,,Monday-Thursday 11AM - 2AM; Friday-Saturday 11AM - 2AM; Sunday 11AM - 2AM; ,,0
+Louie's | Jenks,,813 E A St ,,Jenks ,OK,7403,United States,(918) 298-5300,,,Monday-Sunday 11AM - 11PM; ,,0
+Mahogany | Omaha,,13665 California St ,,Omaha ,NE,68154,United States,(402) 445-4380,,,,,0
+Louie's | Edmond,,1389 E 15th St ,,Edmond ,OK,73013,United States,(405) 340-8700,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 12AM; Sunday 11AM - 10PM; ,,0
+Louie's | Broken Arrow,,1640 N 9th St ,,Broken Arrow ,OK,74012,United States,(918) 355-0421,,,Monday-Thursday 11AM - 11PM; Friday-Saturday 11AM - 12AM; Sunday 11AM - 11PM; ,,0
+Redrock Canyon Grill | Wichita,,1844 N Rock Rd ,,Wichita ,KS,67206,United States,(316) 636-1844,,,Monday-Thursday 5PM - 10PM; Friday 5PM - 11PM; Saturday 11AM - 11PM; Sunday 11AM - 9PM; Bar Opens 4PM  M - F; ,,0
+Charleston's | Carmel,,14636 Greyhound Plaza ,,Carmel ,IN,46032,United States,(317) 846-5965,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Charleston's | Indianapolis,,6815 East 82nd St. ,,Indianapolis ,IN,46250,United States,(317) 841-0442,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Redrock Canyon Grill | Norman,,1820 Legacy Park Drive ,,,,,United States,(405) 701-5501,,,MONDAY - THURSDAY 5PM - 9PM; FRIDAY - SATURDAY 11AM - 10PM; SUNDAY 11AM - 9PM; BAR OPENS 4PM M-TH; ,,0
+Charleston's | Scottsdale,,17001 N Scottsdale Rd ,,Scottsdale ,AZ,85255,United States,(480) 563-7666,,,Monday-Thursday 11AM - 9PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Charleston's | Mesa,,1623 S Stapley Dr ,,Mesa ,AZ,85204,United States,(480) 635-9500,,,Monday-Thursday 11AM - 10PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Redrock Canyon Grill | Tulsa,,9916 Riverside Pkwy ,,Tulsa ,OK,74137,United States,(918) 394-7625,,,Monday-Thursday 5PM - 10PM; Friday - Saturday 4PM - 10PM; Sunday 10:00AM - 9PM; Bar Opens 4PM  M -TH; ,,0
+Redrock Canyon Grill | OKC,,9221 Lake Hefner Pkwy ,,Oklahoma City ,OK,73120,United States,(405) 749-1995,,,Monday-Thursday 5PM - 10PM; Friday 5PM - 11PM; Saturday 4PM - 11PM; Sunday 10:30AM - 9PM; Bar Opens 4PM  M - F; ,,0
+Charleston's | Chandler,,1040 N 54th St ,,Chandler ,AZ,85226,United States,(480) 961-9434,,,Monday-Thursday 11AM - 9PM; Friday-Saturday 11AM - 10PM; Sunday 11AM - 9PM; ,,0
+Mahogany | Tulsa,,6823 S Yale Ave ,,Tulsa ,OK,74136,United States,(918) 494-4043,,,Monday-Saturday 5PM - 10PM; Sunday 5PM - 9PM; ,,0
+Mahogany | Downtown OKC,,145 W Sheridan Ave ,,Oklahoma City ,OK,73102,United States,(405) 208-8800,,,Bar Open Daily 4PM; Monday-Thursday 5PM - 10PM; Friday-Saturday 5PM - 11PM; Sunday 5PM - 9PM; ,,0
+Mahogany | Oklahoma City,,3241 W Memorial Rd ,,Oklahoma City ,OK,73134,United States,(405) 748-5959,,,Monday-Thursday 5PM - 10PM; Friday-Saturday 5PM -11PM; Sunday 5PM - 9PM; ,,0

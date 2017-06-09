@@ -1,0 +1,23 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+ALLEN,,190 E. Stacy Rd.  #1300,,Allen,TX,75002,United States,(972) 678-3020,33.1044628,-96.642433,Daily 11AM-9PM,,0
+BATON ROUGE,,6555 Siegen Ln.  ,,Baton Rouge,LA,70809,United States,(225) 778-7855,30.3911214,-91.0634024,Daily 11AM-9PM,,0
+BIRMINGHAM,,830 Inverness Corners,,Birmingham,AL,35242,United States,(205) 637-5400,33.4165524,-86.681253,Daily 11AM-9PM,,0
+CARROLLTON,,3450 E. Hebron Pkwy.,,Carrollton,TX,75010,United States,(972) 267-2000,33.0274105,-96.9262805,Daily 11AM-9PM,,0
+DALLAS,,5315 Greenville Ave. #125,,Dallas,TX,75206,United States,(214) 234-0505,32.8225166,-96.7761686,Daily 11AM-9PM,,0
+DENTON,,2520 W. University Dr. #1150,,Denton,TX,76201,United States,(940) 320-3272,33.2167226,-97.1413222,Daily 11AM-9PM,,0
+FORNEY,,780 E. US Hwy. 80,,Forney,Texas,75126,United States,(972) 552-2646,32.754348,-96.471658,Daily 11AM-9PM,,0
+FORT WORTH,,4972 Overton Ridge Blvd.,,Ft. Worth,TX,76132,United States,(817) 346-7822,32.6623667,-97.4219122,Daily 11AM-9PM,,0
+FRISCO,,4984 Main St.,,Frisco,TX,75034,United States,(469) 362-8002,33.1376528,-96.8565427,Daily 11AM-9PM,,0
+IRVING,,3351 Regent Blvd. #100,,Irving,TX,75063,United States,(214) 496-0724,32.9117167,-96.9907197,Daily 11AM-9PM,,0
+KATY,,20702 Katy Freeway #1A,,Katy,TX,77449,United States,(281) 676-8202,29.8260177,-95.7510475,Daily 11AM-9PM,,0
+LINCOLN,,2801 Pine Lake Rd.,,Lincoln,NE,68516,United States,(402) 420-0153,40.7422154,-96.6477771,Daily 11AM-9PM,,0
+LONGVIEW,,3080 N. Eastman Rd. #100,,Longview,TX,75605,United States,(903) 663-0777,32.562483,-94.7070616,Daily 11AM-9PM,,0
+LUBBOCK,,4415 S. Loop 289,,Lubbock,TX,79424,United States,(806) 795-0881,33.47561,-101.9233964,Daily 11AM-9PM,,0
+McALLEN,,1020 W. Nolana Ave.,,McAllen,TX,78504,United States,(956) 686-7777,26.2892001,-98.2322355,Daily 11AM-9PM,,0
+NORTH DALLAS,,17437 Preston Rd.,,Dallas,TX,75252,United States,(972) 732-6281,33.0008652,-96.797592,Daily 11AM-9PM,,0
+OKLAHOMA CITY,,13801 N. Pennsylvania Ave. Suite #A,,Oklahoma City,OK,73134,United States,(405) 753-4005,35.6172679,-97.5734783,Daily 11AM-9PM,,0
+PLANO,,8300 Preston Rd. #190,,Plano,TX,75024,United States,(214) 494-4463,33.0787152,-96.8083063,Daily 11AM-9PM,,0
+SHERMAN,,3811 N. Hwy. 75 #200,,Sherman,TX,75090,United States,(903) 892-6000,33.6005808,-96.5569882,Daily 11AM-9PM,,0
+WAXAHACHIE,,508 N. Hwy 77,,Waxahachie,TX,75165,United States,(972) 937-8600,32.3782774,-96.7708138,Daily 11AM-9PM,,0
+WYLIE,,3360 W. FM 544 #950,,Wylie,TX,75098,United States,(972) 442-0606,33.0215727,-96.5143087,Daily 11AM-9PM,,0
+Atlanta,,,,,,,,,,,,,1

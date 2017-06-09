@@ -1,0 +1,27 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+SAN BERNARDINO,1,1258 W. 5th St Route 66,FLAGSHIP STORE,San Bernardino,California,92411,United States,(909) 885-5598,34.108700,-117.312889,Sun-Thurs 10-10 Fri-Sat 10-11,,0
+SAN BERNARDINO,29,590 S. E Street,,San Bernardino,Ca,92408,United States,(909) 888-0623,34.090374,-117.294609,10am - 9pm,,0
+SAN BERNARDINO/HIGHLAND,28,1014 E. Highland Ave.,,San Bernardino,Ca,92404,United States,(909) 881-4191,34.136120,-117.264870,10am - 10pm everyday,,0
+BLOOMINGTON,6,19059 Valley Blvd.,,Bloomington,Ca,92316,United States,(909) 562-0171,34.070492,-117.388847,,,0
+COLTON,10,1220 E. Washington St.,,Colton,Ca,92324,United States,(909) 433-0600,34.045906,-117.306396,9am-10pm everyday,,0
+FONTANA #,14,9141 Citrus Ave.,,Fontana,Ca,92335,United States,(909) 427-8960,34.087795,-117.453178,10am-9pm everyday,,0
+RIVERSIDE,25,6055 Magnolia Ave.,,Riverside,Ca,92506,United States,(951) 683-3513,33.960243,-117.392212,10am - 9pm everyday,,0
+RIVERSIDE,21,8022 Limonite Ave. Suite 101,,Jurupa Valley,ca,92509,United States,(951) 685-8663,33.974701,-117.476051,10am- 9pm everyday,,0
+MORENO VALLEY,16,12615 Perris Blvd.,,Moreno Valley,Ca,92553,United States,(951) 601-0988,33.937576,-117.226845,10am 10pm everyday,,0
+SO. ONTARIO,18,3045 S. ARCHIBALD AVE.,,Ontario,Ca,91761,United States,(909) 923-0366,34.018368,-117.591255,10am -9pm everyday,,0
+UPLAND,30,156 W. Foothill Blvd. Route 66,,Upland,Ca,91786,United States,(909) 931-9057,34.106911,-117.653313,10am - 10pm everyday,,0
+ONTARIO,17,615 S. Euclid Ave.,,Ontario,Ca,91762,United States,(909) 988-1700,34.020901,-117.649902,9am - 9:30pm,,0
+CHINO,7,5491 Philadelphia St. Suite J,,Chino,Ca,91708,United States,(909) 627-7930,34.033947,-117.685570,Store hoursM-Thurs 10am - 9pmFri -Sat 10am -10pm,,0
+CORONA,11,1277 W. 6Th St.,,Corona,Ca,92882,United States,(951) 738-8905,33.878376,-117.588448,10am-9pm everyday,,0
+PERRIS,22,1675 N. Perris Blvd.,,Perris,Ca,92571,United States,(951) 443-1717,33.802250,-117.225014,MON - THURS 10am - 9pmFRI - SUN  10am - 10pm,,0
+New Location Beaumont,33,550 Beaumont Ave.,,Beaumont,CA,92223,United States,(951) 769-8570,33.928490,-116.976830,,,0
+Beaumont,32,500 Beaumont Ave,,Beaumont,Ca,92223,United States,(951) 769-8570,33.927868,-116.977135,Grand Opening  JULY 29 201610am - 9pm everyday,,0
+N. POMONA,23,2233 N. Garey Ave.,,Pomona,Ca,91767,United States,(909) 392-9794,34.089024,-117.751190,M- THURS 10am - 9pmFRI - SUN 10am - 10pm,,0
+S. POMONA,24,300 S. GAREY AVE.,,Pomona,Ca,91766,United States,(909) 469-4779,34.056759,-117.749931,SUN -  THUR 10am - 9:30Fri - Sat 10am - 10pm,,0
+COVINA,12,849 W. Covina Blvd.,,Covina,Ca,91722,United States,(626) 858-0669,34.099739,-117.906570,10am-9pm everyday,,0
+LA HABRA,15,1100 E La Habra Ave.,,La Habra,Ca,90631,United States,(562) 690-5333,33.931534,-117.933937,10am -9:30pm everyday,,0
+LA PUENTE,20,517 Workman MIill Rd.,,La Puente,ca,91746,United States,(626) 330-0588,34.040928,-117.998810,10am - 9pm everyday,,0
+SANTA ANA,26,1231 W. Memory Lane.,,Santa Ana,Ca,92706,United States,(714) 550-0507,33.773312,-117.883987,10am - 9pm everyday,,0
+LA MIRADA,19,15845 Imperial Highway,,La Mirada,ca,90638,United States,(562) 943-9000,33.918179,-117.992599,10am - 9:30pm everyday,,0
+ANAHEIM,2,3138 W. Lincoln Ave,,Anaheim,California,92801,United States,714-821-3333,33.831726,-117.999878,10am - 9Pm Everyday,,0
+COACHELLA,9,50225 Harrison St.,,Coachella,Ca,92236,United States,(760) 398-2556,33.683941,-116.181641,10am-9pm everyday,,0

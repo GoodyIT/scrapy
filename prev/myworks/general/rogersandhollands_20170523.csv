@@ -1,0 +1,81 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Yorktown Center,10006,222 Yorktown Center Suite 218,,Lombard ,IL,60148,United States,(630) 627-6467,41.8402600000,-88.0070000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11AM - 6PM; ,,0
+Westfield Old Orchard,10003,4999 Old Orchard Center Suite A18,,Skokie ,IL,60077,United States,(847) 329-7200,42.0583300000,-87.7492000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11AM - 6PM; ,,0
+Water Tower Place,10026,835 N. Michigan Ave.,,Chicago ,IL,60611,United States,(312) 944-4300,41.8979900000,-87.6232000000,,,0
+Fox Valley Mall,10014,1104 Fox Valley Center,,Aurora ,IL,60504,United States,(630) 851-5313,41.7584000000,-88.2124000000,,,0
+Meridian Mall,20110,1982 W. Grand River Ave. Suite 238,,Okemos ,MI,48864,United States,(517) 657-6200,42.7251400000,-84.4195000000,,,0
+Harlem Irving Plaza,10037,4190 North Harlem Ave.,,Norridge ,IL,60706,United States,(708) 453-3900,41.9633600000,-87.8273000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11AM - 6PM; ,,0
+Oakbrook Center,10005,448 Oakbrook Center Mall,,Oak Brook ,IL,60523,United States,(630) 571-7400,41.8497900000,-87.9521000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11AM - 6PM; ,,0
+North Riverside Park Mall OUTLET,10015,7501 West Cermak Suite 102,,North Riverside ,IL,60546,United States,(708) 442-6300,41.8469600000,-87.8108000000,,,0
+Chicago Ridge Mall,10002,390 Chicago Ridge Mall Suite G5,,Chicago Ridge ,IL,60415,United States,(708) 423-6667,41.7156100000,-87.7825000000,M-F: 10AM - 9PM; SAT: 10AM - 8PM; SUN: 11AM - 6PM; ,,0
+The Crossroads,20063,6650 South Westnedge Ave.,,Portage ,MI,49024,United States,(269) 324-2500,42.2202800000,-85.5943000000,,,0
+Burnsville Center,25065,1178 Burnsville Center Suite 1086,,Burnsville ,MN,55306,United States,(651) 286-0100,44.7439100000,-93.2887000000,,,0
+Mall of America,25086,146 West Market,,Bloomington ,MN,55425,United States,(952) 814-9400,44.8548100000,-93.2434000000,,,0
+River Hills Mall,25082,1850 Adams St. Suite 110,,Mankato ,MN,56001,United States,(507) 344-0400,44.1729900000,-93.9539000000,,,0
+Louis Joliet Mall,10099,3340 Mall Loop Drive 1352,,Joilet ,IL,60431,United States,(815) 267-8200,41.5761900000,-88.1652000000,,,0
+Lakeview Square,20021,5775 Beckley Rd.,,Battle Creek ,MI,49015,United States,(269) 979-9700,42.2631400000,-85.1841000000,,,0
+Orland Square Mall,10017,208 Orland Square Dr,,Orland Park ,IL,60462,United States,(708) 349-3100,41.6196900000,-87.8478000000,MON - FRI 10AM - 9PM; SATURDAY 10AM - 9PM; SUNDAY 11AM - 6PM; ,,0
+River Oaks Center,10016,96 River Oaks Center Suite B15,,Calumet City ,IL,60409,United States,(708) 862-7500,41.5979100000,-87.5550000000,,,0
+Northwoods Mall,10073,2200 West War Memorial Dr.,,Peoria ,IL,61613,United States,(309) 685-2500,40.7408300000,-89.6277000000,,,0
+Apache Mall,25064,245 Apache Mall,,Rochester ,MN,55902,United States,(507) 252-5800,44.0044200000,-92.4794000000,,,0
+Oakwood Mall,40058,4800 Golf Road,,Eau Claire ,WI,54701,United States,(715) 831-9800,44.7748100000,-91.4418000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11AM - 6PM; ,,0
+Wausau Center,40070,C-302 Wausau Center Suite B216,,Wausau ,WI,54403,United States,(715) 845-6000,44.9580700000,-89.6279000000,MONDAY-FRIDAY 10AM-9PM; SATURDAY 10AM-9PM; SUNDAY 11AM-6PM; ,,0
+Bay Park Square,40081,219 Bay Park Square,,Ashwaubenon ,WI,54304,United States,(920) 490-8900,44.4840500000,-88.0654000000,,,0
+Valley View Mall,40072,3800 State Road 16,,La Crosse ,WI,54601,United States,(608) 781-9300,43.8679900000,-91.1971000000,,,0
+Bay Park Square,40048,169 Bay Park Square,,Ashwaubenon ,WI,54304,United States,(920) 490-0100,44.4839800000,-88.0655000000,,,0
+Mayfair Mall,40061,2500 North Mayfair Rd. Suite M226,,Wauwatosa ,WI,53226,United States,(414) 607-9700,43.0638100000,-88.0447000000,,,0
+Regency Mall,40042,5686 Durand Ave. Suite 208,,Racine ,WI,53406,United States,(262) 598-0500,42.6995300000,-87.8482000000,,,0
+East Towne Mall,40045,164 East Towne Mall Suite 614,,Madison ,WI,53704,United States,(608) 246-0300,43.1251300000,-89.3051000000,,,0
+Brookfield Square,40043,95 N. Moorland Rd. Suite C11,,Brookfield ,WI,53005,United States,(262) 827-8900,43.0325100000,-88.1095000000,,,0
+The Lakes Mall,20106,5600 Harvey Street Suite 2040,,Muskegon ,MI,49444,United States,(231) 767-6100,43.1503900000,-86.2022000000,,,0
+Southridge Mall,40034,5300 South 76th St.,,Greendale ,WI,53129,United States,(414) 423-0465,42.9482000000,-88.0046000000,,,0
+Fox River Mall,40035,4301 West Wisconsin Ave.,,Appleton ,WI,54913,United States,(920) 738-0908,44.2695400000,-88.4705000000,,,0
+Walden Galleria,60150,One Walden Galleria D224,,Buffalo ,NY,14225,United States,(716) 706-2900 ,42.9126026000,-78.7633966000,,,0
+West Towne Mall,40044,201 West Towne Mall Suite A1a,,Madison ,WI,53719,United States,(608) 833-1600,43.0572800000,-89.5059000000,,,0
+CherryVale Mall,10020,7200 Harrison Avenue Suite 53,,Rockford ,IL,61112,United States,(815) 332-3400,42.2461700000,-88.9758000000,,,0
+Hawthorn Mall,10009,617 Hawthorn Center,,Vernon Hills ,IL,60061,United States,(847) 367-1417,42.2428000000,-87.9498000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11AM - 6PM; ,,0
+Spring Hill Mall,10022,1026 Spring Hill Mall,,West Dundee ,IL,60118,United States,(847) 428-5900,42.1027200000,-88.2950000000,,,0
+Janesville Mall,40041,2500 Milton Ave. Suite 110,,Janesville ,WI,53545,United States,(608) 531-7500,42.7117100000,-88.9990000000,,,0
+Woodfield Mall,10025,5 Woodfield Mall Suite E135,,Schaumburg ,IL,60173,United States,(847) 619-2900,42.0455100000,-88.0372000000,M-F: 8AM - 12AM; SAT: 7AM - 6PM; SUN: 11AM - 6PM; ,,0
+Stratford Square,10004,412 Stratford Square Suite D12,,Bloomingdale ,IL,60108,United States,(630) 351-9850,41.9486900000,-88.1153000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11AM - 6PM; ,,0
+Golf Mill Shopping Center OUTLET,10018,333 Golf Mill Shopping Center Suite 333,,Niles ,IL,60714,United States,(847) 298-6300,42.0496400000,-87.8376000000,,,0
+Laurel Park Place,20030,37570 West Six Mile Rd. Suite 520,,Livonia ,MI,48152,United States,(734) 462-0400,42.4143500000,-83.4174000000,,,0
+Westwood Mall,20049,1730 W. Michigan Ave.,,Jackson ,MI,49202,United States,(517) 782-2300,42.2496900000,-84.4366000000,,,0
+RiverTown Crossings,20066,3700 RiverTown Parkway,,Grandville ,MI,49418,United States,(616) 257-8900,42.8792000000,-85.7559000000,,,0
+Eastland Mall,10008,1615 East Empire St. Suite 1100,,Bloomington ,IL,61701,United States,(309) 662-4500,40.4858900000,-88.9564000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 12PM - 6PM; ,,0
+Woodland Mall,20055,3195 28th Street,,Kentwood ,MI,49512,United States,(616) 940-8300,42.9161200000,-85.5882000000,,,0
+Millcreek Mall,55121,5800 Millcreek Mall 510,,Erie ,PA,16565,United States,(814) 844-6500,42.0699320000,-80.1043633000,,,0
+Southlake Mall,15083,2201 Southlake Mall Suite CL-352,,Merrillville ,IN,46410,United States,(219) 736-2500,41.4684200000,-87.3105000000,,,0
+Northfield Square Mall,10046,1600 North State Rt. 50 Suite 106,,Bourbonnais ,IL,60914,United States,(815) 937-8400,41.1745300000,-87.8475000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11AM - 6PM; ,,0
+University Center,15028,6501 N. Grape,,Mishawaka ,IN,46545,United States,(574) 277-3800,41.6862200000,-86.1446000000,,,0
+Market Place Shopping Center,10059,2000 N. Neil St.,,Champaign ,IL,61820,United States,(217) 352-3400,40.1424500000,-88.2434000000,,,0
+Great Lakes Mall,35104,7850 Mentor Avenue Suite 830A,,Mentor ,OH,44060,United States,(440) 255-3888,41.6579600000,-81.3611000000,,,0
+White Oaks Mall,10007,2501 Wabash Avenue,,Springfield ,IL,62704,United States,(217) 698-4900,39.7657400000,-89.7037000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11AM - 6PM; ,,0
+Great Northern Mall,35092,576 Great Northern,,North Olmsted ,OH,44070,United States,(440) 777-4700,41.4167400000,-81.9063000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11AM - 6PM; ,,0
+Franklin Park Mall,35094,5001 Monroe Street,,Toledo ,OH,43623,United States,(419) 474-4300,41.6951700000,-83.6407000000,,,0
+Mid Rivers Mall,30084,1600 Mid Rivers Mall 2068,,St Peters ,MO,63376,United States,(636) 764-2100,38.7960762000,-90.6159688000,,,0
+Beachwood Place,35085,26300 Cedar Road,,Beachwood ,OH,44122,United States,(216) 765-8400,41.4984700000,-81.4941000000,,,0
+Glenbrook Square,15057,4201 Coldwater Road,,Fort Wayne ,IN,46805,United States,(260) 484-4800,41.1153600000,-85.1389000000,MONDAY - FRIDAY 10AM - 9PM; SATURDAY 10AM - 9PM; SUNDAY 11AM - 6PM; ,,0
+Tippecanoe Mall,15031,2415 Sagamore Pkwy. South,,Lafayette ,IN,47905,United States,(765) 447-6300,40.3926700000,-86.8511000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 12AM - 6PM; ,,0
+SouthPark Mall,35090,748 SouthPark Mall,,Strongsville ,OH,44136,United States,(440) 846-8300,41.3082500000,-81.8203000000,,,0
+St. Clair Square,10089,251 St. Clair Square,,Fairview Heights ,IL,62208,United States,(618) 632-1060,38.5960200000,-89.9802000000,,,0
+Southern Park Mall,35098,7401 Market Street Suite 341,,Youngstown ,OH,44512,United States,(330) 726-9200,41.0211800000,-80.6588000000,,,0
+South County Center,30087,340 South County Center Way,,St. Louis ,MO,63129,United States,(314) 845-8330,38.5064100000,-90.3314000000,,,0
+Richland Mall,35095,652 Richland Mall Suite D6,,Mansfield ,OH,44906,United States,(419) 529-3040,40.7703000000,-82.5928000000,,,0
+Belden Village Mall,35093,4230 Belden Village Mall Suite C6,,Canton ,OH,44718,United States,(330) 966-8000,40.8571100000,-81.4275000000,,,0
+The Mall At Robinson,55120,100 Robinson Center Dr. Suite 2650,,Pittsburgh ,PA,15205,United States,(412) 249-2100,40.4544800000,-80.1572000000,,,0
+Ohio Valley Mall,35097,67800 Mall Road Suite 340,,St. Clairsville ,OH,43950,United States,(740) 338-3015,40.0687100000,-80.8679000000,,,0
+University Mall,10102,1237 East Main Suite 1058,,Carbondale ,IL,62901,United States,(618) 529-0022,37.7288700000,-89.1923000000,,,0
+Polaris Fashion Place,35079,1500 Polaris Parkway Suite 2110,,Columbus ,OH,43240,United States,(614) 888-7888,40.1448300000,-82.9835000000,,,0
+Liberty Center,35091,7100 Foundry Row Suite 138,,Liberty Township ,OH,45069,United States,(513) 712-5100,39.3713600000,-84.3716000000,,,0
+College Mall,15074,2974 E. 3rd Street,,Bloomington ,IN,47401,United States,(812) 332-2800,39.1616000000,-86.4958000000,,,0
+The Mall at Fairfield Commons,35019,2727 Fairfield Commons Suite W227,,Beavercreek ,OH,45431,United States,(937) 427-3500,39.7640300000,-84.0854000000,,,0
+Kenwood Towne Centre,35080,7875 Montgomery Road Space 2135,,Cincinnati ,OH,45236,United States,(513) 791-5646,39.2028600000,-84.3771000000,,,0
+Florence Mall,45053,2122 Florence Mall,,Florence ,KY,41042,United States,(859) 371-6700,38.9958100000,-84.6503000000,,,0
+Honey Creek Mall,15096,3401 South US Highway 41 Suite D5C,,Terre Haute ,IN,47802,United States,(812) 234-9200,39.4273300000,-87.4195000000,,,0
+Governor's Square Mall,50139,2801 Wilma-Rudolph Blvd. Suite 545,,Clarksville ,TN,37040,United States,(931) 645-0333,36.5881800000,-87.2872000000,,,0
+Jefferson Mall,45103,4801 Outer Loop Suite B329,,Louisville ,KY,40219,United States,(502) 966-6000,38.1414700000,-85.6703000000,,,0
+Oxmoor Center,45105,7900 Shelbyville Road Suite B15,,Louisville ,KY,40222,United States,(502) 715-4600,38.2470200000,-85.6104000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 11PM - 6PM; ,,0
+Greenwood Mall,45027,2625 Scottsville Road,,Bowling Green ,KY,42104,United States,(270) 782-3500,36.9483500000,-86.4277000000,,,0
+RiverGate Mall,50132,1000 Rivergate Parkway Suite 1170,,Goodlettsville ,TN,37072,United States,(615) 859-3006,36.3026600000,-86.6981000000,,,0
+Mall St. Matthews,45177,5000 Shelbyville Road Suite 1425,,Louisville ,KY,40207,United States,(502) 899-9960,38.2469100000,-85.6232000000,M-F: 10AM - 9PM; SAT: 10AM - 9PM; SUN: 12PM - 6PM; ,,0

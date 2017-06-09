@@ -1,0 +1,18 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Izzos Magazine St.,201,4041 Magazine Street,,New Orleans,LA,70115,United States,504-302-2619,-90.0978321,29.9212469,Sunday 10:30-9;  Monday - Saturday 10:30-10,,0
+Izzos Gonzales/Prairieville,200,"14639 Airline Hwy, Ste. 116",,Gonzales,LA,70737,United States,225.402.4120,-90.9543036,30.28315,Sun-Tues 10:30am - 9:00pm;  Wed-Sat 10:30am - 10:00pm.,,0
+Izzos Riverwalk,196,500 Port of New Orleans Place,,New Orleans,LA,70130,United States,504.322.3953,-90.0629003,29.9485328,Mo - Sa 10:00am - 9:00pm,,0
+Izzos Hammond,194,1720 W Thomas Street,,Hammond,LA,70403,United States,985-393-0043,-90.4787483,30.5009492,Su - Tu: 10:30am-9pm We - Sa: 10:30am-10pm,,0
+Izzos Harvey,166,Fountain Park Centre 1901 Manhattan Blvd. Suite 101,,Harvey,LA,70058,United States,504-570-6077,-90.0535586,29.8851149,Su - Th: 11am-9pm Fr & Sa: 11am-10pm,,0
+Izzos Metairie,165,4316 Veterans Blvd. Ste. A,,Metairie,LA,70006,United States,504-889-5505,-90.1801498,30.0045817,Su - Th: 10:30am-10pm Fr & Sa: 10:30am-10:30pm,,0
+Izzos Covington,164,70488 Hwy 21 Ste 100,,Covington,LA,70433,United States,985-327-5114,-90.133148,30.454782,Su - Th: 11am-9pm Fr & Sa: 11am-10pm,,0
+Izzos Hattiesburg,163,3319 Hardy Street,,Hattiesburg,MS,,United States,601-336-5095,-89.3399092,31.3251551,Su & Mo: 11am-9pm Tu - Sa: 11am-10pm,,0
+Izzos Mall of LA,162,"6401 Bluebonnet Blvd.,Space FC 007",,Baton Rouge,LA,70836,United States,225-767-1093,-91.0759758,30.3859766,Mo - Sa: 10:30am-9pm Su: 11am-6pm,,0
+Izzos Bluebonnet,161,4245 Bluebonnet Blvd.,,Baton Rouge,LA,70809,United States,225-706-7655,-91.0786338,30.4099704,Su & Mo: 10:30am-9:00pm,,0
+Izzos Citiplace,160,6220 Corporate Blvd.,,Baton Rouge,LA,70809,United States,225-615-8254,-91.1254757,30.4241225,Su & Mo: 11am-9pm Tu-Sa: 11am-10pm,,0
+Izzos Burbank,159,4250 Burbank Dr (LSU),,Baton Rouge,LA,70808,United States,225-214-0870,-91.1697231,30.4113743,Su - Th: 11am-10pm,,0
+Izzos Lafayette River Marketplace,158,4409 Ambassador Caffery Parkway Suite 100,,Lafayette,LA,70508,United States,337-706-8245,-92.0401379,30.150055,Su & Mo: 10:30am-9pm Tu-Sa: 10:30am-10pm,,0
+Izzos Lafayette,157,2010 Johnston St.,,Lafayette,LA,70503,United States,337-504-3189,-92.0284558,30.211491,Su - Th: 10:30am-10pm Fr & Sa: 10:30am-10:30pm,,0
+Izzos Lake Charles,156,625 W. Prien Lake Road,,Lake Charles,LA,70601,United States,337-562-7902,-93.2288277,30.1979825,Su - Th 11:00am - 9:00pm,,0
+Izzos Flowood,155,389 Ridge Way Bldg K Suite 3,,Flowood,MS,39232,United States,601-398-1156,-90.065053,32.340508,Su & Mo: 10:30am-9pm Tu - Sa: 10:30am-10pm,,0
+Izzos Bossier City,154,2501 Beene Blvd Ste 700,,Bossier City,LA,71111,United States,318-838-5321,-93.7134154,32.5588438,Su - Th: 10:30am-9pm Fr & Sa: 10:30am-10pm,,0

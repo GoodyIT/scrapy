@@ -1,0 +1,12 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Phoenix | AJ’s on Central,1174,5017 N. Central Avenue,,Phoenix,AZ,85012,United States,(602) 230-7015,33.510039,-112.071731,Mon-Sun: 6AM-9PM,,0
+Phoenix | AJ’s Arcadia,1171,4430 E. Camelback Road,,Phoenix,AZ,85018,United States,(602) 522-0956,33.510523,-111.985383,Mon-Sun: 6AM-9PM,,0
+Scottsdale | AJ’s on Lincoln,1187,7141 E. Lincoln Drive,,Scottsdale,AZ,85253,United States,(480) 998-0052,33.530439,-111.927405,Mon-Sun: 6AM-9PM,,0
+Glendale | AJ’s Arrowhead,1167,20050 N. 67th Avenue,,Glendale,AZ,85308,United States,(623) 537-2300,33.666583,-112.205566,Mon-Sun: 6AM-9PM,,0
+Scottsdale | AJ’s Thompson Peak,1185,15031 Thompson Peak Parkway,,Scottsdale,AZ,85260,United States,(480) 314-6500,33.621959,-111.873108,Mon-Sun: 6AM-9PM,,0
+Scottsdale | AJ’s DC Ranch,1179,18271 N. Pima Road,,Scottsdale,AZ,85255,United States,(480) 538-3080,33.653603,-111.885896,Mon-Sun: 6AM-9PM,,0
+Chandler | AJ’s Casa Paloma,1162,7131 W. Ray Road,,Chandler,AZ,85226,United States,(480) 705-0011,33.317922,-111.965518,Mon-Sun: 6AM-9PM,,0
+Scottsdale | AJ’s Pinnacle Peak,1176,23251 N. Pima Road,,Scottsdale,AZ,85255,United States,(480) 563-5070,33.696724,-111.88877,Mon-Sun: 6AM-9PM,,0
+Scottsdale | AJ’s Lone Mountain,1183,31311 N. Scottsdale Road,,Scottsdale,AZ,85266,United States,(480) 575-6200,33.76854,-111.923956,Mon-Sun: 6AM-9PM,,0
+Mesa | AJ’s Dana Park Village Square,1169,1836 S. Val Vista Drive,,Mesa,AZ,85204,United States,(480) 507-7280,33.381678,-111.756848,Mon-Sun: 6AM-9PM,,0
+Tucson | AJ’s La Encantada,1189,2805 E. Skyline Drive,,Tucson,AZ,85718,United States,(520) 232-6340,32.322759,-110.929935,Mon-Sun: 6AM-9PM,,0

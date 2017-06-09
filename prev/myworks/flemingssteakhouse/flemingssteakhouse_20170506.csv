@@ -1,0 +1,68 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Edgewater,,90 The Promenade,,Edgewater,NJ,07020,United States,201-313-9463,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Las Vegas/Town Square,,6515 South Las Vegas Boulevard,,Las Vegas,NV,89119,United States,702-407-0019,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 10:00 PM; ,,0
+Summerlin,,8721 West Charleston Boulevard,,Las Vegas,NV,89117,United States,702-838-4774,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 10:30 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Omaha,,140 Regency Parkway,,Omaha,NE,68114,United States,402-393-0811,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+St. Louis,,1855 South Lindbergh Boulevard,,St. Louis,MO,63131,United States,314-567-7610,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Livonia,,17400 Haggerty Road,,Livonia,MI,48152,United States,734-542-9463,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday 5:00 PM - 11:00 PM; Saturday 4:30 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Birmingham,,323 North Old Woodward Avenue,,Birmingham,MI,48009,United States,248-723-0134,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Boston,,217 Stuart Street,,Boston,MA,02116,United States,617-292-0808,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 4:30 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Baltimore,,720 Aliceanna Street,,Baltimore,MD,21202,United States,410-332-1666,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Baton Rouge,,7321 Corporate Boulevard,,Baton Rouge,LA,70809,United States,225-925-2710,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+West Des Moines,,150 South Jordan Creek Parkway,,West Des Moines,IA,50266,United States,515-457-2916,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Indianapolis,,8487 Union Chapel Road,,Indianapolis,IN,46240,United States,317-466-0175,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Chicago,,25 East Ohio Street,,Chicago,IL,60611,United States,312-329-9463,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Lincolnshire,,960 Milwaukee Avenue,,Lincolnshire,IL,60069,United States,847-793-0333,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Atlanta/Dunwoody,,4501 Olde Perimeter Way,,Atlanta,GA,30346,United States,770-698-8112,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Tampa,,4322 West Boy Scout Boulevard,,Tampa,FL,33607,United States,813-874-9463,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 4:30 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Milwaukee/Brookfield,,15665 West Bluemound Road,,Brookfield,WI,53005,United States,262-782-9463,,,Monday - Friday 5:00 PM - 10:00 PM; Saturday 4:30 PM - 10:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Madison,,750 North Midvale Boulevard,,Madison,WI,53705,United States,608-233-9550,,,Monday - Saturday 5:00 PM - 10:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Tysons Corner,,1960 Chain Bridge Road,,McLean,VA,22102,United States,703-442-8384,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 10:30 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Richmond,,9200 Stony Point Parkway,,Richmond,VA,23235,United States,804-272-7755,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Salt Lake City,,20 South 400 West (at The Gateway),,Salt Lake City,UT,84101,United States,801-355-3704,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 10:30 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+San Antonio,,255 East Basse Road,,San Antonio,TX,78209,United States,210-824-9463,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Dallas/Plano,,7250 North Dallas Parkway,,Plano,TX,75024,United States,972-543-2141,,,Monday - Friday 11:30 AM - 2:30 PM; Monday - Thursday 4:00 PM - 10:00 PM; Friday 4:00 PM - 11:00 PM; Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Houston/Town & Country,,788 W. Sam Houston Parkway North,,Houston,TX,77024,United States,713-827-1120,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Houston/The Woodlands,,1201 Lake Woodlands Drive The Woodlands Mall,,The Woodlands,TX,77380,United States,281-362-0103,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Houston/River Oaks,,2405 West Alabama Street,,Houston,TX,77098,United States,713-520-5959,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Austin/The Domain,,11600 Century Oaks Terrace,,Austin,TX,78758,United States,512-835-9463,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Austin/Downtown,,320 East 2nd Street,,Austin,TX,78701,United States,512-457-1500,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Nashville,,2525 West End Avenue,,Nashville,TN,37203,United States,615-342-0131,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 4:30 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Memphis,,6245 Poplar Avenue,,Memphis,TN,38119,United States,901-761-6200,,,Monday - Saturday 5:00 PM - 10:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Knoxville,,11287 Parkside Drive,,Knoxville,TN,37934,United States,865-675-9463,,,Monday - Saturday 5:00 PM - 10:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Providence,,One West Exchange Street,,Providence,RI,02903,United States,401-533-9000,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday 5:00 PM - 11:00 PM; Saturday 4:30 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Radnor,,555 East Lancaster Avenue,,Radnor,PA,19087,United States,610-688-9463,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Tulsa,,1976 Utica Square,,Tulsa,OK,74114,United States,918-712-7500,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Dayton,,4432 Walnut Street,,Dayton,OH,45440,United States,937-320-9548,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Cleveland/Woodmere,,28869 Chagrin Boulevard,,Woodmere,OH,44122,United States,216-896-9000,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Akron,,4000 Medina Road,,Akron,OH,44333,United States,330-670-5200,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Raleigh,,4325 Glenwood Avenue,,Raleigh,NC,27612,United States,919-571-6200,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Greensboro,,3342 West Friendly Avenue,,Greensboro,NC,27410,United States,336-294-7790,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Charlotte,,210 East Trade Street,,Charlotte,NC,28202,United States,704-333-4266,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Marlton,,500 North Route 73,,Marlton,NJ,08053,United States,856-988-1351,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Sarasota,,2001 Siesta Drive,,Sarasota,FL,34239,United States,941-358-9463,,,Monday - Thursday 4:00 PM - 10:00 PM; Friday - Saturday 4:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Sandestin,,600 Grand Boulevard,,Sandestin,FL,32550,United States,850-269-0830,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Orlando/Winter Park,,933 North Orlando Avenue,,Winter Park,FL,32789,United States,407-699-9463,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 4:30 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Orlando/Sand Lake,,8030 Via Dellagio Way,,Orlando,FL,32819,United States,407-352-5706,,,Sunday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; ,,0
+Naples,,8985 Tamiami Trail North,,Naples,FL,34108,United States,239-598-2424,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Coral Gables,,2525 Ponce de Leon Boulevard,,Coral Gables,FL,33134,United States,305-569-7995,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+West Hartford,,44 South Main Street,,West Hartford,CT,06107,United States,860-676-9463,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Denver/Englewood,,191 Inverness Drive West,,Englewood,CO,80112,United States,303-768-0827,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Woodland Hills,,6373 Topanga Canyon Boulevard,,Woodland Hills,CA,91367,United States,818-346-1005,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Walnut Creek,,1685 Mt. Diablo Boulevard,,Walnut Creek,CA,94596,United States,925-287-0297,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+San Diego,,380 K Street,,San Diego,CA,92101,United States,619-237-1155,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Rancho Mirage,,71800 Highway 111,,Rancho Mirage,CA,92270,United States,760-776-6685,,,Sunday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 10:30 PM; ,,0
+Rancho Cucamonga,,7905 Monet Avenue,,Rancho Cucamonga,CA,91739,United States,909-463-0416,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Pasadena,,179 E. Colorado Blvd,,Pasadena,CA,91105,United States,626-639-0490,,,Monday - Friday 11:30 AM - 2:30 PM; Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Palo Alto,,180 El Camino Real,,Palo Alto,CA,94304,United States,650-329-8457,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Newport Beach,,455 Newport Center Drive,,Newport Beach,CA,92660,United States,949-720-9633,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday 5:00 PM - 11:00 PM; Saturday 4:00 PM - 11:00 PM; Sunday 11:00 AM - 10:00 PM; ,,0
+Los Angeles/L.A. LIVE,,800 West Olympic Boulevard,,Los Angeles,CA,90015,United States,213-745-9911,,,Monday - Friday 11:30 AM - 2:30 PM; Sunday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; ,,0
+La Jolla,,8970 University Center Lane,,San Diego,CA,92122,United States,858-535-0078,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0
+Fresno,,639 East Shaw Avenue Suite 149,,Fresno,CA,93710,United States,559-222-5823,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+El Segundo,,2301 Rosecrans Avenue,,El Segundo,CA,90245,United States,310-643-6911,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 11:00 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Tucson,,6360 North Campbell Avenue,,Tucson,AZ,85718,United States,520-529-5017,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 10:30 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Scottsdale/N. Scottsdale Rd.,,6333 North Scottsdale Road,,Scottsdale,AZ,85250,United States,480-596-8265,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 10:30 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Peoria,,9712 West Northern Avenue,,Peoria,AZ,85345,United States,623-772-9463,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 10:30 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+N. Scottsdale/DC Ranch,,20753 North Pima Road,,North Scottsdale,AZ,85255,United States,480-538-8000,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 10:30 PM; Sunday 4:00 PM - 9:00 PM; ,,0
+Chandler,,905 North 54th Street,,Chandler,AZ,85226,United States,480-940-1900,,,Monday - Thursday 5:00 PM - 10:00 PM; Friday - Saturday 5:00 PM - 10:30 PM; Sunday 5:00 PM - 9:00 PM; ,,0
+Birmingham,,103 Summit Boulevard,,Birmingham,AL,35243,United States,205-262-9463,,,Monday - Thursday 4:30 PM - 10:00 PM; Friday - Saturday 4:30 PM - 11:00 PM; Sunday 11:00 AM - 9:00 PM; ,,0

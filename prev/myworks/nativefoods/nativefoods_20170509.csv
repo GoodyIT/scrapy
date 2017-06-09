@@ -1,0 +1,15 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Loop,,218 South Clark Street,,Chicago,IL,60604,United States,312-332-6332,,,Sun 11:00am-7:00pm,,0
+Wicker Park,,1484 North Milwaukee Avenue,,Chicago,IL,60622,United States,773-489-8480,,,Mon-Sun 11:00am-10:00pm,,0
+Hyde Park,,1518 East Harper Court,,Chicago,IL,60615,United States,773-241-7800,,,Mon-Sun 11:00am-10:00pm,,0
+Lakeview,,1023 West Belmont Avenue,,Chicago,IL,60657,United States,773-549-4904,,,Mon-Sun 11:00am-10:00pm,,0
+Boulder,,1675 29th Street Suite 1272,,Boulder,CO,80301,United States,303-442-0213,,,Monday - Thursday 11am to 9pm,,0
+Glendale,,680 South Colorado Blvd,,Glendale,CO,80246,United States,303-758-3440,,,Mon-Sun 11:00am-10:00pm,,0
+Palm Springs,,1775 E. Palm Canyon Drive,,Palm Springs,CA,92264,United States,760-416-0070,,,Mon–Sun 11:00am-9:00pm,,0
+Bridgeport Village,,7237 SW Bridgeport Road,,Tigard,OR,97224,United States,503-968-9999,,,Mon-Sun 11:00am-10:00pm,,0
+Clairemont Mesa,,5604 Balboa Avenue,,San Diego,CA,92111,United States,858-278-2855,,,Mon-Sun 11:00am-10:00pm,,0
+Point Loma,,3369 Rosecrans Street,,San Diego,CA,92110,United States,619-225-1155,,,Mon-Sun 11:00am-10:00pm,,0
+Encinitas,,127 North El Camino Real,,Encinitas,CA,92024,United States,760-634-7607,,,Mon-Sun 11:00am-10:00pm,,0
+Costa Mesa,,2937 Bristol St,,Costa Mesa,CA,92626,United States,714-751-2151,,,Mon-Sun 11:00am-10:00pm,,0
+Aliso Viejo,,26705 Aliso Creek Road,,Aliso Viejo,CA,92656,United States,949-831-1926,,,Mon-Sun 11:00am-10:00pm,,0
+Westwood,,1114 Gayley Ave.,,Los Angeles,CA,90024,United States,(310) 209-1055,,,Mon-Sun 11:00am-10:00pm,,0

@@ -1,0 +1,13 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+"St. Helena,   California",,607 S. St. Helena Way ,,St. Helena ,CA,94574,United States,707.967.9980,,,Sun-Thurs: 7am-7pm; Fri-Sat: 7am-8pm,,0
+"Tryon,   North Carolina",,201 South Tryon ,,Charlotte ,NC,28202,United States,704.377.0037,,,Mon-Thurs: 7am-8pm; Fri: 7am-5pm; Sat: 8am-5pm; Closed on Sunday,,0
+"Georgetown,  Washington, D.C.",,3276 M. St. NW ,,Washington ,D.C.,20007,United States,202.342.2500,,,Mon-Sat: 8am-9pm; Sun: 8am-8pm,,0
+"City Spire,  New York",,156 West 56th St ,,New York ,NY,10019,United States,212.586.2970,,,M-F: 7am-7pm; Sat: 8am-7pm; Sun: 8am-5pm,,0
+"Stonecrest,   North Carolina",,7804 Rea Road ,,Charlotte ,NC,28277,United States,704.541.7123,,,Sun-Thur: 8am-9pm; Fri-Sat: 8am-10pm,,0
+"Soho, New York",,560 Broadway ,,New York ,NY,10012,United States,212.226.6800,,,M-F: 7am-9pm; Sat-Sun: 8am-9pm,,0
+"Charlotte,  North Carolina Wine Room",,6903 Phillips Place Court ,,Charlotte ,NC,28210,United States,704.643.5152,,,Sun-Thurs: 11am-10pm; Fri & Sat: Noon-11pm,,0
+"Leawood,  Kansas",,4700 W 119 St. ,,Leawood ,KS,66209,United States,913.498.3131,,,Mon-Sun: 7am-8pm,,0
+"Madison,  New York",,1150 Madison Ave ,,New York ,NY,10020,United States,212.717.0800,,,M-F: 7am-8pm; Sat-Sun: 8am-8pm,,0
+New York Times Cafe  New York,,620 8th Ave ,,New York ,NY,10018,United States,212.221.0308,,,Mon-Sun: 7am-8pm,,0
+"Charlotte,  North Carolina",,6903 Phillips Place Court ,,Charlotte ,NC,28210,United States,704.643.6868,,,"Mon-Thur: 7am-8pm; Fri-Sat: 7am-9pm
+            Sun: 8am-8pm",,0

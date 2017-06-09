@@ -1,0 +1,27 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Alton Square Mall,999,206 Alton Square,,Alton,IL,62002,United States,618.642.0642,38.925586,-90.176318,Mon-Fri:10:30am-9pm; Sat-Sun:11:30am-6pm,,0
+Crossroads Mall,995,6650 South Westnedge Ave.,Spc. #0129,Portage,MI,49024,United States,269.327.1616,42.22062,-85.589438,Mon-Fri:10:30am-9pm; Sat-Sun:11pm-6pm,,0
+Woodland Mall,997,3169 Twenty-Eight St. S.E.,Unit #P103,Grand Rapids,MI,49512,United States,616.942.8020,42.912507,-85.588886,Mon-Fri:10:30am-9pm; Sat-Sun:11am-6pm,,0
+Frandor Shopping Center,1023,354 Frandor Ave.,,Lansing,MI,48912,United States,517.332.2500,42.736587,-84.505591,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Briarwood Mall,1007,452 Briarwood Circle,Space F-117,Ann Arbor,MI,48103,United States,734.994.0939,42.240895,-83.751022,Mon-Fri:10:30am-9pm; Sat-Sun:11am-6pm,,0
+Ann Arbor,1130,3500 Washtenaw Avenue,,Ann Arbor,MI,48104,United States,734.418.0600,42.254685,-83.689291,Mon-Fri:10am-10pm; Sat-Sun:11am-9pm,,0
+Plymouth Green Crossings,1021,3399 Plymouth Rd.,,Ann Arbor,MI,48105,United States,734.769.3500,42.305375,-83.694335,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Monroe,1001,2072 N. Telegraph Road,,Monroe,MI,48162,United States,734.241.8320,41.950242,-83.399627,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Brighton,1029,8485 W. Grand River,,Brighton,MI,48116,United States,810.225.3284,42.543286,-83.787866,Mon-Fri:10:30am-10pm; Sat-Sun:10am-9pm,,0
+Canton,1011,41725 Ford Rd.,,Canton,MI,48187,United States,734.983.9200,42.32218,-83.452914,Mon-Fri:10am-10pm; Sat-Sun:11am-9pm,,0
+West Market Square Shopping Center,1025,47960 Grand River,,Novi,MI,48374,United States,248.348.0800,42.492351,-83.522069,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Westland Shopping Center,991,35000 West Warren Rd.,Spc. B-1,Westland,MI,48185,United States,734.261.1270,42.340847,-83.389338,Mon-Fri:10:30am-9pm; Sat-Sun:11am-6pm,,0
+Woodhaven Village Square Shopping Center,1027,23404 Allen Rd.,,Woodhaven,MI,48183,United States,734.675.0500,42.138237,-83.22718,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Southland Center,993,23000 Eureka Rd.,Suite 1515,Taylor,MI,48180,United States,734.287.2280,42.200112,-83.254216,Mon-Fri:10:30am-9pm; Sat-Sun:11am-6pm,,0
+Laurel Park Place,1005,37612 6 Mile Rd.,Spc. E-400,Livonia,MI,48152,United States,734.464.1400,42.410938,-83.415641,Mon-Fri:10:30am-9pm; Sat-Sun:11am-6pm,,0
+The Heights Shopping Center,1003,26308 Ford Rd.,,Dearborn Heights,MI,48127,United States,313.278.5545,42.326914,-83.298027,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Fairlane Green Shopping Center,1015,3432 Fairlane Dr.,,Allen Park,MI,48101,United States,313.240.8500,42.280877,-83.208721,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Old Orchard,989,6655 Orchard Lake Rd.,,West Bloomfield,MI,48322,United States,248.855.3630,42.541384,-83.359931,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Lathrup Village,589,17651 West Twelve Mile Road,,Lathrup Village,MI,48076,United States,248.424.9010,42.501861,-83.222053,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Bloomfield,638,2075 S. Telegraph Road,,Bloomfield Township,MI,48302,United States,248.451.0500,42.608853,-83.299746,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Royal Oak &#8211; Market Fresh Grille,582,30332 Woodward Ave.,,Royal Oak,MI,48073,United States,248.549.0100,42.512861,-83.180778,Mon-Fri:10am-10pm; Sat-Sun:10am-9pm,,0
+Auburn Square,1019,2580 N. Squirrel Rd.,,Auburns Hills,MI,48326,United States,248.276.8620,42.680202,-83.219909,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Troy Sports Center,1009,1853 E. Big Beaver Rd.,,Troy,MI,48083,United States,248.524.1500,42.564528,-83.111156,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Starboard Center,1017,24060 Harper,,St. Clair Shores,MI,48080,United States,586.498.3100,42.471898,-82.904761,Mon-Fri:10:30am-9pm; Sat-Sun:11am-9pm,,0
+Garfield,1013,43201 Garfield Rd.,,Clinton Township,MI,48038,United States,586.416.0300,42.61422,-82.953758,Mon-Fri:10:30am-10pm; Sat-Sun:11am-9pm,,0
+Shelby,2086,15109 23 Mile Rd.,,Shelby Twp.,MI,48315,United States,586.464.2390,42.671258,-82.976263,Mon-Fri:10am-10pm; Sat-Sun:11am-9pm,,0

@@ -1,0 +1,377 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+,,11088 US Highway 15/501,,Aberdeen,NC,28315,United States,910-692-9440,35.157,-79.4186,,,0
+,,Sheikh Khalifa St.,,Abu Dhabi,Abu Dhabi,,United Arab Emirates,971-2-639-8400              ,24.487412,54.357135,,,0
+,,Sheikh Khalifa Bin Zayed St.,,Al Ain,Eastern Region,,United Arab Emirates,971-3-755-6733,24.224898,55.781973,,,0
+,,1475 Western Avenue,,Albany,NY,12203,United States,518-514-2003,42.6838,-73.8395,,,0
+,,6600 Menaul Blvd. Suite D-1,,Albuquerque,NM,87110,United States,505-872-0478,35.107107,-106.572767,,,0
+,,"10000 Coors Blvd., Suite B5",,Albuquerque,NM,87114,United States,505-369-1775,35.1929,-106.655,,,0
+,,"820 W. Stacy Road, Suite 164A",,Allen,TX,75013,United States,972-678-1480,33.13,-96.6616,,,0
+,,3116 Fairlane Drive,,Allen Park,MI,48101,United States,313-359-6600,42.2825,-83.205,,,0
+,,"5001 Willows Rd., Suite 301",,Alpine,CA,91901,United States,619-659-8104,32.840149,-116.707069,,,0
+,,456 East State Rd.,,American Fork,UT,84003,United States,801-763-7540,40.3734,-111.787,,,0
+,,2019 South 25th East,,Ammon,ID,83406,United States,208-522-3347,43.4796,-111.984,,,0
+,,800 E. Dimond Blvd.,,Anchorage,AK,99515,United States,907-243-6666,61.143712,-149.867719,,,0
+,,"4000 Arlington Highlands Blvd,  Ste 125",,Arlington,TX,76018,United States,817-557-5594,32.6803,-97.1096,,,0
+,,"30 Town Square Blvd, Ste 150",,Asheville,NC,28803,United States,828-650-3013,35.4848,-82.5561,,,0
+,,33 E. Main St.,,Ashland,OR,97520,United States,541-482-6757,42.1973,-122.715,,,0
+,,401 E. Cooper Ave.,,Aspen,CO,81611,United States,970-925-5112,39.1882,-106.82,,,0
+,,"4350 Baldwin Road, Suite 712",,Auburn Hills,MI,48326,United States,248-332-9772,42.7016,-83.3065,,,0
+,,"1650 Premium Outlets Blvd., Sp. 1279",,Aurora,IL,60502,United States,630-236-9700,41.7773033,-88.2558525,,,0
+,,"6240 S. Main St., Ste 102",,Aurora,CO,80016,United States,303-680-1969,39.6039,-104.709,,,0
+,,"14200 E. Alameda, Space VC-09",,Aurora,CO,80012,United States,303-341-1943,39.6998,-104.838,,,0
+,,"Unit N-19, 509 Bayfield St.",,Barrie,ON,L4M 4Z8,Canada,705-735-2462,44.4135,-79.711,,,0
+,,"61334 S. Highway 97, Ste 350",,Bend,OR,97702,United States,541-383-1718,44.0268,-121.312,,,0
+,,"8825 Market Place Drive, Suite 425",,Birch Run,MI,48415,United States,989-624-4784,43.245,-83.7762,,,0
+,,128 E Broadway,,Bloomington,MN,55425,United States,952-444-2852,44.854,-93.2404,,,0
+,,127 So Broadway Avenue,,Boise,ID,83702,United States,208-343-3648,43.609941,-116.193963,,,0
+,,711 Horseshoe Boulevard,,Bossier City,LA,71111,United States,318-741-4304,32.5154,-93.737,,,0
+,,1300 Pearl Street,,Boulder,CO,80302,United States,303-444-8455,40.0181,-105.279,,,0
+,,"273 W. 500 South, Suite 2",,Bountiful,UT,84010,United States,801-294-2750,40.8862,-111.892,,,0
+,,403 Branson Landing Blvd.,,Branson,MO,65616,United States,417-337-7623,36.6503,-93.2202,,,0
+,,1044A Brea Mall,,Brea,CA,92821,United States,714-256-1835,33.915315,-117.885670,,,0
+,,226 Main St. G4. Reliance Pl.,,Breckenridge,CO,80424,United States,970-453-2094,39.4799,-106.045,,,0
+,,"2485 Sand Creek Road, Ste 136",,Brentwood,CA,94513,United States,925-513-3384,37.945365,-121.738071,,,0
+,,"1 W. Flatiron Circle, #1074",,Broomfield,CO,80021,United States,303-635-1037,39.9298,-105.131,,,0
+,,"9911 Avon Lake Road, #385",,Burbank,OH,44214,United States,330-948-9953,41.0026,-81.9962,,,0
+,,Unit B2G - 777 Guelph Line,,Burlington,ON,L7R 3N2,Canada,905-631-5900,43.3466,-79.7962,,,0
+,,444 Fashion Way,,Burlington,WA,98233,United States,360-757-2577,48.4563,-122.339,,,0
+,,#734-9855 Austin Ave.,,Burnaby,BC,V3J 1N4,Canada,604-420-0188,49.2491,-122.896,,,0
+,,"Unit 304, 4820 Kingsway",,Burnaby,BC,V5H 4P1,Canada,604-568-5878,49.2271,-122.996,,,0
+,,267-2525 36th Street NE,,Calgary,AB,T1Y 5T4,Canada,403-590-4110,51.074,-113.982,,,0
+,,"Calgary Airport, 2000 Airport Rd NE",,Calgary,Alberta,T2E 6W5,Canada,unavailable,51.1250608,-114.0168895,,,0
+,,"Unit K6, 100 Anderson Road SE",,Calgary,AB,T2J 3V1,Canada,403-265-1950,50.95,-114.062,,,0
+,,"740 Ventura Blvd., Ste. 506",,Camarillo,CA,93010,United States,805-445-1150,34.215929,-119.060296,,,0
+,,#147-1420 Island Hwy,,Campbell River,BC,V9W 8C9,Canada,250-850-1199,50.0101,-125.234,,,0
+,,7051 S Desert Blvd E-505,,Canutillo,TX,79902,United States,915-877-3435,31.9114,-106.583,,,0
+,,"14550 Clay Terrace Blvd., Suite 105",,Carmel,IN,46032,United States,317-569-7170,39.9993,-86.13,,,0
+,,"939 East 2nd Street, # 700",,Casper,WY,82601,United States,307-237-3960,42.8484,-106.313,,,0
+,,"5050 Factory Shops Blvd., Space 840",,Castle Rock,CO,80104,United States,303-660-1320,39.4147491,-104.8728520,,,0
+,,9820 Rea Rd. Suite B,,Charlotte,NC,28277,United States,704-341-0100,35.0355,-80.8049,,,0
+,,"6801 Northlake Mall Drive, Ste 185",,Charlotte,NC,28216,United States,704-599-4553,35.3534,-80.8508,,,0
+,,5501 Josh Birmingham Parkway,,Charlotte,NC,28208,United States,704-359-4367,35.2291,-80.9419,,,0
+,,"Terminal 1, Gate B-14",,Chicago,IL,60666,United States,773-894-3480,41.979,-87.9024,,,0
+,,"Terminal 3, Upper Level, Space #T3H.U.33.B, Gate H-5",,Chicago,IL,60666,United States,773-686-5858,41.9849481,-87.9089623,,,0
+,,2015 Birch Rd. #909,,Chula Vista,CA,91915,United States,619-216-6360,32.623656,-116.966372,,,0
+,,6105 Sunrise Boulevard,,Citrus Heights,CA,95610,United States,916-536-9555,38.674782,-121.273216,,,0
+,,1917 W 1800 N Suite A5,,Clinton,UT,84015,United States,801-444-0701,32.1042919,-101.7951045,,,0
+,,"17420 Hall Road, Space 1108",,Clinton Township,MI,48038,United States,586-868-1108,42.6256152,-82.9445943,,,0
+,,"4425 Lyons Road, Ste F-105",,Coconut Creek,FL,33073,United States,954-977-9555,26.2838,-80.1865,,,0
+,,162 Jozo Weider Blvd.,,Collingwood,ON,L9Y 3Y9,Canada,705-445-1600,44.5055740,-80.3103834,,,0
+,,"750 Citadel Drive E., Space #1016",,Colorado Springs,CO,80909,United States,719-591-2254,38.8433755,-104.7629537,,,0
+,,"1605 Briargate Pkwy, Suite 111",,Colorado Springs,CO,80920,United States,719-593-0089,38.9647,-104.795,,,0
+,,"1710 Briargate Blvd., Space 185",,Colorado Springs,CO,80920,United States,719-590-7623,38.9477240,-104.7947533,,,0
+,,2431 W. Colorado Ave.,,Colorado Springs,CO,80904,United States,719-635-4131,38.8469,-104.863,,,0
+,,"1500 Polaris Pkwy, Suite 2022",,Columbus,OH,43240,United States,614-885-0577,40.145082,-82.983147,,,0
+,,"100 Citadel Drive, Suite 442",,Commerce,CA,90040,United States,323-887-9703,34.007394,-118.153372,,,0
+,,"8111 Concord Mills Blvd., Suite 424",,Concord,NC,28027,United States,704-979-1044,35.3715,-80.7186,,,0
+,,"278 Sun Valley Mall, Space D-135",,Concord,CA,94520,United States,925-825-3030,37.969063,-122.060950,,,0
+,,2785 Cabot Dr. #105,,Corona,CA,92883,United States,951-277-7555,33.812887,-117.508234,,,0
+,,215 S. Sligo #5,,Cortez,CO,81321,United States,970-565-2725,37.346629,-108.564289,,,0
+,,444 Lerwick Road Unit 401,,Courtenay,British Columbia,V9N 0A9,Canada,250-871-3933,49.7101700,-124.9633154,,,0
+,,P.O. Box 2941 314 Elk Ave.,,Crested Butte,CO,81224,United States,970-349-0933,38.8695,-106.985,,,0
+,,12416 Olive Boulevard,,Creve Coeur,MO,63141,United States,314-576-3945,38.6734343,-90.4591944,,,0
+,,11 West 112th Avenue,,Crown Point,IN,46307,United States,219-663-9010,41.4147,-87.3356,,,0
+,,"13350 N. Dallas Pkwy, Suite 2445",,Dallas,TX,75240,United States,972-991-3400,32.9328,-96.8211,,,0
+,,807 Genesee Street,,Delafield,WI,53018,United States,262 646-7778,43.0621,-88.4042,,,0
+,,"5000 Canoe Pass Way, Unit 142",,Delta,British Columbia,V4M 0B3,Canada,604-946-1134,49.0376281,-123.0852783,,,0
+,,Unit 19 - #1 Ferry Causeway,,Delta,BC,V4M 4G6,Canada,604-943-0004,49.0139,-123.12,,,0
+,,8900 Pena Blvd. Concourse B-52,,Denver,CO,80249,United States,303-342-6825,39.8588505,-104.6737280,,,0
+,,"6300 Hampden Avenue, Building 1, Suite E",,Denver,CO,80222,United States,303-759-5454,39.653,-104.916,,,0
+,,"500 16th Street, Ste 118",,Denver,CO,80202,United States,303-629-5500,39.7432,-104.99,,,0
+,,"1512 Larimer St., Space #44-R",,Denver,CO,80202,United States,303-623-1887,39.7484070,-104.9976040,,,0
+,,"3056 SR 10 West, Suite 10",,Denville,NJ,07834,United States,973-328-7623,40.865721,-74.505534,,,0
+,,510 Monroe Street,,Detroit,MI,48226,United States,313-964-2715,42.3349939,-83.0422830,,,0
+,,2019 Central Avenue,,Dodge City,KS,67801,United States,620-371-7223,37.7695,-100.016,,,0
+,,241 East 12300 South,,Draper,UT,84020,United States,801-495-4123,40.5273962,-111.8836196,,,0
+,,Jumairah Beach St.,,Dubai,Dubai,,United Arab Emirates,971-4 -49-1137,25.1917652,55.2328920,,,0
+,,7038 Hospital Drive,,Dublin,OH,43016,United States,614-718-0333,40.1031,-83.1613,,,0
+,,"4920 Dublin Blvd., Suite 340",,Dublin,CA,94568,United States,925-875-1333,37.703592,-121.884598,,,0
+,,"395 S. Lake Ave., Suite 4",,Duluth,MN,55802,United States,218-722-1700,46.782,-92.0953,,,0
+,,1600 Miller Trunk Highway Space K-109,,Duluth,MN,55811,United States,218-722-0912,46.804,-92.1571,,,0
+,,561 Main Ave.,,Durango,CO,81301,United States,970-259-1408,37.269953,-107.882055,,,0
+,,396 S. Eagle Rd.,,Eagle,ID,83616,United States,208-939-9929,43.6913,-116.353,,,0
+,,5015 111 Street NW,,Edmonton,AB,T6H 4M6,Canada,TBD,53.4867,-113.516,,,0
+,,1343-8882 170th St.,,Edmonton,AB,T5T 4M2,Canada,780-481-4100,53.5236,-113.616,,,0
+,,"2100 Troy Road, Suite 101",,Edwardsville,IL,62025,United States,618-655-1480,38.7905,-89.9506,,,0
+,,2049 N. Imperial Ave. Suite A,,El Centro,CA,92243,United States,760-353-3633 ,32.812041,-115.569300,,,0
+,,8889 Gateway Blvd. West Suite #1302,,El Paso,TX,79925,United States,915.239.5009,31.7710018,-106.3745813,,,0
+,,10801 Corkscrew Road Suite 189,,Estero,FL,33928,United States,239-949-6757,26.4362393,-81.7746935,,,0
+,,"517 Big Thompson Ave., Box 3544",,Estes Park,CO,80517,United States,970-586-6601,40.3784,-105.516,,,0
+,,261 Valley River Center,,Eugene,OR,97401,United States,541-343-1260,44.0694,-123.106,,,0
+,,6401 E. Lloyd Expressway,,Evansville,IN,47715,United States,812-437-2653,37.9743,-87.4719,,,0
+,,"3900 Medina Road, Suite G",,Fairlawn,OH,44333,United States,330-665-4466,41.1346,-81.6385,,,0
+,,"4601 E. Main St., Ste # 690",,Farmington,NM,87402,United States,505-325-4554,36.7645,-108.152,,,0
+,,581-A 2nd Avenue,,Fernie,BC,V0B 1M2,Canada,250-423-2680,49.5037,-115.061,,,0
+,,7462 E. 116th Street,,Fishers,IN,46032,United States,317-576-0122,39.956809,-86.037095,,,0
+,,325 Route 202 South,,Flemington,NJ,08822,United States,908-788-0770,40.505456,-74.849759,,,0
+,,"13000 Folsom Blvd., Suite 809",,Folsom,CA,95630,United States,916-985-4832,38.643070,-121.187237,,,0
+,,Foothills Mall 215 East Foothills Blvd,,Fort Collins,CO,80525,United States,970-226-5550,40.5437541,-105.0751056,,,0
+,,671 E. Main Street,,Frankfurt,KY,40601,United States,502-319-3726,38.2028,-84.8472,,,0
+,,"Unit C009, 1381 Regent Street",,Fredericton,NB,E3A 1A2,Canada,506-455-2462,45.9335,-66.6627,,,0
+,,"3710 Rt 9, Suite F210",,Freehold,NJ,07728,United States,732-409-7623,40.253111,-74.300029,,,0
+,,175 Paseo Del Centro,,Fresno,CA,93720,United States,559-437-0400,36.849175,-119.788169,,,0
+,,"639 E. Shaw Avenue, Space 167",,Fresno,CA,93710,United States,559-228-3150,36.807413,-119.775802,,,0
+,,"2809 Preston Road, Suite 1250",,Frisco,TX,75034,United States,972-377-4050,33.1027,-96.8058,,,0
+,,*COMING SOON*17 South Ft. Lauderdale Blvd.,,Ft. Lauderdale,FL,33316,United States,TBD,26.1177163,-80.1046539,,,0
+,,84 Main Street,,Gaithersburg,MD,20878,United States,301-590-0009,39.1248,-77.237,,,0
+,,207 South Main St.,,Galena,IL,61036,United States,815-777-3200,42.4155,-90.4296,,,0
+,,"2217 Strand, Ste 103",,Galveston,TX,77550,United States,409-762-4340,29.307,-94.7938,,,0
+,,"1308 Commons Drive, Ste 5020",,Geneva,IL,60134,United States,630-208-1484,41.8948,-88.3416,,,0
+,,1103 E. Boxelder Road Suite H,,Gillette,WY,82718,United States,307-257-2885,44.2776,-105.488,,,0
+,,"20022 N. 67th Avenue, Suite 102",,Glendale,AZ,85308,United States,623-566-9400,33.6658700,-112.2045675,,,0
+,,7700 W. Arrowhead Town Center #102,,Glendale,AZ,85308,United States,623-979-0677,33.642134,-112.226773,,,0
+,,276-11801 100 St.,,Grande Prairie,AB,T8V 3Y2,Canada,780-832-9127,55.1867,-118.795,,,0
+,,"3000 Grapevine Mills Pkwy, Ste. 258",,Grapevine,TX,76051,United States,972-724-6868,32.9681,-97.037,,,0
+,,"1200 10th Avenue South, # 16",,Great Falls,MT,59405,United States,406-315-1002,47.4927,-111.291,,,0
+,,1626 Highwoods Blvd,,Greensboro,NC,27410,United States,336-292-0321,36.1132,-79.8785,,,0
+,,"1911 Leesburg - Grove City Road, Suite 750",,Grove City,PA,16127,United States,724-748-5116,41.1434,-80.1582,,,0
+,,"Unit Z20, Stone Road Mall",,Guelph,ON,N1G 2X6,Canada,519-826-9600,43.5161,-80.2389,,,0
+,,1930 Route 57,,Hackettstown,NJ,07840,United States,908-850-9901,40.820074,-74.835946,,,0
+,,Spring Garden Road,,Halifax,NS,B3J 3T1,Canada,902-404-7652,44.6478,-63.6197,,,0
+,,"186 N. 12th Avenue, Suite 111",,Hanford,CA,93230,United States,559-583-9000,36.3249,-119.674,,,0
+,,"PO Box 479, #1  328 Esplanade Ave",,Harrison Hot Springs,BC,V0M 1K0,Canada,604-491-2010,49.3029,-121.782,,,0
+,,"20 Via Bel Canto, #100",,Henderson,NV,89011,United States,702-547-1000,36.1026,-114.93,,,0
+,,2227 NW 185th Avenue,,Hillsboro,OR,97124,United States,503-645-8959,45.5365,-122.868,,,0
+,,116 Washington St.,,Hoboken,NJ,07030,United States,201-222-3233,40.738139,-74.031024,,,0
+,,"Wm. P. Hobby Int. Airport, Central Terminal",,Houston,TX,77061,United States,TBD,29.6452718,-95.2773289,,,0
+,,"3100 Terminal Rd, Terminal C",,Houston,TX,77032,United States,832-421-1217,29.985587,-95.338591,,,0
+,,"303 Memorial City, Suite 850",,Houston,TX,77024,United States,832-358-2626,29.7787,-95.54,,,0
+,,48 Park Lane,,Hudson,OH,44236,United States,330-655-2990,41.2408,-81.4425,,,0
+,,5828 Arndt Road Suite 2,,Hudson,WI,54016,United States,715-381-9899,44.9803,-92.6944,,,0
+,,6320 FM 1960 East,,Humble,TX,77346,United States,281-812-6221,29.9985,-95.1779,,,0
+,,10 Pullman Square,,Huntington,WV,25701,United States,304-522-6640,38.4223,-82.4431,,,0
+,,"7777 Edinger Avenue, Suite 178",,Huntington Beach,CA,92647,United States,714-901-3107,33.7303,-117.995,,,0
+,,"200 Main St., Suite 106",,Huntington Beach,CA,92648,United States,714-969-0795,33.6582,-118,,,0
+,,Unit 19 - 3311 County Road 89 at Hwy 400,,Inisfil,ON, L0L 1L0,Canada,705-458-1580,44.2018,-79.6477,,,0
+,,125 South Dubuque Street,,Iowa City,IA,52240,United States,319-351-9720,41.6598,-91.5332,,,0
+,,617 Spectrum Center Drive,,Irvine,CA,92618,United States,949-450-0999,33.6533,-117.748,,,0
+,,100 Front St. South,,Issaquah,WA,98027,United States,425-295-7658,47.5291,-122.036,,,0
+,,COMING SOON,,Jacksonville,FL,32250,United States,904-742-3543,30.2884260,-81.4478139,,,0
+,,610 Wildwood Drive,,Jefferson City,MO,65109,United States,573-636-2653,38.5803,-92.2465,,,0
+,,8205 Factory Shops Blvd.,,Jeffersonville,OH,43128,United States,740-948-9174,39.6205,-83.6034,,,0
+,,"755 McGill Road, Unit 105",,Kamloops,BC,V2C 0B6,Canada,236-425-0066,50.6685214,-120.3583064,,,0
+,,"30 W. Pershing, Suite 130",,Kansas City,MO,64108,United States,816-421-2571,39.0841,-94.5842,,,0
+,,7212 N.W. 86th Terrace,,Kansas City,MO,64153,United States,816-298-7111,39.2508,-94.6635,,,0
+,,"1837 Village West Pkwy, Suite 127",,Kansas City,KS,66111,United States,913-788-5330,39.1254,-94.8291,,,0
+,,"Unit 0400, 2271 Harvey Ave.",,Kelowna,BC,V1Y 6H2,Canada,250-763-9827,49.8817,-119.438,,,0
+,,Zayed The First St.,,Khalidya Area,Abu Dhabi,,United Arab Emirates,971-2-634-8222            ,24.480348,54.357066,,,0
+,,706 Kingwood Drive Space A,,Kingwood,TX,77339,United States,281-312-2566,30.0488,-95.2193,,,0
+,,50-B La Grange Rd.,,La Grange,IL,60525,United States,708-352-6487,41.813647,-87.869952,,,0
+,,1139 Prospect Street,,La Jolla,CA,92037,United States,858-454-0077,32.8486,-117.273,,,0
+,,248 South Coast Highway,,Laguna Beach,CA,92651,United States,949-497-3799,33.5422,-117.784,,,0
+,,"28200 Hwy. 189, Suite C-200",,Lake Arrowhead,CA,92352,United States,909-337-4909,34.2505,-117.191,,,0
+,,14239 W. Colfax Avenue,,Lakewood,CO,80401,United States,,39.7355925,-105.1591630,,,0
+,,19705 Fraser Highway,,Langley,BC,V3A 7E9,Canada,778-277-2877,49.113,-122.677,,,0
+,,305  Avenue N. Nellis,,Las Vegas,NV,89110,United States,702-453-1500,36.1676,-115.063,,,0
+,,220 E. Fremont Street,,Las Vegas,NV,89101,United States,702-380-1072,36.1726,-115.122,,,0
+,,Orleans Hotel 4500 W. Tropicana Ave.,,Las Vegas,NV,89103,United States,702-362-1886,36.1028,-115.202,,,0
+,,COMING SOON,,Las Vegas,NV,89129,United States,,36.2191781,-115.2624712,,,0
+,,9795 W. Charleston Blvd. #101,,Las Vegas,NV,89117,United States,702-479-1352,36.1588,-115.311,,,0
+,,"1955 South Casino Dr., Ste 338",,Laughlin,NV,89029,United States,702-298-0513,35.1623,-114.576,,,0
+,,"3035 Boulevard Le Carrefour, Unit M013",,Laval,QC,H7T 1C8,Canada,450-686-7623,45.5683,-73.7502,,,0
+,,"647 Massachusetts Street, Suite 101B",,Lawrence,KS,66044,United States,785-843-0990,38.9721,-95.236,,,0
+,,"936 N. Main Street, Suite D",,Layton,UT,84041,United States,801-444-0701,41.074,-111.979,,,0
+,,636 Front St.,,Leavenworth,WA,98826,United States,509-548-6525,47.5947,-120.664,,,0
+,,3700 N. Cabelas Boulevard Space 252,,Lehi,UT,84043,United States,801-901-1323,40.41,-111.877,,,0
+,,"2337 Sir Barton Way, Suite 110",,Lexington,KY,40506,United States,859-280-2264,38.028,-84.4216,,,0
+,,"3801 Mall Road, Suite 110",,Lexington,KY,40503,United States,,37.9848282,-84.5309131,,,0
+,,"3801 Mall Road, Suite 110",,Lexington,KY,40503,United States,617-645-6837,37.9848284,-84.5309133,,,0
+,,541 N Milwaukee Avenue,,Libertyville,IL,60048,United States,847-367-6703,42.2886,-87.9549,,,0
+,,"8501 W. Bowles Ave., Space 2015",,Littleton,CO,80123,United States,303-972-1644,39.6121223,-105.0957755,,,0
+,,"115 S. School St., Suite 4",,Lodi,CA,95240,United States,209-339-8275,38.1322,-121.274,,,0
+,,"505 East, 1400 North, Suite # 140",,Logan,UT,84341,United States,435-753-3339,41.7575,-111.822,,,0
+,,Unit L039 - 1680 Richmond St. N.,,London,ON,N6G 3Y9,Canada,519-645-2462,43.0249,-81.2815,,,0
+,,"8441 S. Yosemite, Suite 4",,Lone Tree,CO,80124,United States,303 708-8771,39.5635,-104.886,,,0
+,,"419 Shoreline Village Dr., Suite F",,Long Beach,CA,90802,United States,562-436-5901,33.7604714,-118.1915572,,,0
+,,56 Centennial Drive,,Long Branch,NJ,07740,United States,732-222-7623,40.301675,-73.979254,,,0
+,,"1087 S Hover Road, Unit B",,Longmont,CO,80501,United States,303-682-5680,40.1472,-105.132,,,0
+,,330 S. Hope St.,,Los Angeles,CA,90071,United States,213-687-0351,34.0534,-118.253,,,0
+,,2015 S. Hurstbourne Parkway,,Louisville,KY,40220,United States,502-499-7750,38.2173,-85.5873,,,0
+,,5669 McWhinney Blvd.,,Loveland,CO,80538,United States,970-593-0106,40.411,-104.995,,,0
+,,6616 Milwaukee Avenue,,Lubbock,TX,79424,United States,806-993-9866,33.533617,-101.957714,,,0
+,,25369 Cedar Road,,Lyndhurst,OH,44124,United States,216-381-7625,41.5013,-81.4992,,,0
+,,"6201 Minaret Rd, Space #213",,Mammoth,CA,93546,United States,760-934-6962,37.6511257,-118.9851943,,,0
+,,"437 Old Mammoth Road, Space N-1",,Mammoth Lakes,CA,93546,United States,760-934-6269,37.6390693,-118.9649287,,,0
+,,1225 Moro Street,,Manhattan,KS,66502,United States,785-539-5336,39.1857,-96.5753,,,0
+,,303 E. Yosemite Ave.,,Manteca,CA,95336,United States,209-823-6500,37.7975,-121.214,,,0
+,,921 Park Center Drive,,Matthews,NC,28105,United States,704-443-9150,35.1215,-80.7212,,,0
+,,"3300 E Expressway 83, Bldg 100, Ste 170",,McAllen,TX,78501,United States,956-631-3800,26.1963,-98.2047,,,0
+,,COMING SOON!,,McAllen,TX,78503,United States,TBD,26.1852376,-98.2362856,,,0
+,,"130-3292 Dunmore Rd., SE",,Medicine Hat,AB,T1B 2R4,Canada,403-526-9397,50.0058,-110.645,,,0
+,,"6515 Poplar Avenue, Suite 104",,Memphis,TN,38119,United States,901-207-2355,35.0988,-89.846,,,0
+,,"5001 E Expressway 83, Ste 331",,Mercedes,TX,78570,United States,956-565-7725,26.1596,-97.8872,,,0
+,,3700 Rigby Road,,Miamisburg,OH,45342,United States,937-247-5658,39.599560,-84.232534,,,0
+,,7702 South Union Park Ave,,Midvale,UT,84047,United States,801-562-8543,40.6118,-111.854,,,0
+,,170 Great Mall Drive,,Milpitas,CA,95035,United States,408-942-7211,37.4193,-121.901,,,0
+,,10562  Hwy. 98 West #117,,Miramar Beach,FL,32550,United States,850-654-9777,30.3778,-86.3508,,,0
+,,"100 City Center Dr., Unit 1-860",,Mississauga,ON,L5B 2C9,Canada,905-277-2462,43.5922,-79.6394,,,0
+,,"2230 North Reserve, Suite 450",,Missoula,MT,59808,United States,406-926-1007,46.8859,-114.039,,,0
+,,"3401 Dale Rd., Suie Q12A",,Modesto,CA,95356,United States,209-577-5500,37.6871609,-121.0517748,,,0
+,,3035 Che De La Chapelle,,Mont Tremblant,QC,J8E 1B1,Canada,819-681-4545,46.214,-74.586,,,0
+,,2103 Montclair Plaza Lane,,Montclair,CA,91763,United States,909-626-9660,34.0885,-117.694,,,0
+,,647 Cannery Row,,Monterey,CA,93940,United States,831-372-1065,36.6152,-121.9,,,0
+,,"U-9/10,Level 72, \Jardin des Arts\"" 1251 rue Jeanne-Mance""",,Montreal,QC,QC H5B 1B8,Canada,514-507-6259,45.507,-73.5648,,,0
+,,705 St. Catherine Street West Unit 1108b,,Montreal,QC,H3B 4G5,Canada,514-285-8686,45.5024,-73.5709,,,0
+,,2157 S. Mission Street,,Mt. Pleasant,MI,48858,United States,989-772-7559,43.5799,-84.7674,,,0
+,,2333 Memorial Boulevard,,Murfreesboro,TN,37129,United States,615-956-6550,35.8861,-86.3826,,,0
+,,680 Trans-Canada Highway,,Nanaimo,BC,V9S 5R1,Canada,250-755-3030,49.1792,-123.945,,,0
+,,"6631 Island Highway North, #148",,Nanaimo,BC,V9T 4T7,Canada,250-390-9600,49.2364,-124.046,,,0
+,,22 E. Chicago Ave. Suite 109,,Naperville,IL,60540,United States,630-637-0085,41.771,-88.1468,,,0
+,,"2835 Showplace Dr., Ste 111",,Naperville,IL,60564,United States,630-904-2462,41.707,-88.1995,,,0
+,,348 Opry Mills Drive,,Nashville,TN,37214,United States,615-649-0428,36.2041,-86.695,,,0
+,,New West Skytrain Station,,New Westminster,BC,V3M 0G3,Canada,604-553-0020,49.2018,-122.913,,,0
+,,7500 Lundy's Lane,,Niagara Falls,ON,L2H 1G8,Canada,905-356-0585,43.0872,-79.1206,,,0
+,,"300 Taylor Road, Unit 807",,Niagara on the Lake,ON,LOS1JO,Canada,905-685-5500,43.1589,-79.172,,,0
+,,70 Queen Street.,,Niagara-on-the-Lake,ON,L0S 1J0,Canada,905-468-0800,43.2557,-79.0732,,,0
+,,503 South Main Street,,Normal,IL,61761,United States,309-808-4448,40.506,-88.9952,,,0
+,,"561 S. Fork Ave. SW, Ste. H",,North Bend,WA,98045,United States,425-831-1818,47.4907586,-121.7972072,,,0
+,,4966 Portage NW,,North Canton,OH,44720,United States,330-494-3600,40.8794,-81.4393,,,0
+,,6592 N. Decatur Blvd. #101,,North Las Vegas,NV,89131,United States,702-629-7960,36.2799,-115.206,,,0
+,,3115 Edgemont Blvd.,,North Vancouver,BC,V7R 2N7,Canada,604-987-3611,49.3375,-123.102,,,0
+,,"300 Happ Rd., Ste 114",,Northfield,IL,60093,United States,847-446-5001,42.0989,-87.769,,,0
+,,"175 S. 25th Street, Suite 100",,Ogden,UT,84401,United States,801-610-6946,41.2204,-111.977,,,0
+,,14941 West 119th Street,,Olathe,KS,66062,United States,913-782-4815,38.9127,-94.7589,,,0
+,,3220 Farnam Street #2107,,Omaha,NE,68131,United States,402 359-1719,41.257999,-95.960784,,,0
+,,"One Mills Circle, Ste. 809",,Ontario,CA,91764,United States,909-980-9248,34.0744,-117.554,,,0
+,,"20 City Blvd. West, Suite A-215",,Orange,CA,92868,United States,714-385-1777,33.7832,-117.893,,,0
+,,"8001 S. Orange Blossom Trail, Rm #714",,Orlando,FL,32809,United States,407-613-2568,28.4456895,-81.3954170,,,0
+,,8145 Internaional Drive Suite 545,,Orlando,FL,32819,United States,407-930-0936,28.4482,-81.4709,,,0
+,,"4540 Osage Beach Parkway, M7",,Osage Beach,MO,65065,United States,573-348-0880,38.1464,-92.6266,,,0
+,,55 Byward Market Square,,Ottawa,ON,K1N 9C3,Canada,613-241-1091,45.4276,-75.6926,,,0
+,,"2305 W Jackson Ave., Ste 204",,Oxford,MS,38655,United States,662-236-2911,34.3622,-89.5642,,,0
+,,COMING SOON,,Palmdale,CA,93551,United States,661-274-2650,34.6021794,-118.1521363,,,0
+,,510 Main Street,,Park City,UT,84060,United States,435-649-0997,40.6444,-111.496,,,0
+,,1385 Lowell Ave.,,Park City,UT,84060,United States,435-649-2235,40.6523,-111.507,,,0
+,,1106 Pine Street,,Paso Robles,CA,93446,United States,805-226-7598,35.626,-120.689,,,0
+,,200 Bass Pro Drive Suite 420,,Pearl,MS,39208,United States,601-398-1842,32.2746,-90.1484,,,0
+,,"4700 No. University St., Suite 21",,Peoria,IL,61614,United States,309-693-7623,40.761,-89.5878,,,0
+,,9918 W. Happy Valley Parkway,,Peoria,AZ,85383,United States,623-566-1400,33.711,-112.273,,,0
+,,2200 Petaluma Boulevard North # 410,,Petaluma,CA,94952,United States,707-781-6880,38.2563,-122.65,,,0
+,,"4250 Anthem Way, Suite 485",,Phoenix,AZ,85027,United States,623-465-9716,33.873741,-112.149111,,,0
+,,The Shops at Norterra  2510 W. Happy Valley Rd STE 1250,,Phoenix,AZ,85085-1881,United States,623-518-2138,33.715111,-112.114072,,,0
+,,"Unit 32, 1355 Kingston Road",,Pickering,ON,L1V 1B8,Canada,905-422-0062,43.8381,-79.0871,,,0
+,,1718 Hill Road North,,Pickerington,OH,43147,United States,614-868-9801,39.9247,-82.7853,,,0
+,,333 Five Cities Dr.,,Pismo Beach,CA,93449,United States,805-773-2149,35.136,-120.627,,,0
+,,1144 Stoneridge Mall Road # B120,,Pleasanton,CA,94588,United States,925-598-9757,37.6923,-121.93,,,0
+,,64 Washington Avenue,,Pleasantville,NY,10570,United States,914-409-4959,41.1363,-73.7922,,,0
+,,6815 Trans-Canada Hwy,,Pointe-Claire,QC,H9R 5J1,Canada,514-694-7623,45.462,-73.8307,,,0
+,,6800 S. Westnedge Avenue,,Portage,MI,49002,United States,269-327-4674,42.2180997,-85.5901885,,,0
+,,1191 E. Main Street,,Price,UT,84501,United States,435-613-2653,39.5983,-110.793,,,0
+,,651 Central St W,,Prince George,BC,V2M 3C6,Canada,250-563-9880,53.919580,-122.782237,,,0
+,,"4801 N. University Ave., Space 740",,Provo,UT,84604,United States,801-224-0511,40.2985946,-111.6579246,,,0
+,,"13333 Meridian Avenue E., Suite G",,Puyallup,WA,98373,United States,253-845-2000,47.1349919,-122.2921990,,,0
+,,"Unit 121, 5401 Boul, des Galeries",,Quebec,QC,G2K 1N4,Canada,418-627-7625,46.8309,-71.2953,,,0
+,,"Unit 3145, 2700 Boulevard Laurier",,Quebec City,QC,G1V 4J9,Canada,418-650-5003,46.7696,-71.2842,,,0
+,,308 Tyler Avenue,,Radford,VA,24141,United States,540-639-1141,37.1387,-80.5532,,,0
+,,"8521 Brier Creek Pkwy, Ste 103",,Raleigh,NC,27616,United States,919-806-8992,35.9069,-78.7833,,,0
+,,12545 N. Mainstreet,,Rancho Cucamonga,CA,91739,United States,909-463-0203,34.112,-117.531,,,0
+,,"71-800 Highway 111, Sp. A-142",,Rancho Mirage,CA,92270,United States,760-346-2929,33.7694489,-116.4311920,,,0
+,,"30622 Santa Margarita Pkwy, #104",,Rancho Santa Margarita,CA,92688,United States,949-589-2565,33.6411,-117.596,,,0
+,,507 6th Street,,Rapid City,SD,57701,United States,605-716-4700,44.0808,-103.227,,,0
+,,420 West Main Street,,Red River,NM,87558,United States,575-754-2232,36.7102,-105.41,,,0
+,,"10060 Alabama St., Ste C",,Redlands,CA,92374,United States,909-798-7700,34.0708,-117.21,,,0
+,,"1815 Hawthorne Blvd., # 342",,Redondo Beach,CA,90278,United States,310-214-1585,33.8708,-118.353,,,0
+,,299 East Plumb Lane Suite A,,Reno,NV,89502,United States,775-322-3110,39.5058,-119.801,,,0
+,,"5100 Mae Anne Ave., Suite 101",,Reno,NV,89523,United States,775-787-1212,39.530416,-119.865464,,,0
+,,COMING SOON!,,Rexburg,ID,83440,United States,,42.6285727,-82.9890253,,,0
+,,"1065 Highland Colony Parkway, Suite G",,Ridgeland,MS,39157,United States,601 707-5139,32.4434,-90.1501,,,0
+,,321 Mt. Hope Ave,,Rockaway,NJ,07866,United States,973 537-8200,40.909625,-74.549512,,,0
+,,"2091 Summer Lee Drive, Ste 103",,Rockwall,TX,75032,United States,214-771-3500,32.8894,-96.4799,,,0
+,,"Unit 536J, 261055 Cross Iron Blvd.",,Rocky View,AB,T4A 0G3,Canada,403-274-6556,51.2031,-113.99,,,0
+,,"2203 Promenade Blvd., Ste 8108",,Rogers,AR,72758,United States,479-899-6700,36.305336,-94.174760,,,0
+,,7080 Mannheim Road,,Rosemont,IL,60018,United States,847-824-6670,42.0093,-87.8858,,,0
+,,31961 Gratiot Avenue,,Roseville,MI,48197,United States,586-294-2013,42.5319,-82.9144,,,0
+,,4401 N. Hwy 35 #743,,Round Rock,TX,78664,United States,512-868-9730,30.5042,-97.6462,,,0
+,,1039 2nd Street,,Sacramento,CA,95814,United States,916-448-8801,38.5827,-121.504,,,0
+,,"401 Center Street NE, Suite 285",,Salem,OR,97301,United States,503-371-8400,44.9434,-123.036,,,0
+,,"City Creek Center 50 S. Main Street, Space 115A",,Salt Lake City,UT,84101,United States,801 532-3602,40.7679778,-111.8918079,,,0
+,,The Gateway 158 So. Rio Grand St.,,Salt Lake City,UT,84101,United States,801-456-0683,40.7662,-111.904,,,0
+,,"776 N. Terminal Drive, Space 1 (Airport Terminal 1)",,Salt Lake City,UT,84116,United States,801-531-3582,40.7868081,-111.9821681,,,0
+,,"776 N. Terminal Dr., Terminal 2, D Concourse (Airport Terminal 2)",,Salt Lake City,UT,84116,United States,801-531-3572,40.8038325,-112.0237903,,,0
+,,522 River Walk St.,,San Antonio,TX,78205,United States,210-227-2626,29.4245,-98.4885,,,0
+,,"17503 LaCantera Pkwy., Ste 101",,San Antonio,TX,78257,United States,210-561-2776,29.6088,-98.598,,,0
+,,101 W. Avenida Vista Hermosa Suite 612,,San Clemente,CA,92672,United States,949-441-7728,33.4451,-117.631,,,0
+,,"4705 Clairmont Dr., Ste B",,San Diego,CA,92117,United States,858-270-5552,32.8297,-117.205,,,0
+,,65 Jefferson Street,,San Francisco,CA,94133,United States,415-982-0611,37.8084,-122.414,,,0
+,,848 Higuera St.,,San Luis Obispo,CA,93401-3601,United States,805-541-2221,35.2803,-120.662,,,0
+,,"4015 South Interstate 35, Suite 835",,San Marcos,TX,78666,United States,512-392-9780,29.8225,-97.9885,,,0
+,,"708 Center Drive, #101",,San Marcos,CA,92069,United States,760-743-7735,33.1336,-117.122,,,0
+,,9335 South State Street,,Sandy,UT,84070,United States,801-878-4888,40.5818,-111.891,,,0
+,,Main Place Mall,,Santa Ana,CA,92705,United States,,33.7532358,-117.7901088,,,0
+,,1056 Santa Rosa Plaza,,Santa Rosa,CA,95401,United States,707-545-2722,38.4398,-122.718,,,0
+,,1376 North Redwood Road,,Saratoga Springs,UT,84045,United States,801-341-8470,40.3869,-111.916,,,0
+,,3510 8th Street East,,Saskatoon,SK,S7H 0W6,Canada,306-244-2462,52.1145,-106.597,,,0
+,,"9500 E. Via de Ventura, Suite D201",,Scottsdale,AZ,85256,United States,480-434-6071,33.5545531,-111.8760017,,,0
+,,13610 N. Scottsdale Road,,Scottsdale,AZ,85254,United States,,33.6101544,-111.9262185,,,0
+,,"7014 Camelback Rd., Ste.  2200",,Scottsdale,AZ,85251,United States,480-970-1707,33.503383,-111.929109,,,0
+,,1419 First Ave.,,Seattle,WA,98101,United States,206-262-9581,47.608,-122.34,,,0
+,,"270 N. Highway 89A, Suite 2",,Sedona,AZ,86336,United States,928-282-3383,34.870800,-111.759621,,,0
+,,200 Progress Avenue,,Siloam Springs,AR,72761,United States,479-373-6311,36.183075,-94.516040,,,0
+,,"247-A Rainbow Drive, G-250",,Silverthorne,CO,80498,United States,970-262-2462,39.6305,-106.071,,,0
+,,Snowmass Village Gateway Mall,,Snowmass,CO,81615-5995,United States,970-923-2875,39.1903602,-106.9476660,,,0
+,,1655 Copenhagen Dr.,,Solvang,CA,93463,United States,805-688-8823,34.5951,-120.14,,,0
+,,80 Route 6,,Somers,NY,10505,United States,914-621-0201,41.343,-73.757,,,0
+,,10493 South Redwood Road,,South Jordan,UT,84095,United States,801-446-1095,40.5603,-111.939,,,0
+,,"1001 Heavenly Village Way, Unit 30B",,South Lake Tahoe,CA,96150,United States,775-339-2040,38.9561,-119.944,,,0
+,,320 N. Main,,Spanish Fork,UT,84660,United States,801-794-2558,40.1141,-111.655,,,0
+,,"808 West Main, Suite 147",,Spokane,WA,99201,United States,509-473-9202,47.6591,-117.424,,,0
+,,1330 N. Argonne Road Suite C,,Spokane Valley,WA,99212,United States,509-927-7623,47.668976,-117.282243,,,0
+,,6763 Springfield Mall,,Springfield,VA,22150,United States,703-313-9500,38.7724,-77.1766,,,0
+,,"250 Red Cliffs Dr, Space 20",,St George,UT,84790,United States,435-652-4327,37.1124230,-113.5533910,,,0
+,,"500 Outlet Mall Blvd., Space #290",,St. Augustine,FL,32095,United States,904-827-1545,29.9254921,-81.4121453,,,0
+,,"1520 S. Fifth Street, Space 105",,St. Charles,MO,63303,United States,636-757-3356,38.7659864,-90.4959458,,,0
+,,3715 Frederick Ave. Unit B,,St. Joseph,MO,64506-3018,United States,816-233-8500,39.7773,-94.8019,,,0
+,,4300 Glumack Dr. LT-2360,,St. Paul,MN,55111,United States,612-726-9133,44.8849345,-93.2131232,,,0
+,,624 Lincoln Avenue,,Steamboat Springs,CO,80487,United States,970-870-3048,40.4851,-106.833,,,0
+,,714 S. Main Street,,Stillwater,OK,74074,United States,405-533-2977,36.1138,-97.0591,,,0
+,,10 Downie Street,,Stratford,ON,N5A 7K4,Canada,519-272-2807,43.3711,-80.9827,,,0
+,,Unit No. 115 - 1349 LaSalle Blvd,,Sudbury,ON,P3A 1Z2,Canada,705-560-2462,46.5221,-80.9864,,,0
+,,3240 Village Way,,Sun Peaks,BC,V0E 1Z1,Canada,250-578-0065,50.8852,-119.883,,,0
+,,"Unit 1178, 10355 152nd Street",,Surrey,BC,V3R7C1,Canada,604-496-7623,49.1906,-122.801,,,0
+,,"800 Grand Lake Road, Unit 27",,Sydney,NS,B1P 6S9,Canada,902-567-9866,46.1488,-60.1396,,,0
+,,112 S Plaza,,Taos,NM,87571,United States,575-758-8855,36.407,-105.575,,,0
+,,40820 Winchester Road,,Temecula,CA,92591,United States,951-296-2990,33.5254,-117.159,,,0
+,,2000 E. Rio Salado Parkway,,Tempe,AZ,85281,United States,480-284-8724,33.4324152,-111.9052063,,,0
+,,5000 Arizona Mills Circle #454,,Tempe,AZ,85282,United States,480-756-7366,33.381338,-111.965269,,,0
+,,"301 Tanger Dr. , Suite 201",,Terrell,TX,75160,United States,972-563-9999,32.7023,-96.2821,,,0
+,,"26400 Kuykendahl, Bldg C, Suite 110",,The Woodlands,TX,77389,United States,# 832-639-8760,30.1423,-95.5508,,,0
+,,"Unit 0160A, 1 Promenade Circle",,Thornhill,ON,L4J 4P8,Canada,905-597-2460,43.8091,-79.453,,,0
+,,"1000 Fort William Road, Unite #0D019",,Thunder Bay,ON,P7B 6B9,Canada,,48.4038136,-89.2436837,,,0
+,,"120 Laconia Road, Suite 200",,Tilton,NH,03276,United States,603-286-7663,43.459132,-71.562041,,,0
+,,"1197 North Main Street, Suite E",,Tooele,UT,84024,United States,435-228-0120,40.5551,-112.298,,,0
+,,100 King Street West,,Toronto,ON,M5X 1B5,Canada,416-363-2462,43.6488,-79.3817,,,0
+,,"PO Box 1014, 218 Yonge Street",,Toronto,ON,M5A 2H1,Canada,416-599-2462,43.676,-79.3893,,,0
+,,Terminal One; 2710 Britainia Rd. E.,,Toronto,ON,L5P 1B2,Canada,905-612-1558,43.6691521,-79.6628408,,,0
+,,"Perrson Terminal 1 - Transborder, 2710 Britannia road East, Cargo 2 - Building 6",,Toronto,ON,L5P 1B2,Canada,905-673-2462,43.6691521,-79.6628408,,,0
+,,"1859 West 11th St., Ste C6",,Tracy,CA,95376,United States,209-832-7461,37.7395,-121.451,,,0
+,,"450 NW 257th Ave., Space 336",,Troutdale,OR,97060,United States,503-665-7237,45.5439061,-122.3892806,,,0
+,,"2800 W. Big Beaver Rd., Space N-124",,Troy,MI,48084-1454,United States,248-816-1454,42.5630759,-83.1843540,,,0
+,,"10600 Quilceda Blvd., Ste 622",,Tulalip,WA,98271,United States,360-716-2400,48.0684,-122.288,,,0
+,,"1413 Retherford Street, D163",,Tulare,CA,93274,United States,559-687-1081,36.2301,-119.335,,,0
+,,10114 S. Sheridan Road,,Tulsa,OK,74133,United States,918-299-7623,36.0165,-95.9043,,,0
+,,2461 Park Avenue,,Tustin,CA,92782,United States,714-258-0026,33.6984,-117.827,,,0
+,,799 Cheney Drive Space A,,Twin Falls,ID,83338,United States,208-736-4656,42.5562,-114.47,,,0
+,,"131 Nut Tree Road, Suite D",,Vacaville,CA,95687,United States,707-453-1041,38.3676,-121.956,,,0
+,,158 Gore Creek Drive,,Vail,CO,81657,United States,970-476-7623,39.6405,-106.375,,,0
+,,71 Silhavy Road Suite 161,,Valparaiso,IN,46383,United States,219-476-3430,41.4696,-87.0271,,,0
+,,1017 Robson Street,,Vancouver,BC,V6E 1A9,Canada,604-688-4100,49.2838,-123.123,,,0
+,,"Unit 516, 1  Bass Pro Mills Dr.",,Vaughan,ON,L4K 5W4,Canada,905-660-3326,43.8228,-79.5335,,,0
+,,4000 S. Frontage Road,,Vicksburg,MS,39180,United States,601 456-0202,32.3404,-90.8412,,,0
+,,909 Government Street,,Victoria,BC,V8W 1Y7,Canada,250-382-8811,48.4238,-123.368,,,0
+,,"14400 Bear Valley Rd., Suite 801",,Victorville,CA,92392,United States,760-962-1000,34.4705,-117.349,,,0
+,,"Unit B1B, 550 King Street North",,Waterloo,ON,N2L 5W6,Canada,519-886-2462,43.4987,-80.5299,,,0
+,,"1028 Ridge Road, Ste 127",,Webster,NY,14580,United States,585-645-6445,43.2124,-77.4548,,,0
+,,1030 Plaza Dr.,,West Covina,CA,91790,United States,626-472-7878,34.0698,-117.928,,,0
+,,3781 W Center Park Dr,,West Jordan,UT,84084,United States,801 280-3054,40.6195,-111.981,,,0
+,,338 E. State Street,,West Lafayette,IN,47906,United States,765 376-7379,40.4207,-86.9012,,,0
+,,204 Crocker Park Blvd.,,Westlake,OH,44145,United States,440-899-2526,41.4597,-81.9524,,,0
+,,14647 Delaware St. #1200,,Westminster,CO,80023,United States,303-920-3400,39.9621,-104.992,,,0
+,,#217-4293 Mountain Square,,Whistler,BC,V0N 1B4,Canada,604-932-4100,50.1134,-122.955,,,0
+,,"2441 N. Maize Road, Suite 216",,Wichita,KS,67205,United States,316-729-4245,37.7289,-97.4637,,,0
+,,102A Tanger Drive,,Williamsburg,IA,52361,United States,319-668-2931,41.688336,-92.004041,,,0
+,,46 - 1225 St. Mary's Road,,Winnipeg,MB,R2M 5E5,Canada,204-257-6776,49.8291,-97.1146,,,0
+,,262-1485 Portage Ave.,,Winnipeg,MB,R3G 0W4,Canada,204-774-4424,49.881,-97.1982,,,0
+,,197 Welllington Ave.,,Winnipeg,MB,R3H 0E3,Canada,204-768-4488,49.9038,-97.2259,,,0
+,,2700 Potomac Mills Circle,,Woodbridge,VA,22192,United States,703-490-5086,38.6452,-77.2994,,,0
+,,"1001 Arney Road, Suite 409",,Woodburn,OR,97071,United States,503-981-0008,45.1564,-122.878,,,0
+,,"1 Premium Outlets Blvd., Suite 205",,Wrentham,MA,02093,United States,508-384-4139,42.040179,-71.353317,,,0
