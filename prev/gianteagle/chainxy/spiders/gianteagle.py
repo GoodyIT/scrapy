@@ -11,6 +11,10 @@ from lxml import html
 class GianteagleSpider(scrapy.Spider):
     name = "gianteagle"
     start_urls = ["https://www.gianteagle.com/Stores/"]
+
+    def __init__(self):
+        ca_json = open('citiesusca.json', 'rb')
+        self.ca_long_lat_fp = json.load(ca_json)
     
     def parse(self, response):
         total = int(response.xpath("//div[@class='pagerCounter']/text()").extract_first().split(" ")[-1])

@@ -1,0 +1,26 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+AG Aventura,,"19501 Biscayne Blvd,  #2009",,Aventura,FL,33180,United States,(305) 692-5330,25.95163,-80.15555,"Mon-Sat 10-9:30;
+Sun 11-8",,0
+AG Las Vegas,,"3200 S. Las Vegas Blvd., # 1155",Fashion Show Mall,Las Vegas,NV,89109,United States,(702) 433-5875,36.127224,-115.17374,"Mon-Sat: 10-9;
+Sun: 11-7",,0
+AG St Louis,,36 Maryland Plaza,,St. Louis,MO,63108,United States,(314) 361-6161,38.644881,-90.265106,"Mon-Sat: 10-7;
+Sun: 12-6",,0
+AG San Francisco,,20 O'Farrell Street,,San Francisco,CA,94108,United States,(415) 398-0546,37.786944,-122.407677,"Mon-Sat: 11-7;
+Sun: 12-6",,0
+AG Dallas,,"8687 North Central Expressway, Space #1472",Northpark Center,Dallas,TX,75225,United States,(972) 993-1582,32.865773,-96.771435,"Mon-Sat: 10-9;
+Sun: 12-6",,0
+AG Woodbury,,216 Red Apple Court,Woodbury Common Premium Outlets,Central Valley,NY,10917,United States,(845) 928-8616,41.314027,-74.12882,Mon -Sun: 9a-9p,,0
+AG Beverly Hills,,329 N. Beverly Drive,,Beverly Hills,CA,90210,United States,(310) 275-2621,34.068969,-118.403506,"Mon-Sat: 10-7;
+Sun:11-6",,0
+AG Columbus,,305 Columbus Avenue,Manhattan Upper Westside,New York,NY,10023,United States,(212) 496-5692,40.778857,-73.979512,"Mon-Sat: 10-7;
+Sun: 11-6",,0
+AG Camarillo,,"740 Ventura Blvd, #526",Camarillo Premium Outlets,Camarillo,CA,93010,United States,(805) 437-1713,34.216606,-119.062507,"Mon-Sat: 10-9;
+Sun: 10-8",,0
+AG Fashion Island,,401 Newport Center Drive,Space # 573,Newport,CA,92660,United States,949-706-3386,,,"M-F: 10am - 9pm</br>
+Sat: 10am - 7pm</br>
+Sun: 11am - 6pm",,0
+AG Las Vegas Outlet,,"525 S. Grand Central Parkway, #3321",Las Vegas Premium Outlets,Las Vegas,NV,89106,United States,(702) 380-1073,36.16398,-115.160193,"Mon-Sat: 9-9;
+Sun: 9-8",,0
+AG SoHo,,113 Greene Street- A,,New York,NY,10012,United States,(212) 680-0581,40.724871,-74.001991,"Mon-Thurs: 11-7;
+Fri-Sat: 11-8;
+Sun: 12-7",,0

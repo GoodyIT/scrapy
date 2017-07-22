@@ -1,0 +1,119 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+"DES MOINES, IA",900,100 Euclid Avenue,,DES MOINES,IA,50313,United States,(515) 282-9912,41.6277,-93.6193,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"DES MOINES, IA",975,3000 S.E. 22nd Street,,DES MOINES,IA,50320,United States,(515) 288-3588,41.5565,-93.5785,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"WEST DES MOINES, IA",153,329 Grand Avenue,,WEST DES MOINES,IA,50265,United States,(515) 274-9415,41.5827,-93.7069,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"Pleasant Hill, IA",138,5500 E. University Ave.,,PLEASANT HILL,IA,50327,United States,(515) 262-5951,41.5992,-93.5047,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"JOHNSTON, IA",167,6005 Merle Hay Road,,JOHNSTON,IA,50131,United States,(515) 252-9962,41.6701,-93.6966,Monday - Saturday; (closed on Sundays & holidays); 7:00am - 9:00pm,,0
+"ANKENY, IA",909,109 S.E. Oralabor Rd.,,ANKENY,IA,50021,United States,(515) 964-7659,41.7021,-93.5996,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"URBANDALE, IA",933,8450 Meredith Drive,,URBANDALE,IA,50322,United States,(515) 270-1325,41.6429,-93.7342,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"CLIVE, IA",106,10151 University Avenue,,CLIVE,IA,50325,United States,(515) 223-0164,41.6031,-93.7569,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"HUXLEY, IA",155,911 Highway 69,,HUXLEY,IA,50124,United States,(515) 597-3663,41.9039,-93.6099,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"ADEL, IA",124,804 Nile Kinnick Drive,,ADEL,IA,50003,United States,(515) 993-3660,41.61,-94.018,Monday - Saturday; (closed on Sundays & holidays); 7:00am - 9:00pm,,0
+"ALTOONA, IA",925,620 S.E. 8th Street,,ALTOONA,IA,50009,United States,(515) 967-0705,41.6434,-93.4581,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"WINTERSET, IA",683,719 West Highway 92,,WINTERSET,IA,50273,United States,(515) 462-2216,41.3447,-94.0064,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"NORWALK, IA",077,1711 Sunset Drive,,NORWALK,IA,50211,United States,(515) 981-4420,41.4841,-93.6769,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"AMES, IA",386,619 Burnett Avenue,,AMES,IA,50010,United States,(515) 232-3543,42.0274,-93.6168,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"CARLISLE, IA",147,1115 Bluestem Drive,,CARLISLE,IA,50047,United States,(515) 989-2083,41.4984,-93.4994,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"NEWTON, IA",848,120 North Third Avenue E.,,NEWTON,IA,50208,United States,(641) 792-7950,41.702,-93.0527,Monday - Saturday; (closed Sundays & holidays); 7:30am - 9:00pm,,0
+"GRIMES, IA",983,351 Gateway Drive,,GRIMES,IA,50111,United States,(515) 986-2023,41.6866,-93.7788,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"NEVADA, IA",426,1505 South B Avenue,,NEVADA,IA,50201,United States,(515) 382-2875,42.0106,-93.4395,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"ANKENY, IA",061,3205 North Ankeny Blvd.,,ANKENY,IA,50023,United States,(515) 965-7551,41.7571,-93.5992,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"PERRY, IA",470,1315 Willis Avenue,,PERRY,IA,50220,United States,(515) 465-3411,41.8377,-94.1029,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"POLK CITY, IA",137,1101 S. 5th Street,,POLK CITY,IA,50226,United States,(515) 984-9505,41.7639,-93.7187,Monday - Saturday; (closed on Sundays & holidays); 7:00am - 9:00pm,,0
+"AMES, IA",093,3619 Stange Road,,AMES,IA,50010,United States,(515) 233-3851,42.0571,-93.6466,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"WAUKEE, IA",989,200 SE Laurel Street,,WAUKEE,IA,50263,United States,(515) 987-8073,41.6135,-93.8614,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"INDIANOLA, IA",657,1309 W. 2nd Street,,INDIANOLA,IA,50125,United States,(515) 961-5643,41.3558,-93.5795,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"CRESTON, IA",597,105 East Adams Street,,CRESTON,IA,50801,United States,(641) 782-5612,41.058,-94.3608,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"OSKALOOSA, IA",625,311 3rd Avenue West,,OSKALOOSA,IA,52577,United States,(641) 673-7288,41.293,-92.6483,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"ELDORA, IA",882,1232 14th Street,,ELDORA,IA,50627,United States,(641) 858-2472,42.361,-93.1011,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"TOLEDO, IA",792,1005 South County Line Rd,,TOLEDO,IA,52342,United States,(641) 484-3006,41.9972,-92.5835,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"WEBSTER CITY, IA",395,942 2nd Street,,WEBSTER CITY,IA,50595,United States,(515) 832-5040,42.4693,-93.8278,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"IOWA FALLS, IA",559,500 Iowa Street,,IOWA FALLS,IA,50126,United States,(641) 648-2394,42.5224,-93.2631,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"FORT DODGE, IA",508,1231 1st Avenue South,,FORT DODGE,IA,50501,United States,(515) 576-0341,42.5044,-94.1812,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"CENTERVILLE, IA",827,305 South 18th Street,,CENTERVILLE,IA,52544,United States,(641) 437-7064,40.731,-92.8665,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"CARROLL, IA",409,709 Monterey Drive,,CARROLL,IA,51401,United States,(712) 792-2517,42.0656,-94.8514,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"OTTUMWA, IA",648,1325 Albia Road,,OTTUMWA,IA,52501,United States,(641) 684-5520,41.0104,-92.4403,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"ATLANTIC, IA",940,301 Poplar Street,,ATLANTIC,IA,50022,United States,(712) 243-4291,41.4081,-95.0154,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"EAGLE GROVE, IA",551,205 N.W. 1st Street,,EAGLE GROVE,IA,50533,United States,(515) 448-3241,42.6656,-93.9035,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"HAMPTON, IA",902,309 Central Ave. West,,HAMPTON,IA,50441,United States,(641) 456-5253,42.7424,-93.2118,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"HUMBOLDT, IA",703,710 First Avenue North,,HUMBOLDT,IA,50548,United States,(515) 332-4055,42.7214,-94.2186,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"BELMOND, IA",879,512 River Avenue North,,BELMOND,IA,50421,United States,(641) 444-3034,42.8497,-93.6168,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"CEDAR FALLS, IA",974,214 N. Magnolia Drive,,CEDAR FALLS,IA,50613,United States,(319) 277-6858,42.539,-92.4759,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"KNOXVILLE, IA",980,1308 S. Lincoln Street,,KNOXVILLE,IA,50138,United States,(641) 842-5141,41.3082,-93.1105,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"BOONE, IA",384,1711 Hawkeye Drive,,BOONE,IA,50036,United States,(515) 432-7519,42.0381,-93.8676,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"PELLA, IA",995,2010 Washington Street,,PELLA,IA,50219,United States,(641) 628-9995,41.4132,-92.9418,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"OSCEOLA, IA",699,215 South Main Street,,OSCEOLA,IA,50213,United States,(641) 342-3884,41.0324,-93.7648,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"GRINNELL, IA",737,727 West Street,,GRINNELL,IA,50112,United States,(641) 236-3331,41.7414,-92.7284,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"MARSHALLTOWN, IA",467,102 West Anson Street,,MARSHALLTOWN,IA,50158,United States,(641) 752-5181,42.0375,-92.9147,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"GREENFIELD, IA",941,212 S.W. Kent,,GREENFIELD,IA,50849,United States,(641) 343-7091,41.3027,-94.4639,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"JEFFERSON, IA",888,1207 N Elm Street,,JEFFERSON,IA,50129,United States,(515) 386-4076,42.0261,-94.3776,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"WATERLOO, IA",951,40 W San Marnan Drive,,WATERLOO,IA,50701,United States,(319) 236-0107,42.4588,-92.3581,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"HARLAN, IA",790,1910 23rd Street,,HARLAN,IA,51537,United States,(712) 755-2030,41.6502,-95.3387,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"VINTON, IA",462,501 A Avenue,,VINTON,IA,52349,United States,(319) 472-2861,42.166,-92.0264,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"EVANSDALE, IA",067,215 South Evans Road,,EVANSDALE,IA,50707,United States,(319) 287-5142,42.4758,-92.2864,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"RED OAK, IA",841,811 Broadway,,RED OAK,IA,51566,United States,(712) 623-2651,41.0115,-95.2327,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"DENISON, IA",015,609 Arrowhead Drive,,DENISON,IA,51442,United States,(712) 263-5565,42.0243,-95.372,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"CLARINDA, IA",048,115 Essie Davison Drive,,CLARINDA,IA,51632,United States,(712) 542-3178,40.7228,-95.0393,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"WAVERLY, IA",561,222  West Bremer Ave.,,WAVERLY,IA,50677,United States,(319) 352-4319,42.7267,-92.4741,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"CEDAR RAPIDS, IA",963,4220 16th Avenue S.W.,,CEDAR RAPIDS,IA,52404,United States,(319) 396-4585,41.9648,-91.7271,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"WASHINGTON, IA",554,301 North Marion Avenue,,WASHINGTON,IA,52353,United States,(319) 653-5064,41.3022,-91.6938,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"HIAWATHA, IA",055,885 Edgewood Road,,HIAWATHA,IA,52233,United States,(319) 378-1072,42.0465,-91.7013,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"NORTH LIBERTY, IA",993,615 Westwood Drive PO 96,,NORTH LIBERTY,IA,52317,United States,(319) 626-6798,41.7395,-91.6081,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"IOWA CITY, IA",950,2530 Westwinds Drive,,IOWA CITY,IA,52246,United States,(319) 351-6082,41.6514,-91.5763,Monday - Saturday; (closed Sundays & holidays); 7:30am - 9:00pm,,0
+"CEDAR RAPIDS, IA",151,3717 1st Avenue SE,,CEDAR RAPIDS,IA,52403,United States,(319) 363-1293,42.0166,-91.6347,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"INDEPENDENCE, IA",479,1400 3rd Avenue S.E.,,INDEPENDENCE,IA,50644,United States,(319) 334-3847,42.4558,-91.8889,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"ALGONA, IA",531,1905 Hwy 18 E,,ALGONA,IA,50511,United States,(515) 295-3831,43.0828,-94.2141,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"CLEAR LAKE, IA",705,910 Highway West 18,,CLEAR LAKE,IA,50428,United States,(641) 357-5773,43.1432,-93.4006,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"STORM LAKE, IA",461,731 Seneca Street,,STORM LAKE,IA,50588,United States,(712) 732-6203,42.6464,-95.1959,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"MARION, IA",949,3300 10th Avenue,,MARION,IA,52302,United States,(319) 373-4271,42.0368,-91.5765,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"SHENANDOAH, IA",938,1007 S. Fremont Street,,SHENANDOAH,IA,51601,United States,(712) 246-5160,40.7557,-95.3851,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"MASON CITY, IA",491,400 N. Delaware,,MASON CITY,IA,50401,United States,(641) 424-4415,43.1562,-93.2007,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"IOWA CITY, IA",034,2765 Commerce Drive,,IOWA CITY,IA,52240,United States,(319) 248-1995,41.6297,-91.4817,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"CHARLES CITY, IA",501,210 11th Street,,CHARLES CITY,IA,50616,United States,(641) 228-3523,43.0522,-92.6744,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"OELWEIN, IA",412,102 2nd Street S.E.,,OELWEIN,IA,50662,United States,(319) 283-2872,42.6754,-91.912,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"COUNCIL BLUFFS, IA",073,310 McKenzie Avenue,,COUNCIL BLUFFS,IA,51503,United States,(712) 328-4176,41.2798,-95.8193,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"EMMETSBURG, IA",849,2008 12th Street,,EMMETSBURG,IA,50536,United States,(712) 852-2455,43.1091,-94.6764,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"NEW HAMPTON, IA",922,102 S. Water Avenue,,NEW HAMPTON,IA,50659,United States,(641) 394-4652,43.058,-92.3124,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"ANAMOSA, IA",166,402 East Main Street,,ANAMOSA,IA,52205,United States,(319) 462-4425,42.1083,-91.2818,Monday - Saturday; (closed on Sundays & holidays); 8:00am - 9:00pm,,0
+"MANCHESTER, IA",594,109 East Marion Street,,MANCHESTER,IA,52057,United States,(563) 927-5979,42.4821,-91.4578,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"CHEROKEE, IA",502,205 West Bluff Street,,CHEROKEE,IA,51012,United States,(712) 225-3965,42.7542,-95.5519,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"Omaha, NE",132,3070 North 90th Street,,OMAHA,NE,68134,United States,(402) 573-5669,41.2873,-96.0543,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"PAPILLION, NE",049,1325 Jersey Street,,PAPILLION,NE,68046,United States,(402) 331-6938,41.1754,-96.0267,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"OMAHA, NE",165-2,8900 W. Center Road Suite 106,,OMAHA,NE,68124,United States,(402) 393-7136,41.2351,-96.0518,"Monday - Friday 10:00am - 8:00pmSaturday 8:00am - 8:00pm",,0
+"MUSCATINE, IA",998,2100 Cedar Plaza Drive,,MUSCATINE,IA,52761,United States,(563) 288-0541,41.4356,-91.0829,Monday - Saturday; (closed Sundays & holidays); 7:30am - 9:00pm,,0
+"MONTICELLO, IA",840,433 North Farley Street,,MONTICELLO,IA,52310,United States,(319) 465-5027,42.2417,-91.1914,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"SPENCER, IA",788,104 East Eighth Street,,SPENCER,IA,51301,United States,(712) 262-8693,43.1455,-95.1428,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"NEBRASKA CITY, NE",118,1738 S 11th Street,,NEBRASKA CITY,NE,68410,United States,(402) 873-1332,40.6608,-95.861,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"Fort Madison, IA",177,1820 Avenue H,,FORT MADISON,IA,52627,United States,,40.6321,-91.3356,,,0
+"OMAHA, NE",043,17070 Audrey Street,,OMAHA,NE,68136,United States,(402) 895-2989,41.1902,-96.1815,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"ESTHERVILLE, IA",407,1108 Central Avenue,,ESTHERVILLE,IA,51334,United States,(712) 362-5284,43.4015,-94.8301,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"BURLINGTON, IA",009,920 Lawrence Drive,,BURLINGTON,IA,52601,United States,(319) 758-6740,40.799,-91.139,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"DYERSVILLE, IA",008,1207 12th Avenue S.E.,,DYERSVILLE,IA,52040,United States,(563) 875-6053,42.4746,-91.1119,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"CRESCO, IA",815,112 South Elm Street,,CRESCO,IA,52136,United States,(563) 547-5252,43.372,-92.1175,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"SPIRIT LAKE, IA",850,1906 Keokuk,,SPIRIT LAKE,IA,51360,United States,(712) 336-5802,43.4212,-95.1069,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"FAIRMONT, MN",102,500 South State Street,,FAIRMONT,MN,56031,United States,(507) 238-4737,43.6489,-94.4481,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"DECORAH, IA",589,103 E. Main,,DECORAH,IA,52101,United States,(563) 382-3346,43.3028,-91.7856,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"Sergeant Bluff, IA",014,700 1st Street,,SERGEANT BLUFF,IA,51054,United States,(712) 943-9325,42.4001,-96.3528,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"SIOUX CITY, IA",829,4267 Sergeant Road,,SIOUX CITY,IA,51106,United States,(712) 276-1873,42.4504,-96.3541,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"Peosta, IA",168,8400 NICC Drive,,PEOSTA,IA,52068,United States,(563) 557-4475,42.4451,-90.8465,Monday - Saturday; (Closed on Sundays & Holidays); 7:00AM - 9:00PM,,0
+"MAQUOKETA, IA",639,110 West Gate Drive,,MAQUOKETA,IA,52060,United States,(563) 652-4992,42.0671,-90.681,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"LE MARS, IA",719,115 Plymouth Street N.E.,,LE MARS,IA,51031,United States,(712) 546-7600,42.7931,-96.165,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"DAVENPORT, IA",987,1635 West 53rd Street,,DAVENPORT,IA,52806,United States,(563) 388-9135,41.5738,-90.5985,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"SIOUX CITY, IA",019,4016 Indian Hills Drive,,SIOUX CITY,IA,51104,United States,(712) 239-0528,42.5408,-96.3749,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"SHELDON, IA",021,2603 Park Street,,SHELDON,IA,51201,United States,(712) 324-2711,43.1869,-95.8206,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"WAUKON, IA",062,777 11TH Avenue SW,,WAUKON,IA,52172,United States,(563) 568-5017,43.2567,-91.4862,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"ORANGE CITY, IA",058,512 8th S.E.,,ORANGE CITY,IA,51041,United States,(712) 707-9350,42.9971,-96.053,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"SIOUX CITY, IA",022,4040 War Eagle Drive,,SIOUX CITY,IA,51109,United States,(712) 252-0388,42.4946,-96.462,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"MOLINE, IL",988,3705 25th Street,,MOLINE,IL,61265,United States,(309) 797-1468,41.4751,-90.5026,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"DUBUQUE, IA",114,2050 John F. Kennedy Rd,,DUBUQUE,IA,52002,United States,(563) 556-9997,42.5075,-90.7193,Monday - Saturday; (closed on Sundays & holidays); 7:00am - 9:00pm,,0
+"BETTENDORF, IA",044,3800 Belmont Road,,BETTENDORF,IA,52722,United States,(563) 332-0655,41.5573,-90.4801,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"SIOUX CENTER, IA",912,115 1st Ave. N.W.,,SIOUX CENTER,IA,51250,United States,(712) 722-1360,43.0778,-96.1778,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"STEWARTVILLE, MN",089,2012 2nd Avenue NE,,STEWARTVILLE,MN,55976,United States,(507) 533-4195,43.8715,-92.4845,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"OWATONNA, MN",139,831 Oak Avenue South,,OWATONNA,MN,55060,United States,(507) 451-1550,44.0768,-93.2285,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"WORTHINGTON, MN",099,1028 Ryan's Road,,WORTHINGTON,MN,56187,United States,(507) 372-5191,43.6341,-95.6018,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"CLINTON, IA",025,1350 11th St. NW,,CLINTON,IA,52733,United States,(563) 242-1960,41.861,-90.2128,Monday - Saturday; (closed Sundays & holidays); 8:00am - 9:00pm,,0
+"ROCHESTER, MN",134,3964  E. Frontage 52 Rd NW,,ROCHESTER,MN,55901,United States,(507) 289-1128,44.0674,-92.5032,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"GENESEO, IL",059,540 Pritchard Drive,,GENESEO,IL,61254,United States,(309) 944-6702,41.44,-90.1462,Monday - Saturday; (closed Sundays & holidays); 7:00am - 9:00pm,,0
+"FARIBAULT, MN",126,430 NW 2nd Ave,,FARIBAULT,MN,55021,United States,(507) 334-1661,44.2955,-93.2724,Monday - Saturday; (closed Sundays & holidays); Floral Department: 507-334-2626,,0
+"SIOUX FALLS, SD",164,3301 S. Sycamore Ave.,,SIOUX FALLS,SD,57103,United States,(605) 371-4352,43.5151,-96.6714,Monday - Saturday; (closed Sunday & holidays); 7:00am - 9:00pm,,0
+"SIOUX FALLS, SD",136,1431 W 41st Street,,SIOUX FALLS,SD,57105,United States,(605) 336-5658,43.5131,-96.7429,Monday - Saturday; (closed on Sundays & holidays); 7:00am - 9:00pm,,0

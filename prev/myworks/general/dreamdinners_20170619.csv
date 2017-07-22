@@ -1,0 +1,85 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Beaverton,,1800 NW 169th Pl ,,Beaverton ,OR,97006,United States,503-614-8800,,,,,0
+Clackamas,,13061 SE 84th Ave. ,,Clackamas ,OR,97015,United States,503-974-9344,,,,,0
+Corvallis,,958 NW Circle Blvd ,,Corvallis ,OR,97330,United States,541-752-3040,,,,,0
+Colmar,,262 Bethlehem Pike ,,Colmar ,PA,18915,United States,215-822-4055,,,,,0
+Fort Mill,,1646 HWY 160 West ,,Fort Mill ,SC,29708,United States,803-548-7833,,,,,0
+Tualatin,,7068 SW Nyberg St ,,Tualatin ,OR,97062,United States,503-692-0245,,,,,0
+Lancaster,,1577 Manheim Pike ,,Lancaster ,PA,17601,United States,717-509-4530,,,,,0
+Blue Ash,,9715 Kenwood Road ,,Blue Ash ,OH,45242,United States,513-984-9866,,,,,0
+Centerville,,101 E. Alex-Bell Road ,,Centerville ,OH,45459,United States,937-312-9930,,,,,0
+West Chester,,1514 Paoli Pike ,,West Chester ,PA,19380,United States,610-344-0321,,,,,0
+Cincinnati,,7466 Beechmont Avenue ,,Cincinnati ,OH,45255,United States,513-233-3732,,,,,0
+Cincinnati,,6507 Harrison Ave ,,Cincinnati ,OH,45247,United States,513-598-4949,,,,,0
+Powell,,389 W Olentangy St ,,Powell ,OH,43065,United States,614-798-1400,,,,,0
+West Chester,,7743 Cox Ln ,,West Chester ,OH,45069,United States,513-779-3555,,,,,0
+Clemmons,,6276 Towncenter Drive ,,Clemmons ,NC,27012,United States,336-766-0644,,,,,0
+Waxhaw,,3909 Providence Rd. ,,South Waxhaw ,NC,28173,United States,704-243-3063,,,,,0
+Flemington,,3 Walter Foran Blvd. ,,Flemington ,NJ,08822,United States,908-788-5500,,,,,0
+Kennewick,,6501 W. Grandridge Blvd. ,,Kennewick ,WA,99336,United States,509-735-8315,,,,,0
+Mill Creek,,15021 Main Street ,,Mill Creek ,WA,98012,United States,425-316-8260,,,,,0
+Seattle,,4701 41st Ave SW ,,Seattle ,WA,98116,United States,206-938-5999,,,,,0
+Vancouver,,616 NE 81st St ,,Vancouver ,WA,98665,United States,360-571-2306,,,,,0
+Midlothian,,12006 Southshore Pointe Rd. ,,Midlothian ,VA,23112,United States,804-739-6442,,,,,0
+Austin,,12129 RR 620 ,,Austin ,TX,78750,United States,512-401-2800,,,,,0
+Bellaire,,5113 Bellaire Boulevard ,,Bellaire ,TX,77401,United States,713-609-9650,,,,,0
+Missouri City,,5418 Highway 6 ,,Missouri City ,TX,77459,United States,281-499-1800,,,,,0
+North Richland Hills,,8528 Davis Blvd ,,North Richland Hills ,TX,76182,United States,817-788-8958,,,,,0
+Pearland,,8201 Broadway St ,,Pearland ,TX,77581,United States,281-485-7304,,,,,0
+Orem,,845 N 100 W ,,Orem ,UT,84057,United States,801-225-7655,,,,,0
+Salt Lake City,,1140 East Brickyard Road ,,Salt Lake City ,UT,84106,United States,385-259-0504,,,,,0
+Allen Park,,23019 Outer Drive ,,Allen Park ,MI,48101,United States,313-278-2899,,,,,0
+Livonia,,33591 7 Mile Rd ,,Livonia ,MI,48152,United States,248-536-2672,,,,,0
+Rochester Hills,,1994 Star-Batt Dr. ,,Rochester Hills ,MI,48309,United States,248-852-3400,,,,,0
+Frederick,,8927 A Fingerboard Road ,,Frederick ,MD,21704,United States,301-874-1515,,,,,0
+Silver Spring,,720 Cloverly Street ,,Silver Spring ,MD,20905,United States,301-879-4707,,,,,0
+Framingham,,847 Edgell Rd ,,Framingham ,MA,01701,United States,508-877-3336,,,,,0
+Plainville,,51 Man-Mar Drive ,,Plainville ,MA,02762,United States,508-809-9180,,,,,0
+West Boylston,,184 West Boylston Street ,,West Boylston ,MA,01583,United States,508-835-2444,,,,,0
+Overland Park,,6517 W. 119th St ,,Overland Park ,KS,66209,United States,913-491-6733,,,,,0
+Indianapolis,,9520 Uptown Dr ,,Indianapolis ,IN,46256,United States,317-842-1130,,,,,0
+Lafayette,,210 Meijer Drive ,,Lafayette ,IN,47905,United States,765-449-4100,,,,,0
+Chicago,,740 N. Damen Ave ,,Chicago ,IL,60622,United States,312-733-4060,,,,,0
+Cumming,,539 Lake Center Pkwy ,,Cumming ,GA,30040,United States,770-887-4141,,,,,0
+Roswell,,900 Mansell Road ,,Roswell ,GA,30076,United States,678-352-9600,,,,,0
+Berlin,,1400 Berlin Turnpike ,,Berlin ,CT,06037,United States,860-828-5042,,,,,0
+Manchester,,100 Tolland Turnpike ,,Manchester ,CT,06040,United States,860-645-1523,,,,,0
+Pinecrest,,12727 South Dixie Highway ,,Pinecrest ,FL,33156,United States,786-573-2775,,,,,0
+Sunrise,,3439 N Hiatus Rd ,,Sunrise ,FL,33351,United States,954-746-7577,,,,,0
+Centennial,,7286 S Yosemite St ,,Centennial ,CO,80112,United States,720-200-3558,,,,,0
+Colorado Springs,,5578 Powers Center Point ,,Colorado Springs ,CO,80920,United States,719-282-3140,,,,,0
+Parker,,10447 S Parker Road ,,Parker ,CO,80134,United States,303-840-3030,,,,,0
+Wheat Ridge,,4980 Kipling St ,,Wheat Ridge ,CO,80033,United States,303-432-3110,,,,,0
+Phoenix,,822 E Union Hills ,,Phoenix ,AZ,85024,United States,623-581-5192,,,,,0
+Phoenix,,3820 E. Ray Rd. ,,Phoenix ,AZ,85044,United States,480-704-5312,,,,,0
+Scottsdale,,8670 E. Shea Blvd ,,Scottsdale ,AZ,85260,United States,480-625-8169,,,,,0
+Tucson,,3682 W Orange Grove Rd ,,Tucson ,AZ,85741,United States,520-742-0837,,,,,0
+Daphne,,1539 US Highway 98 ,,Daphne ,AL,36526,United States,360-804-2020,,,,,0
+Mobile,,283 McGregor Avenue ,,Mobile ,AL,36608,United States,251-316-3727,,,,,0
+Belmont,,390 EL ,,Camino Real Belmont ,CA,94002,United States,650-595-4545,,,,,0
+Benicia,,2154 Columbus Parkway ,,Benicia ,CA,94510,United States,707-747-0977,,,,,0
+Encinitas,,339 A ,,North El Camino Real Encinitas ,CA,92024,United States,760-436-3737,,,,,0
+Fountain Valley,,8760 Warner Ave. ,,Fountain Valley ,CA,92708,United States,714-375-9525,,,,,0
+Granada Hills,,11852 3/4 Balboa Boulevard ,,Granada Hills ,CA,91344,United States,818-368-8106,,,,,0
+La Crescenta,,4121 Pennsylvania Ave ,,La Crescenta ,CA,91214,United States,818-957-1499,,,,,0
+La Mesa,,5208 Jackson Drive ,,La Mesa ,CA,91942,United States,619-460-6800,,,,,0
+Lake Forest,,22369 El Toro Rd ,,Lake Forest ,CA,92630,United States,949-583-2800,,,,,0
+Los Gatos,,14107 Winchester Blvd ,,Los Gatos ,CA,95032,United States,408-871-6858,,,,,0
+Modesto,,4048 Dale Rd. ,,Modesto ,CA,95356,United States,209-543-9333,,,,,0
+Pasadena,,1274 E Colorado Blvd ,,Pasadena ,CA,91106,United States,626-796-7863,,,,,0
+Poway,,12218 Poway Rd ,,Poway ,CA,92064,United States,858-679-3732,,,,,0
+Redding,,4075 B Railroad Ave. ,,Redding ,CA,96001,United States,530-242-8700,,,,,0
+Redlands,,1404 Industrial Park Avenue ,,Redlands ,CA,92374,United States,909-798-4626,,,,,0
+Sacramento,,2063 Arena Blvd ,,Sacramento ,CA,95834,United States,916-928-3993,,,,,0
+San Diego,,10715 Tierrasanta Blvd ,,San Diego ,CA,92124,United States,858-565-0345,,,,,0
+San Jose,,2013 Camden Ave. ,,San Jose ,CA,95124,United States,408-363-3968,,,,,0
+San Luis Obispo,,795 E. Foothill Blvd. ,,San Luis Obispo ,CA,93405,United States,805-786-4852,,,,,0
+San Marcos,,1641 Grand Avenue ,,San Marcos ,CA,92078,United States,760-471-0055,,,,,0
+Solana Beach,,230 Lomas Santa Fe Dr ,,Solana Beach ,CA,92075,United States,858-350-4546,,,,,0
+Temecula,,31757 Temecula Parkway ,,Temecula ,CA,92592,United States,951-302-6982,,,,,0
+Thousand Oaks,,140 W Hillcrest Drive ,,Thousand Oaks ,CA,91360,United States,805-277-3447,,,,,0
+Torrance,,22226 Palos Verdes Blvd ,,Torrance ,CA,90505,United States,310-792-0055,,,,,0
+Tustin,,17351 17th Street ,,Tustin ,CA,92780,United States,714-832-8185,,,,,0
+Vacaville,,211 Peabody Road ,,Vacaville ,CA,95687,United States,707-447-3788,,,,,0
+Ventura,,1413 S Victoria Ave ,,Ventura ,CA,93003,United States,805-644-4478,,,,,0
+West Los Angeles,,11700 National Blvd ,,West Los Angeles ,CA,90064,United States,310-398-7455,,,,,0

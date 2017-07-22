@@ -1,0 +1,262 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Herberger's Rock Springs,1871,,,Rock Springs,WY,82901,United States,(307) 382-5360,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Herberger's Minot,1875,,,Minot,ND,58701,United States,(701) 839-7777,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-20:00; Su 12:00-18:00,,0
+Bon-Ton Williamsville,1677,,,Williamsville,NY,14221,United States,(716) 634-4020,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Brick,1629,,,Brick,NJ,08723,United States,(732) 262-1942,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Bon-Ton Watertown,1669,,,Watertown,NY,13601,United States,(315) 788-0081,,,Mo 09:30-21:00; Tu 09:30-21:00; We 09:30-22:00; Th 09:30-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Phillipsburg,1701,,,Phillipsburg,NJ,08865,United States,(908) 454-8183,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton West Seneca,1681,,,West Seneca,NY,14224,United States,(716) 674-4020,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Boston Store West Bend,1753,,,West Bend,WI,53095,United States,(262) 335-9390,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Herberger's Logan,1857,,,Logan,UT,84341,United States,(435) 753-7519,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-17:00,,0
+Bon-Ton Saratoga Springs,1625,,,Saratoga Springs,NY,12866,United States,(518) 583-4530,,,Mo 10:00-21:30; Tu 10:00-21:30; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Concord,1647,,,Concord,NH,03301,United States,(603) 227-9999,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Elder-Beerman Zanesville,1735,,,Zanesville,OH,43701,United States,(740) 455-2700,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Herberger's Watertown,1843,,,Watertown,SD,57201,United States,(605) 886-5763,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-18:00; Su 12:00-18:00,,0
+Herberger's Scottsbluff,1889,,,Scottsbluff,NE,69361,United States,(308) 635-7600,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 12:00-18:00,,0
+Younkers Traverse City,1975,,,Traverse City,MI,49686,United States,(231) 932-5100,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-17:00,,0
+Herberger's Missoula,1907,,,Missoula,MT,59801,United States,(406) 327-7720,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 11:00-18:00,,0
+Bon-Ton Wyomissing,1649,,,Wyomissing,PA,19610,United States,(610) 376-8171,,,Mo 10:00-21:30; Tu 10:00-21:30; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Wyoming,1655,,,Wyoming,PA,18644,United States,(570) 693-1881,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Muskegon,1967,,,Muskegon,MI,49444,United States,(231) 799-6300,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Westfield,1671,,,Westfield,MA,01085,United States,(413) 562-8789,,,Mo 10:00-21:30; Tu 10:00-21:30; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Monroe,1779,,,Monroe,MI,48162,United States,(734) 241-0411,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-17:00,,0
+Younkers Midland,1783,,,Midland,MI,48642,United States,(989) 631-4444,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Younkers Okemos,1999,,,Okemos,MI,48864,United States,(517) 381-5092,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Rochester Hills,2115,,,Rochester Hills,MI,48309,United States,(248) 276-6705,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Marquette,1973,,,Marquette,MI,49855,United States,(906) 228-6011,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Livonia,2113,,,Livonia,MI,48152,United States,(734) 953-7500,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Lansing,1977,,,Lansing,MI,48917,United States,(517) 327-3055,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Fort Gratiot Township,2001,,,Fort Gratiot Township,MI,48059,United States,(810) 385-3300,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Coldwater,1755,,,Coldwater,MI,49036,United States,(517) 279-9922,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Carson's Howell,1773,,,Howell,MI,48843,United States,(517) 552-1300,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Holland,1997,,,Holland,MI,49424,United States,(616) 396-7740,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Younkers Grandville,1971,,,Grandville,MI,49418,United States,(616) 257-5900,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Benton Harbor,1781,,,Benton Harbor,MI,49022,United States,(269) 925-6500,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Herberger's Kalispell,1891,,,Kalispell,MT,59901,United States,(406) 752-2772,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 11:00-18:00,,0
+Younkers Bay City,2007,,,Bay City,MI,48706,United States,(989) 667-0626,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Herberger's Havre,1847,,,Havre,MT,59501,United States,(406) 265-7881,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-18:00; Su 12:00-17:00,,0
+Herberger's Great Falls,1867,,,Great Falls,MT,59405,United States,(406) 268-2900,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 11:00-18:00,,0
+Younkers Jackson,1785,,,Jackson,MI,49202,United States,(517) 787-4000,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Herberger's Willmar,1877,,,Willmar,MN,56201,United States,(320) 214-4100,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-19:00; Su 11:00-18:00,,0
+Carson's Clinton Township,2117,,,Clinton Township,MI,48038,United States,(586) 226-0621,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Elder-Beerman Adrian,1777,,,Adrian,MI,49221,United States,(517) 263-3313,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Herberger's Butte,1905,,,Butte,MT,59701-4898,United States,(406) 494-5366,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 12:00-18:00,,0
+Herberger's Billings,1863,,,Billings,MT,59102,United States,(406) 656-6800,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Herberger's Stillwater,1895,,,Stillwater,MN,55082,United States,(651) 430-9229,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Herberger's Virginia,1835,,,Virginia,MN,55792,United States,(218) 741-4747,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-18:00; Su 12:00-17:00,,0
+Herberger's St. Cloud,1833,,,St. Cloud,MN,56301,United States,(320) 251-5202,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 11:00-18:00,,0
+Herberger's St. Paul,1913,,,St. Paul,MN,55104,United States,(651) 999-2900,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Herberger's New Ulm,1841,,,New Ulm,MN,56073,United States,(507) 354-2155,,,Mo 09:30-20:00; Tu 09:30-20:00; We 09:30-20:00; Th 09:30-20:00; Fr 09:00-20:00; Sa 09:00-18:00; Su 12:00-17:00,,0
+Herberger's Rochester,1919,,,Rochester,MN,55902,United States,(507) 535-1780,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Herberger's Roseville,1911,,,Roseville,MN,55113,United States,(651) 635-2600,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Herberger's Moorhead,1853,,,Moorhead,MN,56560,United States,(218) 236-6086,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 11:00-18:00,,0
+Herberger's Clearance Center Maplewood,2127,,,Maplewood,MN,55109,United States,(651) 777-6134,,,Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 10:00-19:00,,0
+Herberger's Mankato,1901,,,Mankato,MN,56001-4841,United States,(507) 388-8884,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Herberger's Fergus Falls,1839,,,Fergus Falls,MN,56537,United States,(218) 739-4411,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-18:00; Su 12:00-17:00,,0
+Younkers Duluth,1983,,,Duluth,MN,55811,United States,(218) 722-8311,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 11:00-18:00,,0
+Herberger's Blaine,1893,,,Blaine,MN,55434,United States,(763) 783-2863,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Herberger's Bloomington,1915,,,Bloomington,MN,55431,United States,(952) 886-2900,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Herberger's Bemidji,1903,,,Bemidji,MN,56601,United States,(218) 759-9001,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-19:00; Su 12:00-18:00,,0
+Herberger's Baxter,1859,,,Baxter,MN,56425,United States,(218) 855-8400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 11:00-18:00,,0
+Herberger's Edina,1917,,,Edina,MN,55435,United States,(952) 926-3004,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers Austin,1935,,,Austin,MN,55912,United States,(507) 434-2240,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 12:00-18:00,,0
+Younkers Omaha,1947,,,Omaha,NE,68114,United States,(402) 397-3800,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers Omaha,1929,,,Omaha,NE,68144,United States,(402) 691-2300,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Herberger's North Platte,1885,,,North Platte,NE,69101,United States,(308) 534-3910,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Herberger's Norfolk,1881,,,Norfolk,NE,68701-4540,United States,(402) 371-7323,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-20:00; Su 11:00-18:00,,0
+Younkers Lincoln,1979,,,Lincoln,NE,68505,United States,(402) 467-0300,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Herberger's Kearney,1887,,,Kearney,NE,68847,United States,(308) 338-3000,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-19:00,,0
+Herberger's Alexandria,1845,,,Alexandria,MN,56308,United States,(320) 763-5105,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-19:00; Su 11:00-18:00,,0
+Herberger's Albert Lea,1851,,,Albert Lea,MN,56007,United States,(507) 373-2381,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 12:00-18:00,,0
+Herberger's Hastings,1883,,,Hastings,NE,68901,United States,(402) 462-2168,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 12:00-18:00,,0
+Younkers Grand Island,1985,,,Grand Island,NE,68803,United States,(308) 384-4000,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Bon-Ton York,1641,,,York,PA,17403,United States,(717) 845-3521,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton York,1615,,,York,PA,17402,United States,(717) 757-6274,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Trexlertown,1705,,,Trexlertown,PA,18087,United States,(610) 398-5540,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Wilkes-Barre,1657,,,Wilkes-Barre,PA,18702,United States,(570) 825-8511,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Warren,1623,,,Warren,PA,16365,United States,(814) 723-8500,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Uniontown,1617,,,Uniontown,PA,15401,United States,(724) 439-2597,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Washington,1653,,,Washington,PA,15301,United States,(724) 228-1400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Stroudsburg,1707,,,Stroudsburg,PA,18360,United States,(570) 424-7800,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton State College,1691,,,State College,PA,16801,United States,(814) 237-6211,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Selinsgrove,1619,,,Selinsgrove,PA,17870,United States,(570) 374-2255,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Lewistown,1601,,,Lewistown,PA,17044,United States,(717) 248-7858,,,Mo 10:00-18:00; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 09:00-21:00; Sa 09:00-18:00; Su 12:00-17:00,,0
+Bon-Ton Quakertown,1699,,,Quakertown,PA,18951,United States,(215) 538-4300,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Johnstown,1665,,,Johnstown,PA,15904,United States,(814) 266-8774,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-17:00,,0
+Bon-Ton Pennsdale,1637,,,Pennsdale,PA,17756,United States,(570) 546-6370,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Indiana,1621,,,Indiana,PA,15701,United States,(724) 349-8960,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Furniture Gallery Lancaster,1607,,,Lancaster,PA,17601,United States,(717) 394-5736,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-20:00; Su 12:00-18:00,,0
+Bon-Ton Lancaster,1609,,,Lancaster,PA,17601,United States,(717) 393-9494,,,Mo 10:00-21:30; Tu 10:00-21:30; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Hanover,1597,,,Hanover,PA,17331,United States,(717) 632-7791,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Harrisburg,1645,,,Harrisburg,PA,17109,United States,(717) 652-7500,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Erie,1763,,,Erie,PA,16565,United States,(814) 868-5216,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Greensburg,1651,,,Greensburg,PA,15601,United States,(724) 832-9000,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton DuBois,1751,,,DuBois,PA,15801,United States,(814) 372-2210,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Bon-Ton Easton,1697,,,Easton,PA,18045,United States,(610) 250-2030,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Doylestown,1703,,,Doylestown,PA,18901,United States,(215) 340-2350,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Cranberry,1627,,,Cranberry,PA,16319,United States,(814) 677-0400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-17:00,,0
+Bon-Ton Chambersburg,1605,,,Chambersburg,PA,17202,United States,(717) 263-8454,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Carlisle,1611,,,Carlisle,PA,17013,United States,(717) 243-1815,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Camp Hill,1643,,,Camp Hill,PA,17011,United States,(717) 761-7500,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Bloomsburg,1639,,,Bloomsburg,PA,17815,United States,(570) 784-7628,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-17:00,,0
+Bon-Ton Allentown,1695,,,Allentown,PA,18103,United States,(610) 791-1700,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Elder-Beerman Toledo,1775,,,Toledo,OH,43606,United States,(419) 531-2451,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Bon-Ton Bethlehem,1693,,,Bethlehem,PA,18017,United States,(610) 865-8250,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Elder-Beerman Wooster,1759,,,Wooster,OH,44691,United States,(330) 345-7001,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Elder-Beerman Piqua,1721,,,Piqua,OH,45356,United States,(937) 778-9400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Elder-Beerman Sandusky,1745,,,Sandusky,OH,44870,United States,(419) 626-1500,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 11:00-18:00,,0
+Elder-Beerman New Philadelphia,1725,,,New Philadelphia,OH,44663,United States,(330) 339-2200,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Elder-Beerman Newark,1731,,,Newark,OH,43056,United States,(740) 522-8591,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Elder-Beerman Lancaster,1729,,,Lancaster,OH,43130,United States,(740) 687-1244,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Elder-Beerman Defiance,1733,,,Defiance,OH,43512,United States,(419) 784-4000,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-17:00,,0
+Elder-Beerman Huber Heights,1717,,,Huber Heights,OH,45424,United States,(937) 236-4600,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Elder-Beerman Marion,1737,,,Marion,OH,43302,United States,(740) 389-6377,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Elder-Beerman Findlay,1769,,,Findlay,OH,45840,United States,(419) 425-5100,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Elder-Beerman Dayton,1727,,,Dayton,OH,45420,United States,(937) 297-0288,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Elder-Beerman Furniture Gallery Dayton,1817,,,Dayton,OH,45459,United States,(937) 436-7600,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-20:00; Su 12:00-18:00,,0
+Elder-Beerman Dayton,1715,,,Dayton,OH,45459,United States,(937) 435-6790,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Elder-Beerman Bowling Green,1771,,,Bowling Green,OH,43402,United States,(419) 352-3196,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-17:00,,0
+Elder-Beerman Chillicothe,1739,,,Chillicothe,OH,45601,United States,(740) 773-4900,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Younkers Sioux Falls,1955,,,Sioux Falls,SD,57106,United States,(605) 361-8282,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Herberger's Rapid City,1869,,,Rapid City,SD,57701,United States,(605) 348-0101,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 11:00-18:00,,0
+Elder-Beerman Beavercreek,1719,,,Beavercreek,OH,45431,United States,(937) 320-1400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Bon-Ton S. Burlington,1635,,,S. Burlington,VT,05403,United States,(802) 863-9700,,,Mo 10:00-21:00; Tu 10:00-21:00; We 09:30-22:00; Th 09:30-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 10:00-18:00,,0
+Elder-Beerman Athens,1723,,,Athens,OH,45701,United States,(740) 593-8080,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Elder-Beerman Alliance,1757,,,Alliance,OH,44601,United States,(330) 829-9835,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Younkers Wausau,1987,,,Wausau,WI,54403,United States,(715) 845-9611,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Herberger's Aberdeen,1897,,,Aberdeen,SD,57401,United States,(605) 226-2202,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 12:00-18:00,,0
+Boston Store Wauwatosa,2053,,,Wauwatosa,WI,53226,United States,(414) 453-7500,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers Superior,2005,,,Superior,WI,54880,United States,(715) 392-7121,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-18:00; Su 11:00-17:00,,0
+Herberger's Rice Lake,1837,,,Rice Lake,WI,54868,United States,(715) 234-7031,,,Mo 10:00-20:00; Tu 10:00-20:00; We 10:00-20:00; Th 10:00-20:00; Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-17:00,,0
+Boston Store Sheboygan Falls,1749,,,Sheboygan Falls,WI,53085,United States,(920) 459-4826,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Boston Store Racine,2045,,,Racine,WI,53406,United States,(262) 553-9655,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers Sturgeon Bay,1969,,,Sturgeon Bay,WI,54235,United States,(920) 743-5533,,,Mo 09:30-19:00; Tu 09:30-19:00; We 09:30-19:00; Th 09:30-19:00; Fr 09:00-19:00; Sa 09:00-19:00; Su 11:00-17:00,,0
+Younkers Plover,1747,,,Plover,WI,54467,United States,(715) 344-6942,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Marinette,2003,,,Marinette,WI,54143,United States,(715) 732-3720,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-19:00; Su 11:00-17:00,,0
+Younkers Marshfield,1981,,,Marshfield,WI,54449,United States,(715) 387-8611,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 11:00-17:00,,0
+Boston Store Milwaukee,2041,,,Milwaukee,WI,53203,United States,(414) 347-4141,,,Mo 10:00-19:00; Tu 10:00-19:00; We 10:00-19:00; Th 10:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00; Su 12:00-17:00,,0
+Boston Store Clearance Center Milwaukee,2123,,,Milwaukee,WI,53221,United States,(414) 282-8079,,,Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 11:00-19:00,,0
+Younkers Manitowoc,1993,,,Manitowoc,WI,54220,United States,(920) 684-0331,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-19:00; Su 12:00-17:00,,0
+Herberger's La Crosse,1849,,,La Crosse,WI,54601,United States,(608) 781-8300,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Boston Store Janesville,2025,,,Janesville,WI,53545,United States,(608) 754-3361,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Boston Store Madison,2055,,,Madison,WI,53719,United States,(608) 833-9799,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Boston Store Madison,2051,,,Madison,WI,53704,United States,(608) 241-2111,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Boston Store Greendale,2049,,,Greendale,WI,53129,United States,(414) 423-0800,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers Fond Du Lac,1989,,,Fond Du Lac,WI,54935,United States,(920) 921-1111,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 10:00-18:00,,0
+Younkers Green Bay,1991,,,Green Bay,WI,54304,United States,(920) 494-3707,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers Furniture Gallery Green Bay,1815,,,Green Bay,WI,54304,United States,(920) 497-0226,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 11:00-18:00,,0
+Boston Store Glendale,2043,,,Glendale,WI,53217,United States,(414) 962-6006,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Boston Store Beaver Dam,1879,,,Beaver Dam,WI,53916,United States,(920) 356-8713,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-19:00; Su 11:00-18:00,,0
+Younkers Eau Claire,1963,,,Eau Claire,WI,54701,United States,(715) 858-8920,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Boston Store Brookfield,2047,,,Brookfield,WI,53005,United States,(262) 782-6888,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Boston Store Furniture Gallery Brookfield,2057,,,Brookfield,WI,53045,United States,(262) 827-8898,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-20:00; Su 11:00-18:00,,0
+Elder-Beerman Beloit,1787,,,Beloit,WI,53511,United States,(608) 363-8888,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Elder-Beerman Vienna,1823,,,Vienna,WV,26105,United States,(304) 422-3551,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Elder-Beerman Morgantown,1761,,,Morgantown,WV,26501,United States,(304) 983-6400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Bon-Ton Martinsburg,1603,,,Martinsburg,WV,25401,United States,(304) 264-0200,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Younkers Appleton,1995,,,Appleton,WI,54913,United States,(920) 997-6500,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 10:00-19:00,,0
+Elder-Beerman Hurricane,1831,,,Hurricane,WV,25526,United States,(304) 757-8727,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Elder-Beerman Charleston,1827,,,Charleston,WV,25304,United States,(304) 925-2186,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Elder-Beerman Bridgeport,1821,,,Bridgeport,WV,26330,United States,(304) 842-7191,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Queensbury,1673,,,Queensbury,NY,12804,United States,(518) 745-7725,,,Mo 09:30-21:00; Tu 09:30-21:00; We 09:30-22:00; Th 09:30-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Olean,1687,,,Olean,NY,14760,United States,(716) 373-3120,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Niagara Falls,1689,,,Niagara Falls,NY,14304,United States,(716) 297-9500,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Newburgh,1661,,,Newburgh,NY,12550,United States,(845) 566-8200,,,Mo 10:00-21:30; Tu 10:00-21:30; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Massena,1711,,,Massena,NY,13662,United States,(315) 764-5006,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Lockport,1685,,,Lockport,NY,14094,United States,(716) 434-6692,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Lakewood,1667,,,Lakewood,NY,14750,United States,(716) 763-5676,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Johnson City,1633,,,Johnson City,NY,13790,United States,(607) 798-7131,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Bon-Ton Ithaca,1663,,,Ithaca,NY,14850,United States,(607) 257-5333,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Camillus,1713,,,Camillus,NY,13031,United States,(315) 484-9124,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Horseheads,1709,,,Horseheads,NY,14845,United States,(607) 796-2005,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bon-Ton Buffalo,1679,,,Buffalo,NY,14223,United States,(716) 877-4020,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Bon-Ton Blasdell,1683,,,Blasdell,NY,14219,United States,(716) 827-4020,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Herberger's Fargo,1909,,,Fargo,ND,58103-2201,United States,(701) 282-4600,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Herberger's Dickinson,1873,,,Dickinson,ND,58601,United States,(701) 227-8784,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-18:00; Su 12:00-17:00,,0
+Herberger's Bismarck,1855,,,Bismarck,ND,58504,United States,(701) 223-4665,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 12:00-18:00,,0
+Bon-Ton LaVale,1613,,,LaVale,MD,21502,United States,(301) 729-1602,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Bon-Ton Hagerstown,1599,,,Hagerstown,MD,21740,United States,(301) 582-3900,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Muncie,1809,,,Muncie,IN,47303,United States,(765) 286-5040,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Carson's Michigan City,2089,,,Michigan City,IN,46360,United States,(219) 879-6511,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Elder-Beerman Richmond,1741,,,Richmond,IN,47374,United States,(765) 966-7641,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-17:30,,0
+Carson's Warsaw,1765,,,Warsaw,IN,46580,United States,(574) 371-2550,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Carson's Terre Haute,1803,,,Terre Haute,IN,47802,United States,(812) 235-0000,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Merrillville,2079,,,Merrillville,IN,46410,United States,(219) 738-2600,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Marion,1791,,,Marion,IN,46952,United States,(765) 662-0001,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Carson's Indianapolis,2111,,,Indianapolis,IN,46204,United States,(317) 971-6200,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Carson's Kokomo,1811,,,Kokomo,IN,46902,United States,(765) 459-0180,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Carson's Jasper,1801,,,Jasper,IN,47546,United States,(812) 481-1585,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Herberger's Grand Junction,1899,,,Grand Junction,CO,81505,United States,(970) 245-0900,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 11:00-18:00,,0
+Carson's Hammond,2063,,,Hammond,IN,46320,United States,(219) 844-2525,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-19:00; Su 11:00-18:00,,0
+Carson's Fort Wayne,1819,,,Fort Wayne,IN,46805,United States,(260) 471-3661,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Columbus,1807,,,Columbus,IN,47201,United States,(812) 372-1700,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Carson's Elkhart,1813,,,Elkhart,IN,46517,United States,(574) 875-8571,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Elder-Beerman Paducah,1805,,,Paducah,KY,42001,United States,(270) 444-0211,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Herberger's Chubbuck,1861,,,Chubbuck,ID,83202,United States,(208) 237-1759,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-17:00,,0
+Elder-Beerman Frankfort,1767,,,Frankfort,KY,40601,United States,(502) 875-0723,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Elder-Beerman Ashland,1825,,,Ashland,KY,41102,United States,(606) 928-6400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Younkers West Des Moines,1965,,,West Des Moines,IA,50266,United States,(515) 223-2400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers West Des Moines,1943,,,West Des Moines,IA,50266,United States,(515) 457-7635,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers West Burlington,1961,,,West Burlington,IA,52655,United States,(319) 753-5491,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Younkers Waterloo,1933,,,Waterloo,IA,50702,United States,(319) 234-8848,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Herberger's Ottumwa,1865,,,Ottumwa,IA,52501-9996,United States,(641) 682-3262,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Younkers Muscatine,1793,,,Muscatine,IA,52761,United States,(563) 264-0744,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 12:00-18:00,,0
+Younkers Sioux City,1959,,,Sioux City,IA,51106,United States,(712) 276-3522,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Mason City,1923,,,Mason City,IA,50401,United States,(641) 421-2020,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00; Su 12:00-18:00,,0
+Younkers Marshalltown,1927,,,Marshalltown,IA,50158,United States,(641) 753-2950,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-20:00; Su 12:00-18:00,,0
+Younkers Dubuque,1945,,,Dubuque,IA,52002,United States,(563) 584-2940,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Coralville,1939,,,Coralville,IA,52241,United States,(319) 625-5100,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers Davenport,1949,,,Davenport,IA,52806,United States,(563) 388-3800,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Cedar Rapids,1957,,,Cedar Rapids,IA,52404,United States,(319) 396-2211,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Cedar Rapids,1941,,,Cedar Rapids,IA,52402,United States,(319) 294-6140,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Ames,1921,,,Ames,IA,50010,United States,(515) 663-4300,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Carson's Furniture Gallery Wilmette,2085,,,Wilmette,IL,60091,United States,(847) 853-8092,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-20:00; Su 11:00-18:00,,0
+Carson's Wilmette,2065,,,Wilmette,IL,60091,United States,(847) 251-8400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Furniture Gallery Vernon Hills,2101,,,Vernon Hills,IL,60061,United States,(847) 367-5851,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-20:00; Su 11:00-18:00,,0
+Carson's Vernon Hills,2091,,,Vernon Hills,IL,60061,United States,(847) 816-8010,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Bergner's Sterling,2027,,,Sterling,IL,61081,United States,(815) 626-5600,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Furniture Gallery Schaumburg,2087,,,Schaumburg,IL,60173,United States,(847) 882-2447,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-20:00; Su 11:00-18:00,,0
+Carson's Schaumburg,2107,,,Schaumburg,IL,60173,United States,(847) 240-2801,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Saint Charles,2099,,,Saint Charles,IL,60174,United States,(630) 513-7171,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers Cedar Falls,1931,,,Cedar Falls,IA,50613,United States,(319) 268-6880,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Bergner's Springfield,2039,,,Springfield,IL,62704,United States,(217) 793-2010,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Bergner's Rockford,2029,,,Rockford,IL,61112,United States,(815) 332-5502,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Bergner's Quincy,2021,,,Quincy,IL,62301,United States,(217) 224-8300,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Fort Dodge,1925,,,Fort Dodge,IA,50501,United States,(515) 574-4200,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-18:00,,0
+Bergner's Pekin,2013,,,Pekin,IL,61554,United States,(309) 347-5561,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Younkers Des Moines,1937,,,Des Moines,IA,50310-0579,United States,(515) 331-4800,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Younkers Des Moines,1953,,,Des Moines,IA,50315,United States,(515) 256-3800,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bergner's Peru,2011,,,Peru,IL,61354,United States,(815) 224-2020,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bergner's Peoria,2019,,,Peoria,IL,61614,United States,(309) 681-8400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bergner's Peoria,2109,,,Peoria,IL,61615,United States,(309) 692-4024,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Orland Park,2081,,,Orland Park,IL,60462,United States,(708) 349-1900,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Furniture Gallery Orland Park,2105,,,Orland Park,IL,60462,United States,(708) 873-3256,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-20:00; Su 11:00-18:00,,0
+Carson's North Riverside,2077,,,North Riverside,IL,60546,United States,(708) 442-6200,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Norridge,2073,,,Norridge,IL,60706,United States,(708) 453-1053,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Mount Prospect,2037,,,Mount Prospect,IL,60056,United States,(847) 392-2000,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Furniture Clearance Center Naperville,2119,,,Naperville,IL,60540,United States,(630) 305-0194,,,We 11:00-20:00; Th 11:00-20:00; Fr 11:00-20:00; Sa 10:00-18:00; Su 11:00-17:00,,0
+Carson's Clearance Center Morton Grove,2125,,,Morton Grove,IL,60053,United States,(847) 965-2605,,,Mo 09:30-21:30; Tu 09:30-21:30; We 09:30-21:30; Th 09:30-21:30; Fr 09:30-21:30; Sa 09:30-21:30; Su 11:00-20:00,,0
+Younkers Moline,1951,,,Moline,IL,61265,United States,(309) 736-3390,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Mattoon,1797,,,Mattoon,IL,61938,United States,(217) 258-6961,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-17:00,,0
+Carson's Furniture Gallery Lombard,2083,,,Lombard,IL,60148,United States,(630) 268-0415,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-20:00; Su 11:00-18:00,,0
+Carson's Lombard,2061,,,Lombard,IL,60148,United States,(630) 620-2600,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Matteson,2075,,,Matteson,IL,60443,United States,(708) 747-5400,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Joliet,2033,,,Joliet,IL,60431,United States,(815) 439-2000,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Bergner's Galesburg,2017,,,Galesburg,IL,61401,United States,(309) 344-2211,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Bergner's Forsyth,2023,,,Forsyth,IL,62535,United States,(217) 875-2800,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Evergreen Park,2059,,,Evergreen Park,IL,60805,United States,(708) 636-1000,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Lincolnwood,2095,,,Lincolnwood,IL,60712,United States,(847) 982-0600,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's DeKalb,1789,,,DeKalb,IL,60115,United States,(815) 756-3336,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Chicago Ridge,2071,,,Chicago Ridge,IL,60415,United States,(708) 425-5115,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Dundee,2035,,,Dundee,IL,60118,United States,(847) 426-9100,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Danville,1799,,,Danville,IL,61832,United States,(217) 443-3701,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-17:00,,0
+Carson's Chicago,2069,,,Chicago,IL,60606,United States,(312) 744-5380,,,Mo 07:00-19:00; Tu 07:00-19:00; We 07:00-19:00; Th 07:00-19:00; Fr 07:00-19:00; Sa 09:00-17:00,,0
+Carson's Chicago,2093,,,Chicago,IL,60652,United States,(773) 581-5555,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Bergner's Bloomington,2009,,,Bloomington,IL,61701,United States,(309) 662-8511,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Bergner's Champaign,2015,,,Champaign,IL,61820,United States,(217) 351-3500,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Bourbonnais,2097,,,Bourbonnais,IL,60914,United States,(815) 937-0800,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Bloomingdale,2067,,,Bloomingdale,IL,60108,United States,(630) 351-8980,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Bon-Ton Portland,1675,,,Portland,ME,04106,United States,(207) 541-0998,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-18:00,,0
+Carson's Clearance Center Aurora,2121,,,Aurora,IL,60506,United States,(630) 892-2600,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00,,0
+Carson's Aurora,2103,,,Aurora,IL,60505,United States,(630) 978-8907,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 11:00-19:00,,0
+Carson's Anderson,1795,,,Anderson,IN,46016,United States,(765) 644-0954,,,Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-22:00; Th 10:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 12:00-17:00,,0

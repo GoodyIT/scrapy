@@ -1,0 +1,249 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,other_fields,coming_soon
+Downtown Toyota,42185,677 Queen St E,,Toronto,ON,M4M 1G6,Canada,{u'$': u'4164655471'},43.658390,-79.351038,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Gareau Toyota,53168,"1080, 3E AVE. E",,Val d'Or,QC,J9P 0J6,Canada,{u'$': u'8198259000'},48.099650,-77.747154,Monday 9:00am - 6:00pm; Thursday 9:00am - 9:00pm; Saturday 10:00am - 2:00pm; ,,0
+Toyota Duval,53167,1175 rue Ampère,,Boucherville,QC,J4B 7M6,Canada,{u'$': u'4506552350'},45.574409,-73.444320,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Amos Toyota,53164,1151 Route 111 Est,,Amos,QC,J9T 1N2,Canada,{u'$': u'8197327000'},48.559850,-78.098203,Monday 8:00am - 5:00pm; Tuesday 8:00am - 12:00pm; ,,0
+Gaspé Toyota,53162,400 boul. York S,,Gaspé,QC,G4X 2L6,Canada,{u'$': u'4183681575'},48.798581,-64.479831,Monday 8:00am - 5:00pm; Saturday 9:00am - 3:00pm; ,,0
+Baywest Toyota,42189,Sunset Strip,,Owen Sound,ON,N4K 6K6,Canada,{u'$': u'5193712981'},44.557197,-80.974426,Monday 8:00am - 5:00pm; Tuesday 8:00am - 5:30pm; Friday 8:00am - 5:00pm; Saturday 9:00am - 4:00pm; ,,0
+Park Avenue Toyota,53160,8855 Boul Taschereau,,Brossard,QC,J4Y 1A4,Canada,{u'$': u'8884502411'},45.440259,-73.471764,Monday 9:00am - 9:00pm; Saturday 10:00am - 4:00pm; ,,0
+Alma Toyota,53161,630 Ave Dupont S,,Alma,QC,G8B 2V4,Canada,{u'$': u'4186680195'},48.540549,-71.646079,Monday 8:00am - 9:00pm; Friday 8:00am - 5:00pm; ,,0
+Ste-Foy Toyota,53088,2777 boul. Versant Nord,,Québec,QC,G1V 1A4,Canada,{u'$': u'4186581340'},46.783799,-71.307747,Monday 9:00am - 9:00pm; ,,0
+High River Toyota,14079,901-11th Ave SE,,High River,AB,T1V 1P2,Canada,{u'$': u'4036521365'},50.572281,-113.853418,Monday 8:30am - 8:00pm; Friday 8:30am - 5:00pm; ,,0
+Charlesglen Toyota,14067,7687 110 Ave NW,,Calgary,AB,T3R 1R8,Canada,{u'$': u'4032410888'},51.153056,-114.192519,Monday 8:30am - 9:00pm; Friday 8:30am - 6:00pm; ,,0
+Parkcity Toyota,14075,1400 Strachan Rd. SE,,Medicine Hat,AB,T1B 4V2,Canada,{u'$': u'4035266228'},50.002916,-110.663391,Monday 8:00am - 7:00pm; Friday 8:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Castlegar Toyota,01133,1530 Columbia Avenue,,Castlegar,BC,V1N 1H9,Canada,{u'$': u'2503657241'},49.304980,-117.658809,Monday 8:30am - 6:00pm; Saturday 8:30am - 5:30pm; ,,0
+Sean Sargent Toyota,14071,10625 - 117th Ave,,Grande Prairie,AB,T8V 7N6,Canada,{u'$': u'7805323333'},55.185590,-118.814967,Monday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Canyon Creek Toyota,14073,370 Canyon Meadows Dr SE,,Calgary,AB,T2J 7C6,Canada,{u'$': u'4032786066'},50.931408,-114.066279,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Oakville Toyota,42376,2375 Wyecroft Road,,Oakville,ON,L6L 6L4,Canada,{u'$': u'9058428400'},43.412412,-79.732188,Monday 7:30am - 6:00pm; Tuesday 7:30am - 7:00pm; Wednesday 7:30am - 6:00pm; Thursday 7:30am - 7:00pm; Friday 7:30am - 6:00pm; Saturday 7:30am - 4:00pm; ,,0
+Bel-Air Toyota,42168,440 McArthur Ave,,Ottawa,ON,K1K 1G6,Canada,{u'$': u'6137413270'},45.432186,-75.64569,Monday 7:30am - 6:00pm; Saturday 8:00am - 5:00pm; ,,0
+Campbell Toyota,42169,296 Richmond St,,Chatham,ON,N7M 1P6,Canada,{u'$': u'5193524740'},42.395000,-82.191346,Monday 9:00am - 6:00pm; Saturday 9:00am - 3:00pm; ,,0
+Heartland Toyota,01139,106 N. Broadway Avenue,,Williams Lake,BC,V2G 2X7,Canada,{u'$': u'2503924114'},52.132401,-122.129513,Monday 8:00am - 6:00pm; ,,0
+Spinelli Toyota,53010,561 boul St-Joseph,,Lachine,QC,H8S 2K9,Canada,{u'$': u'5146347171'},45.432369,-73.668755,Monday 7:30am - 5:00pm; Friday 7:30am - 4:00pm; Saturday 8:00am - 3:00pm; ,,0
+Roussel Toyota,65022,323 King George Hwy,,Miramichi,NB,E1V 1L2,Canada,{u'$': u'5066221867'},46.987639,-65.577550,Monday 8:00am - 6:00pm; ,,0
+Prince George Toyota,01142,2772 Recplace Drive,,Prince George,BC,V2N 0B2,Canada,{u'$': u'2505647205'},53.893711,-122.769010,Monday 8:30am - 5:00pm; ,,0
+Fredericton Toyota,65020,35 Alison Blvd Highway #7 and Kimble Drive,,Fredericton,NB,E3B 4Z9,Canada,{u'$': u'5064522200'},45.922258,-66.634812,Monday 8:30am - 8:00pm; Friday 8:30am - 6:00pm; Saturday 8:30am - 4:00pm; ,,0
+Saint John Toyota,65021,410 Rothesay Avenue,,Saint John,NB,E2J 2C4,Canada,{u'$': u'5066337070'},45.303139,-66.034170,Monday 7:30am - 5:30pm; Saturday 8:30am - 12:00pm; ,,0
+Déry Toyota,53070,250 RUE MOREAU,,St-Jean,QC,J2W 0E9,Canada,{u'$': u'4503599000'},45.334459,-73.290243,Monday 7:00am - 5:00pm; Friday 7:00am - 3:00pm; ,,0
+Nelson Toyota,01146,2324 Ymir Rd,,Nelson,BC,V1L 5R3,Canada,{u'$': u'2503522235'},49.474633,-117.287575,Monday 8:00am - 5:00pm; ,,0
+Bathurst Toyota,65024,1060 St. Anne Street,,Bathurst,NB,E2A 6X2,Canada,{u'$': u'5065488988'},47.627866,-65.695089,Monday 8:00am - 5:00pm; Thursday 8:00am - 8:00pm; Friday 8:00am - 6:00pm; Saturday 8:00am - 12:00pm; ,,0
+Toyotatown,42076,1065 Wharncliffe Rd S,,London,ON,N6L 1J9,Canada,{u'$': u'5196801800'},42.936768,-81.262521,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Jackson's Toyota,42073,181 Mapleview Dr. W.,,Barrie,ON,L4N 9E8,Canada,{u'$': u'7057260288'},44.330783,-79.700934,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Tony Graham Toyota,42070,1855 Merivale Rd,,Ottawa,ON,K2G 1E3,Canada,{u'$': u'6132251212'},45.336121,-75.723406,Monday 7:00am - 2:00am; Friday 7:00am - 6:00pm; Saturday 8:30am - 4:00pm; ,,0
+Rimouski Toyota,53159,409 avenue Leonidas Sud,,Rimouski,QC,G5L 2T2,Canada,{u'$': u'4187226633'},48.453804,-68.499002,Monday 9:00am - 6:00pm; Tuesday 9:00am - 9:00pm; ,,0
+Cowansville Toyota,53158,165 rue de Salaberry,,Cowansville,QC,J2K 5G9,Canada,{u'$': u'4502638888'},45.192088,-72.760745,Monday 8:00am - 5:00pm; ,,0
+Toyota on the Trail,14105,5210 Calgary Trail NW,,Edmonton,AB,T6H 4J8,Canada,{u'$': u'7807022222'},53.489387,-113.495289,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Toyota City Wetaskiwin,14106,4120 - 56 Street,,Wetaskiwin,AB,T9A 1V3,Canada,{u'$': u'7803522225'},52.963248,-113.390921,Monday 8:30am - 7:00pm; Friday 8:30am - 6:00pm; ,,0
+Rivière-du-Loup Toyota,53153,159A Rue Fraser,,Rivière-du-Loup,QC,G5R 1E1,Canada,{u'$': u'4188623222'},48.389995,-71.121937,Monday 8:00am - 5:00pm; ,,0
+Toyota Drummondville,53152,10 rue Cormier,,Drummondville,QC,J2C 0L4,Canada,{u'$': u'8194771777'},45.897671,-72.528853,Monday 9:00am - 9:00pm; Friday 9:00am - 5:30pm; ,,0
+Toyota Ste-Agathe,53151,2330 Rte 117,,Val David,QC,J0T 2N0,Canada,{u'$': u'8193261044'},46.040025,-74.246944,Monday 7:30am - 5:00pm; Friday 7:30am - 2:30pm; ,,0
+Villa Toyota,53156,"1235, Boul. St-Joseph",,Gatineau,QC,J8Z 3J6,Canada,{u'$': u'8197760077'},45.475507,-75.742960,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Red Deer Toyota,14068,413 Lantern St,,Red Deer County,AB,T4E 0A5,Canada,{u'$': u'4033433736'},52.209664,-113.821942,Monday 8:30am - 8:00pm; Friday 8:30am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Squamish Toyota,01143,39150 Queens Way,,Squamish,BC,V8B 0K8,Canada,{u'$': u'6045678888'},49.722386,-123.154446,Monday 8:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Rainbow Toyota,24018,"PO Box 100, Highway 4 North",,North Battleford,SK,S9A 2X6,Canada,{u'$': u'3064457799'},52.803453,-108.299446,Monday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Angers Toyota,53097,3395 Boul Laframboise,,St-Hyacinthe,QC,J2S 4Z7,Canada,{u'$': u'4507749191'},45.636999,-72.968414,Monday 9:00am - 9:00pm; ,,0
+Estrie Toyota,53094,"6 CH, IRWIN",,Granby,QC,J2G 8E9,Canada,{u'$': u'4503788404'},45.417317,-72.763410,Monday 9:00am - 9:00pm; Friday 9:00am - 5:30pm; ,,0
+Barrhaven Toyota,42367,4123 Strandherd Drive,,Nepean,ON,K2J 6H8,Canada,{u'$': u'6138238088'},45.259695,-75.768670,Monday 6:00am - 9:00pm; Friday 6:00am - 6:00pm; Saturday 7:30am - 4:00pm; ,,0
+Stratford Toyota,42362,925 Erie Street,,Stratford,ON,N5A 6S4,Canada,{u'$': u'5192721077'},43.349107,-81.000114,Monday 7:30am - 5:30pm; Tuesday 7:30am - 8:00pm; Wednesday 7:30am - 5:30pm; Thursday 7:30am - 8:00pm; Friday 7:30am - 5:30pm; Saturday 7:30am - 4:00pm; ,,0
+Wietzes Motors,42051,7080 Dufferin St,,Vaughan,ON,L4K 0A1,Canada,{u'$': u'9057615133'},43.789542,-79.471109,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Stouffville Toyota,42360,1288 Millard Street,,Stouffville,ON,L4A 0W7,Canada,{u'$': u'9056426688'},43.968855,-79.280652,Monday 7:00am - 8:00pm; Friday 7:00am - 6:00pm; Saturday 8:00am - 4:00pm; ,,0
+Terrace Motors Toyota,01019,4912 Highway 16 W,,Terrace,BC,V8G 1L8,Canada,{u'$': u'2506356558'},54.516429,-128.606945,Monday 8:30am - 5:00pm; Wednesday 7:30am - 6:00pm; ,,0
+Regency Toyota (Vancouver),01116,401 Kingsway,,Vancouver,BC,V5T 3K1,Canada,{u'$': u'6048798411'},49.259566,-123.095337,Monday 8:00am - 5:00pm; ,,0
+Tusket Toyota,75025,PO Box 40,,Yarmouth,NS,B5A 4B1,Canada,{u'$': u'9027491700'},43.838287,-66.085520,Monday 8:00am - 5:00pm; ,,0
+Langley Toyotatown,01125,20622 Langley Bypass,,Langley,BC,V3A 6K8,Canada,{u'$': u'6045303156'},49.112643,-122.652331,Monday 9:00am - 8:00pm; Friday 9:00am - 6:00pm; Sunday 11:00am - 4:00pm; ,,0
+Scarborough Toyota,42368,1897 Eglinton Ave E,,Scarborough,ON,M1L 2L6,Canada,{u'$': u'4167511530'},43.725726,-79.294467,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Toyota On the Park,42369,1077 Leslie Street,,Toronto,ON,M3C 2J7,Canada,{u'$': u'4163916770'},43.718136,-79.348265,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Bailey Toyota,42193,1311 Confederation St,,Sarnia,ON,N7S 4M7,Canada,{u'$': u'5193378800'},42.959987,-82.358999,Monday 9:00am - 8:00pm; Friday 9:00am - 5:30pm; Saturday 9:00am - 4:00pm; ,,0
+Penticton Toyota,01094,2405 Skaha Lake Rd,,Penticton,BC,V2A 6E8,Canada,{u'$': u'2504931107'},49.470158,-119.583974,Monday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Nanaimo Toyota,01127,2555 Bowen Rd,,Nanaimo,BC,V9T 3L2,Canada,{u'$': u'2507589103'},49.202259,-124.001652,Monday 8:00am - 7:00pm; Friday 8:00am - 6:00pm; Saturday 9:00am - 6:00pm; ,,0
+Edmundston Toyota,65018,121 Canada Rd,,Edmundston,NB,E3V 1V7,Canada,{u'$': u'5067354741'},47.365615,-68.331442,Monday 8:00am - 5:30pm; Friday 8:00am - 5:00pm; Saturday 9:00am - 12:00pm; ,,0
+Restigouche Toyota,65017,388 Dover St,,Campbellton,NB,E3N 3M7,Canada,{u'$': u'5067535019'},47.993345,-66.691881,Monday 8:30am - 6:00pm; Tuesday 8:30am - 8:00pm; Friday 8:30am - 6:00pm; Saturday 9:00am - 1:00pm; ,,0
+Summerside Toyota,85001,110 Walker Avenue,,Summerside,PE,C1N 6V9,Canada,{u'$': u'9024365800'},46.415639,-63.784557,Monday 8:00am - 6:00pm; Saturday 9:00am - 12:00pm; ,,0
+F. McClure & Sons,65013,55 Ouellette Street,,Grand Falls,NB,E3Z 0A6,Canada,{u'$': u'5064732024'},47.050602,-67.767906,Monday 8:00am - 6:00pm; ,,0
+Ken Shaw Lexus Toyota,42044,2336 St Clair Ave W,,Toronto,ON,M6N 1K8,Canada,{u'$': u'4167661155'},43.670236,-79.479360,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Tri-Town Toyota,42363,998039 Highway 11 N.,,New Liskeard,ON,P0J 1P0,Canada,{u'$': u'7056475959'},47.540907,-79.674395,Monday 8:00am - 5:00pm; ,,0
+Buckingham Toyota,53081,1205 rue Odile Daoust,,Buckingham,QC,J8M 1Y7,Canada,{u'$': u'8199862224'},45.555371,-75.420233,Monday 8:00am - 5:30pm; ,,0
+Moose Jaw Toyota,24021,1743 Main St N,,Moose Jaw,SK,S6J 1L6,Canada,{u'$': u'3066941355'},50.416967,-105.530161,Monday 8:00am - 6:00pm; ,,0
+Dixie Toyota,42354,1600 Toyo Circle,,Mississauga,ON,L4W 0E7,Canada,{u'$': u'9052386000'},43.651062,-79.634606,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Upper James Toyota,42182,999 Upper James St,,Hamilton,ON,L9C 3A6,Canada,{u'$': u'9053879287'},43.222412,-79.883501,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Truro Toyota,75038,310 Prince Place,,Truro,NS,B2N 1C9,Canada,{u'$': u'9028959000'},45.366020,-63.297394,Monday 7:30am - 9:00pm; Saturday 9:00am - 12:00pm; ,,0
+Amherst Toyota,75039,34 Lord Amherst Drive,,Amherst,NS,B4H 4W6,Canada,{u'$': u'9026678348'},45.806563,-64.203022,Monday 8:00am - 5:00pm; ,,0
+Competition Toyota,42052,1206 Oxford St E,,London,ON,N5Y 3M3,Canada,{u'$': u'5194513880'},43.007545,-81.212278,Monday 7:30am - 5:30pm; Thursday 7:30am - 8:00pm; Friday 7:30am - 5:30pm; Saturday 8:00am - 4:00pm; ,,0
+Yorkton Toyota,24022,5 Kelsey Bay,,Yorkton,SK,S3N 4C5,Canada,{u'$': u'3067822233'},51.208940,-102.443068,Monday 8:30am - 5:00pm; Saturday 8:30am - 4:30pm; ,,0
+Tri-Mac Toyota,75034,46 Paint Street Unit 1,,Port Hawkesbury,NS,B9A 3K1,Canada,{u'$': u'9026253040'},45.618056,-61.332338,Monday 8:00am - 6:00pm; Saturday 9:00am - 1:00pm; ,,0
+Markville Toyota,42187,5362 Hwy 7,,Markham,ON,L3P 1B9,Canada,{u'$': u'9052948100'},43.869084,-79.279239,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Kentville Toyota,75036,840 Park St.,,Kentville,NS,B4N 3X9,Canada,{u'$': u'9026786000'},45.070213,-64.548288,Monday 8:00am - 5:00pm; ,,0
+Lloyd MacDonalds Breton Toyota,75037,625 Grand Lake Rd,,Sydney,NS,B1P 6K3,Canada,{u'$': u'9025398930'},46.147305,-60.147253,Monday 8:00am - 5:00pm; ,,0
+Race Motors,42058,2155 Little Britain Rd RR 2,,Lindsay,ON,K9V 4R2,Canada,{u'$': u'7053246771'},44.324292,-78.745077,Monday 8:00am - 6:00pm; Saturday 8:00am - 2:30pm; ,,0
+Sunrise Toyota,01003,30210 Automall Dr,,Abbotsford,BC,V2T 5M1,Canada,{u'$': u'6048572657'},49.0060583,-122.386827,Monday 9:00am - 8:00pm; Friday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Woodstock Toyota,42351,1327 Dundas St,,Woodstock,ON,N4S 7V9,Canada,{u'$': u'5195395090'},43.137320,-80.710645,Monday 9:00am - 8:00pm; Friday 9:00am - 5:00pm; ,,0
+O'Regan's Toyota Dartmouth,75033,"60 Baker Drive, Unit A",,Dartmouth,NS,B2W 6L4,Canada,{u'$': u'9024649550'},44.666689,-63.531115,Monday 8:30am - 9:00pm; Saturday 8:30am - 5:00pm; ,,0
+Alix Toyota,53013,6807 Rue de Lorimier,,Montréal,QC,H2G 2P8,Canada,{u'$': u'5143769191'},45.548358,-73.59952,Monday 8:00am - 5:00pm; ,,0
+Jim Pattison Toyota Northshore,01084,849 Automall Dr.,,North Vancouver,BC,V7P 3R8,Canada,{u'$': u'6049850591'},49.315505,-123.096422,Monday 9:00am - 5:00pm; ,,0
+OpenRoad Toyota - Port Moody,01082,3166 St John's St,,Port Moody,BC,V3H 2C7,Canada,{u'$': u'6044613656'},49.277247,-122.836038,Monday 7:00am - 5:30pm; Saturday 8:00am - 4:30pm; ,,0
+Lévis Toyota,53017,160 route Président-Kennedy,,Lévis,QC,G6V 6E1,Canada,{u'$': u'4188374701'},46.785241,-71.162481,Monday 7:30am - 9:00pm; Tuesday 7:30am - 5:00pm; ,,0
+Frontier Toyota,34031,1486 Regent Ave W,,Winnipeg,MB,R2C 3A8,Canada,{u'$': u'2049446600'},49.894951,-97.047833,Monday 7:00am - 6:00pm; Tuesday 7:00am - 9:00pm; Wednesday 7:00am - 6:00pm; ,,0
+Birchwood Lexus Toyota,34030,70-3965 Portage Ave,,Winnipeg,MB,R3K 2H8,Canada,{u'$': u'2048893700'},49.884406,-97.327638,Monday 7:30am - 5:00pm; Saturday 8:00am - 4:30pm; ,,0
+Burlington Toyota,42322,1249 Guelph Line,,Burlington,ON,L7P 2T1,Canada,{u'$': u'9053350223'},43.358386,-79.811658,Monday 9:00am - 8:00pm; Friday 9:00am - 5:30pm; Saturday 9:00am - 5:00pm; ,,0
+Acadia Toyota,65002,22 Baig Boulevard,,Moncton,NB,E1E 1C8,Canada,{u'$': u'5068578611'},46.074545,-64.815013,Monday 8:00am - 9:00pm; Tuesday 8:00am - 5:00pm; Thursday 8:00am - 9:00pm; Friday 8:00am - 5:00pm; Saturday 8:00am - 12:00pm; ,,0
+Destination Toyota Burnaby,01122,4451 Still Creek Drive,,Burnaby,BC,V5C 6G9,Canada,{u'$': u'6042918122'},49.261771,-123.006645,Monday 7:30am - 6:00pm; ,,0
+Patterson Toyota,65004,56 Scott Street,,Hartford,NB,E7M 0C4,Canada,{u'$': u'5063286695'},46.169860,-67.603227,Monday 8:00am - 6:00pm; ,,0
+Jim Pattison Toyota - Surrey,01088,15389 Guildford Drive,,Surrey,BC,V3R 0H9,Canada,{u'$': u'6044954100'},49.196620,-122.794194,Monday 8:30am - 5:30pm; ,,0
+Campbell River Toyota,01089,2785 N Island Hwy,,Campbell River,BC,V9W 2H4,Canada,{u'$': u'2502879527'},50.045125,-125.268585,Monday 8:30am - 6:00pm; Saturday 8:30am - 5:30pm; ,,0
+Boulevard Toyota,53203,120 rue du Marais,,Québec,QC,G1M 3G2,Canada,{u'$': u'4186836565'},46.832597,-71.270596,Monday 7:00am - 10:00pm; Friday 7:00am - 5:00pm; ,,0
+Mississauga Toyota,42183,2215 Dundas St E,,Mississauga,ON,L4X 2X2,Canada,{u'$': u'9056253420'},43.543736,-79.868992,Monday 8:00am - 6:00pm; Friday 8:00am - 5:30pm; Saturday 8:00am - 5:00pm; ,,0
+Richmond Hill Toyota,42328,11240 Yonge St,,Richmond Hill,ON,L4S 1K9,Canada,{u'$': u'9058891189'},43.900902,-79.445386,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Granville Toyota,01092,8265 Fraser St,,Vancouver,BC,V5X 3X9,Canada,{u'$': u'6042632711'},49.210298,-123.091164,Monday 8:00am - 6:00pm; Saturday 9:00am - 4:00pm; ,,0
+St-Basile Toyota,53196,141 boul. Sir WIlfrid Laurier,,St-Basile-Le-Grand,QC,J3N 1M2,Canada,{u'$': u'4506531003'},45.531555,-73.280529,Monday 8:00am - 5:00pm; Friday 8:00am - 4:00pm; ,,0
+Toyota Magog,53170,2500 rue Sherbrooke,,Magog,QC,J1X 4E8,Canada,{u'$': u'8198439883'},45.287074,-72.115052,Monday 7:30am - 9:00pm; Thursday 7:30am - 5:00pm; Saturday 8:00am - 12:00pm; ,,0
+Rocoto Toyota,53009,1540 Boul du Royaume Ouest,,Chicoutimi,QC,G7H 5B1,Canada,{u'$': u'4185495574'},48.390009,-71.121138,Monday 8:00am - 9:00pm; Friday 8:00am - 5:00pm; ,,0
+George Jackson Toyota,42327,"159 Garden of Eden Road, RR#5",,Renfrew,ON,K7V 3Z8,Canada,{u'$': u'6134323748'},45.500656,-76.674910,Monday 7:30am - 6:30pm; Friday 7:30am - 5:00pm; Saturday 8:00am - 5:00pm; ,,0
+Bolton Toyota,42350,12050 Albion-Vaughan Rd,,Bolton,ON,L7E 1S7,Canada,{u'$': u'9058574100'},43.849565,-79.695373,Monday 7:30am - 6:00pm; Thursday 7:30am - 8:00pm; Friday 8:00am - 7:30pm; Saturday 9:00am - 3:00pm; ,,0
+Mauricie Toyota,53006,8823 boul des Hêtres,,Shawinigan,QC,G9N 4X3,Canada,{u'$': u'8195398393'},46.589297,-72.711896,Monday 7:30am - 5:00pm; ,,0
+AutoLine Toyota,42324,6030 Thorold Stone Road,,Niagara Falls,ON,L2J 1A2,Canada,{u'$': u'9053561505'},43.114902,-79.095561,Monday 8:00am - 5:00pm; Saturday 8:00am - 1:00pm; ,,0
+Maple Toyota,42348,88 Auto Vaughan Road,,Maple,ON,L6A 4A1,Canada,{u'$': u'9054179100'},43.836334,-79.534626,Monday 7:00am - 8:00pm; Thursday 7:00am - 5:00pm; Saturday 7:00am - 4:00pm; ,,0
+Ancaster Toyota,42349,30 Mason Drive,,Ancaster,ON,L9G 3K9,Canada,{u'$': u'9056489910'},43.196155,-80.023218,Monday 7:30am - 6:00pm; Saturday 7:30am - 2:00pm; ,,0
+Performance Toyota,42022,262 Lake St,,St Catharines,ON,L2N 4H1,Canada,{u'$': u'9059343336'},43.179667,-79.251059,Monday 8:30am - 9:00pm; Friday 8:30am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Toyota on Front,42340,524 Front Street West,,Toronto,ON,M5V 1B8,Canada,{u'$': u'4167037700'},43.641804,-79.398242,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Charlottetown Toyota,85006,1 Superior Crescent,,Charlottetown,PE,C1E 2A1,Canada,{u'$': u'9023683330'},46.274920,-63.143715,Monday 8:00am - 5:00pm; ,,0
+Erin Park Toyota,42342,2411 Motorway Blvd,,Mississauga,ON,L5L 3R2,Canada,{u'$': u'9058287711'},43.529803,-79.676038,Monday 7:30am - 7:00pm; Friday 7:30am - 5:30pm; Saturday 8:00am - 5:00pm; ,,0
+Woodbine Toyota,42343,80 Queens Plate Dr,,Etobicoke,ON,M9W 7K2,Canada,{u'$': u'4167413222'},43.713930,-79.592324,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Clarington Toyota,42345,10 Spicer Square,,Bowmanville,ON,L1C 5M2,Canada,{u'$': u'9056979555'},43.895375,-78.692226,Monday 7:00am - 6:00pm; Saturday 8:00am - 4:00pm; ,,0
+Eastway Toyota,42346,9375 Tecumseh Road E.,,Windsor,ON,N8R 1A1,Canada,{u'$': u'5199791900'},42.313052,-82.924191,Monday 8:00am - 8:00pm; Friday 8:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Kanata Toyota,42347,600 - 2500 Palladium Drive,,Kanata,ON,K2V 1E2,Canada,{u'$': u'6132718200'},45.294825,-75.933059,Monday 6:00am - 9:00pm; Friday 6:00am - 6:00pm; Saturday 8:00am - 4:00pm; ,,0
+Vimont Toyota Laval,53144,"255, Boul. St-Martine E.",,Laval,QC,H7M 1Z1,Canada,{u'$': u'4506682710'},45.583918,-73.702748,Monday 9:00am - 9:00pm; Saturday 10:00am - 3:30pm; ,,0
+Portage Toyota,34021,2633 Saskatchewan Ave W,,Portage La Prairie,MB,R1N 4A5,Canada,{u'$': u'2048577874'},49.975993,-98.341406,Monday 8:00am - 5:30pm; Saturday 9:00am - 5:00pm; ,,0
+Pierre Lefebvre Toyota,53146,331 Boul Poliquin,,Sorel-Tracy,QC,J3P 7W1,Canada,{u'$': u'4507424596'},46.031156,-73.094455,Monday 7:30am - 5:00pm; Wednesday 8:00am - 8:30pm; Thursday 8:00am - 5:00pm; Friday 8:00am - 3:00pm; ,,0
+Attrell Toyota,42130,110 Canam Cres.,,Brampton,ON,L7A 1A9,Canada,{u'$': u'9054517235'},43.701652,-79.793548,Monday 8:00am - 5:00pm; ,,0
+Candiac Toyota,53140,185 boul de l'Industrie,,Candiac,QC,J5R 1J4,Canada,{u'$': u'4506596511'},45.393338,-73.514379,Monday 7:30am - 8:00pm; Thursday 7:30am - 5:30pm; Friday 7:30am - 3:00pm; ,,0
+Toyota St-Eustache,53142,520 Rue Dubois,,St-Eustache,QC,J7P 4W9,Canada,{u'$': u'4504731872'},45.578044,-73.884649,Monday 7:30am - 5:00pm; Friday 7:30am - 2:30pm; ,,0
+Crown Toyota,34027,680 - 1717 Waverley St,,Winnipeg,MB,R3T 6A9,Canada,{u'$': u'2042691572'},49.813087,-97.184267,Monday 8:00am - 6:00pm; Saturday 10:00am - 2:00pm; ,,0
+McPhillips Toyota,34028,2425 McPhillips St,,Winnipeg,MB,R2V 4J7,Canada,{u'$': u'2043387985'},49.957723,-97.143104,Monday 7:30am - 6:00pm; ,,0
+Bayview Toyota,34029,655 Lakeview Dr,,Kenora,ON,P9N 3X8,Canada,{u'$': u'8074683371'},49.764864,-94.521919,Monday 8:00am - 5:30pm; Saturday 9:00am - 3:00pm; ,,0
+Sun Country Toyota,01136,1355 Cariboo Place,,Kamloops,BC,V2C 5Z3,Canada,{u'$': u'2508287966'},50.660473,-120.367434,Monday 7:30am - 5:00pm; Saturday 8:30am - 4:00pm; ,,0
+Peace Arch Toyota,01137,3174 King George Hwy,,Surrey,BC,V4P 1A2,Canada,{u'$': u'6045312916'},49.060523,-122.811111,Monday 9:00am - 8:00pm; Friday 9:00am - 6:00pm; Sunday 11:00am - 5:00pm; ,,0
+Quesnel Toyota,01134,201 Anderson Dr,,Quesnel,BC,V2J 1E9,Canada,{u'$': u'2509923811'},52.973634,-122.509675,Monday 8:00am - 5:30pm; Saturday 9:00am - 5:00pm; ,,0
+Valley Toyota,01135,8750 Young Rd,,Chilliwack,BC,V2P 4P4,Canada,{u'$': u'6047921167'},49.161316,-121.951047,Monday 8:30am - 7:00pm; Friday 8:30am - 6:00pm; ,,0
+Léveillé Toyota,53045,1369 Montée Masson,,Terrebonne,QC,J6W 6A6,Canada,{u'$': u'4504714117'},45.718693,-73.621587,Monday 7:00am - 7:00pm; ,,0
+Toyota St-Jérôme,53044,16500 Montee Guenette,,Mirabel,QC,J7J 2E2,Canada,{u'$': u'4504381255'},45.744200,-73.998223,Monday 7:30am - 5:00pm; Friday 7:30am - 2:30pm; ,,0
+Valleyfield Toyota,53182,2500 Boul. Hébert,,St-Timothee,QC,J6S 1C7,Canada,{u'$': u'4503730850'},45.272883,-74.090732,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Toyota Plaza,95019,73 Kenmount Road PO Box 8396 Stn A,,St. John's,NL,A1B 3P8,Canada,{u'$': u'7097534051'},47.557750,-52.755032,Monday 9:00am - 9:00pm; Friday 9:00am - 5:00pm; ,,0
+Île Perrot Toyota,53183,2100 boul du Traversier,,Pincourt,QC,J7V 0K8,Canada,{u'$': u'5144532510'},45.386017,-73.982454,Monday 7:30am - 5:00pm; Wednesday 7:30am - 7:30pm; Thursday 7:30am - 5:00pm; Friday 7:30am - 12:00pm; ,,0
+Chassé Toyota,53074,819 Rue Rachel E,,Montréal,QC,H2J 2H7,Canada,{u'$': u'5145273411'},45.523849,-73.576388,Monday 7:30am - 5:00pm; Friday 7:30am - 3:00pm; ,,0
+Ens Lexus Toyota,24006,627 Brand Court,,Saskatoon,SK,S7J 5L3,Canada,{u'$': u'3066535611'},52.089079,-106.655952,Monday 9:00am - 6:00pm; Thursday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Jim Pattison Toyota - Downtown,01140,1395 West Broadway,,Vancouver,BC,V6H 1G9,Canada,{u'$': u'6046828881'},49.263767,-123.135744,Monday 8:30am - 9:00pm; Friday 8:30am - 6:00pm; Saturday 9:00am - 6:00pm; Sunday 11:00am - 5:00pm; ,,0
+Festing Toyota,42181,69 Centre St N,,Huntsville,ON,P1H 1T4,Canada,{u'$': u'7057898818'},45.331620,-79.222860,Monday 8:00am - 5:00pm; Saturday 8:00am - 12:00pm; ,,0
+Comox Valley Toyota,01109,445 Crown Isle Blvd.,,Courtenay,BC,V9N 9W1,Canada,{u'$': u'2503386761'},49.713779,-124.960049,Monday 8:30am - 5:30pm; Saturday 8:30am - 5:00pm; ,,0
+Toyota Victoriaville,53131,465 Boul. Bois Francs Nord,,Victoriaville,QC,G6P 1H1,Canada,{u'$': u'8197588000'},46.068355,-71.967481,Monday 7:30am - 6:00pm; ,,0
+Manic Toyota,53188,264 boul Lasalle,,Baie Comeau,QC,G4Z 1S9,Canada,{u'$': u'4182969555'},49.212710,-68.180360,Monday 8:30am - 9:00pm; Friday 8:30am - 6:00pm; ,,0
+Chomedey Toyota Laval,53132,3665 O Boul St-Martin,,Laval,QC,H7T 1A7,Canada,{u'$': u'4506872634'},45.553930,-73.755107,Monday 7:00am - 7:30pm; ,,0
+Milton Toyota,42335,1245 Steeles Ave. East,,Milton,ON,L9T 0K2,Canada,{u'$': u'9058751700'},43.543736,-79.868992,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Spinelli Toyota Pointe-Claire,53138,12 Auto Plaza,,Pointe-Claire,QC,H9R 4W6,Canada,{u'$': u'5146941510'},45.467095,-73.833522,Monday 7:30am - 4:00pm; Thursday 7:30am - 7:00pm; Friday 7:30am - 4:00pm; Saturday 8:00am - 3:00pm; ,,0
+Red Hill Toyota,42127,2333 Barton Street East,,Hamilton,ON,L8E 2W8,Canada,{u'$': u'9055611202'},43.238931,-79.767045,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Don Valley North Toyota,42120,3300 Steeles Ave E,,Markham,ON,L3R 1G9,Canada,{u'$': u'9054750722'},43.815841,-79.341115,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Cambridge Toyota,42318,2400 Eagle St N,,Cambridge,ON,N3H 4R7,Canada,{u'$': u'5196537030'},43.408087,-80.331044,Monday 7:30am - 8:30pm; Friday 7:30am - 4:30pm; Saturday 9:00am - 4:00pm; ,,0
+Belleville Toyota,42333,48 Millennium Parkway,,Belleville,ON,K8N 4Z5,Canada,{u'$': u'6139684538'},44.190326,-77.408645,Monday 8:00am - 5:00pm; Saturday 8:00am - 12:00pm; ,,0
+Georgetown Toyota,42332,312 Guelph Street,,Georgetown,ON,L7G 4B5,Canada,{u'$': u'9058772296'},43.6487958,-79.8932058,Monday 7:30am - 6:00pm; Tuesday 7:30am - 8:00pm; Wednesday 7:30am - 6:00pm; Thursday 7:30am - 8:00pm; Friday 7:30am - 6:00pm; Saturday 8:00am - 4:00pm; ,,0
+Toyota Montréal Nord,53197,6767 Henri Bourassa Est,,Montréal Nord,QC,H1G 2V6,Canada,{u'$': u'5143290909'},45.611864,-73.605313,Monday 7:00am - 5:00pm; Wednesday 7:00am - 8:00pm; Thursday 7:00am - 5:00pm; Friday 7:00am - 3:00pm; ,,0
+Guelph Toyota,42177,635 Woodlawn Rd,,Guelph,ON,N1K 1E9,Canada,{u'$': u'5198373340'},43.541663,-80.310645,Monday 8:00am - 5:00pm; ,,0
+Sept-Îles Toyota,53192,225 boul Laure,,Sept-Îles,QC,G4R 1W8,Canada,{u'$': u'4189625531'},50.206887,-66.367391,Monday 8:00am - 5:00pm; ,,0
+Woodland Toyota,53191,"1009, Ave Woodland",,Verdun,QC,H4H 1V7,Canada,{u'$': u'5147613444'},45.452579,-73.577629,Monday 7:00am - 5:00pm; ,,0
+1000 Islands Toyota,42176,555 Stewart Blvd.,,Brockville,ON,K6V 7H2,Canada,{u'$': u'6133429111'},44.604917,-75.714059,Monday 7:00am - 5:30pm; Thursday 7:00am - 8:00pm; Friday 7:00am - 5:30pm; Saturday 8:00am - 1:00pm; ,,0
+Vandermeer Toyota,42302,959 Division St RR6,,Cobourg,ON,K9A 4J9,Canada,{u'$': u'9053725437'},43.977539,-78.173974,Monday 8:30am - 7:00pm; Friday 8:30am - 6:00pm; Saturday 9:00am - 4:00pm; ,,0
+O'Regan's Toyota Halifax,75040,3575 Kempt Rd,,Halifax,NS,B3K 4X6,Canada,{u'$': u'9024532331'},44.662040,-63.614013,Monday 7:00am - 5:00pm; Saturday 8:00am - 1:00pm; ,,0
+Petawawa Toyota,42175,1406 Pembroke St W,,Pembroke,ON,K8A 7M3,Canada,{u'$': u'6137351717'},45.539329,-77.167458,Monday 7:30am - 6:00pm; Saturday 8:00am - 4:00pm; ,,0
+Toyota Lachute,53198,275 AVENUE BÉTHANY,,Lachute,QC,J8H 2N1,Canada,{u'$': u'4505625235'},45.650406,-74.329159,Monday 7:30am - 5:00pm; Thursday 9:00am - 5:00pm; Friday 7:30am - 2:30pm; ,,0
+Kelowna Toyota,01050,1200 Leathead Rd,,Kelowna,BC,V1X 2K4,Canada,{u'$': u'2504912475'},49.896301,-119.409618,Monday 8:00am - 7:00pm; Saturday 8:00am - 5:30pm; ,,0
+Newmarket Toyota,42334,1171 Davis Dr,,Newmarket,ON,L3Y 8R1,Canada,{u'$': u'9059532890'},44.068209,-79.427269,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Kingston Toyota,42172,1911 Bath Road,,Kingston,ON,K7M 4Y3,Canada,{u'$': u'6133844772'},44.236605,-76.584595,Monday 7:30am - 5:30pm; Friday 7:30am - 5:00pm; Saturday 9:00am - 1:00pm; ,,0
+Jim Pattison Toyota Victoria,01114,3050 Douglas Street,,Victoria,BC,V8T 4N4,Canada,{u'$': u'2503863516'},48.444260,-123.371234,Monday 8:00am - 5:00pm; ,,0
+Jim Pattison Toyota Duncan,01115,6529 TRANS-CANADA HWY,,Duncan,BC,V9L 3W8,Canada,{u'$': u'2507465111'},48.807062,-123.715939,Monday 8:00am - 5:00pm; Saturday 8:30am - 4:30pm; ,,0
+Bill's Toyota Sales,42009,925 Garrison Road,,Fort Erie,ON,L2A 1N6,Canada,{u'$': u'9058717417'},42.904675,-78.949212,Monday 8:00am - 5:30pm; Friday 8:00am - 5:00pm; Saturday 9:00am - 2:00pm; ,,0
+Westminster Toyota,01117,210 - 12th St,,New Westminster,BC,V3M 4H2,Canada,{u'$': u'6045203333'},49.201590,-122.923615,Monday 8:00am - 5:30pm; Saturday 8:00am - 3:00pm; ,,0
+West Coast Toyota,01118,19950 Lougheed Hwy.,,Pitt Meadows,BC,V3Y 2S9,Canada,{u'$': u'6044659146'},49.222280,-122.667879,Monday 8:00am - 5:30pm; Saturday 8:30am - 5:00pm; ,,0
+Brantford Toyota,42006,5 Woodyatt Dr,,Brantford,ON,N3R 7K3,Canada,{u'$': u'5197521039'},43.173695,-80.237446,Monday 8:00am - 5:00pm; Thursday 8:00am - 8:00pm; Friday 8:00am - 5:00pm; Saturday 8:00am - 4:00pm; ,,0
+Frank Dunn Toyota,24011,3601 4th Ave E,,Prince Albert,SK,S6W 1A3,Canada,{u'$': u'3067646437'},53.179753,-105.744068,Monday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Mendes Toyota,42159,1811 Bank St,,Ottawa,ON,K1V 7Z6,Canada,{u'$': u'6135238666'},45.371497,-75.662670,Monday 7:00am - 6:00pm; Saturday 9:00am - 1:00pm; ,,0
+O'Regan's South Shore Toyota,75041,189 North St,,Bridgewater,NS,B4V 2V7,Canada,{u'$': u'9025437168'},44.388687,-64.521504,Monday 8:30am - 6:00pm; Saturday 9:00am - 2:00pm; ,,0
+St-Hubert Toyota,53120,7875 Chemin de Chambly,,Saint-Hubert,QC,J3Y 5K2,Canada,{u'$': u'4504434334'},45.486778,-73.383781,Monday 8:00am - 5:00pm; Friday 8:00am - 4:00pm; ,,0
+Stampede Toyota,14058,2508 - 24 Ave. NE,,Calgary,AB,T1Y 6R8,Canada,{u'$': u'4032912111'},51.074930,-113.995204,Monday 8:30am - 9:00pm; Tuesday 8:30am - 8:00pm; Friday 8:30am - 6:00pm; ,,0
+Joliette Toyota,53126,357 boul Antonio-Barrette,,Joliette,QC,J6E 1G1,Canada,{u'$': u'4507593449'},46.047386,-73.421689,Monday 9:00am - 9:00pm; ,,0
+Russelle Toyota,42082,1400 Lansdowne St W,,Peterborough,ON,K9J 2A2,Canada,{u'$': u'7057424288'},44.279002,-78.359556,Monday 9:00am - 7:00pm; Friday 9:00am - 5:30pm; Saturday 9:00am - 5:00pm; ,,0
+Trois-Rivières Toyota,53124,5110 boul Jean XXIII,,Trois-Rivières,QC,G8Z 4A7,Canada,{u'$': u'8193745323'},46.338433,-72.587754,Monday 7:45am - 5:00pm; ,,0
+Northside Toyota,42329,803 Great Northern Road,,Sault Ste Marie,ON,P6B 4Z7,Canada,{u'$': u'7052566266'},46.550047,-84.320781,Monday 8:00am - 5:00pm; Wednesday 8:00am - 8:00pm; Thursday 8:00am - 5:00pm; Saturday 10:00am - 4:00pm; ,,0
+Yorkdale Toyota,42326,3080 Dufferin Street,,Toronto,ON,M6A 2S6,Canada,{u'$': u'4162431550'},43.714653,-79.448839,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Drayton Valley Toyota,14093,5629 - 56 Street,,Drayton Valley,AB,T7A 0B2,Canada,{u'$': u'7805143868'},53.231459,-114.974325,Monday 8:00am - 5:00pm; Saturday 9:00am - 3:00pm; ,,0
+Forbes Waterloo Toyota,42153,300 Weber Street North,,Waterloo,ON,N2J 3H6,Canada,{u'$': u'5198852000'},43.480749,-80.521486,Monday 8:00am - 5:30pm; Wednesday 8:00am - 8:00pm; Thursday 8:00am - 5:30pm; Saturday 9:00am - 3:00pm; ,,0
+Hawkesbury Toyota,42325,341 Tupper St,,Hawkesbury,ON,K6A 3T6,Canada,{u'$': u'6136326598'},45.605283,-74.582506,Monday 8:00am - 5:00pm; Saturday 8:00am - 12:00pm; ,,0
+Wayne Toyota,42155,787 Central Ave,,Thunder Bay,ON,P7B 5W3,Canada,{u'$': u'8076238842'},48.411282,-89.251455,Monday 9:00am - 7:00pm; Friday 9:00am - 5:00pm; Saturday 10:00am - 4:00pm; ,,0
+Hallmark Toyota,42323,713003 1st Line East,,Mono,ON,L9W 5S9,Canada,{u'$': u'5199419291'},43.927240,-80.063659,Monday 9:00am - 8:00pm; Friday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Laking Toyota,42156,695 Kingsway Blvd,,Sudbury,ON,P3B 2E4,Canada,{u'$': u'7056747534'},46.496869,-80.973363,Monday 8:00am - 5:00pm; Tuesday 8:00am - 8:00pm; Wednesday 8:00am - 5:00pm; ,,0
+Matane Toyota,53180,500 E Ave du Phare,,Matane,QC,G4W 1A7,Canada,{u'$': u'4185621987'},48.853007,-67.513519,Monday 8:00am - 6:00pm; Wednesday 8:00am - 8:00pm; Saturday 9:00am - 1:00pm; ,,0
+Longueuil Toyota,53181,900 rue St-Laurent Ouest,,Longueuil,QC,J4K 1C5,Canada,{u'$': u'4506747474'},45.526757,-73.513020,Monday 9:00am - 9:00pm; ,,0
+Toyota Gatineau,53069,850 boul Maloney Ouest,,Gatineau,QC,J8T 3R6,Canada,{u'$': u'8195680066'},45.479537,-75.685315,Monday 7:30am - 5:00pm; ,,0
+Lagrange Toyota,53034,1740 Route 277,,Lac Etchemin,QC,G0R 1S0,Canada,{u'$': u'4186253651'},46.426717,-70.559054,Monday 8:00am - 5:00pm; ,,0
+Montmagny Toyota,53184,140 boul Tache Ouest,,Montmagny,QC,G5V 3A5,Canada,{u'$': u'4182482323'},46.976701,-70.576234,Monday 8:00am - 5:00pm; ,,0
+Châteauguay Toyota,53185,195 boul St-Jean Baptiste,,Châteauguay,QC,J6K 3B9,Canada,{u'$': u'4506921200'},45.350924,-73.720957,Monday 8:00am - 5:00pm; Friday 8:00am - 2:30pm; ,,0
+Charlesbourg Toyota,53186,16070 boul Henri Bourassa,,Québec,QC,G1G 3Z8,Canada,{u'$': u'4186239843'},46.885312,-71.289060,Monday 8:00am - 9:00pm; Tuesday 7:30am - 9:00pm; Friday 7:30am - 5:00pm; ,,0
+Carrefour 40-640 Toyota,53187,100 CHEMIN DES QUARANTE ARPENTS,,Charlemagne,QC,J5Z 0B5,Canada,{u'$': u'4505813540'},45.730465,-73.495032,Monday 7:00am - 8:00pm; Friday 7:00am - 5:00pm; ,,0
+St-Raymond Toyota,53063,565 Côte Joyeuse,,St-Raymond,QC,G3L 4B2,Canada,{u'$': u'4183376745'},46.876637,-71.833617,Monday 8:00am - 5:00pm; Tuesday 8:00am - 8:00pm; Thursday 8:00am - 5:00pm; Saturday 8:00am - 12:00pm; ,,0
+Toyota Gabriel Centre-Ville,53189,1920 rue Ste-Catherine Ouest,,Montréal,QC,H3H 1M4,Canada,{u'$': u'5149377777'},45.492460,-73.580620,Monday 9:00am - 9:00pm; ,,0
+Toyota Richmond,53067,151 Route 116,,Richmond,QC,J0B 2H0,Canada,{u'$': u'8198265923'},45.674781,-72.116266,Monday 9:00am - 9:00pm; Friday 9:00am - 5:00pm; ,,0
+Toyota Mont-Laurier,53065,330 boul Paquette,,Mont Laurier,QC,J9L 1J9,Canada,{u'$': u'8196233511'},46.548552,-75.501895,Monday 8:00am - 5:00pm; ,,0
+Toyota Baie Des Chaleurs,53064,20 boul Perron,,Caplan,QC,G0C 1H0,Canada,{u'$': u'4183885544'},48.102355,-65.684440,Monday 8:00am - 5:00pm; ,,0
+Toyota Central,95018,333 Memorial Drive,,Clarenville,NL,A5A 1R8,Canada,{u'$': u'7094666011'},48.155329,-53.965702,Monday 8:00am - 4:30pm; ,,0
+Alpine Toyota,14096,1924 Cranbrook St N,,Cranbrook,BC,V1C 3T1,Canada,{u'$': u'2504894010'},49.530298,-115.745547,Monday 8:00am - 5:30pm; Saturday 9:00am - 2:00pm; ,,0
+South Pointe Toyota,14095,11500 - 35 Street SE,,Calgary,AB,T2Z 3W4,Canada,{u'$': u'4035678888'},50.946871,-113.983940,Monday 7:00am - 5:30pm; Saturday 8:30am - 4:00pm; ,,0
+Cochrane Toyota,14094,8 River Heights Drive,,Cochrane,AB,T4C 2C5,Canada,{u'$': u'4039329900'},51.163655,-114.469220,Monday 7:00am - 5:30pm; Saturday 8:00am - 5:00pm; ,,0
+Vernon Toyota,01046,3401 48TH Avenue,,Vernon,BC,V1T 3R5,Canada,{u'$': u'2505450687'},50.282605,-119.276051,Monday 8:00am - 5:00pm; ,,0
+Sherwood Park Toyota,14091,31 Automall Road,,Sherwood Park,AB,T8H 0C7,Canada,{u'$': u'7804102455'},53.546483,-113.329826,Monday 7:00am - 6:00pm; Saturday 8:00am - 4:00pm; ,,0
+Hilltop Toyota,01128,2350 Trans Canada HWY N E,,Salmon Arm,BC,V1E 4P6,Canada,{u'$': u'2508329433'},50.706437,-119.258593,Monday 8:00am - 5:30pm; Saturday 8:00am - 5:00pm; ,,0
+Mic Mac Motors (Yukon),01049,6111 - 6th Ave,,Whitehorse,YT,Y1A 1M8,Canada,{u'$': u'8676677202'},60.718863,-135.059728,Monday 8:00am - 5:30pm; Saturday 10:00am - 4:00pm; ,,0
+Ste-Thérèse Toyota,53077,120 Boul Desjardins E,,Ste-Thérèse,QC,J7E 1C8,Canada,{u'$': u'4504353685'},45.634592,-73.823965,Monday 8:00am - 5:00pm; Friday 8:00am - 2:30pm; ,,0
+Grand Toyota,95015,Trans Canada Hwy,,Grand Falls,NL,A2A 2M4,Canada,{u'$': u'7094894669'},48.943139,-55.661652,Monday 8:00am - 5:00pm; ,,0
+Toyota Northwest Edmonton,14099,14240 - 137th Ave NW,,Edmonton,AB,T5L 5H7,Canada,{u'$': u'7804788300'},53.600371,-113.569947,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; Sunday 11:00am - 4:00pm; ,,0
+Western Toyota,95017,33 Confederation Dr,,Corner Brook,NL,A2H 0A6,Canada,{u'$': u'7096397575'},48.956710,-57.918458,Monday 8:00am - 5:00pm; ,,0
+Heffner Toyota,42133,3121 King St E,,Kitchener,ON,N2A 1B1,Canada,{u'$': u'5197489666'},43.426527,-80.428386,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Gander Toyota,95013,340 JAMES BLVD.,,Gander,NL,A1V 1Y9,Canada,{u'$': u'7092567177'},48.952440,-54.598089,Monday 9:00am - 6:00pm; ,,0
+Whitby Toyota,42319,1025 Dundas St W,,Whitby,ON,L1P 1Z1,Canada,{u'$': u'9056684792'},43.873416,-78.967880,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+North Bay Toyota,42149,640 MCKEOWN AVENUE,,North Bay,ON,P1B 7M2,Canada,{u'$': u'7054749991'},46.332083,-79.478102,Monday 9:00am - 7:00pm; Wednesday 9:00am - 8:00pm; Thursday 9:00am - 7:00pm; Friday 9:00am - 6:00pm; ,,0
+Sherbrooke Toyota,53119,2059 rue King Ouest,,Sherbrooke,QC,J1J 2E9,Canada,{u'$': u'8195636622'},45.398533,-71.923859,Monday 9:00am - 9:00pm; Friday 9:00am - 5:00pm; Saturday 10:00am - 4:00pm; ,,0
+Goderich Toyota,42099,334 Huron Rd,,Goderich,ON,N7A 3A3,Canada,{u'$': u'5195249381'},43.734311,-81.695735,Monday 8:00am - 6:00pm; Saturday 8:00am - 12:00pm; ,,0
+Aurora Toyota,42316,669 Wellington St. East,,Aurora,ON,L4G 0C9,Canada,{u'$': u'9057271948'},44.004042,-79.445359,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Northwest Toyota,42315,2 Maritime Ontario Blvd,,Brampton,ON,L6S 0C2,Canada,{u'$': u'9057913500'},43.746255,-79.694008,Monday 7:30am - 7:00pm; Friday 7:30am - 5:30pm; Saturday 8:00am - 4:00pm; ,,0
+Houle Toyota,53110,12305 rue Sherbrooke Est,,Montréal,QC,H1B 1C8,Canada,{u'$': u'5146405010'},45.647369,-73.513444,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; Saturday 10:00am - 4:00pm; ,,0
+Precision Toyota,34019,404 - 18th St N,,Brandon,MB,R7A 6Z2,Canada,{u'$': u'2047250508'},49.857539,-99.962241,Monday 9:00am - 8:00pm; Friday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Toyota Gabriel St-Laurent,53179,3333 Côte-de-Liesse,,St-Laurent,QC,H4N 3C2,Canada,{u'$': u'5147487777'},45.513441,-73.660153,Monday 9:00am - 9:00pm; ,,0
+Du Beau Toyota,53178,911 Boul Pie XI CP 606,,Thetford Mines,QC,G6G 7V3,Canada,{u'$': u'4183386968'},46.098704,-71.316383,Monday 9:00am - 9:00pm; Friday 9:00am - 5:00pm; ,,0
+Accès Toyota,53175,1355 Ave Larivière.,,Rouyn-Noranda,QC,J9X 6M6,Canada,{u'$': u'8197625000'},48.223742,-78.989701,Monday 7:30am - 5:00pm; ,,0
+Heninger Toyota,14001,3640 MacLeod Trail S.,,Calgary,AB,T2G 2P9,Canada,{u'$': u'4032438000'},51.021534,-114.060226,Monday 8:30am - 9:00pm; Friday 8:30am - 6:00pm; ,,0
+Toyota Cap-à-l'Aigle,53177,65 Rue St-Raphael,,La Malbaie,QC,G5A 2N5,Canada,{u'$': u'4186653947'},47.657533,-70.117508,Monday 8:00am - 5:00pm; ,,0
+St-Léonard Toyota,53176,7665 boul Lacordaire,,St-Léonard,QC,H1S 2A7,Canada,{u'$': u'5142521373'},45.581984,-73.586086,Monday 7:00am - 5:00pm; Friday 7:00am - 2:30pm; ,,0
+St-Georges Toyota,53171,552 87e Rue,,St-Georges,QC,G5Y 7L9,Canada,{u'$': u'4182271330'},46.132925,-70.696288,Monday 8:00am - 5:00pm; ,,0
+Funk's Toyota,34014,57 PTH 12N,,Steinbach,MB,R5G 1T3,Canada,{u'$': u'2043269808'},49.537327,-96.685379,Monday 8:00am - 8:00pm; Wednesday 8:00am - 6:00pm; Saturday 8:00am - 5:00pm; ,,0
+St-Félicien Toyota,53053,766 boul Sacré-Coeur,,St-Félicien,QC,G8K 1S8,Canada,{u'$': u'4186791984'},48.642604,-72.418292,Monday 8:00am - 5:00pm; ,,0
+Noral Motors,14081,10129 MacDonald Ave,,Fort McMurray,AB,T9H 1T2,Canada,{u'$': u'7807435444'},56.728467,-111.386891,Monday 8:00am - 6:00pm; Saturday 9:00am - 1:00pm; ,,0
+Mayfield Toyota,14082,10220 - 170th St,,Edmonton,AB,T5S 1N9,Canada,{u'$': u'7804201111'},53.543510,-113.616711,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Peace Country Toyota,14084,801 118th Ave,,Dawson Creek,BC,V1G 3G9,Canada,{u'$': u'2507826614'},55.742531,-120.225074,Monday 8:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Lethbridge Toyota,14085,3524 2nd Avenue South,,Lethbridge,AB,T1J 4T9,Canada,{u'$': u'4033296888'},49.696306,-112.786836,Monday 8:30am - 7:00pm; Friday 8:30am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+OpenRoad Toyota - Richmond,01078,13251 Smallwood Pl,,Richmond,BC,V6V 1W8,Canada,{u'$': u'6042733766'},49.171547,-123.077448,Monday 7:30am - 6:00pm; Tuesday 7:00am - 6:00pm; Wednesday 7:30am - 6:00pm; ,,0
+Country Hills Toyota,14088,20 Freeport Landing,,Calgary,AB,T3J 5H6,Canada,{u'$': u'4032901111'},51.153257,-114.010395,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Gateway Toyota,14089,2020-103A Street S.W,,Edmonton,AB,T6W 2P6,Canada,{u'$': u'7804393939'},53.416477,-113.498082,Monday 7:30am - 5:30pm; Saturday 8:00am - 4:00pm; ,,0
+Alberni Toyota,01075,2555 Port Alberni Highway,,Port Alberni,BC,V9Y 8P2,Canada,{u'$': u'2507239448'},49.265169,-124.763025,Monday 8:30am - 5:00pm; ,,0
+Taylor Lexus Toyota,24015,655 Broad St,,Regina,SK,S4R 1X5,Canada,{u'$': u'3065698777'},50.467915,-104.605346,Monday 9:00am - 9:00pm; Tuesday 9:00am - 6:00pm; Thursday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Exeter Toyota,42304,70707 London Road,,Exeter,ON,N0M 1S1,Canada,{u'$': u'5192352353'},43.337314,-81.478184,Monday 9:00am - 6:00pm; Friday 9:00am - 5:00pm; Saturday 9:00am - 3:00pm; ,,0
+Simcoe Toyota,42305,150 Queensway E,,Simcoe,ON,N3Y 4K4,Canada,{u'$': u'5194261050'},42.848441,-80.288883,Monday 8:00am - 5:00pm; ,,0
+Collingwood Toyota,42306,10230 Hwy #26 East,,Collingwood,ON,L9Y 0A5,Canada,{u'$': u'7054441414'},44.499941,-80.195150,Monday 7:30am - 5:00pm; Saturday 8:00am - 12:00pm; ,,0
+Pickering Toyota,42301,557 Kingston Rd,,Pickering,ON,L1V 3N7,Canada,{u'$': u'9054209000'},43.814569,-79.120116,Monday 9:00am - 9:00pm; Friday 9:00am - 6:00pm; ,,0
+Anchor Toyota,75003,70 Lawrence Blvd,,Stellarton,NS,B0K 1S0,Canada,{u'$': u'9027524171'},45.574135,-62.665912,Monday 8:00am - 5:00pm; ,,0
+Silverwood Toyota,24020,5103 25th Street,,Lloydminster,AB,T9V 2W7,Canada,{u'$': u'7808088801'},53.258973,-110.008617,Monday 9:00am - 6:00pm; Saturday 9:00am - 5:00pm; ,,0
+Cornwall Toyota,42341,1875 Brookdale Avenue,,Cornwall,ON,K6J 5X7,Canada,{u'$': u'6139321106'},45.039499,-74.761132,Monday 8:00am - 5:00pm; ,,0
+Midland Toyota,42308,806 King St,,Midland,ON,L4R 4K3,Canada,{u'$': u'7055276640'},44.735190,-79.873630,Monday 8:00am - 5:00pm; Saturday 8:00am - 12:00pm; ,,0
+Welland Toyota,42309,894 Niagara St. N.,,Welland,ON,L3C 1M3,Canada,{u'$': u'9057882200'},43.019747,-79.248683,Monday 8:00am - 5:00pm; ,,0
+Sunrise Toyota,42179,"8201 Highway 12 W,",,Orillia,ON,L3V 6H2,Canada,{u'$': u'7053254000'},44.613336,-79.466265,Monday 8:00am - 5:00pm; Saturday 8:00am - 12:00pm; ,,0
+James Toyota,42178,1234 Riverside Dr,,Timmins,ON,P4R 1A4,Canada,{u'$': u'7052677188'},48.473102,-81.372737,Monday 8:30am - 5:00pm; ,,0
+Walkerton Toyota,42186,"PO Box 1178, 131 Kincardine Rd",,Walkerton,ON,N0G 2V0,Canada,{u'$': u'5198813200'},44.114811,-81.150478,Monday 9:00am - 6:00pm; Thursday 9:00am - 8:00pm; Friday 9:00am - 6:00pm; Saturday 9:00am - 4:00pm; ,,0
+Woodbridge Toyota,42069,7685 Martin Grove Rd,,Woodbridge,ON,L4L 1B5,Canada,{u'$': u'9058513993'},43.774470,-79.608146,Monday 8:00am - 5:00pm; Tuesday 8:00am - 8:00pm; Wednesday 8:00am - 5:00pm; Thursday 8:00am - 8:00pm; Friday 8:00am - 5:00pm; Saturday 8:30am - 4:00pm; ,,0
+Orleans Toyota,42356,2035 Mer Bleue Road,,Orleans,ON,K4A 3T9,Canada,{u'$': u'6138303401'},45.453650,-75.501875,Monday 6:30am - 9:00pm; Friday 6:30am - 5:00pm; Saturday 9:00am - 4:00pm; ,,0
+Brimell Toyota,42061,5060 Sheppard Ave E,,Scarborough,ON,M1S 4N3,Canada,{u'$': u'4162922241'},43.794145,-79.241242,Monday 7:30am - 5:30pm; Tuesday 7:30am - 7:30pm; Wednesday 7:30am - 5:30pm; Thursday 7:30am - 7:30pm; Friday 7:30am - 5:30pm; Saturday 8:00am - 5:00pm; ,,0
+Glacier Toyota,01132,3187 Tatlow Rd,,Smithers,BC,V0J 2N0,Canada,{u'$': u'2508479302'},54.770958,-127.140912,Tuesday 8:00am - 5:00pm; ,,0
+Meadowvale Toyota,42359,2950 Argentia Road,,Mississauga,ON,L5N 8C5,Canada,{u'$': u'9058164200'},43.597868,-79.782058,Monday 7:00am - 7:00pm; Friday 7:00am - 6:00pm; Saturday 8:00am - 4:00pm; ,,0

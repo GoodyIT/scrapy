@@ -28,7 +28,10 @@ class avada(scrapy.Spider):
         page_count = response.xpath('.//div[@class="sabai-pagination sabai-btn-group"]/a').extract()
         if len(page_count) > 2:
             for x in range(1,len(page_count)-1):
-                yield scrapy.Request(url=response.url + "/listings?p="+str(x)+"&category=8&zoom=15&is_mile=1&directory_radius=20&view=list&sort=title&__ajax=%23sabai-inline-content-listings%20.sabai-directory-listings-container&_=1496851950292", callback=self.parse_pagination)
+                category = 8
+                if response.url.find('wisconsin') != -1:
+                    category = 15
+                yield scrapy.Request(url=response.url + "/listings?p="+str(x)+"&category="+str(category)+"&zoom=15&is_mile=1&directory_radius=20&view=list&sort=title&__ajax=%23sabai-inline-content-listings%20.sabai-directory-listings-container&_=1496851950292", callback=self.parse_pagination)
         else:
             store_list = response.xpath('.//div[contains(@class,"sabai-entity-bundle-type-directory-listing")]')
             for store in store_list:

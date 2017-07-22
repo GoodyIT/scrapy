@@ -12,8 +12,8 @@ from chainxy.items import ChainItem
 import pdb
 from lxml import html
 
-class _85degrees(scrapy.Spider):
-    name = "_85degrees"
+class Hendrickauto(scrapy.Spider):
+    name = "hendrickauto"
 
     domain = "http://www.85cbakerycafe.com"
     start_urls = ["http://www.85cbakerycafe.com/wp-admin/admin-ajax.php?action=store_search&lat=33.6881056&lng=-117.8339795&max_results=25&radius=50&autoload=1"]

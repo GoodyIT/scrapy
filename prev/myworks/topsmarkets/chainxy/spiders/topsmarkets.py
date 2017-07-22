@@ -7,7 +7,8 @@ from scrapy.http import Request
 from scrapy.selector import HtmlXPathSelector
 from chainxy.items import ChainItem
 
-from geopy.geocoders import Nominatim
+import geocoder
+import pdb
 
 class Topsmarkets(scrapy.Spider):
     name = "topsmarkets"
@@ -16,9 +17,6 @@ class Topsmarkets(scrapy.Spider):
     start_urls = ["http://www.topsmarkets.com/StoreLocator/Store_MapLocation_S.las?State=all"]
     store_link = 'http://www.topsmarkets.com/StoreLocator/Store?L=%s&M=&From=&S='
     store_id = []
-
-    def __init__(self):
-        self.geolocator = Nominatim()
 
     # calculate number of pages
     def parse(self, response):
@@ -33,40 +31,36 @@ class Topsmarkets(scrapy.Spider):
 
     # pare store detail page
     def parse_store_contents(self, response):   
-        store = response.xpath("//div[contains(@class, 'contact_information BasicInfo-BS')]")
-        item = ChainItem()
-        item['store_name'] = response.xpath("//h2/text()")
-        item['store_number'] = response.meta["store_number"]
-        address = store.xpath("//p[contains(@class, 'Address')]/text()").extract()
-        for value in address:
-            if value.strip() != "":
-                item['address'] = value.strip()
-                break
-        
-        item['address2'] = ''
-        
-        item['phone_number'] = store.xpath("//p[contains(@class, 'PhoneNumber')]/text()").extract_first().strip()
-        item['latitude'] = response.meta["lat"]
-        item['longitude'] = response.meta["lng"]
-        location = self.geolocator.reverse("%s, %s" % (str(item['latitude']), str(item['longitude'])))
+    	try:
+			store = response.xpath("//div[contains(@class, 'contact_information BasicInfo-BS')]")
+			item = ChainItem()
+			item['store_name'] = response.xpath("//h2/text()")
+			item['store_number'] = response.meta["store_number"]
+			address = store.xpath("//p[contains(@class, 'Address')]/text()").extract()
+			for value in address:
+				if value.strip() != "":
+					item['address'] = value.strip()
+					break
 
-        try:
-            item['city'] = location.raw["address"]["city"]
+			item['address2'] = ''
+
+			item['phone_number'] = store.xpath("//p[contains(@class, 'PhoneNumber')]/text()").extract_first().strip()
+			item['latitude'] = response.meta["lat"]
+			item['longitude'] = response.meta["lng"]
+			g = geocoder.google([item['latitude'], item['longitude']], method='reverse')
+			item['city'] = g.city
+			item['state'] = g.state
+			item['zip_code'] = g.postal
+			item['country'] = g.country_long
+
+			item['store_hours'] = self.validate(store.xpath(".//dd/text()"))
+
+			item['other_fields'] = ""
+			item['coming_soon'] = "0"
+			yield item
         except:
-            if 'town' in location.raw["address"]:
-                item['city'] = location.raw["address"]["town"]
+	    	pdb.set_trace()
 
-        item['state'] = location.raw["address"]["state"] if "state" in location.raw["address"] else ""
-        item['zip_code'] = location.raw["address"]["postcode"]
-        item['country'] = location.raw["address"]["country_code"].upper()
-        
-        item['store_hours'] = self.validate(store.xpath(".//dd/text()"))
-        
-        #item['store_type'] = info_json["@type"]
-        item['other_fields'] = ""
-        item['coming_soon'] = "0"
-
-        yield item
 
     def validate(self, xpath_obj):
         try:

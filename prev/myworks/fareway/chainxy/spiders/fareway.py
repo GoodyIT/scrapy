@@ -17,7 +17,7 @@ class Fareway(scrapy.Spider):
     store_id = []
 
     def start_requests(self):
-        for x in xrange(1,15):
+        for x in xrange(1,16):
             yield scrapy.Request(url='https://www.fareway.com/stores/page/%s'
                        % x, callback=self.parse_store)
     # calculate number of pages
@@ -40,7 +40,9 @@ class Fareway(scrapy.Spider):
             item['latitude'] = store_info.xpath('.//@data-latitude').extract_first()
             item['longitude'] = store_info.xpath('.//@data-longitude').extract_first()
 
-            item['store_hours'] = "; ".join(store_info.xpath('.//div[@class="card-content"]/div[@class="store-card-info"]/div[@class="store-hours"]/p/text()').extract())
+            hours = store_info.xpath('.//div[@class="card-content"]/div[@class="store-card-info"]/div[@class="store-hours"]//text()').extract() 
+            hours = [tp.strip().replace('\n', '') for tp in hours if tp.strip() != ""]
+            item['store_hours'] = "; ".join(hours)
             item['other_fields'] = ""
             item['coming_soon'] = "0"
                 
